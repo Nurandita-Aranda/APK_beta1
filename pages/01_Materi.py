@@ -337,12 +337,13 @@ FeCl3 = Ferri klorida atau besi (III) klorida
         
         St.writer(
             """
-            **Pemisahan kation golongan I**     
+            **Pemisahan kation golongan I**  
+            """)
       Kation golongan I yaitu Pb2+, Hg2 2+, dan Ag+ . Kation ini membentuk endapan putih ketika bereaksi dengan HCl encer. Endapan yaang terbentuk antara lain; PbCl2, Hg2Cl2, dan AgCl. Berikut reaksi pengendapan kation golongan I oleh asam klorida encer.
 • Ag+ (aq) + Cl(aq) → AgCl(s) (endapan putih)
 • Pb2+ (aq) + 2 Cl(aq) → PbCl2(s) (endapan putih)
 • Hg2 2+ (aq) + 2Cl(aq) → Hg2Cl2(s) (endapan putih)
-            """)
+            
 
          
 
