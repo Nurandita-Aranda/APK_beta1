@@ -323,7 +323,7 @@ FeCl3 = Ferri klorida atau besi (III) klorida
 with tab_3:
     optiontitri = st.selectbox(
             "Pilih materi yang kamu mau",
-            ("--- Pilih Materi ---", "Pengenalan Analisis Titrimetri", "Titrasi Asam Basa", "Titrasi Redoks"))
+            ("--- Pilih Materi ---", "Pengenalan Analisis Titrimetri"))
     if optiontitri == "Pengenalan Analisis Titrimetri":
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Pengenalan Analisis Titrimetri</h2>", unsafe_allow_html=True)
         st.write(
@@ -389,10 +389,7 @@ analit direaksikan dengan suatu pereaksi ,kemudian hasil reaksi di titrasi (anal
 3.	Titrasi balik /titrasi kembali ( _back titration_ ), 
 analit direaksikan dengan pereaksi berlebih. Dan kelebihan pereaksi di titrasi
             """)
-    if optiontitri == "Titrasi Asam Basa":
-        st.markdown("<h2 style='text-align: center; color: raisin black;'>Titrasi Asam Basa</h2>", unsafe_allow_html=True)
-    if optiontitri == "Titrasi Redoks":
-        st.markdown("<h2 style='text-align: center; color: raisin black;'>Titrasi Redoks</h2>", unsafe_allow_html=True)
+
 
         
 #Materi Kimia Organik
