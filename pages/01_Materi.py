@@ -172,7 +172,7 @@ M = n/V
 with tab_2:
     optionanjen = st.selectbox(
             "Pilih materi yang kamu mau",
-            ("--- Pilih Materi ---", "Reaksi Kimia dan Persamaan Reaksi", "Pembuatan Larutan", "Pemisahan Kation Golongan I-V", "Identifikasi Anion"))
+            ("--- Pilih Materi ---", "Reaksi Kimia dan Persamaan Reaksi", "Satuan Konsentrasi", "Pemisahan Kation Golongan I-V", "Identifikasi Zat Dengan Cara Kering"))
     if optionanjen == "Reaksi Kimia dan Persamaan Reaksi":
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Reaksi Kimia dan Persamaan Reaksi</h2>", unsafe_allow_html=True)
         st.write(
@@ -304,8 +304,8 @@ FeCl3 = Ferri klorida atau besi (III) klorida
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/1nNtSU-ZxXD4xd_w0tBYA09KwL6vMIht3/view?usp=sharing)")
         
-    if optionanjen == "Pembuatan Larutan":
-        st.markdown("<h2 style='text-align: center; color: raisin black;'>Pembuatan Larutan</h2>", unsafe_allow_html=True)
+    if optionanjen == "Satuan Konsentrasi":
+        st.markdown("<h2 style='text-align: center; color: raisin black;'>Satuan Konsentrasi</h2>", unsafe_allow_html=True)
     if optionanjen == "Pemisahan Kation Golongan I-V":
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Pemisahan Kation Golongan I-V</h2>", unsafe_allow_html=True)
         st.write(
@@ -316,8 +316,8 @@ FeCl3 = Ferri klorida atau besi (III) klorida
 
      Jadi boleh dikatakan bahwa klasifikasi kation yang paling umum didasarkan atas perbedaan kelarutan dari klorida, sulfida, dan karbonat dari kation tersebut. Kelima golongan Kation dan ciri khas golongan-golongan ini adalah sebagai berikut:
             """)
-    if optionanjen == "Identifikasi Anion":
-        st.markdown("<h2 style='text-align: center; color: raisin black;'>Identifikasi Anion</h2>", unsafe_allow_html=True)
+    if optionanjen == "Identifikasi Zat Dengan Cara Kering":
+        st.markdown("<h2 style='text-align: center; color: raisin black;'>Identifikasi Zat Dengan Cara Kering</h2>", unsafe_allow_html=True)
 
 #Materi Titrimetri
 with tab_3:
