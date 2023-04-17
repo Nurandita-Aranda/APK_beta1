@@ -12,7 +12,7 @@ st.subheader("Tanya apa saja ke Pollo")
 url = 'https://wa.me/message/TULJ2JKFOI4HN1'
 if st.button("Curhat boleh?"):
     webbrowser.open_new_tab(url)
-url1 = 'https://www.streamlit.io/'
+url1 = 'https://www.youtube.com/'
 if st.button("Kayaknya ada yang nge-bug deh, Fayans"):
     webbrowser.open_new_tab(url1)
 
