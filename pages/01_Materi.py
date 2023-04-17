@@ -319,24 +319,22 @@ FeCl3 = Ferri klorida atau besi (III) klorida
         st.image("https://lh3.googleusercontent.com/knukFM1Dh0Rty2iINjc91YuUlRQX4PC14x0WpDHK5EKvB_e-u5Yd5SQPwtetdSEQSoXBxnLLFEUYUwb_BnGGHUgi6tFNxwuA9pfnAEifL45ZdbjAspKAK0OfZCLHxkU4s5tMoYfUvS_Nn9x23XiVKRfZJphdHtY9V8xf7vgjQw3AzbZ1_eEdGEd3x-wdrL4iSTyxycR27-90WaduGX-pRfrZvi0aUuBnojnrKk6n3OV7Erzf6IMsFesWws_j6NBh4X2i9kaKuLUwZX9GmqtOV3s45k3SXQH_8JZTxWNvARrvFSpCeF66lm2b4knzBit26-6bJQZc6rmmYFMfb4c4vFk2_ghdR4UiuXVX8u2bDqGZ1L2LJCHgplx1z12xGjDcsxGEImLMJI1FYvLxXdyGNVTuacXJkG_RlO1jgqJRtwpJdKCqjCFrsrdvQ7AzQ9pJdaSalgaEk3Ts1evfBzKu3CD5ESoDVKakwOzcjTtFpTIFq71gV_9KSJnqYzIWnNhhkxdpwiUabtynzDuQ9pe3f0MpxbvoeYYVICJ0Jgucr5-wQ9sWojLvuPbhkHAV9k63BkKjG8dzGoPvJUNHGnDhaL2sMiQ0_dZprlPuzeQ1bGETMPgHeOSpBrGC_L-BH7MSSxrB4MavmzCvSPxsroX4sle1Kx1Pc4Np4zW7jPqpI8PPf4_CgsOkwCbHcU0alwTRJtHP-LNAIsk0GFaD7oNIXTcilKu6ZcVdlDGQOnLB8vO24HOERcRuOIWBzKJtejP-YI5M_tHwVFS5qxcgUPAWTeA9qQg-EwW6yjKP-16h2UjPt9za8I1nGEfBBtNMZM-8pX3W_lNebCo7rcKkz9IfaoFeqyW8lYi1moDbKaw1HISSUR4nQuoxfPWLGZD3u08D3MxJcW_rn1zRhSheg4_3Flq1G__1-3PvfZl-r4FRVpaHLONUO14mUgl2ciaELkYYtU5GN9AuiTR4_W6MjoM=w1124-h657-s-no?authuser=1")
         st.write(
             """
-        Gambar 1. Bagan Pemisahan Kation (Sumber: Penuntun Praktik Analisis Jenis)
+Gambar 1. Bagan Pemisahan Kation (Sumber: Penuntun Praktik Analisis Jenis)
         
-        1.	Golongan I : Kation grup ini membentuk endapan dengan asam klorida encer. Kation Golongan I yaitu: Ag+, Hg2 2+, Pb2+
-        2.	Golongan II : Kation grup ini adalah kation-kation yang tidak bereaksi dengan asam klorida, namun membentuk endapan dengan asam sulfida dalam suasana asam mineral encer.
-            Gol II A : Cu2+, Cd2+, Bi3+,
-            Gol II B : As3+, As5+, Sb3+, Sb5+, Sn2+, Sn4+
-            Sulfida dari kation dalam golongan IIA tak dapat larut dalam amonium polisufida, sulfida dari kation dalam golongan IIB justru dapat larut.
-        3.	Golongan III : Kation grup ini tidak bereaksi dengan asam klorida encer maupun dengan asam sulfida dalam suasana asam mineral encer. Namun, kation ini membentuk endapan dengan amonium sulfida dalam suasana netral atau amoniakal.
-            Gol III A : Fe2+, Fe3+, Al3+, Cr (III), Cr (VI)
-            Gol III B : Zn2+, Co2+, Ni2+, Mn (II), Mn (IV)
-        4.	Golongan IV : Kation yang termasuk dalam grup ini adalah kation yang tidak bereaksi dengan pereaksi-pereaksi Golongan I, II dan III. Kation-kation ini membentuk endapan dengan amonium karbonat dengan adanya amonium klorida, dalam suasana netral atau sedikit asam.
-            Gol IV : Ba2+, Ca2+, Sr2+
-            Beberapa sistem klasifikasi golongan meniadakan pemakaian amonium klorida disamping amonium karbonat sebagai reagensia golongan; dalam hal ini, magnesium harus juga dimasukkan ke dalam golongan ini. Tetapi, karena dalam pengerjaan analisis yang sistematis, amonium klorida akan terdapat banyak sekali ketika kation-kation golongan keempat hendak diendapkan, adalah lebih logis untuk tidak memasukkan magnesium ke dalam Golongan IV.
-        5.	Golongan V : Kation-kation yang umum, yang tidak bereaksi dengan pereaksi pereaksi golongan I, II, III dan IV merupakan golongan kation yang terakhir, yang meliputi ion-ion magnesium, natrium, kalium, amoium, lilitium dan hidrogen.
-       
-       **Pemisahan kation golongan I**
-       
-           Kation golongan I yaitu Pb2+, Hg2 2+, dan Ag+ . Kation ini membentuk endapan putih ketika bereaksi dengan HCl encer. Endapan yaang terbentuk antara lain; PbCl2, Hg2Cl2, dan AgCl. Berikut reaksi pengendapan kation golongan I oleh asam klorida encer.
+1.	Golongan I : Kation grup ini membentuk endapan dengan asam klorida encer. Kation Golongan I yaitu: Ag+, Hg2 2+, Pb2+
+2.	Golongan II : Kation grup ini adalah kation-kation yang tidak bereaksi dengan asam klorida, namun membentuk endapan dengan asam sulfida dalam suasana asam mineral encer.
+    Gol II A : Cu2+, Cd2+, Bi3+,
+Gol II B : As3+, As5+, Sb3+, Sb5+, Sn2+, Sn4+
+Sulfida dari kation dalam golongan IIA tak dapat larut dalam amonium polisufida, sulfida dari kation dalam golongan IIB justru dapat larut.
+3.	Golongan III : Kation grup ini tidak bereaksi dengan asam klorida encer maupun dengan asam sulfida dalam suasana asam mineral encer. Namun, kation ini membentuk endapan dengan amonium sulfida dalam suasana netral atau amoniakal.
+Gol III A : Fe2+, Fe3+, Al3+, Cr (III), Cr (VI)
+Gol III B : Zn2+, Co2+, Ni2+, Mn (II), Mn (IV)
+4.	Golongan IV : Kation yang termasuk dalam grup ini adalah kation yang tidak bereaksi dengan pereaksi-pereaksi Golongan I, II dan III. Kation-kation ini membentuk endapan dengan amonium karbonat dengan adanya amonium klorida, dalam suasana netral atau sedikit asam.
+Gol IV : Ba2+, Ca2+, Sr2+
+Beberapa sistem klasifikasi golongan meniadakan pemakaian amonium klorida disamping amonium karbonat sebagai reagensia golongan; dalam hal ini, magnesium harus juga dimasukkan ke dalam golongan ini. Tetapi, karena dalam pengerjaan analisis yang sistematis, amonium klorida akan terdapat banyak sekali ketika kation-kation golongan keempat hendak diendapkan, adalah lebih logis untuk tidak memasukkan magnesium ke dalam Golongan IV.
+ 5.	Golongan V : Kation-kation yang umum, yang tidak bereaksi dengan pereaksi pereaksi golongan I, II, III dan IV merupakan golongan kation yang terakhir, yang meliputi ion-ion magnesium, natrium, kalium, amoium, lilitium dan hidrogen.
+**Pemisahan kation golongan I**
+Kation golongan I yaitu Pb2+, Hg2 2+, dan Ag+ . Kation ini membentuk endapan putih ketika bereaksi dengan HCl encer. Endapan yaang terbentuk antara lain; PbCl2, Hg2Cl2, dan AgCl. Berikut reaksi pengendapan kation golongan I oleh asam klorida encer.
 • Ag+ (aq) + Cl(aq) → AgCl(s) (endapan putih)
 • Pb2+ (aq) + 2 Cl(aq) → PbCl2(s) (endapan putih)
 • Hg2 2+ (aq) + 2Cl(aq) → Hg2Cl2(s) (endapan putih)
