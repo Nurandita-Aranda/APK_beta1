@@ -172,19 +172,23 @@ M = n/V
             Konfigurasi Elektron Gas Mulia
             
 A. Teori Lewis
+
 G.N. Lewis dan W. Kossel mengkaitkan kestabilan gas mulia dengan konfigurasi elektron sebagai berikut :
 1. Gas mulia bersifat stabil karena memiliki konfigurasi elektron penuh. Yaitu oktet atau 8 elektron pada kuliat terluar. Kecuali Helium dengan konfigurasi duplet atau 2 elektron pada kulit terluar.
 2. unsur unsur lain dapat mencapai konfigurasi elektron oktet atau duplet dengan membentuk ikatan kimia. 
 
 B. Pembentukan ion positif
+
 Ion positif dapat terbentuk karena suatu atom melepaskan elektron terluarnya sehingga atom tersebut mencapai keadaan stabil yaitu oktet atau duplet. Atom logam yang memiliki valensi rendah (elektron valensi 1,2&3) cenderung melepaskan elektron. Elektron valensi sesuai dengan golongan tabel periodik. Jumlah ion positinf sama dengan jumlah elektron yang dilepaskan.
 Contoh ; Na dengan nomor atom 11 memiliki konfigurasi elektron 1s1 2s1 2p6 3s1
 
 C. Pembentukan Ion Negatif 
+
 Ion negative terbentuk karena suatu atom menangkap elektron sehingga atom tersebut mencapai keadaan stabil yaitu oktet atau duplet. Atom logam yang memiliki valensi tinggi(elektron valensi 4,6,7) cenderung menangkap elektron.
 Contoh : Fluorin dengan nomor atom 9 memiliki konfigurasi elektron 1s2 2s2 2p5
 
 D. Struktur Lewis
+
 Pembentukan ikatan kimia menyangkut pada perubahan konfigurasi elektron, khusunya pada kulit valensi. Oleh karena itu, untuk penyederhanaan, atom atom cukup digambarkan valensinya. Lambang atom yang disertai elektron valensi disebut lambang lewis. Contoh :
 Be dengan nomor atom 4 memiliki konfigurasi elektron yaitu 1s2 2s2. Sehingga Be memiliki
 elektron valensi 2, sehinga rumus lewis : 
@@ -210,18 +214,21 @@ Sifat senyawa ion yaitu :
             """
             Ikatan Kovalen
 1. Proses Pembentukan Ikatan Kovalen Tunggal
+
 Ikatan terjadi karena pemakaian Bersama elektron oleh atom atom yang berikatan. Pasangan elektron yang dipakai Bersama disebut pasangan elektron ikatan dan pasangan elektron valensi yang tidak terlibat dalam pembentukan ikatan kovalen disebut pasangan elektron bebas. Ikatan kovalen umumnya terjadi antara atom atom unsur nonlogam. Senyawa yang hanya mengandung ikatan kovalen disebut senyawa kovalen. Struktur Lewis adalah penggambaran ikatan kovalen yang menggunakan lambang titik lewis dimana Pasangan elektron ikatan dinyatakan dengan garis atau sepasang titik yang diletakkan di antara kedua atom dan Pasangan elektron bebas dinyatakan titik titik pada masing masing atom.
             """)
         st.image("https://photos.google.com/u/2/album/AF1QipMK4HoKNipSDAoodvhXAuspTfcZW_wdLzKAgFzs/photo/AF1QipPudcRnEanr4Dym72C2QeWM16T56R1eswBb-7GY")
         st.write(
             """
 2. Proses Pembentukan Ikatan Kovalen Rangkap 2
+
 Ikatan kovalen rangkap 2 adalah ikatan kovalen yang melibatkan dua pasang elektron bersama. Ikatan kovalen rangkap 2 dinyatakan dengan dua garis. Contohnya :
             """)
         st.image("https://photos.google.com/u/2/album/AF1QipMK4HoKNipSDAoodvhXAuspTfcZW_wdLzKAgFzs/photo/AF1QipNL5I8ePdpntlqOscIFDbOubktWgE8Nn9uR6IsZ")
         st.write(
             """
 3. Proses Pembentukan Ikatan Kovalen Rangkap 3
+
 Ikatan kovalen rangkap 3 adalah ikatan kovalen yang melibatkan dua pasang elektron bersama. Ikatan kovalen rangkap 3 dinyatakan dengan tiga garis. Contohnya :
             """)
         st.image("https://photos.google.com/u/2/album/AF1QipMK4HoKNipSDAoodvhXAuspTfcZW_wdLzKAgFzs/photo/AF1QipPQ7ZkJAD62tIYeTI6UgeRZzMKiF7Wkaq8PzQkB")
@@ -266,6 +273,7 @@ Sifat Senyawa Logam :
 Larutan yang mengandung jumlah zat maksimum yang terkandung pada pelarut pada suhu tersebut disebut latutan jenuh. Sebelum titik tercapai, larutannya disebut larutan tak jenuh. Larutan tak jenuh mengandung zat terlarut lebih sedikit dibandingkan dengan kemampuaanya untuk melarutkan. Sedangkan larutan lewat jenuh, mengandung lebih banyak zat terlarut dibandingkan yang terdapat dilarutan jenuh. Larutan lewat jenuh bukanlah larutan yang sangat stabil. Pada saat,Sebagian zat terlarut akan terpisah dari larutan lewat jenuh sebagai kristal. Proses inilah yang disebut kristalisasi. 
 
 B. Proses Pelarutan Dari Sudut Pandang Molekul.
+
 Gaya tarik menarik memainkan peran penting dalam pembentukan larutan. Bila zat terlarut larut dalam zat pelarut, partikel zat tersebut akan menyebar ke seluruh pelarut. Partikel zat terlarut ini menempati posisi yang biasanya ditempati oleh molekul pelarut. Tiga jenis interaksi :
 1. Interaksi pelarut-pelarut.
 2. Interaksi zat pelarut-zat terlarut.
@@ -279,6 +287,7 @@ Proses pelarutan dibagi menjadi tiga tahap :
 C. Satuan Konsentrasi
 
 1. Jenis Satuan konsentrasi.
+
 Persen berdasar massa
 %zat terlarut = (Massa zat terlarut/massa larutan)x100%	
 Molaritas 
@@ -288,17 +297,21 @@ Molalitas
 m = mol zat terlarut/massa pelarut(kg)
 
 2. Perbandingan Satuan Satuan Konsentrasi
+
 V1 X M1=V2 X M2
 Keterangan : V adalah volume pelarut dan M dapat diganti dengan satuan lain sesuai dengan yang diketahui.
 
 D. Pengaruh Suhu terhadap kelarutan
 
 1. Kelarutan Padatan dan Suhu
+
 Kelarutan zat padatan meningkat dengan meningkatnya suhu.
 2. Kelarutan Gas dan Suhu
+
 Kelarutan gas dalam air biasanya menurun dengan meningkatnya suhu. Dengan meningkatnya suhu, molekul udara yang terlarut mulai’mendidih’dan keluar dari larutan jauh sebelum air itu mendidih
 
 E. Pengaruh Tekanan Terhadap Kelarutan Gas
+
 Hubungan Kelarutan gas dan tekanan ditunjukkan oleh hukum Henry yang menyatakan bahwa kelarutan gas dalam cairan berbanding lurus dengan tekanan gas diatas larutannya. 
 Dengan rumus : c=kP
 Keterangan : 
@@ -307,30 +320,35 @@ P : tekanan
 k : konstanta
 
 F. Sifat Koligatif
+
 Sifat koligatif adalah beberapa sifat penting larutan bergantung pada banyaknya partikel zat terlarut dalam larutan dan tidak bergantung pada jenis partikel zat terlarut.
 1. Penurunan Tekanan Uap
 Hubungan tekanan uap larutan dengan tekanan uap pelarut bergantung pada konsentrasi zat terlarut dalam larutan. Hukum Raoult yang menyatakan bahwa tekanan parsial pelarut dari larutan, Pi adalah tekanan uap pelarut murni, Pio dikalikan dengan fraksi mol pelarut dalam larutan Xi.
 Pi = Xi. Pio
 
 2. Tekanan Titik Didih
+
 Keberadaan zat terlarut yang tidak mudah menguap menurunkan tekanan uap larutan,maka berpengarug pada titik didih. Titik didi adalah suhu pada saat tekanan uap larutan sama 
 dengan tekanan atmosfer luar. Kenaikan titik didih didefinisikan sebagai berikut:
  ΔTd = Td - Tdo
 Dimana Td adalah titik didih larutan, dan Tdo adalah titik didih pelarut murni.
 
 3. Penurunan titik beku 
+
 Penurunan titik beku didefinisikan sebagai berikut:
 ΔTb = Tbo – Tb
 Pembekuan melibatkan transisi dari keadaan tidak teratur ke keadaan terarur. Agar proses itu terjadi, energi harus diambil dari system karena larutan lebih tidak teratur dibandingkan pelarut, maka lebih banyak energi yang diambil untuk menciptakan keteraturan. Jadi, larutan memiliki titik beku lebih rendah dibandingkan pelarut.
 
 4. Tekanan Osmotik
-osmotis adalah Gerakan bersih molekul pelarut melewati membrane semipermeabel dari pelarut murni atau dari larutan encer ke larutan pekat. Telakan osmotik adalah tekanan yang digunakan untuk menghentikan osmosis. 
+
+osmosis adalah Gerakan bersih molekul pelarut melewati membrane semipermeabel dari pelarut murni atau dari larutan encer ke larutan pekat. Telakan osmotik adalah tekanan yang digunakan untuk menghentikan osmosis. 
 Π = MRT
 Keterangan :
 M : Molaritas
 R : Konstanta gas (0,0821 L. atm/K. mol)
 T : Suhu mutlak.
 5. Sifat Koligatif Elektrolit
+
 Sifat koligatif elektrolit memerlukan pendekatan yang sedikit berbeda daripada yang digunakan untuk sifat koligatif nonelektrolit. Karena elektrolit terurai menjadi ion-ion dalam larutan dan dengan demikian satu satuan senyawa elektrolit terpisah menjadi dua atau lebih partikel bila dilarutkan. Persamaan Sifat Koligatif :
 
 Π = iMRT
