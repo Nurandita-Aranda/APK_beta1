@@ -345,6 +345,25 @@ Gambar 1. Bagan Pemisahan Kation (Sumber: Penuntun Praktik Analisis Jenis)
     • Hg2 2+ (aq) + 2Cl(aq) → Hg2Cl2(s) (endapan putih)
     
     """)
+        st.markdown("<h2 style='text-align: center; color: raisin black;'>Pemisahan kation golongan II</h2>", unsafe_allow_html=True)
+        st.write (
+            """
+          Setelah ditambahkan hidrogen sulfida, kemudian saring menghasilkan filtrat dan residu (Golongan III). Filtrat ini mungkin terdiri dari sulfida-sulfida logam logam IIA (HgS, PbS, Bi2S3, CuS) dan sulfida-sulfda logam golongan IIB (As2S3, Sb2S3, Sb2S5, SnS2). Pemisahan golongan IIA dan IIB dilakukan dengan mencuci dengan sulfida yang diendapkan dengan sedikit larutan NH4Cl yang telah dijenuhi H2S.
+          """)
+       st.markdown("<h2 style='text-align: center; color: raisin black;'>Pemisahan kation golongan III</h2>", unsafe_allow_html=True)
+        st.write(
+            """
+          Pemisahan kation-kation golongan IIIdan golongan-golongan lain yaitu dengan menambahkan H2O dan Panaskan, kemudian saring menghasilkan residu dan filtrat (Golongan IV). Endapan yang dihasilkan tersebut ditambahkan sedikit air, NH4Cl serta larutan NH3 dan panaskan hingga mendidih, kemudian saring menghasilkan residu dan filtrat. Residu mungkin mengandung golongan III.A yaitu MnO- , Fe(OH)3, Cr(OH)3, dan Al(OH)3, dan filtrat mungkin mengandung CoS, NiS, MnS, dan ZnS.
+          """)
+        st.markdown("<h2 style='text-align: center; color: raisin black;'>Pemisahan kation golongan IV</h2>", unsafe_allow_html=True)
+        st. write(
+            """
+          Hasil filtrat yang diperoleh dari pemisahan kation golongan III, mungkin mengandung golongan IV dan V. Cara pemishananya dilakukan dengan penambahan reagen natrium heksanitritokobaltat(III) sebanyak 5 mL, kemudian saring menghasilkan residu dan filtrat (mungkin golongan V). Pemisahan Kation Golongan IV dengan Metode Sulfat yaitu residu yang dihasilkan mungkin mengandung BaCO3, SrCO3 dan CaCO3
+          """)
+
+        
+        
+        
         
     if optionanjen == "Identifikasi Zat Dengan Cara Kering":
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Identifikasi Zat Dengan Cara Kering</h2>", unsafe_allow_html=True)
