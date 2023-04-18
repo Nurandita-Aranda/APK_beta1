@@ -165,7 +165,7 @@ M = n/V
         st.write(" ")
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/17M05OfuolzThRbny0_0BwD1OPp8EfEto/view?usp=sharing)")
-     if optionkimdas == "Ikatan Kimia":
+        if optionkimdas == "Ikatan Kimia":
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Ikatan Kimia</h2>", unsafe_allow_html=True)
         st.write(
             """
@@ -186,6 +186,7 @@ Pembentukan ikatan kimia menyangkut pada perubahan konfigurasi elektron, khusuny
 Be dengan nomor atom 4 memiliki konfigurasi elektron yaitu 1s2 2s2. Sehingga Be memiliki
 
 elektron valensi 2, sehinga rumus lewis : 
+             """)
 
                 
                 
