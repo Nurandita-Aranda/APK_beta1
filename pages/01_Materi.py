@@ -341,6 +341,39 @@ Mol = 10/180  = 0,05
    
    % = ((2 × 56 g/mol) )/(160 g/mol × 100) = 70 %
    """)
+        st.markdown("<h2 style='text-align: center; color: raisin black;'>Konsep ekuivalen & Berat Ekuivalen (BE)</h2>", unsafe_allow_html=True)
+        st.write("""
+        
+         grek = g/BE    BE = BM/a
+         
+  BE = berat ekuivalen (g/grek atau mg/mgrek)
+  
+  a = valensi yang nilainya tergantung reaksi
+  
+  **Berat Ekuivalen (BE) Reaksi asam basa**
+  
+        BE asam = (BM asam)/(jumlah H+)          
+        
+        BE Basa = (BM asam)/(jumlah OH-)
+        
+  **Berat Ekuivalen (BE) Reaksi redoks**
+  
+        BE zat = (BM zat)/(Jumlah elektron yang terlibat)
+        
+  **Berat Ekuivalen (BE) Reaksi penggaraman**
+  
+        BE garam = (BM garam)/(Muatan anion×jumlah anion )
+  
+        BE garam = (BM garam)/(Muatan kation×jumlah kation )
+        
+        """)
+
+  
+        
+
+
+        
+        
        
    
 
