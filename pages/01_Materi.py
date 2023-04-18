@@ -310,7 +310,6 @@ FeCl3 = Ferri klorida atau besi (III) klorida
         st.write(
             """
       Gambar 1. Konsep Mol (Sumber : temukanpengertian.com )
-            **Konsep mol**
             
             Mol = g/BM = g/Mr = g/Ar    
             
@@ -326,6 +325,24 @@ Mr glukosa = (6 x 12) + (12 x 1) + (6 x 16) = 180
 Mol = 10/180  = 0,05
 """)
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Hukum proust</h2>", unsafe_allow_html=True)
+        st.write(
+            """
+ Bunyi hukum Proust  “perbandingan massa unsur-unsur penyusun suatu senyawa selalu tetap”
+ """)
+        st.image("https://lh3.googleusercontent.com/Yki-PivXC7_1r-jpieqJWwfrSQpZf5TQcMon-z2Ku5sp8g2qBCIHdXtTv6hOXKQ3FPgW_O80b9ooQpdcXH6753_sEtm5IQFHmILjjTHdu_-0Bn5GS4aMGoCedweRUPCSKGRvbpK4FEt0qgaoVbJYVf90jxtjN66iG7VpDVKxgmmEsWxhQYOKt_1-g-saUBlC1mxGarZAAJuC4qlrzG8CfsX8btvhB1UNm8Or7gUPZLXerzgZ_2MwlUcDYG-E-cLgLIED6DgoXLGNuZ_yBUDRg-EvywWffzWHkaVqVpVpUohxxXi5miIBhl5sd8AQtd3dBJgNoen9lz62QAHRG6_qYVwhzO7hWP00CFo06ZSZxGTi5Gl6CEOhA5EnQDA1PaUbp-1yt--lnDlQU8GKLlYjLvoM2i4tWRc7-ZkI3YkR0GSXmWe2_N6bvJIxW9E6WQwPnnrEeGeMY10zQThR9jAuTHXY6tjo26deEXFC1hsX5eUpLJuoiP67GFBQcbqO-CwkWAfCxQCpTYZdMyzxLTm-xhN3TVVGz2SfFh_5iLb1jVFh3r5LCOEkYvkJeV0UDdEVYSDqoVdxWhBQq1n4hObtwYgjlg18Gv8-5-naO3DeUjpIaTOq4NHly1-GwqdW1SIjXBZFHfZgk2UNg0H2kU7Ole1m8PRWjquAlab0MrMwTMLrteiKwSsBE1aasrEKLuieUk200SmOnY9RH9P2p3i-qsut7cBTnvqbps2_SIQ66JJ5zDuHTDXoXP8F_aPAl3Zexs_15ATlbNnDZ33vBykouJ0-s9vFVQeF51sKCHxf_eD_-31eEuEJKHZ9Wi03P_zCuPscN5sqmJkbZiSjOx_8flRnqZBjkj7zeZlg34fmHmTI_vJ5aSfZExDHG2sXTQYxv8ks3-C04r2uYFlLD7_7Xg2zUi5pTAHA2MfKBQHKalINLlE=w959-h432-s-no?authuser=0")
+        st.write(
+            """
+            
+      Contoh :
+   
+   Berapa % kadar Fe dalam Fe2O3  
+   
+   Jawab :
+   
+   % = ((2 × 56 g/mol) )/(160 g/mol × 100) = 70 %
+   """)
+       
+   
 
 
 
