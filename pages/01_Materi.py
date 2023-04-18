@@ -460,6 +460,7 @@ beberapa senyawa berwarna yang secara umum dijumpai
         st.write(
             """
             Gambar 1. Uji nyala (Sumber: yuninainggolan.wordpress)
+            
 Uji nyala api adalah suatu prosedur analisis yang digunakan dalam ilmukimia untuk mendeteksi keberadaan unsur tertentu, terutama ion logam, berdasarkan karakteristik spektrum emisi masing-masing unsur, ide pengujian ini adalah bahwa atom-atom sampel menguap dan karena panas, mereka mengemisikan sinar ketika berada dalam nyala api.
 Prosedur Kerja:
 Disiapkan kristal NaCl dalam kaca arloji.
