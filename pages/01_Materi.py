@@ -446,6 +446,7 @@ Pengamatan dalam uji kering meliputi
 •	Warna nyala 
 
 **Teknik uji dalam uji reaksi kering yaitu:**
+
 **1.	Sifat fisik** 
 
 Dalam sifat fisik yang perlu diperhatikan:
@@ -495,6 +496,31 @@ Prosedur kerja
 4.  Arang yang telah diisi sampel simpan diatas kassa asbes dan nyalakan api.
 5.  Tiupkan dengan pipa tiup, arahkan pada zat sampai semuanya bereaksi. Ambil sampel yg ada dalam arang dan masukan ke dalam tabung reaksi lalu tambahkan pereaksi tertentu.
 """)
+        st.image("https://lh3.googleusercontent.com/pw/AJFCJaWBEClod3ldjqvtOp4kOw5K8m0qsqIMraHFiyXtXl9JH20sI73vcN4gZhxKedtSePTunuw-s33WCnc2Li0OazHffc9EZ0fkrBO7uGs8GcU4sBm0JTznYQrBmGuq2ym7ByTM2g_qouw6YkejUoyiGgOO=w527-h233-s-no?authuser=0")
+        
+        st.write(
+            """
+**4. Uji Mutiara Boraks**
+""")
+        st.image("https://lh3.googleusercontent.com/pw/AJFCJaXuaz4j1r4kN5PpsK6ZqDwr8ISh0A8bEMZ_zExvZArLzvjiDA-pviCjX6UPjHCrQXS-S7fVH67qpGrDaCcTlzzl0vCPJsbKgTlklOhf-wn6YfWKiySiX6XFaA6IY8X88Etdz8yqDsqS5CyDOmgrhv9T=w739-h415-s-no?authuser=0")
+        st.write(
+            """
+            Gambar 3. Uji Mutiara Boraks (Sumber: davin tiska abriani)
+            
+pengamatan warna nyala sampel pada manik boraks yang dipanasi diatas nyala api oksidasi dan reduksibaik dalam dingin ataupun panas dapat diperoleh warna yang menunjukkan apakah zat itu mengandungkation atau anion. Jika sampel mengandung anion logam maka saat dipanaskan pada nyala api akanmengeluarkan warna nyala mutiara boraks yang spesifik.
+     
+ Prosedur Kerja
+ 
+-	Kawat platina dipijarkan (sampai merah)
+-	Kawat dimasukkan ke dalam boraks (bubuk halus)
+-	Kawat dipanaskan lagi sampai terbentuk butiran tak berwarna dan transpara (tembus cahaya),
+-	Mutiara panas disentuhkan ke zat uji
+-	Dipanaskan dalam api pengoksidasi dan api pereduksi
+""")
+
+
+
+        
 
 
           
