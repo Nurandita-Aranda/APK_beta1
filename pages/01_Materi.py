@@ -317,7 +317,9 @@ Hubungan Kelarutan gas dan tekanan ditunjukkan oleh hukum Henry yang menyatakan 
 Dengan rumus : c=kP
 Keterangan : 
 c : konsentrasi molar(mol per Liter)
+
 P : tekanan
+
 k : konstanta
 
 F. Sifat Koligatif
@@ -345,18 +347,28 @@ Pembekuan melibatkan transisi dari keadaan tidak teratur ke keadaan terarur. Aga
 osmosis adalah Gerakan bersih molekul pelarut melewati membrane semipermeabel dari pelarut murni atau dari larutan encer ke larutan pekat. Telakan osmotik adalah tekanan yang digunakan untuk menghentikan osmosis. 
 Π = MRT
 Keterangan :
+
 M : Molaritas
+
 R : Konstanta gas (0,0821 L. atm/K. mol)
+
 T : Suhu mutlak.
+
 5. Sifat Koligatif Elektrolit
 
 Sifat koligatif elektrolit memerlukan pendekatan yang sedikit berbeda daripada yang digunakan untuk sifat koligatif nonelektrolit. Karena elektrolit terurai menjadi ion-ion dalam larutan dan dengan demikian satu satuan senyawa elektrolit terpisah menjadi dua atau lebih partikel bila dilarutkan. Persamaan Sifat Koligatif :
 
 Π = iMRT
+keterangan :
+
 M : Molaritas
+
 R : Konstanta gas (0,0821 L. atm/K. mol)
+
 T : Suhu mutlak.
+
 i : faktor van’t hoff 
+
 i : jumlah partikel sebenarnya dalam larutan setelah penguraian/jumlah satuan rumus yang semua terlarut dalam larutan
               """)
 
