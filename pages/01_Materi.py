@@ -369,8 +369,7 @@ Mol = 10/180  = 0,05
   
       BE garam = (BM garam)/(Muatan kation×jumlah kation )
         
-        """)
-        st.markdown("<h2 style='text-align: center; color: raisin black;'>Molaritas (M)</h2>", unsafe_allow_html=True 
+        """) 
                       
     if optionanjen == "Pemisahan Kation Golongan I-V":
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Pemisahan Kation Golongan I-V</h2>", unsafe_allow_html=True)
