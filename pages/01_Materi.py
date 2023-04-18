@@ -346,7 +346,7 @@ Mol = 10/180  = 0,05
         
         grek = g/BE
          
-        BE = BM/a
+      BE = BM/a
          
   BE = berat ekuivalen (g/grek atau mg/mgrek)
   
