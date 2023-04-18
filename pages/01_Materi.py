@@ -256,6 +256,92 @@ Sifat Senyawa Logam :
 5. Mempunyai permukaan yang mengkilap.
 6. Memberi efek foto listrik dan Efek Termionik.
              """)
+        
+    If optionkimdas == "Sifat Fisis Larutan":
+        st.markdown("<h2 style='text-align: center; color: raisin black;'>Sifat Fisis Larutan</h2>", unsafe_allow_html=True)
+        st.write(
+            """
+A. Jenis Larutan
+Larutan yang mengandung jumlah zat maksimum yang terkandung pada pelarut pada suhu tersebut disebut latutan jenuh. Sebelum titik tercapai, larutannya disebut larutan tak jenuh. Larutan tak jenuh mengandung zat terlarut lebih sedikit dibandingkan dengan kemampuaanya untuk melarutkan. Sedangkan larutan lewat jenuh, mengandung lebih banyak zat terlarut dibandingkan yang terdapat dilarutan jenuh. Larutan lewat jenuh bukanlah larutan yang sangat stabil. Pada saat,Sebagian zat terlarut akan terpisah dari larutan lewat jenuh sebagai kristal. Proses inilah yang disebut kristalisasi. 
+
+B. Proses Pelarutan Dari Sudut Pandang Molekul.
+Gaya tarik menarik memainkan peran penting dalam pembentukan larutan. Bila zat terlarut larut dalam zat pelarut, partikel zat tersebut akan menyebar ke seluruh pelarut. Partikel zat terlarut ini menempati posisi yang biasanya ditempati oleh molekul pelarut. Tiga jenis interaksi :
+1. Interaksi pelarut-pelarut.
+2. Interaksi zat pelarut-zat terlarut.
+3. Interaksi pelarut-zat terlarut.
+Proses pelarutan dibagi menjadi tiga tahap :
+            """)
+        st.image("https://photos.google.com/u/2/album/AF1QipMK4HoKNipSDAoodvhXAuspTfcZW_wdLzKAgFzs/photo/AF1QipPofJTjGRK6KkFFPNUrmwpt_JTtcW0WllqSdEwl")
+        st.write(
+            """
+            Prose pelarutan dipengaruhi oleh dua faktor. Faktor pertama adalah energi, yang menentukan apakah proses berlangsung eksotermik atau endotermik. Faktor kedua adalah kecenderungan hakiki menuju ketidakteraturan dalam semua kejadian dialam. 
+C. Satuan Konsentrasi
+
+1. Jenis Satuan konsentrasi.
+Persen berdasar massa
+%zat terlarut = (Massa zat terlarut/massa larutan)x100%	
+Molaritas 
+M= mol zat terlarut/liter larutan
+Dengan satuan (mol/L)
+Molalitas
+m = mol zat terlarut/massa pelarut(kg)
+
+2. Perbandingan Satuan Satuan Konsentrasi
+V1 X M1=V2 X M2
+Keterangan : V adalah volume pelarut dan M dapat diganti dengan satuan lain sesuai dengan yang diketahui.
+
+D. Pengaruh Suhu terhadap kelarutan
+
+1. Kelarutan Padatan dan Suhu
+Kelarutan zat padatan meningkat dengan meningkatnya suhu.
+2. Kelarutan Gas dan Suhu
+Kelarutan gas dalam air biasanya menurun dengan meningkatnya suhu. Dengan meningkatnya suhu, molekul udara yang terlarut mulai’mendidih’dan keluar dari larutan jauh sebelum air itu mendidih
+
+E. Pengaruh Tekanan Terhadap Kelarutan Gas
+Hubungan Kelarutan gas dan tekanan ditunjukkan oleh hukum Henry yang menyatakan bahwa kelarutan gas dalam cairan berbanding lurus dengan tekanan gas diatas larutannya. 
+Dengan rumus : c=kP
+Keterangan : 
+c : konsentrasi molar(mol per Liter)
+P : tekanan
+k : konstanta
+
+F. Sifat Koligatif
+Sifat koligatif adalah beberapa sifat penting larutan bergantung pada banyaknya partikel zat terlarut dalam larutan dan tidak bergantung pada jenis partikel zat terlarut.
+1. Penurunan Tekanan Uap
+Hubungan tekanan uap larutan dengan tekanan uap pelarut bergantung pada konsentrasi zat terlarut dalam larutan. Hukum Raoult yang menyatakan bahwa tekanan parsial pelarut dari larutan, Pi adalah tekanan uap pelarut murni, Pio dikalikan dengan fraksi mol pelarut dalam larutan Xi.
+Pi = Xi. Pio
+
+2. Tekanan Titik Didih
+Keberadaan zat terlarut yang tidak mudah menguap menurunkan tekanan uap larutan,maka berpengarug pada titik didih. Titik didi adalah suhu pada saat tekanan uap larutan sama 
+dengan tekanan atmosfer luar. Kenaikan titik didih didefinisikan sebagai berikut:
+ ΔTd = Td - Tdo
+Dimana Td adalah titik didih larutan, dan Tdo adalah titik didih pelarut murni.
+
+3. Penurunan titik beku 
+Penurunan titik beku didefinisikan sebagai berikut:
+ΔTb = Tbo – Tb
+Pembekuan melibatkan transisi dari keadaan tidak teratur ke keadaan terarur. Agar proses itu terjadi, energi harus diambil dari system karena larutan lebih tidak teratur dibandingkan pelarut, maka lebih banyak energi yang diambil untuk menciptakan keteraturan. Jadi, larutan memiliki titik beku lebih rendah dibandingkan pelarut.
+
+4. Tekanan Osmotik
+osmotis adalah Gerakan bersih molekul pelarut melewati membrane semipermeabel dari pelarut murni atau dari larutan encer ke larutan pekat. Telakan osmotik adalah tekanan yang digunakan untuk menghentikan osmosis. 
+Π = MRT
+Keterangan :
+M : Molaritas
+R : Konstanta gas (0,0821 L. atm/K. mol)
+T : Suhu mutlak.
+5. Sifat Koligatif Elektrolit
+Sifat koligatif elektrolit memerlukan pendekatan yang sedikit berbeda daripada yang digunakan untuk sifat koligatif nonelektrolit. Karena elektrolit terurai menjadi ion-ion dalam larutan dan dengan demikian satu satuan senyawa elektrolit terpisah menjadi dua atau lebih partikel bila dilarutkan. Persamaan Sifat Koligatif :
+
+Π = iMRT
+M : Molaritas
+R : Konstanta gas (0,0821 L. atm/K. mol)
+T : Suhu mutlak.
+i : faktor van’t hoff 
+i : jumlah partikel sebenarnya dalam larutan setelah penguraian/jumlah satuan rumus yang semua terlarut dalam larutan
+              """)
+
+
+        
             
 
 
