@@ -314,6 +314,7 @@ FeCl3 = Ferri klorida atau besi (III) klorida
             Mol = g/BM = g/Mr = g/Ar    
             
 g = massa (gram)
+
 BM = berat molekul (g/mol atau mg/mmol)
 
       Contoh:
