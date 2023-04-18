@@ -165,7 +165,19 @@ M = n/V
         st.write(" ")
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/17M05OfuolzThRbny0_0BwD1OPp8EfEto/view?usp=sharing)")
-                
+     if optionkimdas == "Ikatan Kimia":
+        st.markdown("<h2 style='text-align: center; color: raisin black;'>Ikatan Kimia</h2>", unsafe_allow_html=True)
+        st.write(
+            """
+                Konfigurasi Elektron Gas Mulia
+A. Teori Lewis
+G.N. Lewis dan W. Kossel mengkaitkan kestabilan gas mulia dengan konfigurasi elektron sebagai berikut :
+1. Gas mulia bersifat stabil karena memiliki konfigurasi elektron penuh. Yaitu oktet atau 8 elektron pada kuliat terluar. Kecuali Helium dengan konfigurasi duplet atau 2 elektron pada kulit terluar.
+2. unsur unsur lain dapat mencapai konfigurasi elektron oktet atau duplet dengan membentuk ikatan kimia. 
+
+ B. Pembentukan ion positif
+Ion positif dapat terbentuk karena suatu atom melepaskan elektron terluarnya sehingga atom tersebut mencapai keadaan stabil yaitu oktet atau duplet. Atom logam yang memiliki valensi rendah (elektron valensi 1,2&3) cenderung melepaskan elektron. Elektron valensi sesuai dengan golongan tabel periodik. Jumlah ion positinf sama dengan jumlah elektron yang dilepaskan.
+
                 
                 
 #Materi Analisis Jenis            
