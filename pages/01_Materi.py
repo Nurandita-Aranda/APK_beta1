@@ -356,7 +356,7 @@ Mol = 10/180  = 0,05
   
         BE asam = (BM asam)/(jumlah H+)          
         
-    BE Basa = (BM asam)/(jumlah OH-)
+       BE Basa = (BM asam)/(jumlah OH-)
         
   **Berat Ekuivalen (BE) Reaksi redoks**
   
@@ -366,7 +366,7 @@ Mol = 10/180  = 0,05
   
         BE garam = (BM garam)/(Muatan anion×jumlah anion )
   
-    BE garam = (BM garam)/(Muatan kation×jumlah kation )
+       BE garam = (BM garam)/(Muatan kation×jumlah kation )
         
         """)
 
