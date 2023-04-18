@@ -809,7 +809,7 @@ with tab_3:
             "Pilih materi yang kamu mau",
             ("--- Pilih Materi ---", "Pengenalan Analisis Titrimetri"))
     if optiontitri == "Pengenalan Analisis Titrimetri":
-        Pemisahan Anion Golongan I-V
+        st.write(
             """
             **Definisi**
 
