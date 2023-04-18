@@ -344,9 +344,9 @@ Mol = 10/180  = 0,05
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Konsep ekuivalen & Berat Ekuivalen (BE)</h2>", unsafe_allow_html=True)
         st.write("""
         
-         grek = g/BE
+        grek = g/BE
          
-         BE = BM/a
+        BE = BM/a
          
   BE = berat ekuivalen (g/grek atau mg/mgrek)
   
@@ -356,7 +356,7 @@ Mol = 10/180  = 0,05
   
         BE asam = (BM asam)/(jumlah H+)          
         
-       BE Basa = (BM asam)/(jumlah OH-)
+      BE Basa = (BM asam)/(jumlah OH-)
         
   **Berat Ekuivalen (BE) Reaksi redoks**
   
@@ -366,7 +366,7 @@ Mol = 10/180  = 0,05
   
         BE garam = (BM garam)/(Muatan anion×jumlah anion )
   
-       BE garam = (BM garam)/(Muatan kation×jumlah kation )
+      BE garam = (BM garam)/(Muatan kation×jumlah kation )
         
         """)
 
