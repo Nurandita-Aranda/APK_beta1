@@ -775,6 +775,7 @@ pengamatan warna nyala sampel pada manik boraks yang dipanasi diatas nyala api o
             Klasifikasi anion ini adalah salah satu contoh pengelompokan anion yang dibagi berdasarkan reaksinya dengan asam klorida encer (HCl(aq) ) dan perbedaan kelarutannya sebagai garam barium dan perak. Empat golongan anion dan karakteristiknya adalah sebagai berikut:
             """)
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Anion Golongan I</h2>", unsafe_allow_html=True)
+        
         st.write(
             """
             Anion golongan ini bereaksi dengan HCl(aq) menghasilkan gas atau endapan, yaitu karbonat, silikat, sulfida, sulfit, dan tiosulfat
@@ -799,24 +800,8 @@ Reaksi Tiosulfat:
 
            S2O3 2- + 2H+ → S(s) + SO2(g) + H2O
            """)
-        st.markdown("<h2 style='text-align: center; color: raisin black;'>Anion Golongan II</h2>", unsafe_allow_html=True)
-        st.write(
-            """
-            Anion golongan ini tidak bereaksi dengan HCl(aq) namun membentuk endapan dengan ion barium pada kondisi netral. Anion golongan ini adalah sulfat, fosfat, fluorida, dan borat
+         st.markdown("<h2 style='text-align: center; color: raisin black;'>Anion Golongan II</h2>", unsafe_allow_html=True)
         
-Reaksi Sulfat:
-
-SO4 2- + Ba2+ → BaSO4(s)
-           
-Reaksi Fosfat:
-           
-2F - + Ba2+ → BaF2(s)
-           
- Reaksi Borat:
-           
-B4O7 2- + 2Ba2+ + H2O → 2Ba(BO2 )2(s) + 2H
-""")
-
         
          
 
