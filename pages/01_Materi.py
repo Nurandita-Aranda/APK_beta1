@@ -436,6 +436,25 @@ Gambar 1. Bagan Pemisahan Kation (Sumber: Penuntun Praktik Analisis Jenis)
  
     if optionanjen == "Identifikasi Zat Dengan Cara Kering":
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Identifikasi Zat Dengan Cara Kering</h2>", unsafe_allow_html=True)
+        st.write(
+            """
+            Analisis kualitatif secara konvensional dapat dilakukan secara visual melalui 2 uji yaitu uji reaksi kering dan uji reaksi basah.Uji reaksi kering adalah pengujian yang diterapkan dalam keadaan kering dan tanpa proses pelarutan sampel, cara uji reaksi kering antara lain: Sifat fisik, Reaksi nyala, Pipa tiup, Mutiara boraks
+Pengamatan dalam uji kering meliputi
+•	Bentuk
+•	Warna
+•	Bau
+•	Warna nyala 
+
+**Teknik uji dalam uji reaksi kering yaitu:**
+1.	Sifat fisik 
+Dalam sifat fisik yang perlu diperhatikan:
+-	Pengamatan bentuk
+bentuk harus diperhatikan secara seksama,apakah berupa padatan atau cairan
+-	Pengamatan warna
+beberapa senyawa berwarna yang secara umum dijumpai 
+""")
+
+
 
 #Materi Titrimetri
 with tab_3:
