@@ -839,7 +839,6 @@ Reaksi Tiosianat:
 
          SCN- + Ag+ → AgSCN(s) 
          """)
-        
        st.markdown("<h2 style='text-align: center; color: raisin black;'>Anion Golongan IV</h2>", unsafe_allow_html=True)
        st.write(
             """
