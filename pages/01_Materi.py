@@ -257,7 +257,7 @@ Sifat Senyawa Logam :
 6. Memberi efek foto listrik dan Efek Termionik.
              """)
         
-    If optionkimdas == "Sifat Fisis Larutan":
+     If optionkimdas == "Sifat Fisis Larutan":
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Sifat Fisis Larutan</h2>", unsafe_allow_html=True)
         st.write(
             """
