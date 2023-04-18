@@ -344,6 +344,7 @@ Gambar 1. Bagan Pemisahan Kation (Sumber: Penuntun Praktik Analisis Jenis)
     • Pb2+ (aq) + 2 Cl(aq) → PbCl2(s) (endapan putih)
     
     • Hg2 2+ (aq) + 2Cl(aq) → Hg2Cl2(s) (endapan putih)
+    
     """)
         
     if optionanjen == "Identifikasi Zat Dengan Cara Kering":
