@@ -233,7 +233,30 @@ Ikatan kovalen rangkap 3 adalah ikatan kovalen yang melibatkan dua pasang elektr
 3. Mempunyai titik leleh dan titik didih yang rendah.
 4. Umumnya tidak larut dalam air, namun larut pada pelarut organik.
 5. Tidak menghantarkan listrik.
+            """)
+        st.write(
+            """
+            Ikatan Kovalen Koordinasi
+Ikatan Kovalen koordinasi adalah ikatan yang terbentuk dari pemakaian pasangan elektron bersama yang berasal dari salah satu atom yang memiliki pasangan elektron bebas. Ciri ikatan kovalen koordinasi adalah pasangan elektron bebas dari salah satu atom yang dipakai secara bersama-sama. Contoh : 
+            """)
+        st.image("https://photos.google.com/u/2/album/AF1QipMK4HoKNipSDAoodvhXAuspTfcZW_wdLzKAgFzs/photo/AF1QipMYW5lYI96F_r6fa3AgNha_QnBGc_HubVqkTCQy")
+        st.write(
+            """
+            Jadi, senyawa HNO3 memiliki satu ikatan kovalen koodinasi dan 2 ikatan kovalen.
+            """)
+        st.write(
+            """
+            Ikatan logam
+Ikatan logam merupakan ikatan kimia antara atom-atom logam,bukan ikatan ion maupun kovalen. Dalam suatu logam terdapat atom atom sesamanya yang berikatan satu sama lain sehingga suatu logam akan bersifat kuat, keras, dan dapat ditempa. Elektron elektron valensi dari atom atom logam bergerak dengan cepat (membentuk lautan elektron) mengelilingi inti atom. Ikatan yang terbentuk sangat kuat sehingga ikatan antaratom logam sukar dilepaskan. 
+Sifat Senyawa Logam :
+1. Berupa padatan pada suhu ruang
+2. Bersifat keras, tetapi lentur/tidak mudah patah jika ditempa.
+3. Mempunya titik didih dan titik leleh yang tinggi.
+4. Penghantar listrik yang baik.
+5. Mempunyai permukaan yang mengkilap.
+6. Memberi efek foto listrik dan Efek Termionik.
              """)
+            
 
 
 
