@@ -334,18 +334,18 @@ Gambar 1. Bagan Pemisahan Kation (Sumber: Penuntun Praktik Analisis Jenis)
     Gol IV : Ba2+, Ca2+, Sr2+
     Beberapa sistem klasifikasi golongan meniadakan pemakaian amonium klorida disamping amonium karbonat sebagai reagensia golongan; dalam hal ini, magnesium harus juga dimasukkan ke dalam golongan ini. Tetapi, karena dalam pengerjaan analisis yang sistematis, amonium klorida akan terdapat banyak sekali ketika kation-kation golongan keempat hendak diendapkan, adalah lebih logis untuk tidak memasukkan magnesium ke dalam Golongan IV.
 5.	Golongan V : Kation-kation yang umum, yang tidak bereaksi dengan pereaksi pereaksi golongan I, II, III dan IV merupakan golongan kation yang terakhir, yang meliputi ion-ion magnesium, natrium, kalium, amoium, lilitium dan hidrogen.
-
-  st.markdown("<h2 style='text-align: center; color: raisin black;'>Pemisahan kation golongan I</h2>", unsafe_allow_html=True)
-  st.write(
-         """
-Kation golongan I yaitu Pb2+, Hg2 2+, dan Ag+ . Kation ini membentuk endapan putih ketika bereaksi dengan HCl encer. Endapan yaang terbentuk antara lain; PbCl2, Hg2Cl2, dan AgCl. Berikut reaksi pengendapan kation golongan I oleh asam klorida encer.
-
-        • Ag+ (aq) + Cl(aq) → AgCl(s) (endapan putih)
+   """)
+    st.markdown("<h2 style='text-align: center; color: raisin black;'>Pemisahan kation golongan I I-V</h2>", unsafe_allow_html=True)
+    st.write("""
+     Kation golongan I yaitu Pb2+, Hg2 2+, dan Ag+ . Kation ini membentuk endapan putih ketika bereaksi dengan HCl encer. Endapan yaang terbentuk antara lain; PbCl2, Hg2Cl2, dan AgCl. Berikut reaksi pengendapan kation golongan I oleh asam klorida encer.
+    
+    • Ag+ (aq) + Cl(aq) → AgCl(s) (endapan putih)
+    
+    • Pb2+ (aq) + 2 Cl(aq) → PbCl2(s) (endapan putih)
+    
+    • Hg2 2+ (aq) + 2Cl(aq) → Hg2Cl2(s) (endapan putih)
+    """)
         
-        • Pb2+ (aq) + 2 Cl(aq) → PbCl2(s) (endapan putih)
-        
-        • Hg2 2+ (aq) + 2Cl(aq) → Hg2Cl2(s) (endapan putih)
-        """)
     if optionanjen == "Identifikasi Zat Dengan Cara Kering":
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Identifikasi Zat Dengan Cara Kering</h2>", unsafe_allow_html=True)
 
