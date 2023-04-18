@@ -169,7 +169,7 @@ M = n/V
             st.markdown("<h2 style='text-align: center; color: raisin black;'>Ikatan Kimia</h2>", unsafe_allow_html=True)
             st.write(
             """
-                Konfigurasi Elektron Gas Mulia
+            Konfigurasi Elektron Gas Mulia
 A. Teori Lewis
 G.N. Lewis dan W. Kossel mengkaitkan kestabilan gas mulia dengan konfigurasi elektron sebagai berikut :
 1. Gas mulia bersifat stabil karena memiliki konfigurasi elektron penuh. Yaitu oktet atau 8 elektron pada kuliat terluar. Kecuali Helium dengan konfigurasi duplet atau 2 elektron pada kulit terluar.
