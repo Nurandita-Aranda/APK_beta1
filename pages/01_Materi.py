@@ -381,13 +381,38 @@ i : faktor van’t hoff
 
 i : jumlah partikel sebenarnya dalam larutan setelah penguraian/jumlah satuan rumus yang semua terlarut dalam larutan
               """)
+    if optionkimdas == "Kinetika Kimia":
+        st.markdown("<h2 style='text-align: center; color: raisin black;'>Kinetika Kimia</h2>", unsafe_allow_html=True)
+        st.write(
+            """
+            A. Laju Reaksi
 
+Laju reaksi,yaitu perubahan konsentrasi reaktan atau produk terhadapa waktu (M/s). Persamaan Umum produk 
 
-        
+Reaktan → Produk
+
+Dari persamaan ini dapat diketahui bahwa,selama berlangsungnya suatu reaksi, molekul reaktan bereaksi sedangkan molekul produk terbentuk.Sebagai hasilnya, kita dapat mengamati jalannya reaksi dengan cara memantau menurunnya konsentrasi reaktan atau 
+meningkatnya konsentrasi produk.
+
+A → B
+Laju = - Δ[A]/Δt           
+Laju = - Δ[B]/Δt 
+
+B. Hukum laju
+
+Salah satu cara untuk mengkaji pengaruh konsentrasi reaktan terhadap laju reaksi ialah dengan menentukan bagaimana laju awal bergantung pada konsentrasi awal. Konsentrasi reaktan menurun dan akan menjadi sulit untuk mengukur perubahan nya secara akurat. Selain itu, mungkin saja terjadi reksi balik seperti
+
+Produk → Reaktan
+
+Hukum laju : Laju = k[A]X[Y]Y
+        """)
+    
+    
+    
             
 
 
-
+       
             
                 
                 
