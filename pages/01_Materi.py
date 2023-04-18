@@ -478,7 +478,8 @@ kalian.
 Disiapkan kristal NaCl dalam kaca arloji.
 """)
         st.image("https://lh3.googleusercontent.com/pw/AJFCJaUbNmKYlJvm1kSb2f69YsPI9CxAJHD0XLazF_pygMRyM_xRiuahvJuKvIiiiR67azAo6BXscGOdZtKMH0T13URaBZXww-jtl53cOC4RtODj7cWD_3hTni7GUYs1vzfTiz8eYKjihb6JR_beeuIOAPbq=w609-h657-s-no?authuser=0")
-        
+       
+    
         st.write(
             """
 **3. Uji Pipa Tiup**
@@ -497,6 +498,7 @@ Prosedur kerja
 5.  Tiupkan dengan pipa tiup, arahkan pada zat sampai semuanya bereaksi. Ambil sampel yg ada dalam arang dan masukan ke dalam tabung reaksi lalu tambahkan pereaksi tertentu.
 """)
         st.image("https://lh3.googleusercontent.com/pw/AJFCJaWBEClod3ldjqvtOp4kOw5K8m0qsqIMraHFiyXtXl9JH20sI73vcN4gZhxKedtSePTunuw-s33WCnc2Li0OazHffc9EZ0fkrBO7uGs8GcU4sBm0JTznYQrBmGuq2ym7ByTM2g_qouw6YkejUoyiGgOO=w527-h233-s-no?authuser=0")
+        st.write(" ")
         
         st.write(
             """
@@ -517,6 +519,8 @@ pengamatan warna nyala sampel pada manik boraks yang dipanasi diatas nyala api o
 -	Mutiara panas disentuhkan ke zat uji
 -	Dipanaskan dalam api pengoksidasi dan api pereduksi
 """)
+        st.image("https://lh3.googleusercontent.com/pw/AJFCJaXiOVJX1JoTaC5enyf11ngrq7mb9RpnzeVkC8KxcYKjhHRykwzLYE6CcJo-QAMHD9wGujSP99hvN1ouvdA9Qu1ffM37Ms7LaWZdt9cSxi3puLyVFs0pReHjSWfEFr-8z6rQ6Y5ArVRLYUfa8rG-U0bN=w384-h293-s-no?authuser=0")
+        
 
 
 
