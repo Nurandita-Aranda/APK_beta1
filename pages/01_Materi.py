@@ -165,9 +165,9 @@ M = n/V
         st.write(" ")
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/17M05OfuolzThRbny0_0BwD1OPp8EfEto/view?usp=sharing)")
-        if optionkimdas == "Ikatan Kimia":
-            st.markdown("<h2 style='text-align: center; color: raisin black;'>Ikatan Kimia</h2>", unsafe_allow_html=True)
-            st.write(
+    if optionkimdas == "Ikatan Kimia":
+        st.markdown("<h2 style='text-align: center; color: raisin black;'>Ikatan Kimia</h2>", unsafe_allow_html=True)
+        st.write(
             """
             Konfigurasi Elektron Gas Mulia
 A. Teori Lewis
