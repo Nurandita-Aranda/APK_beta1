@@ -310,11 +310,15 @@ FeCl3 = Ferri klorida atau besi (III) klorida
         st.write(
             """
       Gambar 1. Konsep Mol (Sumber : temukanpengertian.com )
+            
             Mol = g/BM = g/Mr = g/Ar    
+            
 g = massa (gram)
 BM = berat molekul (g/mol atau mg/mmol)
+
       Contoh:
 Hitung berapakah mol molekul yang terdapat dalam 10 gram glukosa (C6H12O6), diketahui Ar C = 12, O = 16, serta H = 1.
+
       Jawaban:
 Mr glukosa = (6 x 12) + (12 x 1) + (6 x 16) = 180
 Mol = 10/180  = 0,05
