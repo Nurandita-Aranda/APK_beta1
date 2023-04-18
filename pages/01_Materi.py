@@ -816,7 +816,7 @@ with tab_3:
 Analisis volumetri /analisis titrimetri adalah teknis analisis yang berdasarkan pada volume suatu larutan yang sudah diketahui konsentrasinya yang diperlukan untuk bereaksi sempurna dengan sejumlah tertentu komponen cuplikan (sampel).
             """)
         st.image( "https://lh3.googleusercontent.com/98gichc05P2wpKSwG3bKYBqS6qWV5QLDRsB7AfWUoziAelCmOUq7p4jLaSi80jy_TosulRPrXGU4Vb6nLy30zMXaiZiwMhovyRULQcDgibjGF6RfURfYgUJnf0JgoRJY2DPg_JIP6SY7l5nFQjKmB21ctUwYEbQkPCuyhn6TxRyI1aeKb2pTxqY2iazihA1v7NbO3Th1-5TmIf7PAtl0y0nW_DnTEBWybTz9e9JnlM1gXre78eK3etV07qVeGEajaA0hx_gOuKQjv3U5bWV0VEfwsME3uExsjLJwwtKto6Eti09CoSflIo7llbUOo9v4TZO1OccPxvrUFIbg6e_2d9NwCZD_FGpXSge44ZZMYHk3JQ-835TwY7l1JrXD7TcT4zzVid8neR7hBkgABqKZwixrr8NLoF2D1U5PPZ2qQWWr4rpI3PG8jZmoV_yfNHhXgBJc6nKjMXRnsbU4ckCCcVeh86xeq9WSkN5EGQigP-PNOvb7QTHjQrx_j_Eia40ARGpRugxKC1H0j3Eh27f39zIZVQrE3yXYyG8HzlmKjonXrrKMO-6Hzry0zGzN8D6nJM725rKtAv8icJAu10mRYWgfODPPHiL871cTvlUgiiWcBVaU6tIxnzk14XT9mto6VKIeleRQ6EJlXo-yxuvnR-wJuDjWNfi4lpxLrJ1IlOLJw1sbRcX3AhdsYtQLuxyQfBP8e0j1bK2IplIEh9oCM-r9Ou0jv6QfbIV0vuIYxVQMVitw9R0cVt83pZD9YjWp2OX4wR9FG6JBTdJ2IcdDjeMHx24r_94C0ATgZR9frPoZP_Xm6LwPHZ3jLvEiG5LnC-7ysSl5abaOPAO7WM4cq8D_69tC0OLqitl9Z6wSjqJ1_4QnbmblR8ywEwXZCb2JKb2YoQ-RyonKbdfPqQehp4OnUevdpPQPcH7sCHa67Irn=w1167-h862-s-no?authuser=0")
-        st.markdown(
+        st.write(
             """
             Istilah dalam analisis volumetri/titrimetri:
 •	Titrasi adalah proses penambahan larutan standar dari buret sedikit demi    sedikit sampai jumlah zat yang direaksikan tepat ekuivalen satu sama lain.
