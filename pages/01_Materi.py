@@ -804,10 +804,16 @@ Reaksi Tiosulfat:
         st.write(
             """
             Anion golongan ini tidak bereaksi dengan HCl(aq) namun membentuk endapan dengan ion barium pada kondisi netral. Anion golongan ini adalah sulfat, fosfat, fluorida, dan borat
-            
+        
+Reaksi Sulfat:
+
            SO4 2- + Ba2+ → BaSO4(s)
            
+Reaksi Fosfat:
+           
            2F - + Ba2+ → BaF2(s)
+           
+ Reaksi Borat:
            
            B4O7 2- + 2Ba2+ + H2O → 2Ba(BO2 )2(s) + 2H
            """)
