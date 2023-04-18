@@ -290,16 +290,23 @@ C. Satuan Konsentrasi
 1. Jenis Satuan konsentrasi.
 
 Persen berdasar massa
+
 %zat terlarut = (Massa zat terlarut/massa larutan)x100%	
+
 Molaritas 
+
 M= mol zat terlarut/liter larutan
+
 Dengan satuan (mol/L)
+
 Molalitas
+
 m = mol zat terlarut/massa pelarut(kg)
 
 2. Perbandingan Satuan Satuan Konsentrasi
 
 V1 X M1=V2 X M2
+
 Keterangan : V adalah volume pelarut dan M dapat diganti dengan satuan lain sesuai dengan yang diketahui.
 
 D. Pengaruh Suhu terhadap kelarutan
@@ -315,6 +322,7 @@ E. Pengaruh Tekanan Terhadap Kelarutan Gas
 
 Hubungan Kelarutan gas dan tekanan ditunjukkan oleh hukum Henry yang menyatakan bahwa kelarutan gas dalam cairan berbanding lurus dengan tekanan gas diatas larutannya. 
 Dengan rumus : c=kP
+
 Keterangan : 
 c : konsentrasi molar(mol per Liter)
 
@@ -346,6 +354,7 @@ Pembekuan melibatkan transisi dari keadaan tidak teratur ke keadaan terarur. Aga
 
 osmosis adalah Gerakan bersih molekul pelarut melewati membrane semipermeabel dari pelarut murni atau dari larutan encer ke larutan pekat. Telakan osmotik adalah tekanan yang digunakan untuk menghentikan osmosis. 
 Π = MRT
+
 Keterangan :
 
 M : Molaritas
@@ -359,6 +368,7 @@ T : Suhu mutlak.
 Sifat koligatif elektrolit memerlukan pendekatan yang sedikit berbeda daripada yang digunakan untuk sifat koligatif nonelektrolit. Karena elektrolit terurai menjadi ion-ion dalam larutan dan dengan demikian satu satuan senyawa elektrolit terpisah menjadi dua atau lebih partikel bila dilarutkan. Persamaan Sifat Koligatif :
 
 Π = iMRT
+
 keterangan :
 
 M : Molaritas
