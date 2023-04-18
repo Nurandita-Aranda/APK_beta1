@@ -170,7 +170,7 @@ M = n/V
         st.write(
             """
             Konfigurasi Elektron Gas Mulia
-A. Teori Lewis
+            A. Teori Lewis
 G.N. Lewis dan W. Kossel mengkaitkan kestabilan gas mulia dengan konfigurasi elektron sebagai berikut :
 1. Gas mulia bersifat stabil karena memiliki konfigurasi elektron penuh. Yaitu oktet atau 8 elektron pada kuliat terluar. Kecuali Helium dengan konfigurasi duplet atau 2 elektron pada kulit terluar.
 2. unsur unsur lain dapat mencapai konfigurasi elektron oktet atau duplet dengan membentuk ikatan kimia. 
@@ -189,6 +189,23 @@ Be dengan nomor atom 4 memiliki konfigurasi elektron yaitu 1s2 2s2. Sehingga Be 
 elektron valensi 2, sehinga rumus lewis : 
              """)
         st.image("https://photos.google.com/u/2/album/AF1QipMK4HoKNipSDAoodvhXAuspTfcZW_wdLzKAgFzs/photo/AF1QipPRNObcGhl0Yzhyd5UjYhVbCkRSQUtZuHout0y8")
+        st.write(
+            """
+            Ikatan Ion
+Pada ikatan ion, terjadi transfer elektron dari satu atom ke atom lain. Karena Perpindahan elektron ini maka atom yang mendapatkan elektron yakan bermuatan negatif (Anion) dan yang kehilangan elektron akan bermuatan positif (Kation). Karena adanya perbedaan muatan antar ion, maka ion positif dan ion negative akan saling tarik menarik oleh gaya elektrostatik. Kejadian ini merupakan dasar ikatan ionic.
+Contoh :
+        """)
+        st.image("https://photos.google.com/u/2/album/AF1QipMK4HoKNipSDAoodvhXAuspTfcZW_wdLzKAgFzs/photo/AF1QipO6C_N8IheyMyqGyvISbv5rP44dxwq3qus_dYvy")
+        st.write(
+            """
+Sifat senyawa ion yaitu :
+1. Memiliki titik didih dan titik leleh yang tinggi.
+2. Keras tetapi rapuh.
+3. Berupa padatan pada suhu ruang.
+4. Larut dalam pelarut air, tetapi umumnya tidak larut dalam pelarut organic.
+5. Tidak meghantarkan listrik pada fasa padatan. Tetapi, menghantarkan listrik pada fasa cairan.
+
+            
                 
                 
 #Materi Analisis Jenis            
