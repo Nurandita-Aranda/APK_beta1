@@ -258,7 +258,7 @@ Sifat Senyawa Logam :
              """)
         st.write(" ")
         st.caption("Download Materi")
-    If optionkimdas == "Sifat Fisis Larutan":
+     If optionkimdas == "Sifat Fisis Larutan":
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Sifat Fisis Larutan</h2>", unsafe_allow_html=True)
         st.write(
             """
@@ -275,7 +275,7 @@ Proses pelarutan dibagi menjadi tiga tahap :
         st.image("https://photos.google.com/u/2/album/AF1QipMK4HoKNipSDAoodvhXAuspTfcZW_wdLzKAgFzs/photo/AF1QipPofJTjGRK6KkFFPNUrmwpt_JTtcW0WllqSdEwl")
         st.write(
             """
-            Prose pelarutan dipengaruhi oleh dua faktor. Faktor pertama adalah energi, yang menentukan apakah proses berlangsung eksotermik atau endotermik. Faktor kedua adalah kecenderungan hakiki menuju ketidakteraturan dalam semua kejadian dialam. 
+            Proses pelarutan dipengaruhi oleh dua faktor. Faktor pertama adalah energi, yang menentukan apakah proses berlangsung eksotermik atau endotermik. Faktor kedua adalah kecenderungan hakiki menuju ketidakteraturan dalam semua kejadian dialam. 
 C. Satuan Konsentrasi
 
 1. Jenis Satuan konsentrasi.
