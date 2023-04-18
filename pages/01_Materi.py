@@ -799,7 +799,7 @@ Reaksi Sulfit:
 Reaksi Tiosulfat:
 
            S2O3 2- + 2H+ → S(s) + SO2(g) + H2O
-           """)       
+           """)
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Anion Golongan II</h2>", unsafe_allow_html=True)
         st.write( 
              """
@@ -807,16 +807,16 @@ Reaksi Tiosulfat:
 
 Reaksi sulfat: 
 
-           SO4 2- + Ba2+ → BaSO4(s)
+SO4 2- + Ba2+ → BaSO4(s)
 
 Reaksi Fosfat:
 
-           2F - + Ba2+ → BaF2(s)
+2F - + Ba2+ → BaF2(s)
 
 Reaksi Borat:
 
-           B4O7 2- + 2Ba2+ + H2O → 2Ba(BO2 )2(s) + 2H
-           """)
+B4O7 2- + 2Ba2+ + H2O → 2Ba(BO2 )2(s) + 2H
+""")
 
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Anion Golongan III</h2>", unsafe_allow_html=True)
         st.write(
