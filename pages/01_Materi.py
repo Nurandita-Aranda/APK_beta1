@@ -255,7 +255,7 @@ Sifat Senyawa Logam :
 4. Penghantar listrik yang baik.
 5. Mempunyai permukaan yang mengkilap.
 6. Memberi efek foto listrik dan Efek Termionik.
-             """)
+            """)
         st.write(" ")
         st.caption("Download Materi")
      if optionkimdas == "Sifat Fisis Larutan":
