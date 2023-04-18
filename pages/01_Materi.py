@@ -371,10 +371,9 @@ Mol = 10/180  = 0,05
         
         """)
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Molaritas (M)</h2>", unsafe_allow_html=True 
-                    st.write(
-                        """                      
+        st.write(
+            """
  Molaritas menyatakan banyaknya mol solute yang terdapat dalam 1 liter atau 1000 mL larutan Rumus Molaritas :
-       
        
         M = mol/L = G/Mr × 1000/volume = g/(BM ×L)
         
