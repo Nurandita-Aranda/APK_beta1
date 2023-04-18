@@ -446,7 +446,7 @@ Pengamatan dalam uji kering meliputi
 •	Warna nyala 
 
 **Teknik uji dalam uji reaksi kering yaitu:**
-1.	Sifat fisik 
+**1.	Sifat fisik** 
 
 Dalam sifat fisik yang perlu diperhatikan:
 -	Pengamatan bentuk
@@ -454,7 +454,7 @@ bentuk harus diperhatikan secara seksama,apakah berupa padatan atau cairan
 -	Pengamatan warna
 beberapa senyawa berwarna yang secara umum dijumpai 
 
-2.	Reaksi Nyala
+**2.	Reaksi Nyala**
 """)
         st.image("https://lh3.googleusercontent.com/pw/AJFCJaWTmFIrwBdG4ppNH5VxR_7wwOwsA-dXrey65mtG2E_EuBxx8-luM3cBDFdzAvH_ff2UEnlBVAepSOX2UZzVL9OR8pWBW-M_1nDcYI_uswWc9qgl8UqFnBHEQkJ6Jq5YdSW51NIZIv1UuaJAkqzRloOn=w407-h192-s-no?authuser=0")
         st.write(
@@ -476,6 +476,29 @@ kalian.
 6. Diulangi kegiatan yang sama untuk kristal yang lain.
 Disiapkan kristal NaCl dalam kaca arloji.
 """)
+        st.image("https://lh3.googleusercontent.com/pw/AJFCJaUbNmKYlJvm1kSb2f69YsPI9CxAJHD0XLazF_pygMRyM_xRiuahvJuKvIiiiR67azAo6BXscGOdZtKMH0T13URaBZXww-jtl53cOC4RtODj7cWD_3hTni7GUYs1vzfTiz8eYKjihb6JR_beeuIOAPbq=w609-h657-s-no?authuser=0")
+        
+        st.write(
+            """
+**3. Uji Pipa Tiup**
+
+Uji pipa tiup bertujuan untuk membebaskan logam tertentu dari sampel tertentu yang memiliki warna yang khas
+""")
+        st.image("https://lh3.googleusercontent.com/pw/AJFCJaXOQ7FZ8lhtV7DFZThINJZUnufyOLw986lIOV8hPE0ohxQN9GyXJAE8VMlhAj-iqKoHCLrVTo7aXiI_-Qklt4huhdhm9X8lrxyzZFGgJ-3iViAdzTtXdSdiBrqC_WEuAIr4X3-K_IvvswurD_mQwBTl=w739-h415-s-no?authuser=0")
+        st.write(
+            """
+Prosedur kerja
+
+1.  Campurkan di dalam mortar garam yang akan di periksa dengan Na2CO3(perbandingan 1:2) gerus sampai halus.Buat gerukan pada permukaan arang kayu.
+2.  Nyalakan bunsen perlahan sampai di dapat nyala api TB. Kemudian panaskan campuran yang ada
+3.  Siapkan sebongkah arang, lubangi arang kurang lebih 1,5cm. Sampel yang sebelumnya dilarutkan  dengan pereaksi dalam plat tetes dimasukan kedalam arang.
+4.  Arang yang telah diisi sampel simpan diatas kassa asbes dan nyalakan api.
+5.  Tiupkan dengan pipa tiup, arahkan pada zat sampai semuanya bereaksi. Ambil sampel yg ada dalam arang dan masukan ke dalam tabung reaksi lalu tambahkan pereaksi tertentu.
+""")
+
+
+          
+            
 
 
 
