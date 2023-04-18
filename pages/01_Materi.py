@@ -360,11 +360,15 @@ Gambar 1. Bagan Pemisahan Kation (Sumber: Penuntun Praktik Analisis Jenis)
             """
           Hasil filtrat yang diperoleh dari pemisahan kation golongan III, mungkin mengandung golongan IV dan V. Cara pemishananya dilakukan dengan penambahan reagen natrium heksanitritokobaltat(III) sebanyak 5 mL, kemudian saring menghasilkan residu dan filtrat (mungkin golongan V). Pemisahan Kation Golongan IV dengan Metode Sulfat yaitu residu yang dihasilkan mungkin mengandung BaCO3, SrCO3 dan CaCO3
           """)
-
+        st.write(
+            """
+            
+            Daftar Pustaka:
+            
+        Svehla,G.1990.Buku Teks Analisis Anorganik Kualitatif Makro dan Semimikro.Jakarta: PT. Kalman Media Pustaka 
         
-        
-        
-        
+        """)
+ 
     if optionanjen == "Identifikasi Zat Dengan Cara Kering":
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Identifikasi Zat Dengan Cara Kering</h2>", unsafe_allow_html=True)
 
