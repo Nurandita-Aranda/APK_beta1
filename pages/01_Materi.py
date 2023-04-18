@@ -447,11 +447,14 @@ Pengamatan dalam uji kering meliputi
 
 **Teknik uji dalam uji reaksi kering yaitu:**
 1.	Sifat fisik 
+
 Dalam sifat fisik yang perlu diperhatikan:
 -	Pengamatan bentuk
 bentuk harus diperhatikan secara seksama,apakah berupa padatan atau cairan
 -	Pengamatan warna
 beberapa senyawa berwarna yang secara umum dijumpai 
+
+2.	Reaksi Nyala
 """)
 
 
