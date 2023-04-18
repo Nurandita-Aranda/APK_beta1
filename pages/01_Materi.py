@@ -799,9 +799,9 @@ Reaksi Sulfit:
 Reaksi Tiosulfat:
 
            S2O3 2- + 2H+ → S(s) + SO2(g) + H2O
-           """)
-       st.markdown("<h2 style='text-align: center; color: raisin black;'>Anion Golongan II</h2>", unsafe_allow_html=True)
-       st.write( 
+           """)       
+        st.markdown("<h2 style='text-align: center; color: raisin black;'>Anion Golongan II</h2>", unsafe_allow_html=True)
+        st.write( 
              """
              Anion golongan ini tidak bereaksi dengan HCl(aq) namun membentuk endapan dengan ion barium pada kondisi netral. Anion golongan ini adalah sulfat, fosfat, fluorida, dan borat
 
@@ -838,6 +838,7 @@ Reaksi Tiosianat:
 
          SCN- + Ag+ → AgSCN(s) 
          """)
+        
        st.markdown("<h2 style='text-align: center; color: raisin black;'>Anion Golongan IV</h2>", unsafe_allow_html=True)
        st.write(
             """
