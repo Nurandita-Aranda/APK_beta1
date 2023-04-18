@@ -798,7 +798,6 @@ Reaksi Sulfit:
 Reaksi Tiosulfat:
 
            S2O3 2- + 2H+ → S(s) + SO2(g) + H2O
-           
            """)
 
         
