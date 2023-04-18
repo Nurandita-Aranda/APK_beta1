@@ -456,6 +456,25 @@ beberapa senyawa berwarna yang secara umum dijumpai
 
 2.	Reaksi Nyala
 """)
+        st.image("https://lh3.googleusercontent.com/pw/AJFCJaWTmFIrwBdG4ppNH5VxR_7wwOwsA-dXrey65mtG2E_EuBxx8-luM3cBDFdzAvH_ff2UEnlBVAepSOX2UZzVL9OR8pWBW-M_1nDcYI_uswWc9qgl8UqFnBHEQkJ6Jq5YdSW51NIZIv1UuaJAkqzRloOn=w407-h192-s-no?authuser=0")
+        st.write(
+            """
+            Gambar 1. Uji nyala (Sumber: yuninainggolan.wordpress)
+            
+           Uji nyala api adalah suatu prosedur analisis yang digunakan dalam ilmukimia untuk mendeteksi keberadaan unsur tertentu, terutama ion logam, berdasarkan karakteristik spektrum emisi masing-masing unsur, ide pengujian ini adalah bahwa atom-atom sampel menguap dan karena panas, mereka mengemisikan sinar ketika berada dalam nyala api.
+           Prosedur Kerja:
+Disiapkan kristal NaCl dalam kaca arloji.
+2. Diisi 2 tabung reaksi masing-masing dengan 1 mL HCl pekat.
+3. Dicelupkan   ujung   kawat   nikrom   dalam   tabung   reaksi   1   dan
+dimasukkan   dalam   nyala   api   bunsen.   Dilakukan   hal   ini   sampai
+kawat tidak memberikan warna lain.
+4. Dicelupkan ujung   kawat  nikrom   tersebut   dalam  tabung  reaksi  2
+kemudian dalam kristal NaCl.
+5. Diamati   warna  nyala   yang  terjadi  dan   dicatat   hasil   pengamatan
+kalian.
+6. Diulangi kegiatan yang sama untuk kristal yang lain.
+Disiapkan kristal NaCl dalam kaca arloji.
+""")
 
 
 
