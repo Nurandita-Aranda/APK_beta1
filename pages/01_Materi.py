@@ -187,14 +187,14 @@ D. Struktur Lewis
 Pembentukan ikatan kimia menyangkut pada perubahan konfigurasi elektron, khusunya pada kulit valensi. Oleh karena itu, untuk penyederhanaan, atom atom cukup digambarkan valensinya. Lambang atom yang disertai elektron valensi disebut lambang lewis. Contoh :
 Be dengan nomor atom 4 memiliki konfigurasi elektron yaitu 1s2 2s2. Sehingga Be memiliki
 elektron valensi 2, sehinga rumus lewis : 
-             """)
+            """)
         st.image("https://photos.google.com/u/2/album/AF1QipMK4HoKNipSDAoodvhXAuspTfcZW_wdLzKAgFzs/photo/AF1QipPRNObcGhl0Yzhyd5UjYhVbCkRSQUtZuHout0y8")
         st.write(
             """
             Ikatan Ion
 Pada ikatan ion, terjadi transfer elektron dari satu atom ke atom lain. Karena Perpindahan elektron ini maka atom yang mendapatkan elektron yakan bermuatan negatif (Anion) dan yang kehilangan elektron akan bermuatan positif (Kation). Karena adanya perbedaan muatan antar ion, maka ion positif dan ion negative akan saling tarik menarik oleh gaya elektrostatik. Kejadian ini merupakan dasar ikatan ionic.
 Contoh :
-        """)
+            """)
         st.image("https://photos.google.com/u/2/album/AF1QipMK4HoKNipSDAoodvhXAuspTfcZW_wdLzKAgFzs/photo/AF1QipO6C_N8IheyMyqGyvISbv5rP44dxwq3qus_dYvy")
         st.write(
             """
@@ -204,6 +204,37 @@ Sifat senyawa ion yaitu :
 3. Berupa padatan pada suhu ruang.
 4. Larut dalam pelarut air, tetapi umumnya tidak larut dalam pelarut organic.
 5. Tidak meghantarkan listrik pada fasa padatan. Tetapi, menghantarkan listrik pada fasa cairan.
+            """)
+        st.write(
+            """
+            Ikatan Kovalen
+1. Proses Pembentukan Ikatan Kovalen Tunggal
+Ikatan terjadi karena pemakaian Bersama elektron oleh atom atom yang berikatan. Pasangan elektron yang dipakai Bersama disebut pasangan elektron ikatan dan pasangan elektron valensi yang tidak terlibat dalam pembentukan ikatan kovalen disebut pasangan elektron bebas. Ikatan kovalen umumnya terjadi antara atom atom unsur nonlogam. Senyawa yang hanya mengandung ikatan kovalen disebut senyawa kovalen. Struktur Lewis adalah penggambaran ikatan kovalen yang menggunakan lambang titik lewis dimana Pasangan elektron ikatan dinyatakan dengan garis atau sepasang titik yang diletakkan di antara kedua atom dan Pasangan elektron bebas dinyatakan titik titik pada masing masing atom.
+            """)
+        st.image("https://photos.google.com/u/2/album/AF1QipMK4HoKNipSDAoodvhXAuspTfcZW_wdLzKAgFzs/photo/AF1QipPudcRnEanr4Dym72C2QeWM16T56R1eswBb-7GY")
+        st.write(
+            """
+2. Proses Pembentukan Ikatan Kovalen Rangkap 2
+Ikatan kovalen rangkap 2 adalah ikatan kovalen yang melibatkan dua pasang elektron bersama. Ikatan kovalen rangkap 2 dinyatakan dengan dua garis. Contohnya :
+            """)
+        st.image("https://photos.google.com/u/2/album/AF1QipMK4HoKNipSDAoodvhXAuspTfcZW_wdLzKAgFzs/photo/AF1QipNL5I8ePdpntlqOscIFDbOubktWgE8Nn9uR6IsZ")
+        st.write(
+            """
+3. Proses Pembentukan Ikatan Kovalen Rangkap 3
+Ikatan kovalen rangkap 3 adalah ikatan kovalen yang melibatkan dua pasang elektron bersama. Ikatan kovalen rangkap 3 dinyatakan dengan tiga garis. Contohnya :
+            """)
+        st.image("https://photos.google.com/u/2/album/AF1QipMK4HoKNipSDAoodvhXAuspTfcZW_wdLzKAgFzs/photo/AF1QipPQ7ZkJAD62tIYeTI6UgeRZzMKiF7Wkaq8PzQkB")
+        st.write(
+            """
+            Sifat senyawa kovalen :
+1. Berupa cairan, padatan lunak,dan gas pada suhu ruang.
+2. Bersifat lunak dan tidak rapuh
+3. Mempunyai titik leleh dan titik didih yang rendah.
+4. Umumnya tidak larut dalam air, namun larut pada pelarut organik.
+5. Tidak menghantarkan listrik.
+             """)
+
+
 
             
                 
