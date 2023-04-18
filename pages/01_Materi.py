@@ -816,7 +816,8 @@ Reaksi Fosfat:
 Reaksi Borat:
 
            B4O7 2- + 2Ba2+ + H2O → 2Ba(BO2 )2(s) + 2H
-""")
+           """)
+
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Anion Golongan III</h2>", unsafe_allow_html=True)
         st.write(
             """
