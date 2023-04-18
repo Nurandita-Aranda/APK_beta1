@@ -845,6 +845,34 @@ Reaksi Tiosianat:
             """
             Anion-anion yang tidak bereaksi dengan pereaksi-pereaksi di atas dikelompokkan pada golongan ini, yaitu ion nitrit, nitrat, dan klorat
             """)
+        st.markdown("<h2 style='text-align: center; color: raisin black;'>Identifikasi Produk yang mudah menguap</h2>", unsafe_allow_html=True)
+        st.write(
+            """
+            Gas yang dilepaskan dengan HCl atau H2SO4 encer : (karbonat, bikarbonat, sulfit, tiosulfat, sulfida, nitrit, hipoklorit, sianida, dan sianat) Gas atau uap asam yang dilepaskan dengan H2SO4 pekat : (fluorida, heksafluorosilikat, klorida, bromida, iodida, klorat, perklorat, permanganat, bromat, borat, heksasianoferat (II), heksasianoferat (III), tiosianat, format, asetat, oksalat, tartrat
+dan sitrat)
+
+Contoh Reaksi anion karbonat (CO32-) dari larutan garam natrium karbonat penta hidrat (Na2CO3.10H2O) dengan HCl encer:
+
+         CO32-(aq) +2H+(aq)=CO2+ H2O(l)
+         
+ Identifikasi dilihat dari :
+- Berbuih
+- Mengeruhkan air kapur :
+
+CO2(s)+ Ca2+(aq) + 2OH-(aq)=CaCO3(s)putih + H2O(l)
+
+CO2(s)+ Ba2+(aq) + 2OH-(aq)=BaCO3(s)putih + H2O(l)
+
+Contoh Reaksi anion sulfit (SO32-) dari larutan garam natrium sulfit hepta hidrat (Na2SO3.7H2O) dengan HCl encer:
+
+SO32-(aq) + 2H+(aq)=SO2(aq) + H2O(l)
+
+Identifikasi dilihat dari :
+- bau belerang terbakar yang menyesakkan nafas
+- warna hijau (terbentuk dari ion Cr3+ yang dihasilkan jika sehelai kertas saring yang telah dibasahi larutan K2Cr2O7 yang telah diasamkan,dipegang diatas mulut tabung reaksi.
+""")
+
+
       
 #Materi Titrimetri
 with tab_3:
