@@ -343,6 +343,7 @@ Mol = 10/180  = 0,05
    """)
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Konsep ekuivalen & Berat Ekuivalen (BE)</h2>", unsafe_allow_html=True)
         st.write("""
+        Rumus ekuivalen dan berat ekuivalen
         
         grek = g/BE
          
