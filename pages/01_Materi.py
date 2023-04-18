@@ -306,6 +306,25 @@ FeCl3 = Ferri klorida atau besi (III) klorida
         
     if optionanjen == "Satuan Konsentrasi":
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Satuan Konsentrasi</h2>", unsafe_allow_html=True)
+        st.image("https://lh3.googleusercontent.com/eOpuDrN1ooOt6QSapIlw3ZievbUDwE0azDWkjEdp1B_VDOwsLbpmFne72Y4QwJtJjLzXH47tsmpJwlog4qlPE-CYz6vqB3iybF3c2A-8RnjvTulRRXAjXStAhiVBNTJzsYrQH0n-pxEUCFiZR-IaZePhxx9voqLhiV9afy3DQrlAVVqwL2ynTy8iSR-2OI5CKO3g2l4ZeSv9lzeiDgL96FO4TQL_iyApywFNviJINX5PkdBjJLpVfxlb1-Fg1oU3soJlOc_gjavLRNoWv85biE_lIYmMYgAyvAyDIjj_FyDf2XghgFoSZF8S-h9zgtdhoku8rb1O-1M3nk1wFfwnxNG4RacQ_pvQwdrn-vb1ANtBx8e5YrhwIvX7J98SMeMeY9cglwFxOByAxLM8rE3B6yLaKQr8TvWocR8rcDn_m1MrF7A2sUDVtOefMyKT9moNMgYS18dsBn33A8pFVr7NYYOkuHxyD3dPZiSUjCEn755sOvafEXxBJYgUEJE8qoea-dWCyZOMW7-NKhBPP16m1D_b9Byzn0d7ZoAjtGQJTcBNwVMVMdPkJs_boZXlcNjrkBfYCyZNxHtfcI0W6sURZ7OyUAB6LyR4WHiRDjv8fCDXEmmU-obSI8tyaJi_BZTDDOiUXOfiuIG7sevnCN_6qCqJcy105YlMrMTSzPjvII6tc3tWPHnP2aG6qfcyslvLExq1QH25itHdjZc291gft6YqfkduaoKhqudQP0PAod07OG-TUGH2mTMav0Fg1mp2YF8xMvQiUD-PZPKtuRiVoeP4ep_CRYHQI1yS8qTnyljITtyw-TbC9O445QJUvfBGksg2g6Z_iOVBLFI1-LuyKWoA8bhRC2ULA2CnOZAJikotYlngi45VQ3TIxYH9qKJxPBkIBRw7z_7dasfgaH7uWGk7TFTnJ5dTWlS1meQKhtAVV0g=w256-h173-s-no?authuser=0")
+        st.write(
+            """
+      Gambar 1. Konsep Mol (Sumber : temukanpengertian.com )
+            Mol = g/BM = g/Mr = g/Ar    
+g = massa (gram)
+BM = berat molekul (g/mol atau mg/mmol)
+      Contoh:
+Hitung berapakah mol molekul yang terdapat dalam 10 gram glukosa (C6H12O6), diketahui Ar C = 12, O = 16, serta H = 1.
+      Jawaban:
+Mr glukosa = (6 x 12) + (12 x 1) + (6 x 16) = 180
+Mol = 10/180  = 0,05
+""")
+
+
+
+
+    
+          
     if optionanjen == "Pemisahan Kation Golongan I-V":
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Pemisahan Kation Golongan I-V</h2>", unsafe_allow_html=True)
         st.write(
