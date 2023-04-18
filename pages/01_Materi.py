@@ -523,6 +523,10 @@ pengamatan warna nyala sampel pada manik boraks yang dipanasi diatas nyala api o
         
     if optionanjen == "Pemisahan Anion Golongan I-V":
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Pemisahan Anion Golongan I-V</h2>", unsafe_allow_html=True)
+        st.write(
+            """
+            Klasifikasi anion ini adalah salah satu contoh pengelompokan anion yang dibagi berdasarkan reaksinya dengan asam klorida encer (HCl(aq) ) dan perbedaan kelarutannya sebagai garam barium dan perak. Empat golongan anion dan karakteristiknya adalah sebagai berikut:
+            """)
         
 
 
