@@ -420,7 +420,7 @@ Hukum laju : Laju = k[A]X[Y]Y
 with tab_2:
     optionanjen = st.selectbox(
             "Pilih materi yang kamu mau",
-            ("--- Pilih Materi ---", "Reaksi Kimia dan Persamaan Reaksi", "Satuan Konsentrasi", "Pemisahan Kation Golongan I-V", "Identifikasi Zat Dengan Cara Kering"))
+            ("--- Pilih Materi ---", "Reaksi Kimia dan Persamaan Reaksi", "Satuan Konsentrasi", "Pemisahan Kation Golongan I-V", "Identifikasi Zat Dengan Cara Kering", "Pemisahan Anion Golongan I-V", ))
     if optionanjen == "Reaksi Kimia dan Persamaan Reaksi":
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Reaksi Kimia dan Persamaan Reaksi</h2>", unsafe_allow_html=True)
         st.write(
@@ -768,7 +768,7 @@ pengamatan warna nyala sampel pada manik boraks yang dipanasi diatas nyala api o
 -	Dipanaskan dalam api pengoksidasi dan api pereduksi
 """)
         st.image("https://lh3.googleusercontent.com/pw/AJFCJaXiOVJX1JoTaC5enyf11ngrq7mb9RpnzeVkC8KxcYKjhHRykwzLYE6CcJo-QAMHD9wGujSP99hvN1ouvdA9Qu1ffM37Ms7LaWZdt9cSxi3puLyVFs0pReHjSWfEFr-8z6rQ6Y5ArVRLYUfa8rG-U0bN=w384-h293-s-no?authuser=0")
-    if optionanjen == "Pemisahan Anion Golongan I-V":
+       if optionanjen == "Pemisahan Anion Golongan I-V":
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Pemisahan Anion Golongan I-V</h2>", unsafe_allow_html=True)
         st.write(
             """
