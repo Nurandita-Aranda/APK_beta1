@@ -774,6 +774,35 @@ pengamatan warna nyala sampel pada manik boraks yang dipanasi diatas nyala api o
             """
             Klasifikasi anion ini adalah salah satu contoh pengelompokan anion yang dibagi berdasarkan reaksinya dengan asam klorida encer (HCl(aq) ) dan perbedaan kelarutannya sebagai garam barium dan perak. Empat golongan anion dan karakteristiknya adalah sebagai berikut:
             """)
+        st.markdown("<h2 style='text-align: center; color: raisin black;'>Anion Golongan I</h2>", unsafe_allow_html=True)
+        st.write(
+            """
+            Anion golongan ini bereaksi dengan HCl(aq) menghasilkan gas atau endapan, yaitu karbonat, silikat, sulfida, sulfit, dan tiosulfat
+  
+Reaksi Karbonat:
+            
+            CO3 2- + 2H+ → CO2(g) + H2O
+            
+Reaksi Silikat:
+
+           SiO3 2- + 2H+ → H2SiO3(s)
+           
+Reaksi Sulfida:
+
+           S2- + 2H+ → H2S(g)
+           
+Reaksi Sulfit:
+
+           SO3 2- + 2H+ → SO2(g) + H2O
+           
+Reaksi Tiosulfat:
+
+           S2O3 2- + 2H+ → S(s) + SO2(g) + H2O
+           
+           """)
+
+        
+        
    
 #Materi Titrimetri
 with tab_3:
@@ -781,8 +810,7 @@ with tab_3:
             "Pilih materi yang kamu mau",
             ("--- Pilih Materi ---", "Pengenalan Analisis Titrimetri"))
     if optiontitri == "Pengenalan Analisis Titrimetri":
-        st.markdown("<h2 style='text-align: center; color: raisin black;'>Pengenalan Analisis Titrimetri</h2>", unsafe_allow_html=True)
-        st.write(
+        Pemisahan Anion Golongan I-V
             """
             **Definisi**
 
