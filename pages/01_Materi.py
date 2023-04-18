@@ -839,8 +839,9 @@ Reaksi Tiosianat:
 
          SCN- + Ag+ → AgSCN(s) 
          """)
-       st.markdown("<h2 style='text-align: center; color: raisin black;'>Anion Golongan IV</h2>", unsafe_allow_html=True)
-       st.write(
+        
+        st.markdown("<h2 style='text-align: center; color: raisin black;'>Anion Golongan IV</h2>", unsafe_allow_html=True)
+        st.write(
             """
             Anion-anion yang tidak bereaksi dengan pereaksi-pereaksi di atas dikelompokkan pada golongan ini, yaitu ion nitrit, nitrat, dan klorat
             """)
