@@ -188,7 +188,7 @@ Pembentukan ikatan kimia menyangkut pada perubahan konfigurasi elektron, khusuny
 Be dengan nomor atom 4 memiliki konfigurasi elektron yaitu 1s2 2s2. Sehingga Be memiliki
 elektron valensi 2, sehinga rumus lewis : 
              """)
-
+        st.image("https://photos.google.com/u/2/album/AF1QipMK4HoKNipSDAoodvhXAuspTfcZW_wdLzKAgFzs/photo/AF1QipPRNObcGhl0Yzhyd5UjYhVbCkRSQUtZuHout0y8")
                 
                 
 #Materi Analisis Jenis            
