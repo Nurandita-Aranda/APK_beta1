@@ -707,15 +707,16 @@ C adalah konsentrasi larutan (M, N, ppm, dan %), V adalahvolume larutan (L atau 
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Hubungan antar satuan</h2>", unsafe_allow_html=True)
         st.write(
             """
-      •	Hubungan mol dengan grek = grek = mol x a
+•	Hubungan mol dengan grek = grek = mol x a
 
-    •	Hubungan molaritas dengan normalitas = N = M x a
+•	Hubungan molaritas dengan normalitas = N = M x a
 
-  •	Hubungan % (b/b) dengan % b/v = % (b/v) = % b/b x bj bj = berat jenis atau density
+•	Hubungan % (b/b) dengan % b/v = % (b/v) = % b/b x bj bj = berat jenis atau density
 
 •	Hubungan % dengan ppm = 1% = 104 ppm
       
-            Daftar Pustaka:
+            
+Daftar Pustaka:
             
 Da lopez, Yos F. 2017. Konsentrasi Larutan dalam Satuan Kimia. Nusa Tenggara Timur (NTT): Politeknik Pertanian Negeri Kupang
 
