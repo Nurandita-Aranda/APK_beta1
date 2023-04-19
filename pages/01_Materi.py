@@ -709,11 +709,11 @@ C adalah konsentrasi larutan (M, N, ppm, dan %), V adalahvolume larutan (L atau 
             """
       •	Hubungan mol dengan grek = grek = mol x a
 
-      •	Hubungan molaritas dengan normalitas = N = M x a
+    •	Hubungan molaritas dengan normalitas = N = M x a
 
-      •	Hubungan % (b/b) dengan % b/v = % (b/v) = % b/b x bj bj = berat jenis atau density
+  •	Hubungan % (b/b) dengan % b/v = % (b/v) = % b/b x bj bj = berat jenis atau density
 
-      •	Hubungan % dengan ppm = 1% = 104 ppm
+•	Hubungan % dengan ppm = 1% = 104 ppm
       
             Daftar Pustaka:
             
