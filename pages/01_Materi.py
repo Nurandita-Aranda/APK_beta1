@@ -877,9 +877,11 @@ Identifikasi dilihat dari :
         st.write(
             """
             Cara membuat larutan perlu diperhatikan,yaitu cara membuat larutan  dari bahan  cair atau padat dengan menggunakan  konsentrasi tertentu. Larutan adalah campuran homogen dari dua atau lebih zat  yang berbeda komposisinya. Suatu larutan dalam volume kecil disebut zat  terlarut. Pelarut didefinisikan sebagai zat yang jumlahnya melebihi zat lain.
-
-**Cara pembuatan larutan:**
-
+            """)
+        st.markdown("<h2 style='text-align: center; color: raisin black;'>Cara Pembuatan Larutan</h2>", unsafe_allow_html=True)
+        
+        st.write(
+            """
 •	Menimbang kristal senyawa atau memipet dari larutan pekat
 
 •	Hasil penimbangan dan pemipetan dilarutkan dalam volume tertentu
@@ -889,10 +891,10 @@ Identifikasi dilihat dari :
 •	Larutan disimpan dalam botol/ wadah yang sesuai
 
 •	Botol atau wadah penyimpanan harus diberi label
-
-
-**Informasi yang ada pada label:**
-
+""")
+        st.markdown("<h2 style='text-align: center; color: raisin black;'>Informasi Yang Ada Pada Label</h2>", unsafe_allow_html=True)
+        st.write(
+            """
 •	Nama senyawa kimia/ Rumus kimia senyawa dari larutan yang dibuat
 
 •	Konsentrasi larutan
@@ -904,10 +906,10 @@ Identifikasi dilihat dari :
 •	Sifat bahan bahan kimia
 
 •	Inisial pembuat larutan
-
-
-**Beberapa alat yang digunakan untuk pembuatan larutan:**
-
+""")
+        st.markdown("<h2 style='text-align: center; color: raisin black;'>Alat Yang Digunakan Untuk Pembuatan Larutan</h2>", unsafe_allow_html=True)
+        st.write(
+            """
 •	Labu takar
 
 •	Beaker glass
@@ -923,18 +925,12 @@ Identifikasi dilihat dari :
 •	Corong
 
 •	Bulp
-
-
-**Yang harus diketahui dalam membuat larutan:**
-
-•	Dapat menghitung berat zat yang ditimbang
-
-•	Dapat menghitung volume zat yang dipipet
-
-•	Dapat menentukan satuan konsentrasi
-
-•	larutan yang dibuat
 """)
+
+        
+
+
+
 
 
 
