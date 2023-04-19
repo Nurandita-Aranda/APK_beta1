@@ -10,7 +10,7 @@ tab_1, tab_2, tab_3, tab_4, tab_5 = st.tabs(["Kimia Dasar","Analisis Jenis", "Ti
 with tab_1:
     optionkimdas = st.selectbox(
             "Pilih materi yang kamu mau",
-            ("--- Pilih Materi ---", "Atom, Molekul, dan Ion", "Stoikiometri","Ikatan Kimia","Sifat Fisis Larutan","Kinetika Kimia","Kesetimbangan Kimia","Asam Basa","Kesetimbangan Asam Basa dan Kesetimbangan Larutan","Termodinamika","Reaksi Redoks dan Elektrokimia"))
+            ("--- Pilih Materi ---", "Atom, Molekul, dan Ion", "Stoikiometri","Ikatan Kimia","Sifat Fisis Larutan","Kinetika Kimia","Kesetimbangan Kimia","Asam Basa",))
     if optionkimdas == "Atom, Molekul, dan Ion":
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Struktur Atom</h2>", unsafe_allow_html=True)
         st.write(
