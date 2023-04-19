@@ -629,7 +629,7 @@ Mol = 10/180  = 0,05
 
      Jadi boleh dikatakan bahwa klasifikasi kation yang paling umum didasarkan atas perbedaan kelarutan dari klorida, sulfida, dan karbonat dari kation tersebut. Kelima golongan Kation dan ciri khas golongan-golongan ini adalah sebagai berikut:
             """)
-        st.image(" https://lh3.googleusercontent.com/pw/AJFCJaVt6CKvucA33DVeqEVl-6QePAnWHkG8UHERCUiXfZQ27yazt45GiSzKmipLUdX_g3jVsk0mQ16XBbpCe1gg63017HstAwuW1n7FSKsiXkrceQVi-WlpUUgq7BegNChpODNYYyxCxyHP7nRxZoXhX__O=w1124-h657-s-no?authuser=0")  
+        st.image("https://lh3.googleusercontent.com/pw/AJFCJaVt6CKvucA33DVeqEVl-6QePAnWHkG8UHERCUiXfZQ27yazt45GiSzKmipLUdX_g3jVsk0mQ16XBbpCe1gg63017HstAwuW1n7FSKsiXkrceQVi-WlpUUgq7BegNChpODNYYyxCxyHP7nRxZoXhX__O=w1124-h657-s-no?authuser=0")  
         st.write(
             """
 Gambar 1. Bagan Pemisahan Kation (Sumber: Penuntun Praktik Analisis Jenis)
