@@ -411,19 +411,19 @@ Untuk reaksi umum : aA + bB → cC + dD
 C. Hubungan Antara Konsentrasi Reaktan dan Waktu
 
 1. Reaksi Orde Pertama : Reaksi yang lajunya bergantung pada konsentrasi reaktan dipangkatkan dengan satu.
-2. Reaksi Orde Kedua : Reaksi yang lajunya bergantung pada konsentrasi reaktan dipangkatkan dengan 2.
+2. Reaksi Orde Kedua : Reaksi yang lajunya bergantung pada konsentrasi reaktan dipangkatkan dengan dua.
 
 D. Energi Aktivasi dan Ketergantungan Konstanta Laju Terhadap suhu
 
 1. Teori Tumbukan pada Kinetika Kimia
 Dari segi teori tumbukan pada kinetika kimia, maka dapat diperkirakan laju reaksi akan berbanding lurus dengan banyaknya tumbukan molekul per detik atau berbanding lurus dengan frekuensi tumbukan molekul.
 
-Laju = banyaknya tumbukan/waktu(sekon)
+   Laju = banyaknya tumbukan/waktu(sekon)
     
 2. Persamaan Arrhenius
 Ketergantungan konstanta laju reaksi terhadap suhu dapat dinyatakan dengan persamaan yang dikenal dengan persamaan Arrhenius :
 
-K = Ae-EaIRT
+    k = Ae-EaIRT
 
 E. Mekanisme Reaksi dan Hukum Laju
 
@@ -445,12 +445,59 @@ F. Katalisis
 
 Katalis adalah zat yang meningkatkan laju reaksi kimia tanpa ikut terpakai. Katalis dapat bereaksi membentuk produk antara, tetapi akan diperoleh kembali dalam tahap berikutnya. Mari kita anggap bahwa reaksi berikut memiliki konstanta laju k tertentu dan energi aktivasi Ea.
 
-A + B → C + D
+   A + B → C + D
 
 Namun demikian, dengan kehadiran katalis, konstanta laju disebut konstanta laju katalitik. Maka berdasarkan definisi katalitik :
 
-Lajuberkatalis>lajutakberkatalis
+   Lajuberkatalis>lajutakberkatalis
            """)
+    if optionkimdas == "Kesetimbangan Kimia":
+        st.markdown("<h2 style='text-align: center; color: raisin black;'>Kesetimbangan Kimia</h2>", unsafe_allow_html=True)
+        st.write(
+            """
+            A. Konsep Kesetimbangan
+
+Bila laju reaksi maju dan reaksi balik sama besar dan konsentrasi reaktan dan produk tidak lagi berubah seiring berjalannya waktu, maka tercapailah kesetimbangan kimia. Kesetimbangan kimia merupakan proses dinamik. Kesetimbangan antara dua fasa dari zat yang sama dinamakan kesetimbangan fisis karena perubahan yang terjadi hanyalah proses fisis. Dalam kasus ini,molekul H2O meninggalkan dan yang Kembali ke fasa cair sama banyaknya.
+
+    H20(l) ⇆ H20(g)
+
+B. Konstanta Kesetimbangan
+
+Kita dapat mengggeneralisasi pembahasan ini dengan memperhatikan reaksi reversibel berikut.
+    aA + bB ⇆ cC + dD
+
+Dimana a,b,c, dan d adalah koefisien stoikiometri untuk spesi spesi yang bereaksi dengan A,B,C,dan D. konstanta kesetimbangan untuk reaksi pada suhu tertentu ialah.
+
+     k = [C]c[D]d/[A]a[B]b
+
+C. Beberapa Cara Untuk Menyatakan Konstanta Kesetimbangan
+
+1. Kesetimbangan Homogen : berlaku untuk reaksi yang semua spesi bereaksinya berada pada fasa yang sama.
+2. Kesetimbangan Heterogen : untuk reaksi yang melibatkan fasa yang berbeda.
+
+D. Aturan-Aturan Penulisan Persamaan Konstanta Kesetimbangan
+
+1. konsentrasi dari spesi spesi yang konsentrasi-reaksi di dalam fasa terkondensasi. Dinyatakan dalam mol per liter.
+2. Konsentrasi dari padatan murni, cairan murni dan pelarut tidak dituliskan dalam persamaan konstanta kesetimbangan.
+3. konstanta kesetimbangan tidak berdimensi.
+
+E. Apa yang Dapat Diketahui Dari Konstanta Kesetimbangan
+
+1. Memprediksi arah reaksi.
+2. Menghitung konsentrasi kesetimbangan.
+
+F. Faktor yang mempengaruhi Kesetimbangan Kimia.
+
+1. Asas Le Chatelier
+Ada satu aturan umum yang membantu kita memprediksi kearah mana reaksi kesetimbangan akan bergeser bila terjadi perubahan konsentrasi, tekanan. Volume, atau suhu. Asas le chatalier menyatakan bahwa “ jika suatu tekanan eksternal diberikan kepada suatu sistem kesetimbangan, sistem ini akan menyesuaikan diri sedemikian rupa untuk mengimbangi sebagian tekanan ini pada saat sistem mencoba setimbang Kembali.”
+2. Perubahan Konsentrasi
+3. Perubahan Tekanan dan Volume
+4. Perubahan suhu 
+5. Pengaruh katalis
+        """)
+
+            
+            
   
             
 
