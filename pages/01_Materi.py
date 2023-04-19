@@ -629,16 +629,54 @@ Rumus Molaritas :
 Contoh : 
 
 Berapa Normalitas H2SO4 dengan Molaritas = 0,25 M?
+
 Jawaban :
+
 N = 0,25 × 2 = 0,5 N
 """)
+        st.markdown("<h2 style='text-align: center; color: raisin black;'>Normalitas (N)</h2>", unsafe_allow_html=True)
+        st.write(
+            """
+Normalitas adalah ukuran yang menunjukkan konsentrasi pada berat setara dalam gram per liter larutan
 
+      N =  greak/L = g/(BE ×L)
+      
+Contoh : 
 
+Berapa Normalitas H2SO4 dengan Molaritas = 0,25 M?
 
+Jawaban :
 
+N = 0,25 × 2 = 0,5 N
+""")
+        st.markdown("<h2 style='text-align: center; color: raisin black;'>Kadar Larutan Dalam Persen(%)</h2>", unsafe_allow_html=True)
+        st.write(
+            """
+**Persen berat/berat (% b/b)**
+      
+      % b/b = (g solut)/(100 g larutan)
+      
+Contoh : 
 
-        
-                      
+Larutan NaOH 50% b/b = (50 g NaOH)/(100 g larutan)
+
+**Persen volume (% v/v)**
+
+      %v/v = (mL solut)/(100 mL solut)
+      
+Contoh : 
+
+Alkohol 70 % (v/v) = (70 mL)/(100 mL larutan)
+
+**Persen berat / volume (% b/v)**
+
+      %b/v = (g solut)/(100 mL larutn) 
+      
+Contoh : 
+
+NaCl 60 % (b/v) = (60 g)/(100 mL)
+""")
+                            
     if optionanjen == "Pemisahan Kation Golongan I-V":
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Pemisahan Kation Golongan I-V</h2>", unsafe_allow_html=True)
         st.write(
