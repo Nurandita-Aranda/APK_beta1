@@ -514,6 +514,7 @@ Salah satu sifat khas air ialah kemampuannya untuk bertindak baik sebagai asam m
 Reaksi ini adakalanya disebut autoionisasi air. Untuk menjelaskan sifat asam basa dari air dari sudut pandang Brønsted sebagai berikut : 
 
    H2O + H2O ⇆ H3O+ +  OH-
+   
    asam1 basa2  asam2   basa1
 
 C. pH Suatu Ukuran Keasaman
