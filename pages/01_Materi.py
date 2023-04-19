@@ -877,39 +877,62 @@ Identifikasi dilihat dari :
         st.write(
             """
             Cara membuat larutan perlu diperhatikan,yaitu cara membuat larutan  dari bahan  cair atau padat dengan menggunakan  konsentrasi tertentu. Larutan adalah campuran homogen dari dua atau lebih zat  yang berbeda komposisinya. Suatu larutan dalam volume kecil disebut zat  terlarut. Pelarut didefinisikan sebagai zat yang jumlahnya melebihi zat lain.
+
 **Cara pembuatan larutan:**
 
 •	Menimbang kristal senyawa atau memipet dari larutan pekat
+
 •	Hasil penimbangan dan pemipetan dilarutkan dalam volume tertentu
+
 •	Larutan yang dibuat harus dengan konsentrasi tertentu
+
 •	Larutan disimpan dalam botol/ wadah yang sesuai
+
 •	Botol atau wadah penyimpanan harus diberi label
+
 
 **Informasi yang ada pada label:**
 
 •	Nama senyawa kimia/ Rumus kimia senyawa dari larutan yang dibuat
+
 •	Konsentrasi larutan
+
 •	Tanggal pembuatan
+
 •	Tanggal kadaluarsa
+
 •	Sifat bahan bahan kimia
+
 •	Inisial pembuat larutan
+
 
 **Beberapa alat yang digunakan untuk pembuatan larutan:**
 
 •	Labu takar
+
 •	Beaker glass
+
 •	Kaca arloji
+
 •	Pipet
+
 •	Batang pengaduk
+
 •	Labu semprot
+
 •	Corong
+
 •	Bulp
+
 
 **Yang harus diketahui dalam membuat larutan:**
 
 •	Dapat menghitung berat zat yang ditimbang
+
 •	Dapat menghitung volume zat yang dipipet
+
 •	Dapat menentukan satuan konsentrasi
+
 •	larutan yang dibuat
 """)
 
