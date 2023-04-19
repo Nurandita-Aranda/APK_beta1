@@ -495,6 +495,93 @@ Ada satu aturan umum yang membantu kita memprediksi kearah mana reaksi kesetimba
 4. Perubahan suhu 
 5. Pengaruh katalis
         """)
+    if optionkimdas == "Asam Basa":
+        st.markdown("<h2 style='text-align: center; color: raisin black;'>Asam Basa</h2>", unsafe_allow_html=True)
+        st.write(
+            """
+            A. Asam dan Basa Brønsted 
+
+1. Pasangan Asam Basa Konjugat
+
+Basa konjugat dari suatu asam Brønsted ialah spesi yang tersisa ketika satu proton pindah asam tersebut. Sebaliknya, suatu asam konjugat dihasilkan dari penambahan sebuah proton pada basa Brønsted. Setiap asam Brønsted memiliki satu basa konjugat dan setiap basa Brønsted memiliki satu asam konjugat.
+
+B. Sifat Asam Basa dari Air
+
+Salah satu sifat khas air ialah kemampuannya untuk bertindak baik sebagai asam maupun sebagai basa.Air berfungsi sebagai basa dalam reaksi dengan asam,dan pelarut ini berfungsi sebagai asam dalam reaksi basa. Air merupakan elektrolit yang sangat lemah sehingga air merupakan penghantar listrik yang buruk, meskipun hanya terionisasi sedikit.
+
+   H2O(l)  ⇆ H+(aq) + OH-(aq)
+
+Reaksi ini adakalanya disebut autoionisasi air. Untuk menjelaskan sifat asam basa dari air dari sudut pandang Brønsted sebagai berikut : 
+
+   H2O + H2O ⇆ H3O+ +  OH-
+   asam1 basa2  asam2   basa1
+
+C. pH Suatu Ukuran Keasaman
+
+Karena konsentrasi ion H+ dan OH-  dalam larutan air serinh kali sangat kecil dan kerena itu sulit diukur. Maka, seorang biokimiawan Denmark Soren Sorensen pada tahu 1909 mengajukan cara pengukuran yang lebih praktis yang disebut pH. pH suatu larutan didefinisikan sebagai logaritma negative dari konsentrasi ion Hidrogen(dalam mol per liter).
+
+   pH = - log [H+]
+
+Karena pH pada dasarnya hanyalah suatu cara untuk menyatakan suatu konsentrasi ion Hidrogen. Larutan asam dan basa pada suhu 25oC dapat di definisikan berdasarkan nilai pH nya. Seperti :
+
+Larutan asam : pH < 7,00
+Larutan basa  : pH > 7,00
+Larutan netral : pH = 7,00
+Rumus mencari pH asam = pH : -log[H+]
+Rumus mencari pH basa = pOH : -log[OH-] lalu pH : 14,00-pOH
+
+D. Kekuatan Asam dan Basa
+
+Asam kuat ialah elektrolit kuat, yang kebanyakan digunakan untuk kebutuhan praktis karena dianggap terionisasi sempurna dalam air. Kebanyakan asam kuat adalah asam anorganik. Kebanyakan asam terionisasi hanya sedikit dalam air,asam seperti ini disebut asam lemah. Kekuatan asam lemah sangat beragam karena beragamnya derajat ionisasi. Terbatasnya ionisasi asam lemah berkaitan dengan konstanta kesetimbangan ionisasi.
+Basa kuat ialah semua elektrolit kuat yang terionisasi sempurna dalam air. Sedangkan basa lemah adalah elekrolit lemah. Hal yang perlu diingat yaitu
+
+1. jika asamnya kuat, basa konjugat sangat lemah.
+2. H3O+ ialah asam terkuat yang dapat berada dalam laturan berair.
+3. Ion OH- ialah basa terkuat yang dapat berada dalam larutan berair. 
+
+E. Asam Lemah dan Konstanta Ionisasi Asam
+
+Mari kita asumsikan suatu asam monoprotik lemah HA, ionisasinya dalam air adalah :
+
+    HA(aq) ⇆  H+(aq) + A-(aq)
+
+Maka konstanta kesetimbangan untuk asam ini dinamakan konstanta kesetimbanga asam. Dinyatakan sebagai berikut :
+
+     ka = [H+][A-] / [HA]
+
+Dalam hal ini, tiga dasar tahapnya ialah:
+
+1.	Nyatakan konsentrasi kesetimbangan dari semua spesi dalam konsentrasi awalnya dan satu bilangan tak diketahui x, yang menyatakan perubahan konsentrasi.
+2.	Tuliskan konstanta ionisasi asam dalam konsentrasi-konsentrasi k setimbangnya. Dengan mengetahui nilai k maka kita dapat mengetahui nila x.
+3.	Setelah menentukan x, hitunglah konsentrasi kesetimbangan dari semua spesi atau pH larutan.
+
+1. Persen ionisasi
+
+Cara lain untuk mengetahui kekuatan asam ialah mengukur persen ionisasi,
+
+Persen ionisasi = (konsentrasi asam ionisasi/konsentrasi awal asam)x100%
+
+Semakin kuat asam maka semakin besar nilai persen ionisasinya.
+
+F. Basa Lemah dan Konstanta Ionisasi Basa
+
+Sama seperti halnya pada asam lemah, Dimana nila kb konstanta kesetimbangan basa dinamakan konstanta ionisasi basa. 
+
+G. Hubungan Antara Konstanta-Konstanta Ionisasi Asam-Basa Konjugat
+
+Ketika dua reaksi ditambahkan untuk menghasilkan reaksi ketiga, konstanta kesetimbangan untuk reaksi ketiga adalah hasilkali antara konstanta-konstanta kesetimbangan dari kedua reaksi yang ditambahkan. Jadi, untuk pasangan asam konjugat-basa konjugat akan selalu berlaku.
+
+H. Sifat Asam Basa dari Garam
+
+1. Garam yang menghasilkan larutan netral.
+2. Garam yang menghasilkan larutan basa.
+3. Garam yang menghasilkan larutan asam.
+4. Hidrolis ion logam
+5. Garam yang kation dan anion nya terhidrolisis.
+        """)
+
+
+            
 
             
             
