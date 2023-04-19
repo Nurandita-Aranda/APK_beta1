@@ -629,7 +629,7 @@ Mol = 10/180  = 0,05
 
      Jadi boleh dikatakan bahwa klasifikasi kation yang paling umum didasarkan atas perbedaan kelarutan dari klorida, sulfida, dan karbonat dari kation tersebut. Kelima golongan Kation dan ciri khas golongan-golongan ini adalah sebagai berikut:
             """)
-        st.image("https://lh3.googleusercontent.com/knukFM1Dh0Rty2iINjc91YuUlRQX4PC14x0WpDHK5EKvB_e-u5Yd5SQPwtetdSEQSoXBxnLLFEUYUwb_BnGGHUgi6tFNxwuA9pfnAEifL45ZdbjAspKAK0OfZCLHxkU4s5tMoYfUvS_Nn9x23XiVKRfZJphdHtY9V8xf7vgjQw3AzbZ1_eEdGEd3x-wdrL4iSTyxycR27-90WaduGX-pRfrZvi0aUuBnojnrKk6n3OV7Erzf6IMsFesWws_j6NBh4X2i9kaKuLUwZX9GmqtOV3s45k3SXQH_8JZTxWNvARrvFSpCeF66lm2b4knzBit26-6bJQZc6rmmYFMfb4c4vFk2_ghdR4UiuXVX8u2bDqGZ1L2LJCHgplx1z12xGjDcsxGEImLMJI1FYvLxXdyGNVTuacXJkG_RlO1jgqJRtwpJdKCqjCFrsrdvQ7AzQ9pJdaSalgaEk3Ts1evfBzKu3CD5ESoDVKakwOzcjTtFpTIFq71gV_9KSJnqYzIWnNhhkxdpwiUabtynzDuQ9pe3f0MpxbvoeYYVICJ0Jgucr5-wQ9sWojLvuPbhkHAV9k63BkKjG8dzGoPvJUNHGnDhaL2sMiQ0_dZprlPuzeQ1bGETMPgHeOSpBrGC_L-BH7MSSxrB4MavmzCvSPxsroX4sle1Kx1Pc4Np4zW7jPqpI8PPf4_CgsOkwCbHcU0alwTRJtHP-LNAIsk0GFaD7oNIXTcilKu6ZcVdlDGQOnLB8vO24HOERcRuOIWBzKJtejP-YI5M_tHwVFS5qxcgUPAWTeA9qQg-EwW6yjKP-16h2UjPt9za8I1nGEfBBtNMZM-8pX3W_lNebCo7rcKkz9IfaoFeqyW8lYi1moDbKaw1HISSUR4nQuoxfPWLGZD3u08D3MxJcW_rn1zRhSheg4_3Flq1G__1-3PvfZl-r4FRVpaHLONUO14mUgl2ciaELkYYtU5GN9AuiTR4_W6MjoM=w1124-h657-s-no?authuser=1")   
+        st.image(" https://lh3.googleusercontent.com/pw/AJFCJaVt6CKvucA33DVeqEVl-6QePAnWHkG8UHERCUiXfZQ27yazt45GiSzKmipLUdX_g3jVsk0mQ16XBbpCe1gg63017HstAwuW1n7FSKsiXkrceQVi-WlpUUgq7BegNChpODNYYyxCxyHP7nRxZoXhX__O=w1124-h657-s-no?authuser=0")  
         st.write(
             """
 Gambar 1. Bagan Pemisahan Kation (Sumber: Penuntun Praktik Analisis Jenis)
@@ -875,6 +875,11 @@ Contoh Reaksi anion sulfit (SO32-) dari larutan garam natrium sulfit hepta hidra
 Identifikasi dilihat dari :
 - bau belerang terbakar yang menyesakkan nafas
 - warna hijau (terbentuk dari ion Cr3+ yang dihasilkan jika sehelai kertas saring yang telah dibasahi larutan K2Cr2O7 yang telah diasamkan,dipegang diatas mulut tabung reaksi.
+
+Daftar Pustaka:
+            
+            Svehla,G.1990.Buku Teks Analisis Anorganik Kualitatif Makro dan Semimikro.Jakarta: PT. Kalman Media Pustaka 
+        
 """)
         
     if optionanjen == "Pembuatan Larutan":
@@ -930,6 +935,7 @@ Identifikasi dilihat dari :
 •	Corong
 
 •	Bulp
+        
 """)
 
         
