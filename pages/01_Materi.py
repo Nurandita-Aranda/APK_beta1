@@ -651,9 +651,15 @@ Gambar 1. Bagan Pemisahan Kation (Sumber: Penuntun Praktik Analisis Jenis)
         st.write("""
      Kation golongan I yaitu Pb2+, Hg2 2+, dan Ag+ . Kation ini membentuk endapan putih ketika bereaksi dengan HCl encer. Endapan yaang terbentuk antara lain; PbCl2, Hg2Cl2, dan AgCl. Berikut reaksi pengendapan kation golongan I oleh asam klorida encer.
     
+Reaksi Ag+ dengan Cl
+    
     • Ag+ (aq) + Cl(aq) → AgCl(s) (endapan putih)
     
+Reaksi Pb2+ dengan Cl  
+    
     • Pb2+ (aq) + 2 Cl(aq) → PbCl2(s) (endapan putih)
+    
+Reaksi Hg2+ dengan Cl
     
     • Hg2 2+ (aq) + 2Cl(aq) → Hg2Cl2(s) (endapan putih)
     
@@ -675,10 +681,9 @@ Gambar 1. Bagan Pemisahan Kation (Sumber: Penuntun Praktik Analisis Jenis)
           """)
         st.write(
             """
-            
             Daftar Pustaka:
             
-        Svehla,G.1990.Buku Teks Analisis Anorganik Kualitatif Makro dan Semimikro.Jakarta: PT. Kalman Media Pustaka 
+            Svehla,G.1990.Buku Teks Analisis Anorganik Kualitatif Makro dan Semimikro.Jakarta: PT. Kalman Media Pustaka 
         
         """)
  
