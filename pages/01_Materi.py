@@ -526,9 +526,13 @@ Karena konsentrasi ion H+ dan OH-  dalam larutan air serinh kali sangat kecil da
 Karena pH pada dasarnya hanyalah suatu cara untuk menyatakan suatu konsentrasi ion Hidrogen. Larutan asam dan basa pada suhu 25oC dapat di definisikan berdasarkan nilai pH nya. Seperti :
 
 Larutan asam : pH < 7,00
+
 Larutan basa  : pH > 7,00
+
 Larutan netral : pH = 7,00
+
 Rumus mencari pH asam = pH : -log[H+]
+
 Rumus mencari pH basa = pOH : -log[OH-] lalu pH : 14,00-pOH
 
 D. Kekuatan Asam dan Basa
