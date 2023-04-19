@@ -617,7 +617,27 @@ Mol = 10/180  = 0,05
   
       BE garam = (BM garam)/(Muatan kation×jumlah kation )
         
-        """) 
+        """)
+        st.markdown("<h2 style='text-align: center; color: raisin black;'>Molaritas (M)</h2>", unsafe_allow_html=True)
+        st.write(
+            """
+Molaritas menyatakan banyaknya mol solute yang terdapat dalam 1 liter atau 1000 mL larutan
+Rumus Molaritas : 
+
+       M = mol/L = G/Mr × 1000/volume = g/(BM ×L)
+       
+Contoh : 
+
+Berapa Normalitas H2SO4 dengan Molaritas = 0,25 M?
+Jawaban :
+N = 0,25 × 2 = 0,5 N
+""")
+
+
+
+
+
+        
                       
     if optionanjen == "Pemisahan Kation Golongan I-V":
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Pemisahan Kation Golongan I-V</h2>", unsafe_allow_html=True)
@@ -878,7 +898,7 @@ Identifikasi dilihat dari :
 
 Daftar Pustaka:
             
-            Svehla,G.1990.Buku Teks Analisis Anorganik Kualitatif Makro dan Semimikro.Jakarta: PT. Kalman Media Pustaka 
+Svehla,G.1990.Buku Teks Analisis Anorganik Kualitatif Makro dan Semimikro.Jakarta: PT. Kalman Media Pustaka 
         
 """)
         st.caption("Download Materi")
