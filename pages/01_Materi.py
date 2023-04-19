@@ -807,15 +807,15 @@ Reaksi Tiosulfat:
 
 Reaksi sulfat: 
 
-SO4 2- + Ba2+ → BaSO4(s)
+    SO4 2- + Ba2+ → BaSO4(s)
 
 Reaksi Fosfat:
 
-2F - + Ba2+ → BaF2(s)
+    2F - + Ba2+ → BaF2(s)
 
 Reaksi Borat:
 
-B4O7 2- + 2Ba2+ + H2O → 2Ba(BO2 )2(s) + 2H
+    B4O7 2- + 2Ba2+ + H2O → 2Ba(BO2 )2(s) + 2H
 """)
 
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Anion Golongan III</h2>", unsafe_allow_html=True)
@@ -859,13 +859,13 @@ Contoh Reaksi anion karbonat (CO32-) dari larutan garam natrium karbonat penta h
 - Berbuih
 - Mengeruhkan air kapur :
 
-CO2(s)+ Ca2+(aq) + 2OH-(aq)=CaCO3(s)putih + H2O(l)
+    CO2(s)+ Ca2+(aq) + 2OH-(aq)=CaCO3(s)putih + H2O(l)
 
-CO2(s)+ Ba2+(aq) + 2OH-(aq)=BaCO3(s)putih + H2O(l)
+    CO2(s)+ Ba2+(aq) + 2OH-(aq)=BaCO3(s)putih + H2O(l)
 
 Contoh Reaksi anion sulfit (SO32-) dari larutan garam natrium sulfit hepta hidrat (Na2SO3.7H2O) dengan HCl encer:
 
-SO32-(aq) + 2H+(aq)=SO2(aq) + H2O(l)
+    SO32-(aq) + 2H+(aq)=SO2(aq) + H2O(l)
 
 Identifikasi dilihat dari :
 - bau belerang terbakar yang menyesakkan nafas
