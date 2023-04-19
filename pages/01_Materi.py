@@ -676,7 +676,52 @@ Contoh :
 
 NaCl 60 % (b/v) = (60 g)/(100 mL)
 """)
-                            
+        st.markdown("<h2 style='text-align: center; color: raisin black;'>Bagian per sejuta (ppm : parts per million) & Bagian Permiliar (ppb:parts per billion)</h2>", unsafe_allow_html=True)
+        st.write(
+            """
+Bagian tiap juta (ppm) menyatakan berapa jumlah bagian satu komponen dalam 1 juta bagian campuran
+
+      ppm = mg/L = mg/kg
+      
+ppb = parts per billion dalam bahasa Indonesia bpm = bagian per milliar, berarti kandungan atau Konsentrasi dalam ppb jauh lebih encer dibandingkan dengan Konsentrasi dalam ppm. 
+        
+      ppb=1 µg/kg = 1 µL/L
+      
+contoh:
+
+Hitunglah besar ppm 10 liter air apabila dilarutkan Natrium Hidroksida atau NaOH sebanyak 1500 mg.
+
+jawab
+
+ppm= mg/L = 1500 mg/10 L
+""")
+        st.markdown("<h2 style='text-align: center; color: raisin black;'>Pengenceran</h2>", unsafe_allow_html=True)
+        st.write(
+            """
+Rumus pengenceran :
+
+(C1 x V1) sebelum diencerkan = (C2 x V2) setelah diencerkan
+
+C adalah konsentrasi larutan (M, N, ppm, dan %), V adalahvolume larutan (L atau mL)
+""")
+        st.markdown("<h2 style='text-align: center; color: raisin black;'>Hubungan antar satuan</h2>", unsafe_allow_html=True)
+        st.write(
+            """
+      •	Hubungan mol dengan grek = grek = mol x a
+
+      •	Hubungan molaritas dengan normalitas = N = M x a
+
+      •	Hubungan % (b/b) dengan % b/v = % (b/v) = % b/b x bj bj = berat jenis atau density
+
+      •	Hubungan % dengan ppm = 1% = 104 ppm
+      
+            Daftar Pustaka:
+            
+Da lopez, Yos F. 2017. Konsentrasi Larutan dalam Satuan Kimia. Nusa Tenggara Timur (NTT): Politeknik Pertanian Negeri Kupang
+
+Wardaya, Anton. 2014. Modul, Rumus, & Soal Hukum Proust (Hukum Perbandingan Tetap). Jakarta Barat: wardayacollege
+""")
+
     if optionanjen == "Pemisahan Kation Golongan I-V":
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Pemisahan Kation Golongan I-V</h2>", unsafe_allow_html=True)
         st.write(
