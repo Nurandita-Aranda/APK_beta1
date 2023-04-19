@@ -405,10 +405,53 @@ Salah satu cara untuk mengkaji pengaruh konsentrasi reaktan terhadap laju reaksi
 Produk → Reaktan
 
 Hukum laju : Laju = k[A]X[Y]Y
-        """)
+
+Untuk reaksi umum : aA + bB → cC + dD
+
+C. Hubungan Antara Konsentrasi Reaktan dan Waktu
+
+1. Reaksi Orde Pertama : Reaksi yang lajunya bergantung pada konsentrasi reaktan dipangkatkan dengan satu.
+2. Reaksi Orde Kedua : Reaksi yang lajunya bergantung pada konsentrasi reaktan dipangkatkan dengan 2.
+
+D. Energi Aktivasi dan Ketergantungan Konstanta Laju Terhadap suhu
+
+1. Teori Tumbukan pada Kinetika Kimia
+Dari segi teori tumbukan pada kinetika kimia, maka dapat diperkirakan laju reaksi akan berbanding lurus dengan banyaknya tumbukan molekul per detik atau berbanding lurus dengan frekuensi tumbukan molekul.
+
+Laju = banyaknya tumbukan/waktu(sekon)
     
-    
-    
+2. Persamaan Arrhenius
+Ketergantungan konstanta laju reaksi terhadap suhu dapat dinyatakan dengan persamaan yang dikenal dengan persamaan Arrhenius :
+
+K = Ae-EaIRT
+
+E. Mekanisme Reaksi dan Hukum Laju
+
+Dalam banyak kasus, persamaan ini sekedar menyatakan jumlah dari sederet reaksi sederhana yang sering dinamakan sebagai tahap elementer karena reaksi reaksi sederhana tersebut merepresentasikan jalannya reaksi keseluruhan pada tingkat molekul. Urutan-urutan elementer yang mengarah pada pembentukan produk dinamakan mekanisme reaksi. Sebagai contoh ;
+
+2NO(g) → N2O2(g)
+N2O2(g) + O2(g) → 2NO2(g)
+Maka : 
+Tahap 1 : NO(g)   + NO(g) →  N2O2(g)
+Tahap 2 : N2O2(g) + O2(g) →  2NO2(g)
+Reaksi Keseluruhan : 2NO(g) + N2O2(g) + O2(g) → N2O2(g) + 2NO2(g)
+
+Tahap Elementer harus memenuhi dua syarat :
+
+1. Jumlah elementer harus menghasilkan persamaan setara keseluruhan untuk reaksi tersebut.
+2. Tahap penentu laju, yaitu tahap paling lambat dari seluruh rangkaian tahap menuju pembentukan produk. Harus memprediksi hukum laju yang sama.
+
+F. Katalisis
+
+Katalis adalah zat yang meningkatkan laju reaksi kimia tanpa ikut terpakai. Katalis dapat bereaksi membentuk produk antara, tetapi akan diperoleh kembali dalam tahap berikutnya. Mari kita anggap bahwa reaksi berikut memiliki konstanta laju k tertentu dan energi aktivasi Ea.
+
+A + B → C + D
+
+Namun demikian, dengan kehadiran katalis, konstanta laju disebut konstanta laju katalitik. Maka berdasarkan definisi katalitik :
+
+Lajuberkatalis>lajutakberkatalis
+           """)
+  
             
 
 
