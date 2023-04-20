@@ -1357,7 +1357,7 @@ Aturan-aturan pemberian nama alkana bercabang menurut sistem IUPAC:
 4.	Jika terdapat lebih dari satu subtituen yang sama, maka nomor masing-masing substituen harus dituliskan. Jumlah substituent ditunjukkan dengan awalan di-, tri-, tetra-, dan seterusnya.
 5.	Penulisan cabang diurutkan berdasarkan abjad
             """)
-        imageKO1 = Image.open('Resource/image/Kimor/Penamaan_alkana.png')
+        imageKO1 = Image.open('APK_beta1/Resource/image/Kimor/Penamaan_alkana.png')
         st.image(imageKO1)
         st.write(
             """
@@ -1367,7 +1367,7 @@ Aturan-aturan pemberian nama alkana bercabang menurut sistem IUPAC:
 3.	Atom C tersier (3°)
 4.	Atom C kuartener (4°)
             """)
-        imageKO2 = Image.open('Resource/image/Kimor/Atom_C.png')
+        imageKO2 = Image.open('APK_beta1/Resource/image/Kimor/Atom_C.png')
         st.image(imageKO2)
         st.write(
             """
@@ -1406,10 +1406,10 @@ Aturan-aturan pemberian nama sikloalkana bercabang menurut sistem IUPAC:
             Reaksi penting:
             1.	Oksidasi
             """)
-        imageKO5 = Image.open('Resource/image/Kimor/Oksidasi_sikloalkana.png')
+        imageKO5 = Image.open('APK_beta1/Resource/image/Kimor/Oksidasi_sikloalkana.png')
         st.image(imageKO5)
         st.write("2.	Halogenasi")
-        imageKO6 = Image.open('Resource/image/Kimor/Halogenasi_sikloalkana.png')
+        imageKO6 = Image.open('APK_beta1/Resource/image/Kimor/Halogenasi_sikloalkana.png')
         st.image(imageKO6)
         st.markdown(
             """
@@ -1448,10 +1448,10 @@ Reaksi penting:
 Pembuatan:
 1.	Dehidrogenasi alkohol
             """)
-        imageKO1 = Image.open('Resource/image/Kimor/Dehidrogenasi_alkohol.png')
+        imageKO1 = Image.open('APK_beta1/Resource/image/Kimor/Dehidrogenasi_alkohol.png')
         st.image(imageKO1)
         st.write("2.	Hidrogenasi alkuna")
-        imageKO2 = Image.open('Resource/image/Kimor/Hidrogenasi_alkuna.png')
+        imageKO2 = Image.open('./Resource/image/Kimor/Hidrogenasi_alkuna.png')
         st.image(imageKO2)
         st.write(
             """
