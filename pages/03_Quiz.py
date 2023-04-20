@@ -9,6 +9,24 @@ st.subheader("Siap mengetes kemampuanmu dan menjadi yang terbaik?")
 option = st.selectbox(
     "pilih mata kuliah yang kamu inginkan",
     ("--Pilih Mata Kuliah--", "Kimia Dasar","Analisis Jenis","Titrimetri", "Kimia Organik", "Fisika Dasar"))
+
+if option == "Kimia Dasar":
+    result = st.select_slider(
+        'pilih soal',
+        options=['soal 1', 'soal 2', 'soal 3', 'soal 4', 'soal 5', 'soal 6', 'soal 7', "soal 8", "soal 9", "soal 10"])
+
+
+if option == "Analisis Jenis":
+    result = st.select_slider(
+        'pilih soal',
+        options=['soal 1', 'soal 2', 'soal 3', 'soal 4', 'soal 5', 'soal 6', 'soal 7', "soal 8", "soal 9", "soal 10"])
+    
+if option == "Titrimetri":
+    result = st.select_slider(
+        'pilih soal',
+        options=['soal 1', 'soal 2', 'soal 3', 'soal 4', 'soal 5', 'soal 6', 'soal 7', "soal 8", "soal 9", "soal 10"])
+    
+
 if option == "Kimia Organik":
     result = st.select_slider(
         'pilih soal',
@@ -36,7 +54,6 @@ if option == "Kimia Organik":
         elif opsi4:
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
-
     if result == "soal 2":
         imageKO2 = Image.open('Resource/image/Quiz_Kimor/Soal_2.png')
         st.image(imageKO2)
@@ -60,3 +77,12 @@ if option == "Kimia Organik":
         elif opsi4:
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
+    if result == "soal 3":
+        st.write("Berikut ini yang dapat digunakan untuk membedakan alkohol dan fenol adalah...")
+        col1, col2 = st.columns(2)
+        with col1:
+            opsi1 = st. button("FeCl3")
+            opsi2 = st. button("KMnO4")
+        with col2:
+            opsi3 = st. button("Natrium bisulfit")
+            opsi4 = st. button("Indikator kanji")
