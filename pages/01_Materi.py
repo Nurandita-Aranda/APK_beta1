@@ -1317,7 +1317,7 @@ analit direaksikan dengan pereaksi berlebih. Dan kelebihan pereaksi di titrasi
 with tab_4:
     optionKO = st.selectbox(
             "Pilih materi yang kamu mau",
-            ("--- Pilih Materi ---", "Pendahuluan", "Alkana dan Sikloalkana", "Alkena, Siklodiena, dan Alkuna", "Stereokimia", "Senyawa Aromatik", "Alkohol dan Fenol"))
+            ("--- Pilih Materi ---", "Pendahuluan", "Alkana dan Sikloalkana", "Alkena dan Alkuna", "Stereokimia", "Senyawa Aromatik", "Alkohol dan Fenol"))
     if optionKO == "Pendahuluan":
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Pendahuluan</h2>", unsafe_allow_html=True)
         st.write(
@@ -1357,7 +1357,8 @@ Aturan-aturan pemberian nama alkana bercabang menurut sistem IUPAC:
 4.	Jika terdapat lebih dari satu subtituen yang sama, maka nomor masing-masing substituen harus dituliskan. Jumlah substituent ditunjukkan dengan awalan di-, tri-, tetra-, dan seterusnya.
 5.	Penulisan cabang diurutkan berdasarkan abjad
             """)
-        st.image("https://lh3.googleusercontent.com/N4b4wt-ZhYeNIk2N7NoUrhYSQ65BxWjDJ1QbxXPAX4srb0ysTU-KAaTm3thn9_6FvvMaPrBI_BYZESuIXoAolap3YsBf9K8HOOmnOPk53fOtZ50g8hPb4xXFvwZKL5Bxpdhd_MdujSVi9LaQOynUnAYlVAVS_mbV40xceEGkt7Apm-lhlHNQFwVRCliR_iPNHOSobw_toD9WqLSWOtI3qmVYmls1N0QZJH-n_5oB_uE4yv1_oSGm8UV0g1rrnDMZ0nlI5m9gDV_TBEEFjnd_9dOmlf9V7AVFVeDZQ0XAiC-Ngmm0Qq4-r4tnN3cvKuQAlG2MNOgQDCZJJ8Ra4GJ6_vQf-RmqmeCrRq5GNJivvOLR_K619DBMRQJyzP1ee2xuNMBVKmLsR0AjxnELcN11EHqSwV_BRpi9tkRbPxJBDNm1aeWeWQpdfs-rIRRxEmgIy7tzy7_6g_ZdujzvJKyshVsnElxbpGURA4_Gn-H70n9N3crTA48aJ5fiewKJ8EMCMCuGI26irtwbqHY9qcJymdMfLpg-wzvastySZ8ul73pVF12F8bqSq0X1bulPuhjL35KYU89TbQVZAu9CJUYxSWcmxBaXQzEml10DMjhl4ss5uS4VrI6n5MPRMalFRZzE3_20B-Jmp16AEmHA-HqMbnOmQr_t4Lir91xHE1rzDaU1UrRIkqeUVA2WPKr8JIa-EAqkgSEbfbMbSGaxZ48UEK8EjxpV3eb-L-ciptl7wA3vdfLF8bjk54M0cf3jI9qhbWJvZp3q9LdDFNyQPee-8GOfZG7-HkTzUNSrIic5ShFJCi5Tf2gbuU_TyVgyrs2l1VAqOjp5RPIe1gBp8suhTsfnrt1Hra-zJrdKh5DZaf7TO_OuWKO8CbpZNzyXif4ZJ7ElwUKGks1C7TPfPMkHQpYmtvLSNtzyZWssweAb4w6U=w1481-h390-s-no?authuser=0")
+        imageKO1 = Image.open('Resource/image/Kimor/Penamaan_alkana.png')
+        st.image(imageKO1)
         st.write(
             """
             Dalam hidrokarbon, berdasarkan jumlah atom C yang terikat pada suatu atom C dibedakan menjadi 4:
@@ -1366,7 +1367,8 @@ Aturan-aturan pemberian nama alkana bercabang menurut sistem IUPAC:
 3.	Atom C tersier (3°)
 4.	Atom C kuartener (4°)
             """)
-        st.image("https://lh3.googleusercontent.com/lPpgG193slre_Zj7oz7gO173qyGZI5uPtTAacxlNf2KaCiH4b0r_3RlQ98EcSrCK-QhYiVuLEgWn7ncuxe6BLIffUDraWCwcfPxh5YHJUGRP58sYh1JYpfiKjr-0YSzrvodFbg1tarHu-Z21Yao6CsXs21dEC4tkuOk5r0dd3t4To0egxYVtQU-8rdWwLaVPcWgamOkkA1hqglggDbm-o6jWfFIKNwVDkWDPIZcWmnDlmaDNJTh8K10xjS87D_PAqpkJOjcr9Y5m2j_AiTLHK-Oy6q9nZGaUdjJX83vIk9iqiQAKH6OS5hEjnPr9lAUqHjRHYfzScgQj1IFRylzHsGLs3beWYNqQpyLh-h6UfFp1fTI_2MynSfYdmgeveDFb_Tu6ksDFuJOda90h-4SxOkJAzjz7jBOrEn0arMgDViF0ogY0kSZtI_f6lsLIHsas-JrjQ7dx3scKKaWILkCaJ8hLgtBklD50Mqgejs83yFoXtc5mlt7EWlkR46UUvp75xxHe5wbR0po4-VVZTHruSWVT3wQmT1asOPwAnC5jQQtZT_GsGsYCKrlMK6HHev9U5Sp3xwgkn8GeFmHhlnw9zqk50BM3_LemKo-TSjRU_auTc5h3v98SIywRpwCQUZTuBLHlDEA1pNY-lLFps-iat3sKx2yXUL6lBCYkacovy-UStWa32td_aYsAqnx7A8y1K8Fj1j_GzZNq9_GN0x2ljN1C13WHZlDTduSyKsZwanVcvrMEVH5TahMeafkaaMJkm73DqJMMydnB3BJBNrz7itH63STm6Asblvu3so3_f9K2_PUelwCKfk62pq63NpBO7tSi9_NHB-GIL7H26DL1OM5wLMiqkhFuFL6XXdsztAkdxyzwqm14EQSNzXnB4i764pH0JduaU4RdgrXf23WzfwhBZHp4ScVEsXKqOcocktqm=w1481-h390-s-no?authuser=0")
+        imageKO2 = Image.open('Resource/image/Kimor/Atom_C.png')
+        st.image(imageKO2)
         st.write(
             """
             Sifat Fisika Alkana:
@@ -1387,13 +1389,28 @@ Pembuatan Alkana:
         st.write(
             """
             Sikloalkana adalah tipe alkana yang mempunyai satu atau lebih cincin atom karbon pada struktur kimia molekulnya.
+            Rumus umum: CnH2n
 
 Aturan-aturan pemberian nama sikloalkana bercabang menurut sistem IUPAC:
 1.	Jika terdapat substituen, maka nama cabang disebutkan terlebih dahulu diikuti dengan nama sikloalkananya
 2.	Jika terdapat lebih dari dua substituen, nomor pada cincin dimulai dari substituen yang memiliki urutan abjad pertama, dan arah penomorannya memberikan nomor terendah untuk substituen selanjutnya
 
             """)
-        st.image("https://lh3.googleusercontent.com/XAcjpKSETswVLs_Nr_ROHA8cXhuqOprYT3zkz0cmmXTHGUV6KQQufUzoD9qgO7viiAAi-rKP_qsPhRdW7GISJCVjOgeQXRpnFbJehdcKsC3CRcGQ8-BmTxtF6rKYutOzNwU0J8q-6ZoZuyrCQLGrLnS_W1VQegjUNUCTwpe6BwBVgF69TqDRuI48vZhtIOhikOsU8d6Dl0UC7dlzz3PtmGCeAOGZsoarR97zdQDRfVCKxZV9iGV1_fm81pKrN9s--AjxJ4ooZssA5XaX3dtzwsy_k-OqFSyUAa66wX1tlyZq4kfYFtoTqzU3StL3DcT5SjNO4O_fzbGr87nS4qP6az7c5VTcsafmn1rSwhRzwU7q3LPlFRuy2CjkHrw17XE132MPwSC-xLvZh3x6HqoLgiuNVB4OHnAKp7O_MKlJh1F9FvldItbG5v2z0-PPEsVCre7SRLd1Krh2dv8VZ-4oEw3xc1TZmyzQMwZRKZE5KFd0GcxyI4XEinvb_8Tt5Vn0ATBKhX7qZa5RguM9CodqjESf22w4RVJHcUEd08GUt13aIfRc4NbF5niCUcygADD9_6LD0j-fpZyFGb0nMWxMBCR9676_2U9RtpWmWCXjJJCXp4x7Z7D9OQs01dGkQOTKLS8BuCnIm_8Z3jfQSIy6cyxIRZ1M809c_3HVac3YEJvhUBoNod6mgS3AiD9gicy46gqjxNzsT4b8gjfnOw0G3wUZE_ZndPV_ROoSXl8ZCMKOA7DS1xd9KRm4Ua0kSiPhCMjjytgoSEsu5P2Wm8hbmN-OE1WQ3Y_JNEAEY_qjX9EaAMKxV3eAH_R4LhGw276eJMGJiHcgfSBLolD3sJgUgBjDl25_byqvddY_NMrRcDZ3vTxpWUJ1rqSGXOWLq1OROvwr2AY4PTwHIEm2vg8WYgRc4jZzCFnKSdQW2K3HI0VO=w1479-h422-s-no?authuser=0")
+        imageKO3 = Image.open('Resource/image/Kimor/Penamaan_sikloalkana.png')
+        st.image(imageKO3)
+        st.write("Pembuatan: Hidrogenasi Benzena")
+        imageKO4 = Image.open('Resource/image/Kimor/Hidrogenasi_benzena.png')
+        st.image(imageKO4, caption = "sumber: ruangguru.com")
+        st.write(
+            """
+            Reaksi penting:
+            1.	Oksidasi
+            """)
+        imageKO5 = Image.open('Resource/image/Kimor/Oksidasi_sikloalkana.png')
+        st.image(imageKO5)
+        st.write("2.	Halogenasi")
+        imageKO6 = Image.open('Resource/image/Kimor/Halogenasi_sikloalkana.png')
+        st.image(imageKO6)
         st.markdown(
             """
             Daftar Pustaka: 
@@ -1402,17 +1419,197 @@ Aturan-aturan pemberian nama sikloalkana bercabang menurut sistem IUPAC:
             """)
         st.write(" ")
         st.caption("Download Materi")
-        st.write("Google Drive: [link](https://drive.google.com/file/d/1bLafimHyPEi7Mmci325iffq8MrxC0nVM/view?usp=sharing)")
+        st.write("Google Drive: [link](https://drive.google.com/file/d/1eyxBoTTdDbhp84Ae_aRKHMt57B-5iyc1/view?usp=sharing)")
         
-    if optionKO == "Alkena, Siklodiena, dan Alkuna":
-        st.markdown("<h2 style='text-align: center; color: raisin black;'>Alkena dan Siklodiena</h2>", unsafe_allow_html=True)
+    if optionKO == "Alkena dan Alkuna":
+        st.markdown("<h2 style='text-align: center; color: raisin black;'>Alkena</h2>", unsafe_allow_html=True)
+        st.write(
+            """
+            Alkena adalah hidrokarbon tak jenuh dengan sebuah ikatan rangkap dua selang atom karbon. 
+Rumus umum: CnH2n
+
+Penamaan Alkena:
+
+Mengikuti tatanama IUPAC, nama alkena diambil dari nama alkana dengan menggantikan imbuhan belakang -ana dengan -ena. sistem penomorannya mengikuti system penomoran alkana dengan catatan penomoran rantai karbon terpanjang dinamakan dari ujung yang terdekat dengan ikatan rangkap, sehingga atom karbon pada ikatan rangkap tersebut mempunyai nomor sekecil mungkin.
+
+Sifat Fisik:
+
+Sifat alkena tidak jauh berbeda dengan alkana. Namun, alkena mempunyai tingkat keasaman yang jauh lebih tinggi dibandingkan alkana dan wujud zatnya tergantung dari massa molekulnya.
+
+Reaksi penting:
+1.	Hidrasi
+
+        CH2=CH2 + H2O + H+(katalis) → CH3–CH2OH
+
+2.	Halogenasi
+
+        CH2=CH2 + Cl2 → ClCH2–CH2Cl
+
+Pembuatan:
+1.	Dehidrogenasi alkohol
+            """)
+        imageKO1 = Image.open('Resource/image/Kimor/Dehidrogenasi_alkohol.png')
+        st.image(imageKO1)
+        st.write("2.	Hidrogenasi alkuna")
+        imageKO2 = Image.open('Resource/image/Kimor/Hidrogenasi_alkuna.png')
+        st.image(imageKO2)
+        st.write(
+            """
+            Notasi Cis-Trans:
+            
+Jika 2 atom karbon alkena mempunyai 2 gugus yang sejenis, maka notasi cis-trans mampu dipakai. Jika gugus sejenis terletak pada tempat yang sama dari ikatan rangkap, maka dinamakan sebagai (cis-). Jika gugus sejenis terletak berseberangan, maka dinamakan sebagai (trans-).
+            """)
+        imageKO3 = Image.open('Resource/image/Kimor/Cis_trans.png')
+        st.image(imageKO3,caption = "Sumber: roboguru.ruangguru.com")
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Alkuna</h2>", unsafe_allow_html=True)
+        st.write(
+            """
+            Alkuna adalah molekul hidrokarbon tak jenuh yang memiliki ikatan rangkap tiga. Rumus umum: CnH2n-2
+            
+-Penamaan Alkuna:
+1.	Tatanama IUPAC
+
+Nama sistematis alkuna menurut sistem IUPAC diperoleh dengan mengganti akhiran –ana pada alkana dengan akhiran –una.
+
+2.	Tatanama umum (trivial)
+
+Dalam tatanama umum, alkuna diberi nama sebagai asetilena tersubtitusi.
+            """)
+        imageKO4 = Image.open('Resource/image/Kimor/Penamaan_alkuna.png')
+        st.image(imageKO4)
+        st.write(
+            """
+            Sifat Fisika:           
+1.	Semua alkuna tidak larut dalam air (larut dalam pelarut nonpolar)
+2.	Titik didih semakin meningkat dengan bertambahnya berat molekul.
+3.	Kenaikan titik didih pada alkuna juga dipengaruhi percabangantom C
+
+Reaksi penting:
+1.	Adisi Hidrogen (Hidrogenasi)
+            """)
+        imageKO5 = Image.open('Resource/image/Kimor/Hidrogen_alkuna.png')
+        st.image(imageKO5)
+        st.write("2.	Adisi Hidrogen (Hidrogenasi) parsial")
+        st.image(imageKO2)
+        st.write("3.	Oksidasi dengan KMnO4")
+        imageKO6 = Image.open('Resource/image/Kimor/Kmno4_alkuna.png')
+        st.image(imageKO6)
+        st.write("Pembuatan: Dehidrohalogenasi Alkil Dihalida")
+        imageKO7 = Image.open('Resource/image/Kimor/Pembuatan_alkuna.png')
+        st.image(imageKO7)
+        st.write(" ")
+        st.caption("Download Materi")
+        st.write("Google Drive: [link](https://drive.google.com/file/d/1eAMRVME-3UA3idZkBo7D82KzdFy1mBwz/view?usp=sharing)")
+
+
     if optionKO == "Stereokimia":
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Streokimia</h2>", unsafe_allow_html=True)
+        st.write(
+            """
+            Studi mengenai molekul-molekul dalam ruang tiga dimensi, yaitu bagaimana atom-atom dalam sebuah molekul ditata dalam ruangan satu relatif terhadap yang lain.
+            
+Stereoisomer: senyawa berlainan yang mempunyai struktur sama, berbeda hanya dalam hal
+penataan atom-atom dalam ruangan
+
+a. Isomer Struktural
+
+Isomer struktur adalah senyawa karbon yang mempunyai rumus molekul sama, tetapi susunan ikatannya berbeda.
+1.	Isomer Kerangka (Isomer Rantai)
+
+Isomer kerangka (isomer rantai) terjadi pada senyawa yang memiliki rumus molekul dan gugus fungsi sama, tetapi struktur kerangka atom karbonnya berbeda.
+
+2.	Isomer Posisi
+
+Isomer posisi terjadi pada senyawa yang memiliki rumus molekul sama, gugus fungsi sama, tetapi posisi gugus fungsi atau ikatan rangkapnya berbeda.
+
+3.	Isomer Fungsional (Isomer Gugus Fungsi)
+
+Isomer fungsional atau dikenal juga sebagai isomer gugus fungsi terjadi pada senyawa yang mempunyai rumus molekul yang sama, tetapi gugus fungsinya berbeda.
+
+b. Stereoisomer
+1.	Isomer geometrik atau isomer cis-trans : stereoisomer yang berbeda karena gugus-gugus berada pada satu sisi atau pada sisi-sisi yang berlawanan terhadap letak ketegaran molekul
+            """)
+        imageKO1 = Image.open('Resource/image/Kimor/Cis_trans.png')
+        st.image(imageKO1,caption = "Sumber: roboguru.ruangguru.com")
+        
     if optionKO == "Senyawa Aromatik":
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Senyawa Aromatik</h2>", unsafe_allow_html=True)
+        st.write(
+            """
+            Senyawa aromatik merupakan senyawa hidrokarbon yang memiliki ikatan tunggal dan ikatan rangkap di antara atom-atom karbonnya. Dengan syarat:            
+1.	Memiliki rantai tertutup (siklik). 
+2.	Memiliki bentuk planar atau datar.
+3.	Memiliki ikatan rangkap terkonjugasi (berselang-seling) dengan ikatan tunggal.
+4.	Memiliki jumlah elektron phi sesuai rumus 4n+2, dimana n merupakan bilangan bulat positif (0, 1, 2, 3, dst.)
+
+Sifat Fisika:
+1.	Berwujud cair dengan titik didih 80oC
+2.	Tidak berwarna, tak larut dalam air, larut dalam kebanyakan pelarut organik
+3.	Mudah terbakar dengan nyala bergelaga dan berwarna (karena kadar karbonya  tinggi).
+
+Tata nama:
+1.	Benzena Monosubstitusi
+
+Sistem IUPAC tetap memakai nama umum untuk beberapa benzena monosubstitusi, misalnya toluena, kumena, stirena. Cincin benzena diberi nama sebagai substituent yang terikat pada rantai utama
+            """)
+        imageKO1 = Image.open('Resource/image/Kimor/Benzena.png')
+        st.image(imageKO1)
+        st.write(
+            """
+            2.	Benzena Disubstitusi
+
+Jika ada 2 gugus substituen, penamaan diberikan dengan nomor atau awalan orto (o), meta (m) atau para (p).
+            """)
+        imageKO2 = Image.open('Resource/image/Kimor/Benzena_disubstitusi.png')
+        st.image(imageKO2, caption = "Sumber: roboguru.ruangguru.com")
+        st.write(
+            """
+            3.	Benzena Polisubstitusi
+                1.	Jika ada lebih dari 2 substituen penamaan ditunjukkan dengan nomor, sehingga penomoran diberikan sekecil mungkin.
+                2.	Jika ada lebih dari 2 substituent yang berbeda, penomoran diurutkan sesuai abjad.
+            """)
+        imageKO3 = Image.open('Resource/image/Kimor/Benzena_polisubstitusi.png')
+        st.image(imageKO3, caption = "Sumber: fathchemical.blogspot.com")
+        
+        
     if optionKO == "Alkohol dan Fenol":
-        st.markdown("<h2 style='text-align: center; color: raisin black;'>Alkohol dan Fenol</h2>", unsafe_allow_html=True)
+        st.markdown("<h2 style='text-align: center; color: raisin black;'>Alkohol</h2>", unsafe_allow_html=True)
+        st.write(
+            """
+            Alkohol (atau alkanol) adalah istilah umum untuk senyawa organik yang memiliki gugus hidroksil (-OH) terikat pada atom karbon.
+            
+Sifat Fisika:
+1.	Alkohol merupakan cairan tidak berwarna (jernih) dan berbau khas.
+2.	Hanya alkohol dengan struktur yang kecil/berat molekul ringan larut dalam air.
+3.	Tidak larut dalam n-heksana. 
+4.	Keasaman alkohol lebih rendah dibandingkan fenol
+5.	Titik cair dan titik didihnya meningkat sesuai dengan bertambahnya Mr alkanol
+
+-Tata nama IUPAC
+1.	Nama alkohol diambil dari nama alkana dengan akhiran ˗a diganti dengan ˗ol. Alkohol dengan dua, tiga, dan empat gugus ˗OH di antara alkana dan ˗ol diberi sisipan di, tri, tetra sehingga namanya menjadi diol, triol, dan tetrol.
+2.	Jika rantai pokok mengikat gugus alkil, penamaan dimulai dari ujung rantai yang mengandung gugus fungsi ˗OH yang paling dekat dengan gugus substitusinya
+
+-Tata nama Trivial
+1.	Pemberian namanya diawali dengan nama alkil diikuti kata alcohol
+2.	Senyawa dengan lebih dari satu gugus ˗OH disebut glikol.
+
+Reaksi penting:
+1.	Dehidrogenasi alkohol
+            """)
+        imageKO1 = Image.open('Resource/image/Kimor/Dehidrogenasi_alkohol.png')
+        st.image(imageKO1)
+        
+        st.markdown("<h2 style='text-align: center; color: raisin black;'>Fenol</h2>", unsafe_allow_html=True)
+        st.write(
+            """
+            Fenol adalah suatu rangkaian senyawa yang mengandung gugus hidroksil terikat langsung pada cincin aromatik.
+            
+Sifat Fisika:
+1.	Kelarutan fenol dalam air akan berkurang jika gugus nonpolar terikat pada cincin aromatik.
+2.	Tidak larut dalam n-heksana.
+3.	Fenol bereaksi dengan FeCl3 dan memberikan warna merah-ungu.
+4.	Keasaman fenol lebih tinggi dari alkohol.
+            """)
 
         
 #Materi Fisika Dasar
