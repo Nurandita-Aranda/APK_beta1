@@ -1350,10 +1350,10 @@ I2 menguap karena terlalu lama menunggu titrasi pH tinggi, S2O32- teroksidasi se
 Dalam titrasi iodometri, BE suatu zat dihitung dari banyaknya jumlah atom I, bukan jumlah ion I-
 BE= BM/n atom I
 """)
-        if optiontitri == "Permanganometri":
-           st.markdown("<h2 style='text-align: center; color: raisin black;'>Permanganometri</h2>", unsafe_allow_html=True)
-           st.write(
-              """
+if optiontitri == "Permanganometri":
+    st.markdown("<h2 style='text-align: center; color: raisin black;'>Permanganometri</h2>", unsafe_allow_html=True)
+    st.write(
+       """
           **Pengertian titrasi redoks**
 Titrasi yang melibatkan reaksi reduksi dan oksidasi antara titran dan titrat hingga tepat ekuivalen
 
