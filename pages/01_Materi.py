@@ -1246,7 +1246,7 @@ Svehla,G.1990.Buku Teks Analisis Anorganik Kualitatif Makro dan Semimikro.Jakart
 with tab_3:
     optiontitri = st.selectbox(
             "Pilih materi yang kamu mau",
-            ("--- Pilih Materi ---", "Pengenalan Analisis Titrimetri"))
+            ("--- Pilih Materi ---", "Pengenalan Analisis Titrimetri,"Asidimetri-Alkalimetri","Asidimetri","Alkalimetri","Pemanganometri","Iodometri"))
     if optiontitri == "Pengenalan Analisis Titrimetri":
         st.write(
             """
@@ -1312,6 +1312,8 @@ analit direaksikan dengan suatu pereaksi ,kemudian hasil reaksi di titrasi (anal
 3.	Titrasi balik /titrasi kembali ( _back titration_ ), 
 analit direaksikan dengan pereaksi berlebih. Dan kelebihan pereaksi di titrasi
             """)
+        
+         if optionKO == "Pendahuluan":
 
 
         
