@@ -1351,7 +1351,7 @@ Dalam titrasi iodometri, BE suatu zat dihitung dari banyaknya jumlah atom I, buk
 BE= BM/n atom I
 """)
       if optiontitri == "Permanganometri":
-         st.markdown("<h2 style='text-align: center; color: raisin black;'>Titrasi Redoks</h2>", unsafe_allow_html=True)
+         st.markdown("<h2 style='text-align: center; color: raisin black;'>Permanganometri</h2>", unsafe_allow_html=True)
          st.write(
             """
           **Pengertian titrasi redoks**
