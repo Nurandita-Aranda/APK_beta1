@@ -1518,10 +1518,10 @@ pH + pOH = 14
        st.image("https://lh3.googleusercontent.com/BuEzRl2oRFpiJILdxy_neSAwZZEHF-A7p-WWqy_t6X7ORGnrJHxEIPIElrj7N_T8AFFEia5qj_d8tEvnwqdRKAyE_xrFPkD6AAAY09NbAMuaFfzzKHQZXTnhczevU3obkHRTkSyg8Lcv4S6-tMjXV0oklpjllTwZOBvw740LFxeuC70Tt2hAzFu83j10EG6vqg6K95dFQMT_4MrCIqYSI13u5-cVlOSJnmJi_w6F2giyZCXuX76l-mzw063UXzs6s0fk6qIZWZ0AFJxLvhS9Gbtw06y68zrJXId-kNvqhkDbD_kZnZ4oQw04EjUqDPxPeXa8tRlqGny2L-Y5harEB1tQBK7eA19BuvN61NOUHZI2UaMTWkpa21Zg82JYDwY6XxuXME3kukf4KRE4oTEJoTwjZuKUf2n556QMB4kzTN4cFLbPudbtn1f7S2AFFteE4-2AJiZIQQsvqeeY0emPX7eIj6kT1EPD7VLnifAtBvnCavLguqYeR7cviHWAp0JY6mWAUFWR1Wvap7RnAiysh8nQ4fMuUiJ4IMzJ1lXB8QZAZKzBi2H3GAGRJ7BxI9dxQD4TJyRYbj2fA6gcqc4Uaoxpa79Ds9eQ4S5QcRyUF9Ba4R2odabveJVCSUVYz8yzJam7gW7giabSiUNAgji8XL-7jBIcqpgNEdEdCk_XHB34YndWUyZ5lMk3Sb7VWcQwLW8Yd3OAqnpARHZuFnssxuthBoSeQ-z3Kun39sgvWKDsnOD0X0hO8WBSWbFUFtyy0LFLaS79ZNzOjSt3jWytIObH-oClDdzwSt6HPmkLd37xTIouQVePjPhBJGO9KbSt0VLdBJaTB8vMzREoNAKSxxBEV5C2oK_O86jYbAjDzU81rpcValxfl6QaecsbpnwsFsb7lp9M1SHIugJxD1fVzM2tZFw4VY3Q7rAKmA9NT13v=w901-h760-s-no?authuser=0")
        st.image("https://lh3.googleusercontent.com/4uyA5mwYNBjFgRFo59Owz7HlW-p8n6aik9QZjGtRFD9VzQCnhA8kqiLGjqvGwF4HgmWQdrukQiKgQWdV2287tAaZzr0EBJNAgEDUKLRMvyomRaiNpGtyq_vbi-MH8jOWYm20s4NkHZJcYAPasbET_LPtGm9_0NqLkoInd2QQp_AcTZp7it1aHaIsOnDbO4qBHdS3D598DUdyEN0nVLDIxjPKuUIQXOQNmwPdt7bxi_kNNLb0rvyIyKVC2HaihSNMGlN_KbSMn6vjx3IDLlUyTjZ3712KdECFxc0BAFPs2NIizaew6LGAxg0xs6q52S7LY2N8Q4M9UNSy38qKdO1fZeSeGGlgrdpnLq3nAC7r9r9EXRWqVYzVii90R44kgc3pavfOY09R9Rjvr2hfN89O5iBCqrDZv7rhXEZl0VIal20cys79cL4vC8HbNar4_E3FWpjScJIigkuzv7cc9AZ8HL_wGkq5sx-hb5rzZfRrqGm1R9q2FglORvC0BZg-08imhPTHbbj0e_8tc0CWaoQzPaZFdySFpax52EJIBoFq5RKugJ0EoDqg3uzYOimoeyu9G74JnCzWUaBtyqnrrHpBpwYaKnZtojyB-1D-YQJkusoprCYz1a5JUdDsv0k27UeQlvZcwmtO_FPL6pKzUs-naBkK42zdkA3QoMsxRp8WKEtp-7H1TBAolXhrn04fUae9sCI7sglb-TqxxHtLO9hbqF_37Gy7fnpMuNq11dPr4gokrETbA2KNAqKSjOJy9AJAtnpim6Gf_DqU2bBn8u13FPZK66sYULQ6_IxvjyF-do0ZWVQ3U0AQUFkVrg4apRL1O6Pqn_cj6wCkTdDjqqde4W9NDprj6gf7QmkVt_zPpM0cb_eAusH9DYsUQlQtMBI478zLpRwRYtuOtAdhDtB3yFDhnJsbuWiTTUkBgCdErYOK=w1124-h793-s-no?authuser=0")
         
-        if optiontitri == "Asidimetri":
-           st.markdown("<h2 style='text-align: center; color: raisin black;'>Iodometri</h2>", unsafe_allow_html=True)
-           st.write(
-              """
+    if optiontitri == "Asidimetri":
+       st.markdown("<h2 style='text-align: center; color: raisin black;'>Iodometri</h2>", unsafe_allow_html=True)
+       st.write(
+          """
               **Bahan baku primer standarisasi asam (HCl)**
 Borax atau natrium tetraborat dekahidrat
 Na2B4O7.10 H2O ( BM =381,4 BE = BM/2)
