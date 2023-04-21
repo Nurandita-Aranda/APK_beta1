@@ -1253,13 +1253,14 @@ Analisis volumetri /analisis titrimetri adalah teknis analisis yang berdasarkan 
         st.write(
             """
             Istilah dalam analisis volumetri/titrimetri:
-•	Titrasi adalah proses penambahan larutan standar dari buret sedikit demi    sedikit sampai jumlah zat yang direaksikan tepat ekuivalen satu sama lain.
+            
+•	Titrasi adalah proses penambahan larutan standar dari buret sedikit demi sedikit sampai jumlah zat yang direaksikan tepat ekuivalen satu sama lain.
 •	Titran adalah zat yang diketahui konsentrasinya yang digunakan untuk menitar zat lain
 •	Titrat adalah zat yang dititrasi
-•	Titik ekuivalen ( setara) adalah titik pada saat titran yang ditambahkan tepat ekuivalen dengan titrat maka penambahan titran harus dihentikan
+•	Titik ekuivalen (setara) adalah titik pada saat titran yang ditambahkan tepat ekuivalen dengan titrat maka penambahan titran harus dihentikan
 •	Titik akhir titrasi adalah titik pada saat titrasi dihentikan yang ditandai oleh perubahan warna dari indikator
 •	Indikator : Zat yang ditambahkan ke dalam titrat sebagai penunjuk titik akhir titrasi
-•	Larutan standar ( larutan baku) adalah larutan yang konsentrasinya diketahui secara pasti
+•	Larutan standar (larutan baku) adalah larutan yang konsentrasinya diketahui secara pasti
 
 **Prinsip /reaksi titrimetri**
 •	aA + tT → produk 
