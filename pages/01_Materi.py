@@ -1459,6 +1459,16 @@ Proses titrasi dilakukan dalam atmosfer inert (mengalirkan N2atau CO2)
 Fe (II) mudah teroksidasi oleh udara dalam larutan netral, sehingga larutan harus dalam suasana asam 
 Na2S2O3 iodometri (titrasi tidak langsung)
 """)
+    if optiontitri == "Permanganometri":
+       st.markdown("<h2 style='text-align: center; color: raisin black;'>Asidimetri-Alkalimetri</h2>", unsafe_allow_html=True)
+       st.write(
+           """
+           Asidimetri-alkalimetri
+Asidimetri adalah Bila ditentukan berapa mL larutan asam yang konsentrasinya diketahui untuk menetralkan suatu larutan basa yang kadarnya dicari.
+Alkalimetri adalah bila penitar dengan memakai basa yang konsentrasinya diketahui untuk menetapkan suatu asam
+""")
+       st.image("https://lh3.googleusercontent.com/K7bmKtS-Ya75TDaiZUL6_ZAVyZZ7D19-vBrmUTaSKKsFuqWnimVMVHxrKfypBz66vrEKoHW7RvK9KRN5UZmCwrUekfGHj678FnW-JqNXCie95tt71ES90xeOfW4rXXCZXTnzncprL4XY7Mom1m3bdatP0d7FxHzaKKy-s_69DYf5OMF6LhofxdY8vB-60lxGixuI1JQpmZHr5BfOW2SBo5Gs7xvp34Zomr_LwxUq5_A3SGsqpz3rXIsbyF3YOCAz5w22mlfd9y1MmWdibeald91AcEkgoEKWmJ6cxtoI6WISiWIcMf5krEbif5VsDLRgVRO6CWLcBasKnq5CRIN1ax6dmkf8liQLwGhHrVALuSLY9AwPPsAsmZe0-G1MdDH6RNuCZgac7QdUjt67ebBYcTyYOzpF41N3iVblQKFzGLQMH7Jtv8QYZwtVED5qriBQ1bSkLEUxwPgWONGpd3vKGjV8gUBo3tnFoCj5Uzd8x9lJeNU5IxFqc_s0bKvI941M3PR7dca7AVMWGAHZoX7_r2FFd8DGoqJPUL2ZASnSUn_Bx6DJPHtpi1_Ke_Jp5zZBXEVFyAI-pIiAyYnw8THYC7J1P3rR2QdRIQjOWRXQv39Q44w2LReNUrpsn7zMHlYBTF9VecD_HFg_mLFKiCIxg9neAaUqxna2H3_uevThIZyrZwX69G1S1bufkwbb-Ly5OWdp0DPZIKEI0n2yxW2gDhYW8jtcY4lWemYSTHEDNQKYtaDQswlbLO9MUMEodQF3WITeIzSjclTwuKPOgmIZ3oybOcl99rfUF0vng6t1Tv2alpHyjabTl0apqEpG0Y04CpXJG-aMKV7eXE4yWhN23mHTwqAGImQ0MdGiSc4aUlq_nXG1cyF96yAiN0HKXp5nVm92_PD5YfvtVRqRvZlJWuk86IwamomRHauUry0t9BuX=w341-h475-s-no?authuser=0")
+       
    
                                     
 #Materi Kimia Organik
