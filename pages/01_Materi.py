@@ -1306,31 +1306,34 @@ analit direaksikan dengan suatu pereaksi ,kemudian hasil reaksi di titrasi (anal
 analit direaksikan dengan pereaksi berlebih. Dan kelebihan pereaksi di titrasi
             """)
         
-    if optiontitri == "Asidimetri-Alkalimetri":
-        st.write(
+   if optiontitri == "Asidimetri-Alkalimetri":
+      st.write(
      """
         **Definisi**
                  
 Asidimetri adalah Bila ditentukan berapa mL larutan asam yang konsentrasinya diketahui untuk menetralkan suatu larutan basa yang kadarnya dicari.
 Alkalimetri adalah bila penitar dengan memakai basa yang konsentrasinya diketahui untuk menetapkan suatu asam
-  """)
-        st.write(
-            """"
+""")
+             
     imageT2 = Image.open('https://photos.google.com/album/AF1QipMtURMIugvHaK2SJe0kSCSQU8q3mhb_Qnj-uoLA/photo/AF1QipO8o-id9IrsRToY3guqKB5uz2GXQqosHD4Wx-06')
     imageT3 = Image.open('https://photos.google.com/album/AF1QipMtURMIugvHaK2SJe0kSCSQU8q3mhb_Qnj-uoLA/photo/AF1QipPV7EzOlEi8ECqurxhj31Ot6MYok-uA42HmOhUj')
     st.image(imageT2)
     st.image(imageT3)
     st.write(
-        """"
+        """)
             
 **Pemilihan Indikator**
 • Indikator asam – basa adalah zat yang dapat berubah warna apabila pH lingkungannya berubah
 • Warna dalam keadaan asam dinamakan warna asam
 • Warna yang ditunjukkan dalam keadaan basa dinamakan warna basa
-             
+""")
+    st.write(
+        """
+                
 **Jenis indikator asam-basa**
              imageT4 = image.open('https://photos.google.com/album/AF1QipMtURMIugvHaK2SJe0kSCSQU8q3mhb_Qnj-uoLA/photo/AF1QipPb0XDVP08i4wMzRE_Kh56bbVzlrevIbsQfG-Hd')
              st.image(imageT4)
+
                             
 **Indikator asam-basa berubah warna bila pH lingkungannya berubah**
 • Indikator asam-basa ialah asam organik lemah, jadi dalam larutan mengalami kesetimbangan pengionan.
@@ -1342,10 +1345,14 @@ Alkalimetri adalah bila penitar dengan memakai basa yang konsentrasinya diketahu
 • Letak trayek pH pada pH tinggi, atau rendah atau ditengah, tergantung dari nilai ka, kb indicator
           HIn  ⇌   H+ + In-
     (warna A)        (warna B)   
+    """)
+    st.write(
+    """
              
 **Suatu indicator pH digunakan untuk menunjukkan titik akhir**
 1. Indicator harus berubah warna tepat pada saat titran menjadi ekivalen dengan titrat agar tidak terjadi kesalahan titrasi. Untuk mengatasinya trayek indicator harus mencakup pH larutan pada titik ekivalen
 2. Perubahan warna itu harus terjadi dengan mendadak(jelas). Untuk mengatasinya trayekindicator harus memotong bagian yang curam dari kurva
+
              
 **Titik ekuivalen**
 • Titrasi asam kuat oleh basa kuat , pH titik ekuivalen = 7
@@ -1373,8 +1380,9 @@ pH + pOH = 14
              imageT8 = image.open('https://photos.google.com/album/AF1QipMtURMIugvHaK2SJe0kSCSQU8q3mhb_Qnj-uoLA/photo/AF1QipO087SpIdl4YAyler8UpfdlNHm-idZpKuLum6QK','https://photos.google.com/album/AF1QipMtURMIugvHaK2SJe0kSCSQU8q3mhb_Qnj-uoLA/photo/AF1QipOFqgF4Hs_Wp8esdimsoathDE8dJhjyB5MJxJ6E')
              st.image(imageT8)
              
-              if optiontitri == "Asidimetri":
-            
+             if optiontitri == "Asidimetri":
+             st.write(
+              """
 **Bahan baku primer standarisasi asam (HCl)
 Borax atau natrium tetraborat dekahidrat
 Na2B4O7.10 H2O ( BM =381,4 BE = BM/2)
@@ -1392,6 +1400,8 @@ Ditimbang teliti  ± 1500 mg boraks dengan kaca arloji, larutkan ke dalam labu t
 Ditimbang teliti  ± 1500 mg boraks dengan kaca arloji, larutkan ke dalam labu takar 100 mL dan tepatkan sampai tanda garis, lalu homogenkan. Larutan dipipet sebanyak 25 mL ke dalam Erlenmeyer, tambahkan 2 tetes indikator MM kemudian dititar dengan larutan HCl 0,1 N sampai larutan berubah warna menjadi merah
 imageT10 = image.open('https://lh3.googleusercontent.com/DF4YDjLZlW330Py16UsNlUS_VLOrbCBP4kLYIAc2eWz95mr69l8HcKAyPpUcCVgYS4Dln5QAmT5H3P-WebQ-xpMKPETWU-JJahsGV9sLR9N43gV_tY3CKuVgW-C-dRFMN0X4OJqVrBqcNV0C-Gxnmo5zqmG274DIWBcPlS8mutvoDpw_twtEWs57ra9KgfyZ0ijbStpjim-8ry9gknsQTzqe8rYE1aaQD2Fu_crIvaEJWHeM6jIqI0EwT8jhg53kJwJNf8hodvQbA91qiKNJyw0jIx4PmDgOIbZgW4444jPOiyy99Ws6F9aJ3N0iNFm6zhwKRyPBGO4uZSV5bx1BfVogTCEGdVl-OBYOcjCFpjmLr0PXgLT1QurBWGClxcCFChxRpDS5Yz3J7dLUGFrQYGB7nuJfH09HnJWhNLpC2IEiul6PsPnWj_Rpoq9Qc7GQkmbwQ6hEXrT0M4CVkpNgNSnnnrWMxA5dWbaDBu001-Ee77O7Qeyp21bZmV7c8ThiYKzEx1QCDG1IgNuLbrgrMHKiDEMbSNA7OhFz3o1-E6TztAMPJbaejS-I-KYpoxRsOmaaQh3yBWixz8tiw7AbPSrxmfV-E1R875XbcFamTvvYVXtdg97GfCvpOr8LVXjWMmfcTr3EWyB3qGbh5hyUKRTiA2v3P2xrrGWr5G87gRjbjJLiGuGBio0odqIs6O_l9zGk4NeBTNbCwPi_yPhpAAyRu_BhTb2z4OPZuEnwgTwW69eqDFxZLC2KkXw0eHIvKcZNjJjWLwMpAXywf0oqSkrQK4P72hfZzVi_wMHB03YKHyMhDthTC352ZfEdBsqwYIt18QmNxlA9MESTEYhy-tYDi1YFjvmZfsTABP-0Gv6A8VzB50gHieqvUgiTt3Gr9GK2Ew-F7TBrde3LeoFJYSAnqNGuEC9mlSvLMpmf0U1I=w840-h188-s-no?authuser=0')
 st.image(imageT10)
+        st.write(
+            """
 
 **Penetapan Kadar NaOH dan Na2CO3 dalam Campuran Secara (WARDER)**
 Na2CO3 dan NaOH dalam sampel campuran dapat ditentukan kadar
@@ -1399,6 +1409,7 @@ masing-masing dengan titrasi asam-basa menggunakan larutan standar
 HCl dengan 2 indikator (pp dan SM).
 Tahap 1: Digunakan indikator pp, HCl akan bereaksi terlebih dahulu dengan natrium hidroksida, dilanjutkan dengan reaksi ion karbonat menjadi hidrogen karbonat (bikarbonat).
 Tahap 2: Ditambahkan indikator SM, HCl bereaksi dengan ion hidrogen karbonat (bikarbonat)
+      
 
 **Reaksi** 
                PP
@@ -1415,13 +1426,18 @@ Tahap 2: Ditambahkan indikator SM, HCl bereaksi dengan ion hidrogen karbonat (bi
 **Kadar Na2CO3 dan NaOH**
 imageT13 = image.open('https://lh3.googleusercontent.com/HtpMaguhLPN_nID5PgI72N1ncIE7c3_f69KA8Imb1c0jDG064urufeeR1EoQy8v2H9RWgg58dPGOs4kwGYMNQOaNoZ-wd4M8NU_zdr__NOY5V4ryzMG2f3Er8ll5kyVCyDfvVpvSiQrBOq17U75vMRVR9r7HaurH43qxVDynfVzc8VVoHIfvngENEliFq6kxGpv5B3yW8uuDRwwEdcUwsGzPNzjdNd0Qa82SRmDsd0V5mP8Qj65SdV3oYa023EqNrORvkDHxj3_xUWZB5E22_7GlJVCVC9qBf3Q5TjbO1BjNP68n1Spl1rWU0byi0ZHyreqtEE6riZhWD_1ufoU1LUdxI4iP6EXa0EdjsP6WkdeG05qlEA5MRfoQ9lNm6tZwc6cG_H7Y7SjnW9bUVqUdXIIOKSCWLJDoKgDxxmLB_mblpjPgBybz4yNUJg7GwLYm2UwhyjKsFLZkGWbl68Dq1TR4zLhG9VpQpjzCKOOIp4KCde8m14rir3cwYYLj6uUx0np7HsGIo_MGnnbo_U-dicu7vf7DKxZspQD7Vazh6Zr9zOu4GKuSvneDSeYwDyOsX3gIevHjUhcDdR0e_IvA6RZVbOwnjWjCA2CX0CiGTeL5zvvFk7TttR0wV3N-8EguCPj03TzVehrQoDmnECwTQ3KoOfoyrUvRTI_xb7SfKvjSLoW4h0GygkB1cJpng5WYSFK6v1FEHZPW3OvlJd93pw5dPmHRTsWxvcF8PMbBRbxykZy3QrYhwFiwmjiXDHJVmTkmZ02adU3xUeUXODKvZAeZMxLvkCVXKW63zPrmmtZuzUnC3fUJbVjXF8t4BsTPMBldLntzxYZ0-Tye66L0v-QcYFEeZI8pA4JokEZ8hHBMJzLHlrNc4CVnt5iG9iksGTzI8onujtLCBiG-22v5dbdvN8IpltxU4TqnUqhaddBg=w607-h327-no?authuser=0')
 st.image(imageT13)
+        st.write(
+            """)
                   
                   if optiontitri == "Alkalimetri":
+        st.write(
+            """
                   
                  **Larutan standar (larutan baku)**
 Larutan standar adalah larutan yang digunakan sebagai titran yang konsentrasinya di ketahui secara pasti
                  Larutan standar terdiri dari :
 Larutan standar primer adalah larutan yang konsentrasinya harus diketahui dengan teliti dengan cara penimbangan zat yang dilarutkan dalam volume tertentu.
+st
 
 **Syarat-syarat larutan standar primer**
 1. Zat harus mudah diperoleh, murni, mudah dikeringkan
@@ -1440,9 +1456,12 @@ Standardisasi ialah suatu usaha menentukan konsentrasi yang tepat dari larutan b
 Ditimbang teliti ± 630 mg asam oksalat dengan kaca arloji, larutkan ke dalam labu takar 100 mL dan tepatkan sampai tanda garis, lalu homogenkan. Larutan dipipet sebanyak 25 mL ke dalam Erlenmeyer, tambahkan 2 tetes indikator PP kemudian dititar dengan larutan NaOH 0,1 N sampai larutan berubah warna menjadi merah muda
                  imageT13 = image.open('https://lh3.googleusercontent.com/uQmIvCLBGbD2BoEraoj6yBJoSQVymrKs6tU_kKZwru-OtRR7Nthgv4XNMRsNHXi1MiP6CUD9W7-WiPKXn7kqDt5EX7n8HnUMN3C75FePR3rpvq2PW-p56n3Ox3Rsjc2FPZJbhShX5K5B_RvOdS9ZoZ8KuzE-ughD6aXpheFfodrn81dg_SmEE0WvamzfD1H2TVukc3_Z6pwSjN7o0-jbVY4CkQcZIpaFrCkXoZtCAgxYzKfTzqFf4voV9e3OJ95rEHyZ7p1jRcD6n1Fah4u1tBv5XxqdLE_0JKf-UscLXqTOVdto-ZqbxQ9Mpua_NZSfSqtePw4rXvOBFzpMmOrfSY_YsRA28r1F78-qyvhh57S6swWb7B0Sy21VRNRcmfg4qo-p-0OKx7Ltwf77cJuwlOO7GmV7yAFZcnyZAGpMBIDWqmSpb_NwZYtyL-udyWsyQnyymGEboj1wN-pT-2LHyl5czf1WrLiD9sdy_z29TZ-r19GXqXV5zEewpHStuHI9UuhlBZgC1xcZJgWQ0Vj8zhJ3FrU-DSt1LbLd1rNctUuzSIcuIzpRZBGYhvBcJSN334-dDSqmB0pDJOT83DvRqiq7b6tPz9CuMyliadskTC1Ln6x-hiJmj2EViSsJWUDBUic2jCZ7TMFixNekPqcSx9a11fmkYxSBrqZJrG5HIUZW6yWEkmBNG3uRyeDLuyL80snMuN3JZS4O66FG7OO10IPbKCw4T144fdvRYcgMFgCypnibK-JdPzLduCNYEcz3t-eh4KcedHWPmEzdKMrg08s1K4T5DNXtsyFalgWXdMboLekK8Td8-PGduiEyG8oBd49ZQeiVTIcxXmUuQ_ZiIu-VNVyxAPMRfvyPmPMZ6CTDBlLJHT3LnGmVuDvmDwYVxZebxF6EKbPrd3HlAJJMha0jTuRDBzrgfRt1oa_ghCsm=w1016-h159-no?authuser=0')
                  st.image(imageT13)
+  
+                 
 **Standarisasi NaOH secara langsung tanpa pelarutan secara kuantitatif**
 Ditimbang teliti  ± 157,5 mg asam oksalat dan dimasukkan ke dalam Erlenmeyer kemudian ditambahkan air suling kira-kira 25 mL. Ke dalam larutan ditambahkan 2 tetes indikator PP kemudian dititar dengan larutan NaOH 0,1 N sampai larutan berubah warna menjadi merah muda
                  imageT14 = image.open('https://photos.google.com/album/AF1QipMtURMIugvHaK2SJe0kSCSQU8q3mhb_Qnj-uoLA/photo/AF1QipPAI7lstYnCulCJ4nPYVJPPySAOliZgs6SqhLoJ')
+                 st.image(imageT14)
                  
 **Penetapan kadar asam asetat dalam cuka makan**
 Dipipet 5 mL contoh cuka makan ke dalam labu takar 250 mL kemudian ditepatkan dengan air suling sampai tanda tera. Dipipet 25 mL larutan tersebut ke dalam Erlenmeyer. Tambahkan 2 sampai 3 tetes indikator PP lalu dititar dengan NaOH 0,1 N (yang sudah distandarisasi).
@@ -1451,6 +1470,8 @@ Menghitung kadar analit:
                  imageT16 = image.open('https://lh3.googleusercontent.com/mj-tmX4oV5JYZ7x3iDxIScPkefjEd5cuV8tO5H7-moYWk033JWzDSiSjaGkdZcME52iJ3x12_tYhQOMFFqx8FMlWzm3BPJueeGMziHabKElcsoJZFbgozmj9OJMCdv7R7YLHfigZDsAdINJh3gpVwAucN6sqsVjuJOWU0_mReteC3F5D3yjiOkGLLKqJGS6q7EFIBV8TNbJ8YQeP_04DI135wZYCQzl4OHQ448bSxtzFuULutAiAQCsdp_cX488OOzfHHnQLIFW99CLMAjqc9SinmjtqrWiKmzMDFX_YqAo8q_g-gPM8cPps2s7nwKQWqeoJEZNewp0eDEUgxhjS6iQZhV6fLIgZksPA1tlpScXXI-8EB7eHIvy8l53cMrj4yCOMRszGvIHVqzLnWfhOl-g79jixl6wgl9MVhcisS4lmOQZI1qVCC_mmh5qOXi2-1YDUvoU0qG29DnfQHWZdX5_gkblXyhVhVe1thqHENXesZ0xSPyvYrqsWCSTx7vhpFpm8Mg_ee5vczXKVimgOFzdNRxRkhHAYlRIMuBr1-0f138Dv_OSauF_1FJWHBbwWlgE5lW63iSblG5DxEKXE34bWjeteR25EgPFkTD3b7Nz9hCGcNCl59Tr3s1xZXSb3iOp7gNAV59Zh6AzwneGG1r7fMrBvz5n0Zv22fA2GIiD8Lp_UefWV5xkeDlDQGC-W2AzNeDQWVKSsIt86EMd87C0lV6FYBuy3TQYGpTQkPKRoRRNrH4h1VIX66p7um-AbrLwK4N-OOVwJHwtkzL8G_IN9bOQY17IbNIkJAXvi1DBy2d6M5xC7mlIFUA4YW6As9Dx10VfEL2chem4pGNpdUOiAU8jawxTxUxG8k_3QRRCJnAVzoa75HDsCSoc87X1F7OwVnU8EldA4SeCVimqhYvIOgq3WCDPdeGfTPIjSstvs=w1112-h362-s-no?authuser=0')
                  st.image(imageT15)
                  st.image(imageT16)
+                 st.write(
+                 """)
 
                  
       
