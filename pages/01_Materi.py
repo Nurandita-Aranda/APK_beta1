@@ -1377,20 +1377,97 @@ pH + pOH = 14
              st.image(imageT8)
              
               if optiontitri == "Asidimetri":
-             
-                                  
-         
+             st.write(
+                 """
+**Bahan baku primer standarisasi asam (HCl)
+Borax atau natrium tetraborat dekahidrat
+Na2B4O7.10 H2O ( BM =381,4 BE = BM/2)
+Na2B4O7 + 5H2O → 2NaH2BO3 + 2H3BO3
+2NaH2BO3 + 2HCl → 2NaCl + 2H3BO3
+Na2B4O7 + 5H2O + 2HCl →  2NaCl + 4H3BO3
+Natrium karbonat ( Na2CO3) ( BM = 105,96)
+Na2CO3 + HCl →   NaHCO3 + NaCl
+NaHCO3 + HCl  →  NaCl + H2O + CO2
 
+**Standardisasi HCl 0,1 N dengan Bahan Baku Primer Boraks**
+Ditimbang teliti  ± 1500 mg boraks dengan kaca arloji, larutkan ke dalam labu takar 100 mL dan tepatkan sampai tanda garis, lalu homogenkan. Larutan dipipet sebanyak 25 mL ke dalam Erlenmeyer, tambahkan 2 tetes indikator MM kemudian dititar dengan larutan HCl 0,1 N sampai larutan berubah warna menjadi merah
 
+**Standardisasi HCl 0,1 N dengan Bahan Baku Primer Boraks
+Ditimbang teliti  ± 1500 mg boraks dengan kaca arloji, larutkan ke dalam labu takar 100 mL dan tepatkan sampai tanda garis, lalu homogenkan. Larutan dipipet sebanyak 25 mL ke dalam Erlenmeyer, tambahkan 2 tetes indikator MM kemudian dititar dengan larutan HCl 0,1 N sampai larutan berubah warna menjadi merah
+imageT10 = image.open('https://lh3.googleusercontent.com/DF4YDjLZlW330Py16UsNlUS_VLOrbCBP4kLYIAc2eWz95mr69l8HcKAyPpUcCVgYS4Dln5QAmT5H3P-WebQ-xpMKPETWU-JJahsGV9sLR9N43gV_tY3CKuVgW-C-dRFMN0X4OJqVrBqcNV0C-Gxnmo5zqmG274DIWBcPlS8mutvoDpw_twtEWs57ra9KgfyZ0ijbStpjim-8ry9gknsQTzqe8rYE1aaQD2Fu_crIvaEJWHeM6jIqI0EwT8jhg53kJwJNf8hodvQbA91qiKNJyw0jIx4PmDgOIbZgW4444jPOiyy99Ws6F9aJ3N0iNFm6zhwKRyPBGO4uZSV5bx1BfVogTCEGdVl-OBYOcjCFpjmLr0PXgLT1QurBWGClxcCFChxRpDS5Yz3J7dLUGFrQYGB7nuJfH09HnJWhNLpC2IEiul6PsPnWj_Rpoq9Qc7GQkmbwQ6hEXrT0M4CVkpNgNSnnnrWMxA5dWbaDBu001-Ee77O7Qeyp21bZmV7c8ThiYKzEx1QCDG1IgNuLbrgrMHKiDEMbSNA7OhFz3o1-E6TztAMPJbaejS-I-KYpoxRsOmaaQh3yBWixz8tiw7AbPSrxmfV-E1R875XbcFamTvvYVXtdg97GfCvpOr8LVXjWMmfcTr3EWyB3qGbh5hyUKRTiA2v3P2xrrGWr5G87gRjbjJLiGuGBio0odqIs6O_l9zGk4NeBTNbCwPi_yPhpAAyRu_BhTb2z4OPZuEnwgTwW69eqDFxZLC2KkXw0eHIvKcZNjJjWLwMpAXywf0oqSkrQK4P72hfZzVi_wMHB03YKHyMhDthTC352ZfEdBsqwYIt18QmNxlA9MESTEYhy-tYDi1YFjvmZfsTABP-0Gv6A8VzB50gHieqvUgiTt3Gr9GK2Ew-F7TBrde3LeoFJYSAnqNGuEC9mlSvLMpmf0U1I=w840-h188-s-no?authuser=0')
+st.image(imageT10)
 
+**Penetapan Kadar NaOH dan Na2CO3 dalam Campuran Secara (WARDER)**
+Na2CO3 dan NaOH dalam sampel campuran dapat ditentukan kadar
+masing-masing dengan titrasi asam-basa menggunakan larutan standar
+HCl dengan 2 indikator (pp dan SM).
+Tahap 1: Digunakan indikator pp, HCl akan bereaksi terlebih dahulu dengan natrium hidroksida, dilanjutkan dengan reaksi ion karbonat menjadi hidrogen karbonat (bikarbonat).
+Tahap 2: Ditambahkan indikator SM, HCl bereaksi dengan ion hidrogen karbonat (bikarbonat)
 
+**Reaksi** 
+               PP
+1). NaOH + HCl  →    NaCl + H2O                             
+                 PP
+2). Na2CO3 + HCl  →  NaHCO3 + NaCl
+                 SM
+    NaHCO3 + HCl  →  NaCl + CO2 + H2O 
+    imageT11 = image.open('https://photos.google.com/album/AF1QipMtURMIugvHaK2SJe0kSCSQU8q3mhb_Qnj-uoLA/photo/AF1QipOIEQ0kP3X3pKDo8ofXGoX3RPD6tI5Flj0rEqwc')
+    image12 = image.open('https://photos.google.com/album/AF1QipMtURMIugvHaK2SJe0kSCSQU8q3mhb_Qnj-uoLA/photo/AF1QipPWR2mfEZf1iGNPPm-4RVkXsmTCman6uSWuQJpF')
+    st.image(imageT11)
+    st.image(imageT12)
+    
+**Kadar Na2CO3 dan NaOH**
+imageT13 = image.open('https://lh3.googleusercontent.com/HtpMaguhLPN_nID5PgI72N1ncIE7c3_f69KA8Imb1c0jDG064urufeeR1EoQy8v2H9RWgg58dPGOs4kwGYMNQOaNoZ-wd4M8NU_zdr__NOY5V4ryzMG2f3Er8ll5kyVCyDfvVpvSiQrBOq17U75vMRVR9r7HaurH43qxVDynfVzc8VVoHIfvngENEliFq6kxGpv5B3yW8uuDRwwEdcUwsGzPNzjdNd0Qa82SRmDsd0V5mP8Qj65SdV3oYa023EqNrORvkDHxj3_xUWZB5E22_7GlJVCVC9qBf3Q5TjbO1BjNP68n1Spl1rWU0byi0ZHyreqtEE6riZhWD_1ufoU1LUdxI4iP6EXa0EdjsP6WkdeG05qlEA5MRfoQ9lNm6tZwc6cG_H7Y7SjnW9bUVqUdXIIOKSCWLJDoKgDxxmLB_mblpjPgBybz4yNUJg7GwLYm2UwhyjKsFLZkGWbl68Dq1TR4zLhG9VpQpjzCKOOIp4KCde8m14rir3cwYYLj6uUx0np7HsGIo_MGnnbo_U-dicu7vf7DKxZspQD7Vazh6Zr9zOu4GKuSvneDSeYwDyOsX3gIevHjUhcDdR0e_IvA6RZVbOwnjWjCA2CX0CiGTeL5zvvFk7TttR0wV3N-8EguCPj03TzVehrQoDmnECwTQ3KoOfoyrUvRTI_xb7SfKvjSLoW4h0GygkB1cJpng5WYSFK6v1FEHZPW3OvlJd93pw5dPmHRTsWxvcF8PMbBRbxykZy3QrYhwFiwmjiXDHJVmTkmZ02adU3xUeUXODKvZAeZMxLvkCVXKW63zPrmmtZuzUnC3fUJbVjXF8t4BsTPMBldLntzxYZ0-Tye66L0v-QcYFEeZI8pA4JokEZ8hHBMJzLHlrNc4CVnt5iG9iksGTzI8onujtLCBiG-22v5dbdvN8IpltxU4TqnUqhaddBg=w607-h327-no?authuser=0')
+st.image(imageT13)
+                  
+                  if optiontitri == "Alkalimetri":
+                     st.write(
+                     """
+                 **Larutan standar (larutan baku)**
+Larutan standar adalah larutan yang digunakan sebagai titran yang konsentrasinya di ketahui secara pasti
+                 Larutan standar terdiri dari :
+Larutan standar primer adalah larutan yang konsentrasinya harus diketahui dengan teliti dengan cara penimbangan zat yang dilarutkan dalam volume tertentu.
+
+**Syarat-syarat larutan standar primer**
+1. Zat harus mudah diperoleh, murni, mudah dikeringkan
+2. Zat tak berubah selama penimbangan, stabil, tidak higroskopis
+3. Mudah diperiksa kemurniannya
+4. Mudah larut
+5. Reaksi dengan larutan standar harus stoikiometri dan cepat
+                 
+**Larutan standar sekunder**
+larutan yang dapat digunakan untuk standarisasi atau menentukan kadar zat lain dan konsentrasinya sudah distandarisasi dengan suatu standar primer
+                 
+**Standardisasi**
+Standardisasi ialah suatu usaha menentukan konsentrasi yang tepat dari larutan baku yang akan digunakan untuk titrasi.
+                 
+**Standarisasi NaOH
+Ditimbang teliti ± 630 mg asam oksalat dengan kaca arloji, larutkan ke dalam labu takar 100 mL dan tepatkan sampai tanda garis, lalu homogenkan. Larutan dipipet sebanyak 25 mL ke dalam Erlenmeyer, tambahkan 2 tetes indikator PP kemudian dititar dengan larutan NaOH 0,1 N sampai larutan berubah warna menjadi merah muda
+                 imageT13 = image.open('https://lh3.googleusercontent.com/uQmIvCLBGbD2BoEraoj6yBJoSQVymrKs6tU_kKZwru-OtRR7Nthgv4XNMRsNHXi1MiP6CUD9W7-WiPKXn7kqDt5EX7n8HnUMN3C75FePR3rpvq2PW-p56n3Ox3Rsjc2FPZJbhShX5K5B_RvOdS9ZoZ8KuzE-ughD6aXpheFfodrn81dg_SmEE0WvamzfD1H2TVukc3_Z6pwSjN7o0-jbVY4CkQcZIpaFrCkXoZtCAgxYzKfTzqFf4voV9e3OJ95rEHyZ7p1jRcD6n1Fah4u1tBv5XxqdLE_0JKf-UscLXqTOVdto-ZqbxQ9Mpua_NZSfSqtePw4rXvOBFzpMmOrfSY_YsRA28r1F78-qyvhh57S6swWb7B0Sy21VRNRcmfg4qo-p-0OKx7Ltwf77cJuwlOO7GmV7yAFZcnyZAGpMBIDWqmSpb_NwZYtyL-udyWsyQnyymGEboj1wN-pT-2LHyl5czf1WrLiD9sdy_z29TZ-r19GXqXV5zEewpHStuHI9UuhlBZgC1xcZJgWQ0Vj8zhJ3FrU-DSt1LbLd1rNctUuzSIcuIzpRZBGYhvBcJSN334-dDSqmB0pDJOT83DvRqiq7b6tPz9CuMyliadskTC1Ln6x-hiJmj2EViSsJWUDBUic2jCZ7TMFixNekPqcSx9a11fmkYxSBrqZJrG5HIUZW6yWEkmBNG3uRyeDLuyL80snMuN3JZS4O66FG7OO10IPbKCw4T144fdvRYcgMFgCypnibK-JdPzLduCNYEcz3t-eh4KcedHWPmEzdKMrg08s1K4T5DNXtsyFalgWXdMboLekK8Td8-PGduiEyG8oBd49ZQeiVTIcxXmUuQ_ZiIu-VNVyxAPMRfvyPmPMZ6CTDBlLJHT3LnGmVuDvmDwYVxZebxF6EKbPrd3HlAJJMha0jTuRDBzrgfRt1oa_ghCsm=w1016-h159-no?authuser=0')
+                 st.image(imageT13)
+**Standarisasi NaOH secara langsung tanpa pelarutan secara kuantitatif**
+Ditimbang teliti  ± 157,5 mg asam oksalat dan dimasukkan ke dalam Erlenmeyer kemudian ditambahkan air suling kira-kira 25 mL. Ke dalam larutan ditambahkan 2 tetes indikator PP kemudian dititar dengan larutan NaOH 0,1 N sampai larutan berubah warna menjadi merah muda
+                 imageT14 = image.open('https://photos.google.com/album/AF1QipMtURMIugvHaK2SJe0kSCSQU8q3mhb_Qnj-uoLA/photo/AF1QipPAI7lstYnCulCJ4nPYVJPPySAOliZgs6SqhLoJ')
+                 
+**Penetapan kadar asam asetat dalam cuka makan**
+Dipipet 5 mL contoh cuka makan ke dalam labu takar 250 mL kemudian ditepatkan dengan air suling sampai tanda tera. Dipipet 25 mL larutan tersebut ke dalam Erlenmeyer. Tambahkan 2 sampai 3 tetes indikator PP lalu dititar dengan NaOH 0,1 N (yang sudah distandarisasi).
+Menghitung kadar analit:
+                 imageT15 = image.open('https://lh3.googleusercontent.com/Jnx9xx7vnpQJtbbttbyXd_2yadkWFFrDj6HHBIaiP9a7Y4spgfE0CYhlx2RDCsXFbcDDDcVENq4pmJ1xDSIlm9TPMjrFCIRq7iPlJAzrCDvd2qa_RIjGj6s9W1uG--MylkkUmmvV-jUps8jqeFcbEbHXyhUiHGIRFP9CbvqnFP1CySd7pnT7Fv7a_hjIOCTURR5IWzdv9SInkpo8aJV07fyVDCYOv6u1KzVX3OxHdWcIqBiJJn9d01E2EOC53_Xwe9O8tWz4yb4XDNxKzZVBHmKTlN28QHGjrvOBK3shNYPAD1PryYTgs4AK-lIowG13JhJTbYtjU3hzLC-qyu7Cu_IzryYUEajgg4uceH20LJIIWU21xb_JXArUw3P9o0wkeXcg77HJtGgJ_Mdt1zNChFIgdS73z8cYCyLJpxJXM1ZhkjORBAc_vfFOf21pm8_UZAER_iM4M4_JfVOz129_d7p2hm3vaf4oW2ImHpNe-lwJxAWrRyxzFzqfhbFV2zMJtWZLNR7igKY0Eskz7UqVb4oFMLTEVKohdbkxX4YBZihGehCB8F6Az1PS9Glf5sNBunecD4_wr0KDmoozfeRX1Ti_fdSxKH3DRF9qLUO30CsJM_gb77wwENvLt4oyxJe24q8w0yMuumh_hd9RjJD_Uu9oaFbuNEj-bMiCgITiUw3eNnvgG7YDsa3gtnyKGC5Bk6NPlsmF--0mPJ7-Ar-2EVM5NfQNH1W0UjNB2H8wGSlyIOxzCZudF4uOD66p5qE4mai9N35djNXvwO4BWV7jSDoT2olQABKPg1x76bICcNFUR6_ZnCmfo2O1V-EkmAkfCs5QLfRt0_dmBx8rlanQqcungpE4MY2AsNHUhc14DdaWen1ags536KxNJXRBF9hs6eWJViDVNcczXN_HB9GHDJHrRwdBihzrXzYGh9dj4CZy=w1121-h436-s-no?authuser=0')
+                 imageT16 = image.open('https://lh3.googleusercontent.com/mj-tmX4oV5JYZ7x3iDxIScPkefjEd5cuV8tO5H7-moYWk033JWzDSiSjaGkdZcME52iJ3x12_tYhQOMFFqx8FMlWzm3BPJueeGMziHabKElcsoJZFbgozmj9OJMCdv7R7YLHfigZDsAdINJh3gpVwAucN6sqsVjuJOWU0_mReteC3F5D3yjiOkGLLKqJGS6q7EFIBV8TNbJ8YQeP_04DI135wZYCQzl4OHQ448bSxtzFuULutAiAQCsdp_cX488OOzfHHnQLIFW99CLMAjqc9SinmjtqrWiKmzMDFX_YqAo8q_g-gPM8cPps2s7nwKQWqeoJEZNewp0eDEUgxhjS6iQZhV6fLIgZksPA1tlpScXXI-8EB7eHIvy8l53cMrj4yCOMRszGvIHVqzLnWfhOl-g79jixl6wgl9MVhcisS4lmOQZI1qVCC_mmh5qOXi2-1YDUvoU0qG29DnfQHWZdX5_gkblXyhVhVe1thqHENXesZ0xSPyvYrqsWCSTx7vhpFpm8Mg_ee5vczXKVimgOFzdNRxRkhHAYlRIMuBr1-0f138Dv_OSauF_1FJWHBbwWlgE5lW63iSblG5DxEKXE34bWjeteR25EgPFkTD3b7Nz9hCGcNCl59Tr3s1xZXSb3iOp7gNAV59Zh6AzwneGG1r7fMrBvz5n0Zv22fA2GIiD8Lp_UefWV5xkeDlDQGC-W2AzNeDQWVKSsIt86EMd87C0lV6FYBuy3TQYGpTQkPKRoRRNrH4h1VIX66p7um-AbrLwK4N-OOVwJHwtkzL8G_IN9bOQY17IbNIkJAXvi1DBy2d6M5xC7mlIFUA4YW6As9Dx10VfEL2chem4pGNpdUOiAU8jawxTxUxG8k_3QRRCJnAVzoa75HDsCSoc87X1F7OwVnU8EldA4SeCVimqhYvIOgq3WCDPdeGfTPIjSstvs=w1112-h362-s-no?authuser=0')
+                 st.image(imageT15)
+                 st.image(imageT16)
 
                  
-             
-             
+      
 
 
-        
+
+
+
+
+         
+
+                           
 #Materi Kimia Organik
 with tab_4:
     optionKO = st.selectbox(
@@ -1687,7 +1764,7 @@ Sifat Fisika:
 2.	Tidak larut dalam n-heksana.
 3.	Fenol bereaksi dengan FeCl3 dan memberikan warna merah-ungu.
 4.	Keasaman fenol lebih tinggi dari alkohol.
-            """)
+                 """)
 
         
 #Materi Fisika Dasar
