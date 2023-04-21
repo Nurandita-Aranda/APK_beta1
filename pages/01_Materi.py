@@ -1579,11 +1579,11 @@ Reaksi
            """)
     
        st.image("https://lh3.googleusercontent.com/t_10rWx3oSiA1R_gLHzDmjDexe7WSnBZJNu-tXh2xUah5oiTUWFIWsMkios30E3QSqneLus9MxAJSnAf8U13wCGITiXTRBHOCZOmNCiJNg-5F9PvqoAEVczGR6P1DZIdjgZKC2BNAJFDFen-u2Dij1LHWHQgiZDYjTYpO_kkI-9b91FUBXdBFunKyz0MwUwkNoPf8vtnP6dcf10g_dCAuuTsKIlirkKMVC_VPlkXRMy4_oCQ1H68iBIZ9c0FzYyF9qF2PZ0rAWdBIgd1LN8vok05eWvmIepi3D2pQS0Mp-B54bFGLdhCH9xLO6Z5A74cTWT9oVDHjZ7HpGLrR0xZE4XBIpdw1y4V4rizpggpHF3aodVq_HCI8ZnKdFshZxE1mpfIA8IU3Z4bCJgAL50_JXADSBIeEywhtNZK2qjfepRP8dqS8VmhBF2pfs_P-CRWFa7iitemXnttHpausiqlScUwad_x72yHBNl200yClmbO_bjNOfzCQroPS0xeePJsXGqVqHyTQsezYULBP7rsEcY-MdYxNUu680lShnbBLlsA6oYHWm8LDHtq9-DXgvHizPat-dV9veg-51N5XkVmbhb2NsPvSs1V_DGuzFuQ1U-hjx3BJ96E1HiGZgmZC2Ze4-qSgwYDL7Jp25EGIDBBEQtrBCR6cvY3Aj6Y6ePhHVaRalm0pRlc8abnhgxEsELusO2hckregc3clRyTJai4KajyJNmCOmwLsVZfPsjGugXcIq_NIZRPObO2jwsk0_G2-IzECCVjFoqQRpTJnOvAJM958k0OtxIECO8KEXuFsRE8zpwBPVY16dnvtyPGYN_NfzGKCEJt9Bsq1yxsbDlTuVGEBilVe4IJFueaDU1iiFMkfV9kU1__a_Byp9G6y1GZ_xZ3Le02ZYTcU8l8IvD6h53RW_K4u4GQRfeG0DDRnWIA=w1156-h622-s-no?authuser=0"
-   
-      if optiontitri == "Alkalimetri":
-         st.markdown("<h2 style='text-align: center; color: raisin black;'>Alkalimetri</h2>", unsafe_allow_html=True)
-         st.write(
-           """
+ 
+    if optiontitri == "Alkalimetri":
+       st.markdown("<h2 style='text-align: center; color: raisin black;'>Alkalimetri</h2>", unsafe_allow_html=True)
+       st.write(
+         """
            Larutan standar (larutan baku)
            
 Larutan standar adalah larutan yang digunakan sebagai titran yang konsentrasinya di ketahui secara pasti
