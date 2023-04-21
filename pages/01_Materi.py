@@ -1402,9 +1402,8 @@ Ditimbang teliti  ± 1500 mg boraks dengan kaca arloji, larutkan ke dalam labu t
 Ditimbang teliti  ± 1500 mg boraks dengan kaca arloji, larutkan ke dalam labu takar 100 mL dan tepatkan sampai tanda garis, lalu homogenkan. Larutan dipipet sebanyak 25 mL ke dalam Erlenmeyer, tambahkan 2 tetes indikator MM kemudian dititar dengan larutan HCl 0,1 N sampai larutan berubah warna menjadi merah
 imageT10 = image.open('https://lh3.googleusercontent.com/DF4YDjLZlW330Py16UsNlUS_VLOrbCBP4kLYIAc2eWz95mr69l8HcKAyPpUcCVgYS4Dln5QAmT5H3P-WebQ-xpMKPETWU-JJahsGV9sLR9N43gV_tY3CKuVgW-C-dRFMN0X4OJqVrBqcNV0C-Gxnmo5zqmG274DIWBcPlS8mutvoDpw_twtEWs57ra9KgfyZ0ijbStpjim-8ry9gknsQTzqe8rYE1aaQD2Fu_crIvaEJWHeM6jIqI0EwT8jhg53kJwJNf8hodvQbA91qiKNJyw0jIx4PmDgOIbZgW4444jPOiyy99Ws6F9aJ3N0iNFm6zhwKRyPBGO4uZSV5bx1BfVogTCEGdVl-OBYOcjCFpjmLr0PXgLT1QurBWGClxcCFChxRpDS5Yz3J7dLUGFrQYGB7nuJfH09HnJWhNLpC2IEiul6PsPnWj_Rpoq9Qc7GQkmbwQ6hEXrT0M4CVkpNgNSnnnrWMxA5dWbaDBu001-Ee77O7Qeyp21bZmV7c8ThiYKzEx1QCDG1IgNuLbrgrMHKiDEMbSNA7OhFz3o1-E6TztAMPJbaejS-I-KYpoxRsOmaaQh3yBWixz8tiw7AbPSrxmfV-E1R875XbcFamTvvYVXtdg97GfCvpOr8LVXjWMmfcTr3EWyB3qGbh5hyUKRTiA2v3P2xrrGWr5G87gRjbjJLiGuGBio0odqIs6O_l9zGk4NeBTNbCwPi_yPhpAAyRu_BhTb2z4OPZuEnwgTwW69eqDFxZLC2KkXw0eHIvKcZNjJjWLwMpAXywf0oqSkrQK4P72hfZzVi_wMHB03YKHyMhDthTC352ZfEdBsqwYIt18QmNxlA9MESTEYhy-tYDi1YFjvmZfsTABP-0Gv6A8VzB50gHieqvUgiTt3Gr9GK2Ew-F7TBrde3LeoFJYSAnqNGuEC9mlSvLMpmf0U1I=w840-h188-s-no?authuser=0')
 st.image(imageT10)
-        st.write(
-            """
-            **Penetapan Kadar NaOH dan Na2CO3 dalam Campuran Secara (WARDER)**
+
+**Penetapan Kadar NaOH dan Na2CO3 dalam Campuran Secara (WARDER)**
 Na2CO3 dan NaOH dalam sampel campuran dapat ditentukan kadar
 masing-masing dengan titrasi asam-basa menggunakan larutan standar
 HCl dengan 2 indikator (pp dan SM).
