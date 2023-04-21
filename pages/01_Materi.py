@@ -1580,9 +1580,9 @@ Reaksi
     
        st.image("https://lh3.googleusercontent.com/t_10rWx3oSiA1R_gLHzDmjDexe7WSnBZJNu-tXh2xUah5oiTUWFIWsMkios30E3QSqneLus9MxAJSnAf8U13wCGITiXTRBHOCZOmNCiJNg-5F9PvqoAEVczGR6P1DZIdjgZKC2BNAJFDFen-u2Dij1LHWHQgiZDYjTYpO_kkI-9b91FUBXdBFunKyz0MwUwkNoPf8vtnP6dcf10g_dCAuuTsKIlirkKMVC_VPlkXRMy4_oCQ1H68iBIZ9c0FzYyF9qF2PZ0rAWdBIgd1LN8vok05eWvmIepi3D2pQS0Mp-B54bFGLdhCH9xLO6Z5A74cTWT9oVDHjZ7HpGLrR0xZE4XBIpdw1y4V4rizpggpHF3aodVq_HCI8ZnKdFshZxE1mpfIA8IU3Z4bCJgAL50_JXADSBIeEywhtNZK2qjfepRP8dqS8VmhBF2pfs_P-CRWFa7iitemXnttHpausiqlScUwad_x72yHBNl200yClmbO_bjNOfzCQroPS0xeePJsXGqVqHyTQsezYULBP7rsEcY-MdYxNUu680lShnbBLlsA6oYHWm8LDHtq9-DXgvHizPat-dV9veg-51N5XkVmbhb2NsPvSs1V_DGuzFuQ1U-hjx3BJ96E1HiGZgmZC2Ze4-qSgwYDL7Jp25EGIDBBEQtrBCR6cvY3Aj6Y6ePhHVaRalm0pRlc8abnhgxEsELusO2hckregc3clRyTJai4KajyJNmCOmwLsVZfPsjGugXcIq_NIZRPObO2jwsk0_G2-IzECCVjFoqQRpTJnOvAJM958k0OtxIECO8KEXuFsRE8zpwBPVY16dnvtyPGYN_NfzGKCEJt9Bsq1yxsbDlTuVGEBilVe4IJFueaDU1iiFMkfV9kU1__a_Byp9G6y1GZ_xZ3Le02ZYTcU8l8IvD6h53RW_K4u4GQRfeG0DDRnWIA=w1156-h622-s-no?authuser=0"
    
-   if optiontitri == "Alkalimetri":
-      st.markdown("<h2 style='text-align: center; color: raisin black;'>Alkalimetri</h2>", unsafe_allow_html=True)
-      st.write(
+    if optiontitri == "Alkalimetri":
+       st.markdown("<h2 style='text-align: center; color: raisin black;'>Alkalimetri</h2>", unsafe_allow_html=True)
+       st.write(
          """
            Larutan standar (larutan baku)
            
@@ -1599,12 +1599,12 @@ Syarat-syarat larutan standar primer
 4. Mudah larut
 5. Reaksi dengan larutan standar harus stoikiometri dan cepat
 
-**Larutan standar sekunder**
+Larutan standar sekunder
 
 larutan yang dapat digunakan untuk standarisasi atau menentukan kadar zat lain dan konsentrasinya sudah distandarisasi dengan suatu standar primer
 Standardisasi ialah suatu usaha menentukan konsentrasi yang tepat dari larutan baku yang akan digunakan untuk titrasi.
 
-**Standarisasi NaOH**
+Standarisasi NaOH
 
 Ditimbang teliti  ± 630 mg asam oksalat dengan kaca arloji, larutkan ke dalam labu takar 100 mL dan tepatkan sampai tanda garis, lalu homogenkan. Larutan dipipet sebanyak 25 mL ke dalam Erlenmeyer, tambahkan 2 tetes indikator PP kemudian dititar dengan larutan NaOH 0,1 N sampai larutan berubah warna menjadi merah muda
 """)
@@ -1618,7 +1618,7 @@ Ditimbang teliti  ± 157,5 mg asam oksalat dan dimasukkan ke dalam Erlenmeyer ke
        st.image(https://lh3.googleusercontent.com/NtJ4Bax7NDQxyzStGdlPZpGFHL43Abv_RyIKOovArBl_-VDghjXeZwOiN529ku8H3yvVFqlg4uF24JdNvXcukSPpfP0Ej2r15ebF6PpkIh0VNpTGYKhmYDnf-CU5zL4dCCBvyUsr0wZctD0ZFycGAR1Lplr34jBB16KVyCfVVYfHe3mvN2zH1uuloW0unpMubE1LrElyMM0zWud6RIX9gOfnzLWwq4eakpWkXDwDJwZlN8WfIhEp-ThunjdKBDHcmoncA2T9UwUr0s_wwTOexDCdkppk5-9-UVGb9PM5SZbkbUjPMXjScj8_S4YJYdX517PapAsSPxQIMHN2_7Ol96EL8iPgr4IrJNKMARuIek7O4GcsOzE8AnO1xtnmUjZ2KkIa8YDyoHpzgVAJaZDklMCMjveOciZyx1fM6Nld2DXtWnFxdHQgI4Q2gapyt_W4aNaXwOHKTMh8GfZQmy7XC282PPGw5KTmGY85xk49Zagm-WmFI6jbBBRlRViQFlJ96k2zDzCEonX_F1t-VqnlBUyLeYgkWKHTdoCR3r68f38kyT3vBno-W7fZSuJTeE_ZOgzNIGiRocG6pb1MwK8Mwkb_1V2Xn8iuuy8ShD0QElPZ3TLtTJ8q5UkCWSpEUSXqRsQ1y2hyJInWTONI7F5IDZ2plE7Jgp0v68Kq8BEm2PYG0VCEBWKvRt8lwjUfboYkS_DJdJP3sKgHrL9wuanK8NpwYxs-W9NuLn2hDprjqnlHOrJt0137TLuvkX4gadjo0N0cnqz0oy6FVhWZHSbOfMQvhSrnaB0D92ep_6Gd708KzQFvCW-drecWb6C8d_We2p3wlqi68ByY8Si5swoh2OzHK50BmKyic-0HGXYCOh7SI8YDm8rJtLcg74iX09lzupXB12vq-F4zKidO01oxCnkPnQnviS5rToHuL1jy1juR=w807-h160-s-no?authuser=0")
        st.write(
            """
-           **Penetapan kadar asam asetat dalam cuka makan**
+           Penetapan kadar asam asetat dalam cuka makan
            
 Dipipet 5 mL contoh cuka makan ke dalam labu takar 250 mL kemudian ditepatkan dengan air suling sampai tanda tera. Dipipet 25 mL larutan tersebut ke dalam Erlenmeyer. Tambahkan 2 sampai 3 tetes indikator PP lalu dititar dengan NaOH 0,1 N (yang sudah distandarisasi).
 
