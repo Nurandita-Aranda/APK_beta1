@@ -1306,10 +1306,10 @@ analit direaksikan dengan suatu pereaksi ,kemudian hasil reaksi di titrasi (anal
 3.	Titrasi balik /titrasi kembali ( _back titration_ ), 
 analit direaksikan dengan pereaksi berlebih. Dan kelebihan pereaksi di titrasi
             """)
- if optiontitri == "Iodometri":
-    st.markdown("<h2 style='text-align: center; color: raisin black;'>Iodometri</h2>", unsafe_allow_html=True)
-    st.write(
-       """
+    if optiontitri == "Iodometri":
+       st.markdown("<h2 style='text-align: center; color: raisin black;'>Iodometri</h2>", unsafe_allow_html=True)
+       st.write(
+          """
                  Iodometri (titrasi tidak langsung)
 Analit → Oksidator (KIO3, K2Cr2O7)
 Oks(analit) + KI ⇋ I2 + Red(analit)
