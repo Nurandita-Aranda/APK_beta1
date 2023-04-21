@@ -1578,7 +1578,56 @@ Reaksi
            
            """)
     
-       st.image("https://lh3.googleusercontent.com/t_10rWx3oSiA1R_gLHzDmjDexe7WSnBZJNu-tXh2xUah5oiTUWFIWsMkios30E3QSqneLus9MxAJSnAf8U13wCGITiXTRBHOCZOmNCiJNg-5F9PvqoAEVczGR6P1DZIdjgZKC2BNAJFDFen-u2Dij1LHWHQgiZDYjTYpO_kkI-9b91FUBXdBFunKyz0MwUwkNoPf8vtnP6dcf10g_dCAuuTsKIlirkKMVC_VPlkXRMy4_oCQ1H68iBIZ9c0FzYyF9qF2PZ0rAWdBIgd1LN8vok05eWvmIepi3D2pQS0Mp-B54bFGLdhCH9xLO6Z5A74cTWT9oVDHjZ7HpGLrR0xZE4XBIpdw1y4V4rizpggpHF3aodVq_HCI8ZnKdFshZxE1mpfIA8IU3Z4bCJgAL50_JXADSBIeEywhtNZK2qjfepRP8dqS8VmhBF2pfs_P-CRWFa7iitemXnttHpausiqlScUwad_x72yHBNl200yClmbO_bjNOfzCQroPS0xeePJsXGqVqHyTQsezYULBP7rsEcY-MdYxNUu680lShnbBLlsA6oYHWm8LDHtq9-DXgvHizPat-dV9veg-51N5XkVmbhb2NsPvSs1V_DGuzFuQ1U-hjx3BJ96E1HiGZgmZC2Ze4-qSgwYDL7Jp25EGIDBBEQtrBCR6cvY3Aj6Y6ePhHVaRalm0pRlc8abnhgxEsELusO2hckregc3clRyTJai4KajyJNmCOmwLsVZfPsjGugXcIq_NIZRPObO2jwsk0_G2-IzECCVjFoqQRpTJnOvAJM958k0OtxIECO8KEXuFsRE8zpwBPVY16dnvtyPGYN_NfzGKCEJt9Bsq1yxsbDlTuVGEBilVe4IJFueaDU1iiFMkfV9kU1__a_Byp9G6y1GZ_xZ3Le02ZYTcU8l8IvD6h53RW_K4u4GQRfeG0DDRnWIA=w1156-h622-s-no?authuser=0")
+       st.image("https://lh3.googleusercontent.com/t_10rWx3oSiA1R_gLHzDmjDexe7WSnBZJNu-tXh2xUah5oiTUWFIWsMkios30E3QSqneLus9MxAJSnAf8U13wCGITiXTRBHOCZOmNCiJNg-5F9PvqoAEVczGR6P1DZIdjgZKC2BNAJFDFen-u2Dij1LHWHQgiZDYjTYpO_kkI-9b91FUBXdBFunKyz0MwUwkNoPf8vtnP6dcf10g_dCAuuTsKIlirkKMVC_VPlkXRMy4_oCQ1H68iBIZ9c0FzYyF9qF2PZ0rAWdBIgd1LN8vok05eWvmIepi3D2pQS0Mp-B54bFGLdhCH9xLO6Z5A74cTWT9oVDHjZ7HpGLrR0xZE4XBIpdw1y4V4rizpggpHF3aodVq_HCI8ZnKdFshZxE1mpfIA8IU3Z4bCJgAL50_JXADSBIeEywhtNZK2qjfepRP8dqS8VmhBF2pfs_P-CRWFa7iitemXnttHpausiqlScUwad_x72yHBNl200yClmbO_bjNOfzCQroPS0xeePJsXGqVqHyTQsezYULBP7rsEcY-MdYxNUu680lShnbBLlsA6oYHWm8LDHtq9-DXgvHizPat-dV9veg-51N5XkVmbhb2NsPvSs1V_DGuzFuQ1U-hjx3BJ96E1HiGZgmZC2Ze4-qSgwYDL7Jp25EGIDBBEQtrBCR6cvY3Aj6Y6ePhHVaRalm0pRlc8abnhgxEsELusO2hckregc3clRyTJai4KajyJNmCOmwLsVZfPsjGugXcIq_NIZRPObO2jwsk0_G2-IzECCVjFoqQRpTJnOvAJM958k0OtxIECO8KEXuFsRE8zpwBPVY16dnvtyPGYN_NfzGKCEJt9Bsq1yxsbDlTuVGEBilVe4IJFueaDU1iiFMkfV9kU1__a_Byp9G6y1GZ_xZ3Le02ZYTcU8l8IvD6h53RW_K4u4GQRfeG0DDRnWIA=w1156-h622-s-no?authuser=0"
+   
+      if optiontitri == "Alkalimetri":
+       st.markdown("<h2 style='text-align: center; color: raisin black;'>Alkalimetri</h2>", unsafe_allow_html=True)
+       st.write(
+           """
+           **Larutan standar (larutan baku)**
+           
+Larutan standar adalah larutan yang digunakan sebagai titran yang konsentrasinya di ketahui secara pasti
+
+Larutan standar terdiri dari :
+Larutan standar primer adalah larutan yang konsentrasinya harus diketahui dengan teliti dengan cara penimbangan zat yang dilarutkan dalam volume tertentu.
+
+Syarat-syarat larutan standar primer
+
+1. Zat harus mudah diperoleh, murni, mudah dikeringkan
+2. Zat tak berubah selama penimbangan, stabil, tidak higroskopis
+3. Mudah diperiksa kemurniannya
+4. Mudah larut
+5. Reaksi dengan larutan standar harus stoikiometri dan cepat
+
+**Larutan standar sekunder**
+
+larutan yang dapat digunakan untuk standarisasi atau menentukan kadar zat lain dan konsentrasinya sudah distandarisasi dengan suatu standar primer
+Standardisasi ialah suatu usaha menentukan konsentrasi yang tepat dari larutan baku yang akan digunakan untuk titrasi.
+
+**Standarisasi NaOH**
+
+Ditimbang teliti  ± 630 mg asam oksalat dengan kaca arloji, larutkan ke dalam labu takar 100 mL dan tepatkan sampai tanda garis, lalu homogenkan. Larutan dipipet sebanyak 25 mL ke dalam Erlenmeyer, tambahkan 2 tetes indikator PP kemudian dititar dengan larutan NaOH 0,1 N sampai larutan berubah warna menjadi merah muda
+""")
+       st.image("https://lh3.googleusercontent.com/F_wgX_wVZXH9a5TPRmPwLDoq_Mj7g86tqwlQK3xj0eyaSZO2nrjQKlUTIRBbqckvKN3QtNd4UyOAnCdz8_Malms4PJWO7ad9wyX6HUopRJVNKeqviw69TJll3IyZ5II1k39OReAcMGwqtEf--IDw0_GIjlWWQxEqNrJe-DkEE-K6Tvd4E-3jYCI_Ohv0heu-7p7jT1VI7mTL88ue8nzcxbhExytBVwWWb28dZkchf28POwqz4EVdtPwKuvueP71Ay7lsZaF79wKuvowZIJj7Jl_tZdWzqsu0KxgIPKFkL8VndAb9HSQ-I7FAPbwHdKPXXnxqTMsRnzlEo_c50U2Z2jTNEJzmmaP3k2ojNwQKxm-atGCqVaupbJNZphPPlTluAJbn_05jshwkkYT01Mu137_9LmGES7MJJ3U6KMgrYCCqrbKuln698y2vr76JHhXwnQkf1dIoqqUkhPX5zEXT4sJn9yx85RDv0-E3CmrVxGD0H4WAMcMMgnygf2R6yQwg2X7vclNQ04BZhnjsRlvfe6zrE_dr8K-cnCl7r5WJzKJOvxt0FIdC76XGTZ2lnVdjC5WK745sag_tKc80P0TTPzyxnaSfw0unwY5QsM4-0FGaPKd-6h2adWYomF_lbMooS6hRF6aWLvnSrYq5fkb87N7EUqgwGh0vT6Ray0c6xLFXTuKL2NZHUfNG1xGRTgjHgao07Tc3U4eXhkVXRFnvPEuv0Hb7LvA1zcxCZQBi7SHGnfEBtn153TtS73nNUL7WCt7pKKc5qDuEQ-q8H7qdgYIVMDOXWTc72-yiLb36bJSWszTZ7rdbIlkTHExB9BFp1fxbsWrIkn4Ypk5jNfynQO4jSXdF63pLY4AoBGlfY7SbPSmnD9F82i2yz11bkIcaTurhodzgZnWi0I-y5gBkqTcURPa3EQCHzkhY_JyuuEFn=w1016-h159-s-no?authuser=0")
+       st.write(
+           """
+           **Standarisasi NaOH secara langsung tanpa pelarutan secara kuantitatif**
+           
+Ditimbang teliti  ± 157,5 mg asam oksalat dan dimasukkan ke dalam Erlenmeyer kemudian ditambahkan air suling kira-kira 25 mL. Ke dalam larutan ditambahkan 2 tetes indikator PP kemudian dititar dengan larutan NaOH 0,1 N sampai larutan berubah warna menjadi merah muda
+""")
+       st.image(https://lh3.googleusercontent.com/NtJ4Bax7NDQxyzStGdlPZpGFHL43Abv_RyIKOovArBl_-VDghjXeZwOiN529ku8H3yvVFqlg4uF24JdNvXcukSPpfP0Ej2r15ebF6PpkIh0VNpTGYKhmYDnf-CU5zL4dCCBvyUsr0wZctD0ZFycGAR1Lplr34jBB16KVyCfVVYfHe3mvN2zH1uuloW0unpMubE1LrElyMM0zWud6RIX9gOfnzLWwq4eakpWkXDwDJwZlN8WfIhEp-ThunjdKBDHcmoncA2T9UwUr0s_wwTOexDCdkppk5-9-UVGb9PM5SZbkbUjPMXjScj8_S4YJYdX517PapAsSPxQIMHN2_7Ol96EL8iPgr4IrJNKMARuIek7O4GcsOzE8AnO1xtnmUjZ2KkIa8YDyoHpzgVAJaZDklMCMjveOciZyx1fM6Nld2DXtWnFxdHQgI4Q2gapyt_W4aNaXwOHKTMh8GfZQmy7XC282PPGw5KTmGY85xk49Zagm-WmFI6jbBBRlRViQFlJ96k2zDzCEonX_F1t-VqnlBUyLeYgkWKHTdoCR3r68f38kyT3vBno-W7fZSuJTeE_ZOgzNIGiRocG6pb1MwK8Mwkb_1V2Xn8iuuy8ShD0QElPZ3TLtTJ8q5UkCWSpEUSXqRsQ1y2hyJInWTONI7F5IDZ2plE7Jgp0v68Kq8BEm2PYG0VCEBWKvRt8lwjUfboYkS_DJdJP3sKgHrL9wuanK8NpwYxs-W9NuLn2hDprjqnlHOrJt0137TLuvkX4gadjo0N0cnqz0oy6FVhWZHSbOfMQvhSrnaB0D92ep_6Gd708KzQFvCW-drecWb6C8d_We2p3wlqi68ByY8Si5swoh2OzHK50BmKyic-0HGXYCOh7SI8YDm8rJtLcg74iX09lzupXB12vq-F4zKidO01oxCnkPnQnviS5rToHuL1jy1juR=w807-h160-s-no?authuser=0")
+       st.write(
+           """
+           **Penetapan kadar asam asetat dalam cuka makan**
+           
+Dipipet 5 mL contoh cuka makan ke dalam labu takar 250 mL kemudian ditepatkan dengan air suling sampai tanda tera. Dipipet 25 mL larutan tersebut ke dalam Erlenmeyer. Tambahkan 2 sampai 3 tetes indikator PP lalu dititar dengan NaOH 0,1 N (yang sudah distandarisasi).
+
+Menghitung kadar analit:
+""")
+       st.image("https://lh3.googleusercontent.com/meZ72KJURC2zTpaN6jog1UN6nd4E5aGdLuyYvIXcQ33misUKM6UI4grmgSQ67V7Xwnx98Hlk6wCMAil0ijIIGYHr3kgNKv0K9jDwf7TPn-nGUBQMN9s2fKp60mSB4Ie8dGHudkEXMgm3ET62GXHdbvMDIKIT9JmWKKg-0BDD5TC14VIfDlrxFQnBLor70Ua-WSCWhWD7uQBN5Ft4ToJdEPrP6AWH3DEqgKpTos3G05BuEwxK6hQfby4-IJq-Y3oeV6exjP0uzlTExrAqTLPsdVk4oqpexBwjd-DEO-MNm-hCefzazkM-MYkM4-co-7UC5edP9VWo0aphF6Drx1-5Hq4-Brpj6KieAglQ_yvrtWBOLsjUMXT7S2uQ5IGVCyb_4xtrt_lWM-X4NNno9Mrsivs9Bugs-HujJf5WvY0lCGc3hoaOjpUkkLZJw0Ml678SBvi8O0jgqoJBUdRdrKV7yYjNzOSmIC7XZ9JvkIS554cpE6RPVw-n_v-VmLMHB37ECjxEwSTMjIPWJFfBx1j7AswX2KRf2oLW2m9pAgRm7RCSJiZUdPR0NuzKf2NFwaURjmSWlqPUoIyzxxRy5UnHcRkl_kuwyqBGSK5Ncm-W7mP4zZCCBzTLhr050aP3s72-Rb0aurFCoB6YR1ji_Lg4QQ9os-sLET0vetlFxgLkp_v-Qsj-YzLGxALqFglOl0YGcIjqNrGKEExF6AA-E4kp6myvGpE4cdizTqBsa6kuJgeMO5lrSVozhr8Gadjj2YhzQU-eDvYlPuk7kFyrhdCbgThlGyWbfqAiaZbL4ZjWHgNsjzJ5Gom-lthYqsI_lg5iMtcRnSTtdcGI3v9bQUtQ3cJK1-GJhB_tRjg600zNw_ZodDyJUnE-EmtJvhilOGCr1ndi-3qTRzfWTWpBlos33Gcvv8hXO6leUZ4CaSFhhX-5=w1121-h436-s-no?authuser=0")
+       st.image("https://lh3.googleusercontent.com/jf-34ekEXapqqXyO-DHYULhpUV5tEpCBajOJoFmyTcIIWykGH8zpeVGGZwiy721p1c2J3WbPZ94krO-MpqdzwOP11PD8ldXrK8nlthYtE_zJ_h0hfwm08UHDRTNe75uoJLytlRdPXIqZSEzfKdv2Ym4nN2Snd-ohacyYlR5GTQUK5_mRQBF2kZfA0mBLqixAv5YNc8ZeFoOnfgwD-jxa39J172ZphkWlL_S3ToiYCbVR3uCOmV-ImhzdBVO0WL3ew8iRJhZlcr3y5bjRXSvyMt1bci4hw6zVjSDw9SGdSlTk-me5T-cytyDvz-htV4-8S4lWs1L8-ln45r0fcadL1lq8nv8Fgmc_nHvI5X5B8StmlhxwrXOQdvKS1X7sn0-NNdhHAAN38S-6R59qDicFqfXEtxY4XnlAOGnCRE_9x7DD-i_Mhr5hBOmj9z2MgJM8SMogeEKg_S43zT4KijZe7aybb4sd4eObD2yVsmC75nrK6yyB_1ZFe-vR3Mt0smly3F8FwWAcVS8YhKGqKok4uLom0E9dgLnPDGvRLY4NACbAJ0L1fJR7bcdanOmPuTdEJjhZX7D3kW222XFcjrDrErPjaZ4KWuIY-_Vzy6HPTzluONFDQQG6RKg34sRuAxN7SWlZUqCfJ9uO3rnUEEn9QrLxksI1bBe-WH9UXNwHSCT8KFCqPYEnMFqLGNZfpw2kj1Iq_XgxE6cFHgTCoL0uI0jANYCjH1mTj2u4BSsX_NeNpFTDeLKwh69dKGdq-oNjCXsRi4ijJSF4P_4zjOV3sFgRSaaQpfmvY383EaqOhQAHO1TWSkQ99O3hCa-70sXahvPyPk0Nk1MrFmoSwfmn_pkVBHawXFbM9q-z6sUf7sWpGl3qEfTVRNNPv7TURnZE7ZbsfnBTgmr9Z9TAAGcHV9k9tYDe5WmzVa7aEjEU5ROR=w1112-h362-s-no?authuser=0")
+
+
    
 
      
