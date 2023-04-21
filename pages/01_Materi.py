@@ -1306,10 +1306,10 @@ analit direaksikan dengan suatu pereaksi ,kemudian hasil reaksi di titrasi (anal
 3.	Titrasi balik /titrasi kembali ( _back titration_ ), 
 analit direaksikan dengan pereaksi berlebih. Dan kelebihan pereaksi di titrasi
             """)
-         if optiontitri == "Iodometri":
-             st.markdown("<h2 style='text-align: center; color: raisin black;'>Iodometri</h2>", unsafe_allow_html=True)
-             st.write(
-                 """
+        if optiontitri == "Iodometri":
+           st.markdown("<h2 style='text-align: center; color: raisin black;'>Iodometri</h2>", unsafe_allow_html=True)
+           st.write(
+          """
                  Iodometri (titrasi tidak langsung)
 Analit → Oksidator (KIO3, K2Cr2O7)
 Oks(analit) + KI ⇋ I2 + Red(analit)
@@ -1335,7 +1335,10 @@ Larutan stabil pada pH 9 dan 10 untuk meminimalkan
 bakteri yang dapat menguraikan S2O32- menjadi SO32- , SO42-, dan S↓
 
 Titik akhir : iod yang terikat dengan amilum itu pun hilang bereaksi dengan titran (S2O32-) sehingga warna biru hilang
-                
+                 """)
+             st.markdown("<h2 style='text-align: center; color: raisin black;'>Kesalahan Titrasi</h2>", unsafe_allow_html=True)
+             st.write(
+            """
 Kesalahan titrasi
 Kesalahan Oksigen
 O2 diudara dapat menyebabkan hasil titrasi terlalu tinggi karena dapat     mengoksidasi
@@ -1344,6 +1347,10 @@ Reaksi ini dikatalisis oleh cahaya dan panas
 Penambahan Amilum terlalu awal
 I2 menguap karena terlalu lama menunggu titrasi pH tinggi, S2O32- teroksidasi secara parsial menjadi SO42-
 4I2 + S2O32- + 5H2O → 8I- + 2SO42- + 10H+
+""")
+        st.markdown("<h2 style='text-align: center; color: raisin black;'>Bobot Ekivalen</h2>", unsafe_allow_html=True)
+        st.write(
+            """
 
 Bobot Ekivalen
 Dalam titrasi iodometri, BE suatu zat dihitung dari banyaknya jumlah atom I, bukan jumlah ion I-
