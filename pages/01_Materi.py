@@ -1234,19 +1234,12 @@ Svehla,G.1990.Buku Teks Analisis Anorganik Kualitatif Makro dan Semimikro.Jakart
         
 
 
-
-
-
-
-
-
-
       
 #Materi Titrimetri
 with tab_3:
     optiontitri = st.selectbox(
             "Pilih materi yang kamu mau",
-            ("--- Pilih Materi ---", "Pengenalan Analisis Titrimetri,"Asidimetri-Alkalimetri","Asidimetri","Alkalimetri","Pemanganometri","Iodometri"))
+            ("--- Pilih Materi ---", "Pengenalan Analisis Titrimetri","Asidimetri-Alkalimetri","Asidimetri","Alkalimetri","Pemanganometri","Iodometri"))
     if optiontitri == "Pengenalan Analisis Titrimetri":
         st.write(
             """
