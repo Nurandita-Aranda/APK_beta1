@@ -1307,7 +1307,7 @@ analit direaksikan dengan pereaksi berlebih. Dan kelebihan pereaksi di titrasi
             """)
         
    if optiontitri == "Asidimetri-Alkalimetri":
-    st.write(
+      st.write(
         """
         **Definisi**
                  
