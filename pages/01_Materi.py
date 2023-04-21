@@ -1378,8 +1378,9 @@ pH + pOH = 14
              4. Garam Terhidrolisis
              imageT8 = image.open('https://photos.google.com/album/AF1QipMtURMIugvHaK2SJe0kSCSQU8q3mhb_Qnj-uoLA/photo/AF1QipO087SpIdl4YAyler8UpfdlNHm-idZpKuLum6QK','https://photos.google.com/album/AF1QipMtURMIugvHaK2SJe0kSCSQU8q3mhb_Qnj-uoLA/photo/AF1QipOFqgF4Hs_Wp8esdimsoathDE8dJhjyB5MJxJ6E')
              st.image(imageT8)
+             """)
              
-             if optiontitri == "Asidimetri":
+    if optiontitri == "Asidimetri":
              st.write(
               """
 **Bahan baku primer standarisasi asam (HCl)
