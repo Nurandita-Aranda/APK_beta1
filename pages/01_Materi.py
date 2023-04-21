@@ -1472,6 +1472,7 @@ Alkalimetri adalah bila penitar dengan memakai basa yang konsentrasinya diketahu
        st.write(
            """
            **Pemilihan Indikator**
+           
 • Indikator asam – basa adalah zat yang dapat berubah warna apabila pH lingkungannya berubah
 • Warna dalam keadaan asam dinamakan warna asam
 • Warna yang ditunjukkan dalam keadaan basa dinamakan warna basa
@@ -1479,11 +1480,13 @@ Alkalimetri adalah bila penitar dengan memakai basa yang konsentrasinya diketahu
        st.write(
             """
     **Jenis indikator asam-basa**
-    """)
+   
+   """)
        st.image("https://lh3.googleusercontent.com/3KYn70iT0UprJOs6uoqUjmnTdyi-svgpMpAB6bONduJgIEd51vAhX12p0E_mw0PlldqH01LFKLvpofmpWHiu2E64-BdjcH9E_sNcahN-s-gw_zQ8-PpsKKNU9TpNP--oAnzfOyv2TjZfWfsdEiwcDAB0DCCg__BYv9UB3zt6HwU5BdsVaXsyQT67NgTFlDfWPb53yPNYZOogKP9p3VvN5lJTkYczOYHeBqRto1HTqcZbYjrD2TA7LOJmuyIG9lbWRJA9LoFAxrP_6or_wIEhvAJDSh9yRGiEGt6nCEuBu0GVeVT2PU2elIUeRREbYCx51AmZABnFjffUWIeHl8HRDXK8a6qhYKo44FxEiyF-FYDGdBeIN0gm-456KXfMscbgYOyGv6RJQaDH8l6WCzlZj3tUFkMAPgvI_HQTDaCidm5SUx2_QKkGtEbl7Q1Whpl0js0H_iThIsYwncA_7fCCjlYMVFgbSyAomsQo0Af92cKqrGJ6mLjqsG1KZOPEkrlmCXW3-YS5h-PMk5xc8p1rfE6aQAnQVudUnEN_0YtP2pVJiZzSaCONxV9p-IoT76WcmWSoS97ygAn2p1OOUv_irhDLZq4TOqNkqzt91ySxXxbsiwjgPExFWoNsNfjiD5VXd6AFTM7XBjIztTDreSpPAnYJzQ8E3V4kYq-YMvl5piXrmrUsw6yFc6Sa75nfmQLq9Dgm3HN5OLPVCKt4L62UMBalT8Th47b-WswHm4jB6G9RqTawQl2NafqlyzvlxlGc62GA1zACuww4lzyQ-6xu03Wg7dGnEXrCKpOhFASurib2PzrotjnGa98t-afQvKzPy4WmJ-roPIBKT7QrMnBhtfWY1umbcQnXVJuwbW-ftJp4n73qt4wv4PkjAl4fsMpIMHG_c-ZXhNACzZ1nHeaYjk0TRnUA1ZULeGV9oHb3oesO=w877-h432-s-no?authuser=0")
        st.write(
           """
             **Indikator asam-basa berubah warna bila pH lingkungannya berubah**
+            
 • Indikator asam-basa ialah asam organik lemah, jadi dalam larutan mengalami kesetimbangan pengionan.
 • Molekul-molekul indikator tersebut mempunyai warna yang berbeda dengan ion-ionnya
 • Letak trayek pH pada pH tinggi, atau rendah atau ditengah, tergantung dari nilai ka, kb indicator
@@ -1492,10 +1495,12 @@ Alkalimetri adalah bila penitar dengan memakai basa yang konsentrasinya diketahu
 (warna A)        (warna B)
 
 **Suatu indicator pH digunakan untuk menunjukkan titik akhir**
+
 1. Indicator harus berubah warna tepat pada saat titran menjadi ekivalen dengan titrat agar tidak terjadi kesalahan titrasi. Untuk mengatasinya trayek indicator harus mencakup pH larutan pada titik ekivalen
 2. Perubahan warna itu harus terjadi dengan mendadak(jelas). Untuk mengatasinya trayekindicator harus memotong bagian yang curam dari kurva
 
 **Titik ekuivalen**
+
 • Titrasi asam kuat oleh basa kuat , pH titik ekuivalen = 7
 • Titrasi asam lemah oleh basa kuat, pH titik ekuivalen ± 9
 • Titrasi basa kuat oleh asam kuat, pH titik ekuivalen = 7
@@ -1505,6 +1510,7 @@ Alkalimetri adalah bila penitar dengan memakai basa yang konsentrasinya diketahu
   • Konsentrasi titran dan titrat
   
 **pH larutan**
+
 pH = -log [H+]
 pOH = -log [OH-]
 pH + pOH = 14
@@ -1524,29 +1530,37 @@ pH + pOH = 14
           """
               **Bahan baku primer standarisasi asam (HCl)**
 Borax atau natrium tetraborat dekahidrat
+
 Na2B4O7.10 H2O ( BM =381,4 BE = BM/2)
+
 Na2B4O7 + 5H2O   →   2NaH2BO3 + 2H3BO3
 2NaH2BO3 + 2HCl   →  2NaCl + 2H3BO3
 Na2B4O7 + 5H2O + 2HCl   →   2NaCl + 4H3BO3
 
 Natrium karbonat ( Na2CO3) ( BM = 105,96)
+
 Na2CO3 + HCl   →    NaHCO3 + NaCl
 NaHCO3 + HCl   →   NaCl + H2O + CO2
 
-Standardisasi HCl 0,1 N dengan Bahan Baku Primer Boraks
+**Standardisasi HCl 0,1 N dengan Bahan Baku Primer Boraks**
+
 Ditimbang teliti  ± 1500 mg boraks dengan kaca arloji, larutkan ke dalam labu takar 100 mL dan tepatkan sampai tanda garis, lalu homogenkan. Larutan dipipet sebanyak 25 mL ke dalam Erlenmeyer, tambahkan 2 tetes indikator MM kemudian dititar dengan larutan HCl 0,1 N sampai larutan berubah warna menjadi merah
 """)
        st.image("https://lh3.googleusercontent.com/F_wgX_wVZXH9a5TPRmPwLDoq_Mj7g86tqwlQK3xj0eyaSZO2nrjQKlUTIRBbqckvKN3QtNd4UyOAnCdz8_Malms4PJWO7ad9wyX6HUopRJVNKeqviw69TJll3IyZ5II1k39OReAcMGwqtEf--IDw0_GIjlWWQxEqNrJe-DkEE-K6Tvd4E-3jYCI_Ohv0heu-7p7jT1VI7mTL88ue8nzcxbhExytBVwWWb28dZkchf28POwqz4EVdtPwKuvueP71Ay7lsZaF79wKuvowZIJj7Jl_tZdWzqsu0KxgIPKFkL8VndAb9HSQ-I7FAPbwHdKPXXnxqTMsRnzlEo_c50U2Z2jTNEJzmmaP3k2ojNwQKxm-atGCqVaupbJNZphPPlTluAJbn_05jshwkkYT01Mu137_9LmGES7MJJ3U6KMgrYCCqrbKuln698y2vr76JHhXwnQkf1dIoqqUkhPX5zEXT4sJn9yx85RDv0-E3CmrVxGD0H4WAMcMMgnygf2R6yQwg2X7vclNQ04BZhnjsRlvfe6zrE_dr8K-cnCl7r5WJzKJOvxt0FIdC76XGTZ2lnVdjC5WK745sag_tKc80P0TTPzyxnaSfw0unwY5QsM4-0FGaPKd-6h2adWYomF_lbMooS6hRF6aWLvnSrYq5fkb87N7EUqgwGh0vT6Ray0c6xLFXTuKL2NZHUfNG1xGRTgjHgao07Tc3U4eXhkVXRFnvPEuv0Hb7LvA1zcxCZQBi7SHGnfEBtn153TtS73nNUL7WCt7pKKc5qDuEQ-q8H7qdgYIVMDOXWTc72-yiLb36bJSWszTZ7rdbIlkTHExB9BFp1fxbsWrIkn4Ypk5jNfynQO4jSXdF63pLY4AoBGlfY7SbPSmnD9F82i2yz11bkIcaTurhodzgZnWi0I-y5gBkqTcURPa3EQCHzkhY_JyuuEFn=w1016-h159-no?authuser=0")
        st.write(
            """
            **Penetapan Kadar NaOH dan Na2CO3 dalam Campuran Secara (WARDER)**
+           
 Na2CO3 dan NaOH dalam sampel campuran dapat ditentukan kadar
+
 masing-masing dengan titrasi asam-basa menggunakan larutan standar
+
 HCl dengan 2 indikator (pp dan SM).
 Tahap 1: Digunakan indikator pp, HCl akan bereaksi terlebih dahulu dengan natrium hidroksida, dilanjutkan dengan reaksi ion karbonat menjadi hidrogen karbonat (bikarbonat).
 Tahap 2: Ditambahkan indikator SM, HCl bereaksi dengan ion hidrogen karbonat (bikarbonat)
 
-Prosedur
+**Prosedur**
+
 Dipipet 25 mL contoh ke dalam Erlenmeyer ditambahkan dengan sedikit air suling, dibubuhi 2-3 tetes PP, lalu dititar dengan HCl 0,1 N sehingga tercapai titik akhir hilangnya warna merah muda. Banyaknya HCl yang dipakai dicatat, misalnya a mL. Larutan dibubuhi 2-3 tetes indikator SM, titar dengan HCl sampai titik akhir dari buret tadi tanpa buret dinolkan lagi. Panaskan hingga hampir mendidih (jika warna larutan berubah warna maka dititar lagi dengan HCl). Catat mL HCl yang dipakai, misalnya b mL.
 Reaksi  
                PP
@@ -1561,7 +1575,9 @@ Reaksi
        st.write(
            """
            **Kadar Na2CO3 dan NaOH**
+           
            """)
+    
        st.image("https://lh3.googleusercontent.com/t_10rWx3oSiA1R_gLHzDmjDexe7WSnBZJNu-tXh2xUah5oiTUWFIWsMkios30E3QSqneLus9MxAJSnAf8U13wCGITiXTRBHOCZOmNCiJNg-5F9PvqoAEVczGR6P1DZIdjgZKC2BNAJFDFen-u2Dij1LHWHQgiZDYjTYpO_kkI-9b91FUBXdBFunKyz0MwUwkNoPf8vtnP6dcf10g_dCAuuTsKIlirkKMVC_VPlkXRMy4_oCQ1H68iBIZ9c0FzYyF9qF2PZ0rAWdBIgd1LN8vok05eWvmIepi3D2pQS0Mp-B54bFGLdhCH9xLO6Z5A74cTWT9oVDHjZ7HpGLrR0xZE4XBIpdw1y4V4rizpggpHF3aodVq_HCI8ZnKdFshZxE1mpfIA8IU3Z4bCJgAL50_JXADSBIeEywhtNZK2qjfepRP8dqS8VmhBF2pfs_P-CRWFa7iitemXnttHpausiqlScUwad_x72yHBNl200yClmbO_bjNOfzCQroPS0xeePJsXGqVqHyTQsezYULBP7rsEcY-MdYxNUu680lShnbBLlsA6oYHWm8LDHtq9-DXgvHizPat-dV9veg-51N5XkVmbhb2NsPvSs1V_DGuzFuQ1U-hjx3BJ96E1HiGZgmZC2Ze4-qSgwYDL7Jp25EGIDBBEQtrBCR6cvY3Aj6Y6ePhHVaRalm0pRlc8abnhgxEsELusO2hckregc3clRyTJai4KajyJNmCOmwLsVZfPsjGugXcIq_NIZRPObO2jwsk0_G2-IzECCVjFoqQRpTJnOvAJM958k0OtxIECO8KEXuFsRE8zpwBPVY16dnvtyPGYN_NfzGKCEJt9Bsq1yxsbDlTuVGEBilVe4IJFueaDU1iiFMkfV9kU1__a_Byp9G6y1GZ_xZ3Le02ZYTcU8l8IvD6h53RW_K4u4GQRfeG0DDRnWIA=w1156-h622-s-no?authuser=0")
    
 
