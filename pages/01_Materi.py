@@ -1519,7 +1519,7 @@ pH + pOH = 14
        st.image("https://lh3.googleusercontent.com/4uyA5mwYNBjFgRFo59Owz7HlW-p8n6aik9QZjGtRFD9VzQCnhA8kqiLGjqvGwF4HgmWQdrukQiKgQWdV2287tAaZzr0EBJNAgEDUKLRMvyomRaiNpGtyq_vbi-MH8jOWYm20s4NkHZJcYAPasbET_LPtGm9_0NqLkoInd2QQp_AcTZp7it1aHaIsOnDbO4qBHdS3D598DUdyEN0nVLDIxjPKuUIQXOQNmwPdt7bxi_kNNLb0rvyIyKVC2HaihSNMGlN_KbSMn6vjx3IDLlUyTjZ3712KdECFxc0BAFPs2NIizaew6LGAxg0xs6q52S7LY2N8Q4M9UNSy38qKdO1fZeSeGGlgrdpnLq3nAC7r9r9EXRWqVYzVii90R44kgc3pavfOY09R9Rjvr2hfN89O5iBCqrDZv7rhXEZl0VIal20cys79cL4vC8HbNar4_E3FWpjScJIigkuzv7cc9AZ8HL_wGkq5sx-hb5rzZfRrqGm1R9q2FglORvC0BZg-08imhPTHbbj0e_8tc0CWaoQzPaZFdySFpax52EJIBoFq5RKugJ0EoDqg3uzYOimoeyu9G74JnCzWUaBtyqnrrHpBpwYaKnZtojyB-1D-YQJkusoprCYz1a5JUdDsv0k27UeQlvZcwmtO_FPL6pKzUs-naBkK42zdkA3QoMsxRp8WKEtp-7H1TBAolXhrn04fUae9sCI7sglb-TqxxHtLO9hbqF_37Gy7fnpMuNq11dPr4gokrETbA2KNAqKSjOJy9AJAtnpim6Gf_DqU2bBn8u13FPZK66sYULQ6_IxvjyF-do0ZWVQ3U0AQUFkVrg4apRL1O6Pqn_cj6wCkTdDjqqde4W9NDprj6gf7QmkVt_zPpM0cb_eAusH9DYsUQlQtMBI478zLpRwRYtuOtAdhDtB3yFDhnJsbuWiTTUkBgCdErYOK=w1124-h793-s-no?authuser=0")
         
     if optiontitri == "Asidimetri":
-       st.markdown("<h2 style='text-align: center; color: raisin black;'>Iodometri</h2>", unsafe_allow_html=True)
+       st.markdown("<h2 style='text-align: center; color: raisin black;'>Asidimetri</h2>", unsafe_allow_html=True)
        st.write(
           """
               **Bahan baku primer standarisasi asam (HCl)**
@@ -1556,6 +1556,14 @@ Reaksi
                 SM
     NaHCO3 + HCl →  NaCl + CO2 + H2O 
     """)
+       st.image("https://lh3.googleusercontent.com/jZlm4_Vl3jQZGlhrFfxq8Ml_n5qvvxdHowWGUkDaJolpzkBn_M9L9Wb3ha_6QvotZJSZW1Txw0kTarow4J3OcYthdqBDLdYcI-whpHK_Bgpe4VImGclj_CqEu_E61y3rAjlPQfbNaVUEiGlR-TfT1EoAefk0clvFxwZHke7yGmzNk71z9VUXXE9xIshgf12h0QCK9QMSfnSXf91acWxkQCXTjP-H4fdT_A6v3oiJQLjb8Dl5oEO6kE-HuhRbklD4B-aPKo68blMcHULJ549oDua9h3YiwksS0lHZ4_njy6w7cVNHM-1Wh0fWHQ-v3svXuG7RyGsw-AsHcoFoMq23VuNHMdenI_uyRQ3Xb3B_zDS-JhP4LQr1LdTKlFXL1G5N4Gja_3MKEgzu9kilNR-kanmzya5EylU2Q7K5o2wQkguaKeVxudD9TkYGCKoY_kUFqCI5uuGjaM31hxVD9bpksi8EQnYbho-seHTAvzpC47oJPkG4wX3W47tp0GDCMpigWRILEjM8lmJYUGm1iV9I8ZD2npIxeC6c63jlvkFDQaUwL_RyD1pvga_o3JVisdvIb29MIl6vhk0K1NoZxHh9jhWC8RCzFQa8ybLMEiGJFPTn8aYOqOtF16uVI0JN2aga5Zz3VuYrtebSKlmhc7xSxV1nCKWfi5V-YF2p7QJU0wp1RiKPsTIeENtIgm6e3Z_OM7wBjyMcTWbIpU2CnVNXetKdKekLli9vUSIMyfJZrKxXDh3IkCz9fZtesRoXKmzqFhWL4dilkqjAqtSbw7wRqzZfmq-Qwtk3_RG2I61byedliLJ7E09jgannuZtKh-FuDiwbn4vYechq6hYxVeynCmdqW0KWDTEAfIbm333D8CKulsHd15ZWsqkfv3RMWTkb5ouDEaEOf8m9hF199La2kPglSy2WhC0FCg-sc3eZjn_m=w621-h327-no?authuser=0")
+       st.image("https://lh3.googleusercontent.com/EFMWwPFLq06PkqgoBJJzPyPYoYoM8fRbUooUzJ6s9ori_OUrP-XE5m8ZCulwY_Hbj477DafL2im1o7gjjUeRi8CeuqJesTtU0xjGO91znRsNHsFW-Q1CqQYpNNdeC_4lMpGLKFIw532-s2eDgGofpASIeUU9ljP8BfNFpUm399P_VN2vQiLs_I9oEhX8UQCEabqDlVgYmtEomMV6PCkh-lyQJk2r-s1UXVnQnYC3kfTHXtkzIHuw_5S2pnx1LxUmxBInXF0WpwCC1trR-_oPrl7CpCACVeNCNa85rj9G6SrRb9zft-pU6lT2R2Tw0-ugdWmD9YKzijxiAITw7OIOYHYHVpzOVWUqU1NwWZZlg2O_cSS6h3HBggLm3wfbDgybLjnO-CN0kCs3a4MpAQ8UyjyfXFyt5Xk1DiYcF5jSjxPmerMvLfEBTwetU1PGwJUFEJrntTHi1zuCkgCPBg9-wGDd4OxtjrRX-XBEv54hQIz0YNCn2WAYyyAPn8l06qAPveo07NhuqgSfXOPBdbPVpfINTjbSU6xhk9cwMpNIybM0ew2TCyTP__6rR8GPU0tyomW-xYyhtH6oTCQxyyBDgbBP5ppHoJEY-qBy01-q6YHcFy_q1Uw1S9wLqQ9sVhx1qACYFlBvkxcNoW0EVq_bS2Auilp_yiLA0g8LpX_UksFNkDAfruHNQwfmDifXLTfnfbmonBs8D3FiiheWg0lp8UyGm8MTOHJ3fZ5fNky09vvbzzF1FkvEbOq3vjjoObnpmG9hEkUlphflq2Ew8SGxWcP3xttVclkMOE2zUmEL9o2Sjn6jXIShs3veGpvlpaEYyd0xkJ55pVyhtZ0Zo_aSCWgsJ_xnwVbmcg6l6_bQ95ZYuxrl6tMoAiR7_RfxIc646KtPjl_Nkl3YcxhJ2hNS3AF0tLubM3qIni7EEtKAggQM=w622-h336-no?authuser=0")
+       st.write(
+           """
+           **Kadar Na2CO3 dan NaOH**
+           """)
+       st.image("https://lh3.googleusercontent.com/t_10rWx3oSiA1R_gLHzDmjDexe7WSnBZJNu-tXh2xUah5oiTUWFIWsMkios30E3QSqneLus9MxAJSnAf8U13wCGITiXTRBHOCZOmNCiJNg-5F9PvqoAEVczGR6P1DZIdjgZKC2BNAJFDFen-u2Dij1LHWHQgiZDYjTYpO_kkI-9b91FUBXdBFunKyz0MwUwkNoPf8vtnP6dcf10g_dCAuuTsKIlirkKMVC_VPlkXRMy4_oCQ1H68iBIZ9c0FzYyF9qF2PZ0rAWdBIgd1LN8vok05eWvmIepi3D2pQS0Mp-B54bFGLdhCH9xLO6Z5A74cTWT9oVDHjZ7HpGLrR0xZE4XBIpdw1y4V4rizpggpHF3aodVq_HCI8ZnKdFshZxE1mpfIA8IU3Z4bCJgAL50_JXADSBIeEywhtNZK2qjfepRP8dqS8VmhBF2pfs_P-CRWFa7iitemXnttHpausiqlScUwad_x72yHBNl200yClmbO_bjNOfzCQroPS0xeePJsXGqVqHyTQsezYULBP7rsEcY-MdYxNUu680lShnbBLlsA6oYHWm8LDHtq9-DXgvHizPat-dV9veg-51N5XkVmbhb2NsPvSs1V_DGuzFuQ1U-hjx3BJ96E1HiGZgmZC2Ze4-qSgwYDL7Jp25EGIDBBEQtrBCR6cvY3Aj6Y6ePhHVaRalm0pRlc8abnhgxEsELusO2hckregc3clRyTJai4KajyJNmCOmwLsVZfPsjGugXcIq_NIZRPObO2jwsk0_G2-IzECCVjFoqQRpTJnOvAJM958k0OtxIECO8KEXuFsRE8zpwBPVY16dnvtyPGYN_NfzGKCEJt9Bsq1yxsbDlTuVGEBilVe4IJFueaDU1iiFMkfV9kU1__a_Byp9G6y1GZ_xZ3Le02ZYTcU8l8IvD6h53RW_K4u4GQRfeG0DDRnWIA=w1156-h622-s-no?authuser=0")
+   
 
      
           
