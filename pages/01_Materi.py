@@ -1585,14 +1585,12 @@ Reaksi
        st.write(
          """
            Larutan standar (larutan baku)
+           Larutan standar adalah larutan yang digunakan sebagai titran yang konsentrasinya di ketahui secara pasti
            
-Larutan standar adalah larutan yang digunakan sebagai titran yang konsentrasinya di ketahui secara pasti
-
 Larutan standar terdiri dari :
 Larutan standar primer adalah larutan yang konsentrasinya harus diketahui dengan teliti dengan cara penimbangan zat yang dilarutkan dalam volume tertentu.
 
 Syarat-syarat larutan standar primer
-
 1. Zat harus mudah diperoleh, murni, mudah dikeringkan
 2. Zat tak berubah selama penimbangan, stabil, tidak higroskopis
 3. Mudah diperiksa kemurniannya
@@ -1600,7 +1598,6 @@ Syarat-syarat larutan standar primer
 5. Reaksi dengan larutan standar harus stoikiometri dan cepat
 
 Larutan standar sekunder
-
 larutan yang dapat digunakan untuk standarisasi atau menentukan kadar zat lain dan konsentrasinya sudah distandarisasi dengan suatu standar primer
 Standardisasi ialah suatu usaha menentukan konsentrasi yang tepat dari larutan baku yang akan digunakan untuk titrasi.
 
