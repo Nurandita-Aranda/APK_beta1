@@ -1318,6 +1318,8 @@ Alkalimetri adalah bila penitar dengan memakai basa yang konsentrasinya diketahu
     imageT3 = Image.open('https://photos.google.com/album/AF1QipMtURMIugvHaK2SJe0kSCSQU8q3mhb_Qnj-uoLA/photo/AF1QipPV7EzOlEi8ECqurxhj31Ot6MYok-uA42HmOhUj')
     st.image(imageT2)
     st.image(imageT3)
+    st.write(
+        """"
             
 **Pemilihan Indikator**
 • Indikator asam – basa adalah zat yang dapat berubah warna apabila pH lingkungannya berubah
@@ -1327,7 +1329,7 @@ Alkalimetri adalah bila penitar dengan memakai basa yang konsentrasinya diketahu
 **Jenis indikator asam-basa**
              imageT4 = image.open('https://photos.google.com/album/AF1QipMtURMIugvHaK2SJe0kSCSQU8q3mhb_Qnj-uoLA/photo/AF1QipPb0XDVP08i4wMzRE_Kh56bbVzlrevIbsQfG-Hd')
              st.image(imageT4)
-  
+                            
 **Indikator asam-basa berubah warna bila pH lingkungannya berubah**
 • Indikator asam-basa ialah asam organik lemah, jadi dalam larutan mengalami kesetimbangan pengionan.
 • Molekul-molekul indikator tersebut mempunyai warna yang berbeda dengan ion-ionnya
@@ -1370,8 +1372,7 @@ pH + pOH = 14
              st.image(imageT8)
              
               if optiontitri == "Asidimetri":
-             st.write(
-                 """
+            
 **Bahan baku primer standarisasi asam (HCl)
 Borax atau natrium tetraborat dekahidrat
 Na2B4O7.10 H2O ( BM =381,4 BE = BM/2)
@@ -1414,8 +1415,7 @@ imageT13 = image.open('https://lh3.googleusercontent.com/HtpMaguhLPN_nID5PgI72N1
 st.image(imageT13)
                   
                   if optiontitri == "Alkalimetri":
-                     st.write(
-                     """
+                  
                  **Larutan standar (larutan baku)**
 Larutan standar adalah larutan yang digunakan sebagai titran yang konsentrasinya di ketahui secara pasti
                  Larutan standar terdiri dari :
