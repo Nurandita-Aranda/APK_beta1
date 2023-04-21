@@ -1460,9 +1460,9 @@ Fe (II) mudah teroksidasi oleh udara dalam larutan netral, sehingga larutan haru
 Na2S2O3 iodometri (titrasi tidak langsung)
 """)
          if optiontitri == "Alkalimetri":
-       st.markdown("<h2 style='text-align: center; color: raisin black;'>Alkalimetri</h2>", unsafe_allow_html=True)
-       st.write(
-           """
+            st.markdown("<h2 style='text-align: center; color: raisin black;'>Alkalimetri</h2>", unsafe_allow_html=True)
+            st.write(
+               """
            Larutan standar (larutan baku)
 Larutan standar adalah larutan yang digunakan sebagai titran yang konsentrasinya di ketahui secara pasti
 Larutan standar terdiri dari :
