@@ -81,8 +81,21 @@ if option == "Kimia Organik":
         st.write("Berikut ini yang dapat digunakan untuk membedakan alkohol dan fenol adalah...")
         col1, col2 = st.columns(2)
         with col1:
-            opsi1 = st. button("FeCl3")
+            opsi1 = st. button("Kanji")
             opsi2 = st. button("KMnO4")
         with col2:
             opsi3 = st. button("Natrium bisulfit")
-            opsi4 = st. button("Indikator kanji")
+            opsi4 = st. button("FeCl3")
+        if opsi1:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi2:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi3:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.success("soal selanjutnya!")
+            st.balloons()
