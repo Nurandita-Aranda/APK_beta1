@@ -1459,9 +1459,9 @@ Proses titrasi dilakukan dalam atmosfer inert (mengalirkan N2atau CO2)
 Fe (II) mudah teroksidasi oleh udara dalam larutan netral, sehingga larutan harus dalam suasana asam 
 Na2S2O3 iodometri (titrasi tidak langsung)
 """)
-     if optiontitri == "Alkalimetri":
-        st.markdown("<h2 style='text-align: center; color: raisin black;'>Alkalimetri</h2>", unsafe_allow_html=True)
-        st.write(
+    if optiontitri == "Alkalimetri":
+       st.markdown("<h2 style='text-align: center; color: raisin black;'>Alkalimetri</h2>", unsafe_allow_html=True)
+       st.write(
            """
            Larutan standar (larutan baku)
 Larutan standar adalah larutan yang digunakan sebagai titran yang konsentrasinya di ketahui secara pasti
