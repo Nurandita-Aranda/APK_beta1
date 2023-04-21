@@ -1239,7 +1239,7 @@ Svehla,G.1990.Buku Teks Analisis Anorganik Kualitatif Makro dan Semimikro.Jakart
 with tab_3:
     optiontitri = st.selectbox(
             "Pilih materi yang kamu mau",
-            ("--- Pilih Materi ---", "Pengenalan Analisis Titrimetri","Asidimetri-Alkalimetri","Asidimetri","Alkalimetri","Pemanganometri","Iodometri"))
+            ("--- Pilih Materi ---", "Pengenalan Analisis Titrimetri","Asidimetri-Alkalimetri","Asidimetri","Alkalimetri","Permanganometri","Iodometri"))
     if optiontitri == "Pengenalan Analisis Titrimetri":
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Pengenalan Analisis Titrimetri</h2>", unsafe_allow_html=True)
         st.write(
@@ -1351,9 +1351,9 @@ Dalam titrasi iodometri, BE suatu zat dihitung dari banyaknya jumlah atom I, buk
 BE= BM/n atom I
 """)
       if optiontitri == "Permanganometri":
-       st.markdown("<h2 style='text-align: center; color: raisin black;'>Titrasi Redoks</h2>", unsafe_allow_html=True)
-       st.write(
-          """
+         st.markdown("<h2 style='text-align: center; color: raisin black;'>Titrasi Redoks</h2>", unsafe_allow_html=True)
+         st.write(
+            """
           **Pengertian titrasi redoks**
 Titrasi yang melibatkan reaksi reduksi dan oksidasi antara titran dan titrat hingga tepat ekuivalen
 
