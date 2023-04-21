@@ -1306,9 +1306,8 @@ analit direaksikan dengan suatu pereaksi ,kemudian hasil reaksi di titrasi (anal
 analit direaksikan dengan pereaksi berlebih. Dan kelebihan pereaksi di titrasi
             """)
         
-         if optiontitri == "Asidimetri-alkalimetri":
-             st.write(
-                 """
+   if optiontitri == "Asidimetri-alkalimetri":
+    st.write("""
                  **Definisi**
                  
 Asidimetri adalah Bila ditentukan berapa mL larutan asam yang konsentrasinya diketahui untuk menetralkan suatu larutan basa yang kadarnya dicari.
