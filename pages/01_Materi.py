@@ -1459,32 +1459,7 @@ Proses titrasi dilakukan dalam atmosfer inert (mengalirkan N2atau CO2)
 Fe (II) mudah teroksidasi oleh udara dalam larutan netral, sehingga larutan harus dalam suasana asam 
 Na2S2O3 iodometri (titrasi tidak langsung)
 """)
-    if optiontitri == "Alkalimetri":
-       st.markdown("<h2 style='text-align: center; color: raisin black;'>Alkalimetri</h2>", unsafe_allow_html=True)
-       st.write(
-           """
-           Larutan standar (larutan baku)
-Larutan standar adalah larutan yang digunakan sebagai titran yang konsentrasinya di ketahui secara pasti
-Larutan standar terdiri dari :
-Larutan standar primer adalah larutan yang konsentrasinya harus diketahui dengan teliti dengan cara penimbangan zat yang dilarutkan dalam volume tertentu.
-Syarat-syarat larutan standar primer
-1. Zat harus mudah diperoleh, murni, mudah dikeringkan
-2. Zat tak berubah selama penimbangan, stabil, tidak higroskopis
-3. Mudah diperiksa kemurniannya
-4. Mudah larut
-5. Reaksi dengan larutan standar harus stoikiometri dan cepat
-
-**Larutan standar sekunder**
-larutan yang dapat digunakan untuk standarisasi atau menentukan kadar zat lain dan konsentrasinya sudah distandarisasi dengan suatu standar primer
-Standardisasi ialah suatu usaha menentukan konsentrasi yang tepat dari larutan baku yang akan digunakan untuk titrasi
-
-**Standarisasi NaOH**
-Ditimbang teliti  ± 630 mg asam oksalat dengan kaca arloji, larutkan ke dalam labu takar 100 mL dan tepatkan sampai tanda garis, lalu homogenkan. Larutan dipipet sebanyak 25 mL ke dalam Erlenmeyer, tambahkan 2 tetes indikator PP kemudian dititar dengan larutan NaOH 0,1 N sampai larutan berubah warna menjadi merah muda
-
-""")
-       st.image("https://lh3.googleusercontent.com/y8NzPkNEVVhxZwDokwD05RR8IqjhT27Z5eTheWcTJL32ph55TL-mCJhsiNVZPC4fTVNefFUgP2lw6detQrHVYtLYjl1LWS7JphIO5amQXs6QiaAZvQ9m6Pri0sTMCUX-ZwJ8MMyXdiPqEyZeOiLh766mQtRUqq1vLhEXlfUMvPZZ5GlWn32sbMzyxil63P9A9lWApZ4Q27VychvCV4OylHIuDcAhfbEc0ucf9Yc0Vwa9QNMlX52vrhP97BKOvzi8OnRNqBxXzTBV_bvKJi4fcX9uJJf6ALYGUNvzpOUkB1474u-XH37163VaLJRK1dNKY1s6oFvw1hdfBr2Xa-EC69eaamrAJ4OJHq6VXEO9NKfbFtz0bvS9ZofbjkY4cnTLalCMGHHgXXZ68_7vrt5ayHiEU9SGLL_8l2JZ5fsxWyXHcuh-fNI_HwGoaJt-plNuO1VowzADalK10CDaIkyWXk-BbOAZ_bqKfMYthS5S-qwDli979WUk5xH0RffsTEzg8f4aMwMRkNk6gZmJGO7Ch2BTcTVj0y4_9iPPj5DSudMELFEzRs0b8RITIFwn4Ca0PmTd4RW_Yz-_k0wuE1hTzFxxZC7LDNrxSr2cnF16NZyVWXe46wJYLmvrEw55NiP2e9xmRrn2lWPut_wNSaugglaVK3OkaxRvRmt6KKU1lNfmKFsJGWjylzJBeLlM9wIR2LsAFcBrX2IOaMhdBbZhMEzqeVFlsSn2pVQE-KhJ_fsvnDIgmVDleAwfSxIYEYCYzHe_PJYfTWLS12RkuhqtPSwzunn4KFqoAzBCESrH5aVn5Dz8GChQr443KhdTUcsqcorY7gANyDKPVy-16uVuyWeVc1H61uCge45UvFbjgCcGTOcmnFXICTeCSMr21VbJrQtjSsPwIVtTV8Bdpj4hy3oTStkR6eZlcscMLBJDhgqv=w1016-h159-s-no?authuser=0")
-       st.write(
-       """)
+   
                                     
 #Materi Kimia Organik
 with tab_4:
