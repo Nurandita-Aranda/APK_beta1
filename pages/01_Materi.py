@@ -1314,6 +1314,8 @@ analit direaksikan dengan pereaksi berlebih. Dan kelebihan pereaksi di titrasi
 Asidimetri adalah Bila ditentukan berapa mL larutan asam yang konsentrasinya diketahui untuk menetralkan suatu larutan basa yang kadarnya dicari.
 Alkalimetri adalah bila penitar dengan memakai basa yang konsentrasinya diketahui untuk menetapkan suatu asam
   """)
+        st.write(
+            """"
     imageT2 = Image.open('https://photos.google.com/album/AF1QipMtURMIugvHaK2SJe0kSCSQU8q3mhb_Qnj-uoLA/photo/AF1QipO8o-id9IrsRToY3guqKB5uz2GXQqosHD4Wx-06')
     imageT3 = Image.open('https://photos.google.com/album/AF1QipMtURMIugvHaK2SJe0kSCSQU8q3mhb_Qnj-uoLA/photo/AF1QipPV7EzOlEi8ECqurxhj31Ot6MYok-uA42HmOhUj')
     st.image(imageT2)
