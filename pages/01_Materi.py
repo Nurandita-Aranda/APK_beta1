@@ -1336,9 +1336,9 @@ Larutan stabil pada pH 9 dan 10 untuk meminimalkan
 bakteri yang dapat menguraikan S2O32- menjadi SO32- , SO42-, dan S↓
 Titik akhir : iod yang terikat dengan amilum itu pun hilang bereaksi dengan titran (S2O32-) sehingga warna biru hilang
 """)
-    st.markdown("<h2 style='text-align: center; color: raisin black;'>Kesalahan titrasi</h2>", unsafe_allow_html=True)
-    st.write(
-       """
+      st.markdown("<h2 style='text-align: center; color: raisin black;'>Kesalahan titrasi</h2>", unsafe_allow_html=True)
+      st.write(
+         """
 **Kesalahan titrasi**
 Kesalahan Oksigen
 O2 diudara dapat menyebabkan hasil titrasi terlalu tinggi karena dapat mengoksidasi
@@ -1349,7 +1349,6 @@ Penambahan Amilum terlalu awal
 I2 menguap karena terlalu lama menunggu titrasi pH tinggi, S2O32- teroksidasi secara parsial menjadi SO42-
 4I2 + S2O32- + 5H2O → 8I- + 2SO42- + 10H+
 """)
-    st.markdown("<h2 style='text-align: center; color: raisin black;'>Bobot Ekivalen</h2>", unsafe_allow_html=True)
     st.write(
        """
 **Bobot Ekivalen**
