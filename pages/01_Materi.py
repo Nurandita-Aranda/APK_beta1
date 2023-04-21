@@ -1306,8 +1306,8 @@ analit direaksikan dengan suatu pereaksi ,kemudian hasil reaksi di titrasi (anal
 analit direaksikan dengan pereaksi berlebih. Dan kelebihan pereaksi di titrasi
             """)
         
-   if optiontitri == "Asidimetri-Alkalimetri":
-      st.write(
+    if optiontitri == "Asidimetri-Alkalimetri":
+        st.write(
      """
         **Definisi**
                  
