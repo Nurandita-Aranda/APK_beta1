@@ -1349,9 +1349,9 @@ Penambahan Amilum terlalu awal
 I2 menguap karena terlalu lama menunggu titrasi pH tinggi, S2O32- teroksidasi secara parsial menjadi SO42-
 4I2 + S2O32- + 5H2O → 8I- + 2SO42- + 10H+
 """)
-st.markdown("<h2 style='text-align: center; color: raisin black;'>Bobot Ekivalen</h2>", unsafe_allow_html=True)
-st.write(
-   """
+    st.markdown("<h2 style='text-align: center; color: raisin black;'>Bobot Ekivalen</h2>", unsafe_allow_html=True)
+    st.write(
+       """
 **Bobot Ekivalen**
 Dalam titrasi iodometri, BE suatu zat dihitung dari banyaknya jumlah atom I, bukan jumlah ion I-
 BE= BM/n atom I
