@@ -3,7 +3,7 @@ import streamlit as st
 st.markdown("<h1 style='text-align: center; color: raisin black;'>Chemiskulator</h1>", unsafe_allow_html=True)
 st.subheader("Kalkulator buat kamu yang suka kimia")
 st.caption("Apa yang mau kamu hitung hari ini?")
-tab_1, tab_2, tab_3, tab_4, tab_5, tab_6 = st.tabs(["BM atau MR","Molaritas", "% Kadar", "Normalitas", "PPM", "PPB"])
+tab_1, tab_2, tab_3, tab_4, tab_5, tab_6 = st.tabs(["Molalitas","Molaritas", "% Kadar", "Normalitas", "PPM", "PPB"])
 with tab_1:
     st.header("Blom ada isi")
     
