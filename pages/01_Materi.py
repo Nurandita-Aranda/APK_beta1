@@ -1333,10 +1333,9 @@ Titik akhir : iod yang terikat dengan amilum itu pun hilang bereaksi dengan titr
            st.markdown("<h2 style='text-align: center; color: raisin black;'>Kesalahan titrasi</h2>", unsafe_allow_html=True)
            st.write(
           """
-
 **Kesalahan titrasi**
 Kesalahan Oksigen
-O2 diudara dapat menyebabkan hasil titrasi terlalu tinggi karena dapat     mengoksidasi
+O2 diudara dapat menyebabkan hasil titrasi terlalu tinggi karena dapat mengoksidasi
 4I- + O2 + 4H+ → 2I2 + 2H2O
 Reaksi ini dikatalisis oleh cahaya dan panas
 Penambahan Amilum terlalu awal
@@ -1346,7 +1345,7 @@ I2 menguap karena terlalu lama menunggu titrasi pH tinggi, S2O32- teroksidasi se
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Bobot Ekivalen</h2>", unsafe_allow_html=True)
         st.write(
             """
-Bobot Ekivalen
+**Bobot Ekivalen**
 Dalam titrasi iodometri, BE suatu zat dihitung dari banyaknya jumlah atom I, bukan jumlah ion I-
 BE= BM/n atom I
 """)
