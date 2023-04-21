@@ -1313,7 +1313,81 @@ analit direaksikan dengan suatu pereaksi ,kemudian hasil reaksi di titrasi (anal
 analit direaksikan dengan pereaksi berlebih. Dan kelebihan pereaksi di titrasi
             """)
         
-         if optionKO == "Pendahuluan":
+         if optiontitri == "Asidimetri-alkalimetri":
+             st.write(
+                 """
+                 **Definisi**
+                 
+Asidimetri adalah Bila ditentukan berapa mL larutan asam yang konsentrasinya diketahui untuk menetralkan suatu larutan basa yang kadarnya dicari.
+Alkalimetri adalah bila penitar dengan memakai basa yang konsentrasinya diketahui untuk menetapkan suatu asam
+  """)
+             imageT2 = Image.open('https://photos.google.com/album/AF1QipMtURMIugvHaK2SJe0kSCSQU8q3mhb_Qnj-uoLA/photo/AF1QipO8o-id9IrsRToY3guqKB5uz2GXQqosHD4Wx-06')
+             imageT3 = Image.open('https://photos.google.com/album/AF1QipMtURMIugvHaK2SJe0kSCSQU8q3mhb_Qnj-uoLA/photo/AF1QipPV7EzOlEi8ECqurxhj31Ot6MYok-uA42HmOhUj')
+             st.image(imageT2)
+             st.image(imageT3)
+            
+**Pemilihan Indikator**
+• Indikator asam – basa adalah zat yang dapat berubah warna apabila pH lingkungannya berubah
+• Warna dalam keadaan asam dinamakan warna asam
+• Warna yang ditunjukkan dalam keadaan basa dinamakan warna basa
+             
+**Jenis indikator asam-basa**
+             imageT4 = image.open('https://photos.google.com/album/AF1QipMtURMIugvHaK2SJe0kSCSQU8q3mhb_Qnj-uoLA/photo/AF1QipPb0XDVP08i4wMzRE_Kh56bbVzlrevIbsQfG-Hd')
+             st.image(imageT4)
+  
+**Indikator asam-basa berubah warna bila pH lingkungannya berubah**
+• Indikator asam-basa ialah asam organik lemah, jadi dalam larutan mengalami kesetimbangan pengionan.
+• Molekul-molekul indikator tersebut mempunyai warna yang berbeda dengan ion-ionnya
+• Letak trayek pH pada pH tinggi, atau rendah atau ditengah, tergantung dari nilai ka, kb indicator
+    HIn   Indikator asam-basa berubah warna bila pH lingkungannya berubah.
+• Indikator asam-basa ialah asam organik lemah, jadi dalam larutan mengalami kesetimbangan pengionan.
+• Molekul-molekul indikator tersebut mempunyai warna yang berbeda dengan ion-ionnya
+• Letak trayek pH pada pH tinggi, atau rendah atau ditengah, tergantung dari nilai ka, kb indicator
+          HIn  ⇌   H+ + In-
+    (warna A)        (warna B)   
+             
+**Suatu indicator pH digunakan untuk menunjukkan titik akhir**
+1. Indicator harus berubah warna tepat pada saat titran menjadi ekivalen dengan titrat agar tidak terjadi kesalahan titrasi. Untuk mengatasinya trayek indicator harus mencakup pH larutan pada titik ekivalen
+2. Perubahan warna itu harus terjadi dengan mendadak(jelas). Untuk mengatasinya trayekindicator harus memotong bagian yang curam dari kurva
+             
+**Titik ekuivalen**
+• Titrasi asam kuat oleh basa kuat , pH titik ekuivalen = 7
+• Titrasi asam lemah oleh basa kuat, pH titik ekuivalen ± 9
+• Titrasi basa kuat oleh asam kuat, pH titik ekuivalen = 7
+• Titrasi basa lemah oleh asam kuat, pH titik ekuivalen ± 5
+• Makin besar daerah curam kurva ( makin panjang daerah yang curam), makin leluasa pemilihan indicator. Bentuk kurva dan panjang bagian yang curam tergantung pada:           
+  •Kesempurnaan reaksi 
+  • Konsentrasi titran dan titrat
+  
+**pH larutan**
+pH = -log [H+]
+pOH = -log [OH-]
+pH + pOH = 14
+             1. Asam 
+             imageT5 = image.open('https://photos.google.com/album/AF1QipMtURMIugvHaK2SJe0kSCSQU8q3mhb_Qnj-uoLA/photo/AF1QipOaTtGpphFcXr6OqtFYI7fmX085wKjGQ9EtiH0c')
+             st.image(imageT5)
+             2. Basa
+             imageT6 = image.open('https://photos.google.com/album/AF1QipMtURMIugvHaK2SJe0kSCSQU8q3mhb_Qnj-uoLA/photo/AF1QipOyzbFGxyxd_QsSdEaP38zUX9whxBXVCPffiyQ9')
+             st.image(imageT6)
+             3. Buffer
+             imageT7 = image.open('https://photos.google.com/album/AF1QipMtURMIugvHaK2SJe0kSCSQU8q3mhb_Qnj-uoLA/photo/AF1QipOeUB_R-yIByKzx_iP1tz2WPAgl6QtjcoIHgzxd')
+             st.image(imageT7)
+             4. Garam Terhidrolisis
+             imageT8 = image.open('https://photos.google.com/album/AF1QipMtURMIugvHaK2SJe0kSCSQU8q3mhb_Qnj-uoLA/photo/AF1QipO087SpIdl4YAyler8UpfdlNHm-idZpKuLum6QK','https://photos.google.com/album/AF1QipMtURMIugvHaK2SJe0kSCSQU8q3mhb_Qnj-uoLA/photo/AF1QipOFqgF4Hs_Wp8esdimsoathDE8dJhjyB5MJxJ6E')
+             st.image(imageT8)
+             
+              if optiontitri == "Asidimetri":
+             
+                                  
+         
+
+
+
+
+
+                 
+             
+             
 
 
         
