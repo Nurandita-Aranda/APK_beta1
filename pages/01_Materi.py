@@ -1485,12 +1485,7 @@ Ditimbang teliti  ± 630 mg asam oksalat dengan kaca arloji, larutkan ke dalam l
        st.image("https://lh3.googleusercontent.com/y8NzPkNEVVhxZwDokwD05RR8IqjhT27Z5eTheWcTJL32ph55TL-mCJhsiNVZPC4fTVNefFUgP2lw6detQrHVYtLYjl1LWS7JphIO5amQXs6QiaAZvQ9m6Pri0sTMCUX-ZwJ8MMyXdiPqEyZeOiLh766mQtRUqq1vLhEXlfUMvPZZ5GlWn32sbMzyxil63P9A9lWApZ4Q27VychvCV4OylHIuDcAhfbEc0ucf9Yc0Vwa9QNMlX52vrhP97BKOvzi8OnRNqBxXzTBV_bvKJi4fcX9uJJf6ALYGUNvzpOUkB1474u-XH37163VaLJRK1dNKY1s6oFvw1hdfBr2Xa-EC69eaamrAJ4OJHq6VXEO9NKfbFtz0bvS9ZofbjkY4cnTLalCMGHHgXXZ68_7vrt5ayHiEU9SGLL_8l2JZ5fsxWyXHcuh-fNI_HwGoaJt-plNuO1VowzADalK10CDaIkyWXk-BbOAZ_bqKfMYthS5S-qwDli979WUk5xH0RffsTEzg8f4aMwMRkNk6gZmJGO7Ch2BTcTVj0y4_9iPPj5DSudMELFEzRs0b8RITIFwn4Ca0PmTd4RW_Yz-_k0wuE1hTzFxxZC7LDNrxSr2cnF16NZyVWXe46wJYLmvrEw55NiP2e9xmRrn2lWPut_wNSaugglaVK3OkaxRvRmt6KKU1lNfmKFsJGWjylzJBeLlM9wIR2LsAFcBrX2IOaMhdBbZhMEzqeVFlsSn2pVQE-KhJ_fsvnDIgmVDleAwfSxIYEYCYzHe_PJYfTWLS12RkuhqtPSwzunn4KFqoAzBCESrH5aVn5Dz8GChQr443KhdTUcsqcorY7gANyDKPVy-16uVuyWeVc1H61uCge45UvFbjgCcGTOcmnFXICTeCSMr21VbJrQtjSsPwIVtTV8Bdpj4hy3oTStkR6eZlcscMLBJDhgqv=w1016-h159-s-no?authuser=0")
        st.write(
        """)
-  
-
-
-
-                 
-                                   
+                                    
 #Materi Kimia Organik
 with tab_4:
     optionKO = st.selectbox(
