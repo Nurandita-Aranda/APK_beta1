@@ -1321,22 +1321,20 @@ Reaksi unik karena oksidator lain tidak mengubah S2O32- menjadi S4O62- melainkan
 
 Titrasi tanpa Indikator :
 • Lenyapnya warna I2 (coklat tua - kuning - bening)
-
 Titrasi dengan Indikator Amilum/kanji :
 • Lenyapnya warna I2 (coklat tua - kuning - biru tua - bening)
- 
-Amilum + I2 membentuk kompleks berwarna biru tua, sangat jelas walaupun I2 sedikit sekali
-
+ Amilum + I2 membentuk kompleks berwarna biru tua, sangat jelas walaupun I2 sedikit sekali
 Titik akhir : iod yang terikat dengan amilum itu pun hilang bereaksi dengan titran (S2O32-) sehingga warna biru hilang
-
 Titran Na2S2O3 yang digunakan dari garam pentahidrat (Na2S2O3.5H2O)
-
 Larutan stabil pada pH 9 dan 10 untuk meminimalkan
 bakteri yang dapat menguraikan S2O32- menjadi SO32- , SO42-, dan S↓
-
 Titik akhir : iod yang terikat dengan amilum itu pun hilang bereaksi dengan titran (S2O32-) sehingga warna biru hilang
+""")
+           st.markdown("<h2 style='text-align: center; color: raisin black;'>Kesalahan titrasi</h2>", unsafe_allow_html=True)
+           st.write(
+          """
 
-Kesalahan titrasi
+**Kesalahan titrasi**
 Kesalahan Oksigen
 O2 diudara dapat menyebabkan hasil titrasi terlalu tinggi karena dapat     mengoksidasi
 4I- + O2 + 4H+ → 2I2 + 2H2O
