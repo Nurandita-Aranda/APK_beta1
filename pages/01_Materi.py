@@ -1336,8 +1336,7 @@ bakteri yang dapat menguraikan S2O32- menjadi SO32- , SO42-, dan S↓
 
 Titik akhir : iod yang terikat dengan amilum itu pun hilang bereaksi dengan titran (S2O32-) sehingga warna biru hilang
                  """)
-             st.markdown("<h2 style='text-align: center; color: raisin black;'>Kesalahan Titrasi</h2>", unsafe_allow_html=True)
-             st.write(
+            st.write(
             """
 Kesalahan titrasi
 Kesalahan Oksigen
