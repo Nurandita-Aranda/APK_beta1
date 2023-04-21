@@ -1241,12 +1241,13 @@ with tab_3:
             "Pilih materi yang kamu mau",
             ("--- Pilih Materi ---", "Pengenalan Analisis Titrimetri","Asidimetri-Alkalimetri","Asidimetri","Alkalimetri","Pemanganometri","Iodometri"))
     if optiontitri == "Pengenalan Analisis Titrimetri":
+        st.markdown("<h2 style='text-align: center; color: raisin black;'>Pengenalan Analisis Titrimetri</h2>", unsafe_allow_html=True)
         st.write(
             """
             **Definisi**
 
 Analisis volumetri /analisis titrimetri adalah teknis analisis yang berdasarkan pada volume suatu larutan yang sudah diketahui konsentrasinya yang diperlukan untuk bereaksi sempurna dengan sejumlah tertentu komponen cuplikan (sampel).
-            """)
+             """)
         imageT1 = Image.open('Resource/image/Titri/Titri_1.png')
         st.image(imageT1)
         st.write(
@@ -1381,8 +1382,9 @@ pH + pOH = 14
              """)
              
     if optiontitri == "Asidimetri":
-             st.write(
-              """
+        st.markdown("<h2 style='text-align: center; color: raisin black;'>Asidimeetri</h2>", unsafe_allow_html=True)
+        st.write(
+            """
 **Bahan baku primer standarisasi asam (HCl)
 Borax atau natrium tetraborat dekahidrat
 Na2B4O7.10 H2O ( BM =381,4 BE = BM/2)
@@ -1402,8 +1404,7 @@ imageT10 = image.open('https://lh3.googleusercontent.com/DF4YDjLZlW330Py16UsNlUS
 st.image(imageT10)
         st.write(
             """
-
-**Penetapan Kadar NaOH dan Na2CO3 dalam Campuran Secara (WARDER)**
+            **Penetapan Kadar NaOH dan Na2CO3 dalam Campuran Secara (WARDER)**
 Na2CO3 dan NaOH dalam sampel campuran dapat ditentukan kadar
 masing-masing dengan titrasi asam-basa menggunakan larutan standar
 HCl dengan 2 indikator (pp dan SM).
@@ -1431,10 +1432,10 @@ st.image(imageT13)
             """)
                   
     if optiontitri == "Alkalimetri":
+        st.markdown("<h2 style='text-align: center; color: raisin black;'>Alkalimetri</h2>", unsafe_allow_html=True)
         st.write(
             """
-                  
-                 **Larutan standar (larutan baku)**
+            **Larutan standar (larutan baku)**
 Larutan standar adalah larutan yang digunakan sebagai titran yang konsentrasinya di ketahui secara pasti
                  Larutan standar terdiri dari :
 Larutan standar primer adalah larutan yang konsentrasinya harus diketahui dengan teliti dengan cara penimbangan zat yang dilarutkan dalam volume tertentu.
