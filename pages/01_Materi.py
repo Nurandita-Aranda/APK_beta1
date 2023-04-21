@@ -1487,9 +1487,11 @@ Alkalimetri adalah bila penitar dengan memakai basa yang konsentrasinya diketahu
 • Indikator asam-basa ialah asam organik lemah, jadi dalam larutan mengalami kesetimbangan pengionan.
 • Molekul-molekul indikator tersebut mempunyai warna yang berbeda dengan ion-ionnya
 • Letak trayek pH pada pH tinggi, atau rendah atau ditengah, tergantung dari nilai ka, kb indicator
+
     HIn     ⇌     H+ + In-
 (warna A)        (warna B)
-Suatu indicator pH digunakan untuk menunjukkan titik akhir
+
+**Suatu indicator pH digunakan untuk menunjukkan titik akhir**
 1. Indicator harus berubah warna tepat pada saat titran menjadi ekivalen dengan titrat agar tidak terjadi kesalahan titrasi. Untuk mengatasinya trayek indicator harus mencakup pH larutan pada titik ekivalen
 2. Perubahan warna itu harus terjadi dengan mendadak(jelas). Untuk mengatasinya trayekindicator harus memotong bagian yang curam dari kurva
 """)
