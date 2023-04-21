@@ -1350,7 +1350,7 @@ I2 menguap karena terlalu lama menunggu titrasi pH tinggi, S2O32- teroksidasi se
 Dalam titrasi iodometri, BE suatu zat dihitung dari banyaknya jumlah atom I, bukan jumlah ion I-
 BE= BM/n atom I
 """)
-     if optiontitri == "Permanganometri":
+      if optiontitri == "Permanganometri":
        st.markdown("<h2 style='text-align: center; color: raisin black;'>Titrasi Redoks</h2>", unsafe_allow_html=True)
        st.write(
           """
