@@ -1306,17 +1306,18 @@ analit direaksikan dengan suatu pereaksi ,kemudian hasil reaksi di titrasi (anal
 analit direaksikan dengan pereaksi berlebih. Dan kelebihan pereaksi di titrasi
             """)
         
-   if optiontitri == "Asidimetri-alkalimetri":
-    st.write("""
-                 **Definisi**
+   if optiontitri == "Asidimetri-Alkalimetri":
+    st.write(
+        """
+        **Definisi**
                  
 Asidimetri adalah Bila ditentukan berapa mL larutan asam yang konsentrasinya diketahui untuk menetralkan suatu larutan basa yang kadarnya dicari.
 Alkalimetri adalah bila penitar dengan memakai basa yang konsentrasinya diketahui untuk menetapkan suatu asam
   """)
-             imageT2 = Image.open('https://photos.google.com/album/AF1QipMtURMIugvHaK2SJe0kSCSQU8q3mhb_Qnj-uoLA/photo/AF1QipO8o-id9IrsRToY3guqKB5uz2GXQqosHD4Wx-06')
-             imageT3 = Image.open('https://photos.google.com/album/AF1QipMtURMIugvHaK2SJe0kSCSQU8q3mhb_Qnj-uoLA/photo/AF1QipPV7EzOlEi8ECqurxhj31Ot6MYok-uA42HmOhUj')
-             st.image(imageT2)
-             st.image(imageT3)
+    imageT2 = Image.open('https://photos.google.com/album/AF1QipMtURMIugvHaK2SJe0kSCSQU8q3mhb_Qnj-uoLA/photo/AF1QipO8o-id9IrsRToY3guqKB5uz2GXQqosHD4Wx-06')
+    imageT3 = Image.open('https://photos.google.com/album/AF1QipMtURMIugvHaK2SJe0kSCSQU8q3mhb_Qnj-uoLA/photo/AF1QipPV7EzOlEi8ECqurxhj31Ot6MYok-uA42HmOhUj')
+    st.image(imageT2)
+    st.image(imageT3)
             
 **Pemilihan Indikator**
 • Indikator asam – basa adalah zat yang dapat berubah warna apabila pH lingkungannya berubah
