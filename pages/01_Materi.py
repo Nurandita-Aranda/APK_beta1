@@ -1474,8 +1474,7 @@ Menghitung kadar analit:
                  imageT16 = image.open('https://lh3.googleusercontent.com/mj-tmX4oV5JYZ7x3iDxIScPkefjEd5cuV8tO5H7-moYWk033JWzDSiSjaGkdZcME52iJ3x12_tYhQOMFFqx8FMlWzm3BPJueeGMziHabKElcsoJZFbgozmj9OJMCdv7R7YLHfigZDsAdINJh3gpVwAucN6sqsVjuJOWU0_mReteC3F5D3yjiOkGLLKqJGS6q7EFIBV8TNbJ8YQeP_04DI135wZYCQzl4OHQ448bSxtzFuULutAiAQCsdp_cX488OOzfHHnQLIFW99CLMAjqc9SinmjtqrWiKmzMDFX_YqAo8q_g-gPM8cPps2s7nwKQWqeoJEZNewp0eDEUgxhjS6iQZhV6fLIgZksPA1tlpScXXI-8EB7eHIvy8l53cMrj4yCOMRszGvIHVqzLnWfhOl-g79jixl6wgl9MVhcisS4lmOQZI1qVCC_mmh5qOXi2-1YDUvoU0qG29DnfQHWZdX5_gkblXyhVhVe1thqHENXesZ0xSPyvYrqsWCSTx7vhpFpm8Mg_ee5vczXKVimgOFzdNRxRkhHAYlRIMuBr1-0f138Dv_OSauF_1FJWHBbwWlgE5lW63iSblG5DxEKXE34bWjeteR25EgPFkTD3b7Nz9hCGcNCl59Tr3s1xZXSb3iOp7gNAV59Zh6AzwneGG1r7fMrBvz5n0Zv22fA2GIiD8Lp_UefWV5xkeDlDQGC-W2AzNeDQWVKSsIt86EMd87C0lV6FYBuy3TQYGpTQkPKRoRRNrH4h1VIX66p7um-AbrLwK4N-OOVwJHwtkzL8G_IN9bOQY17IbNIkJAXvi1DBy2d6M5xC7mlIFUA4YW6As9Dx10VfEL2chem4pGNpdUOiAU8jawxTxUxG8k_3QRRCJnAVzoa75HDsCSoc87X1F7OwVnU8EldA4SeCVimqhYvIOgq3WCDPdeGfTPIjSstvs=w1112-h362-s-no?authuser=0')
                  st.image(imageT15)
                  st.image(imageT16)
-                 st.write(
-                 """)
+                    """)
 
                  
       
