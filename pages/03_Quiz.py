@@ -20,6 +20,36 @@ if option == "Analisis Jenis":
     result = st.select_slider(
         'pilih soal',
         options=['soal 1', 'soal 2', 'soal 3', 'soal 4', 'soal 5', 'soal 6', 'soal 7', "soal 8", "soal 9", "soal 10"])
+if result == "soal 1":
+        st.write(
+            """
+Perhatikan persamaan reaksi kimia berikut.
+
+aAgNO3 + 2H2O → bAg + O2 + cHNO3
+
+agar persamaan diatas dapat setara, maka a, b, dan c adalah
+
+            """)
+        col1, col2 = st.columns(2)
+        with col1:
+            opsi1 = st. button("4,2,dan4")
+            opsi2 = st. button("4,4,dan2")
+        with col2:
+            opsi3 = st. button("4,4,dan4")
+            opsi4 = st. button("4,3,dan2")
+        if opsi1:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi2:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi3:
+            st.markdown("<h2 style='text-align: center; color: red;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.success("soal selanjutnya!")
+            st.balloons()
+        elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
     
 if option == "Titrimetri":
     result = st.select_slider(
