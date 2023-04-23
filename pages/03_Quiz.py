@@ -96,10 +96,10 @@ Perak hidroksida akan mengalami disosiasi Ketika dilarutkan dalam air reksi yang
             st.success("soal selanjutnya!")
             st.balloons()
         elif opsi3:
-            st.markdown("<h2 style='text-align: center; color: red;'>salah!!</h2>", unsafe_allow_html=True)
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')  
         elif opsi4:
-            st.markdown("<h2 style='text-align: center; color: red;'>salah!!</h2>", unsafe_allow_html=True)
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
             
     if result == "soal 4":
