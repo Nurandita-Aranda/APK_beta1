@@ -111,6 +111,32 @@ Tuliskan Persamaan reaksi proses pengkaratan pada besi...
         with col1:
             opsi1 = st. button("2Fe2O3xH2O → Fe(OH)2+O2+H2O")
             opsi2 = st. button("2Fe+ O2+ 4H- → 2Fe2-+2H2O")
+            
+if result == "soal 5":
+        st.write(
+            """
+Larutan HCL dalam air memiliki kadar 50 %. Hitunglah fraksi mol HCL dalam larutan tersebut (Mr HCL= 36,5)...
+""")
+        col1, col2 = st.columns(2)
+        with col1:
+            opsi1 = st. button("27,4 mol")
+            opsi2 = st. button("27,39 mol")
+        with col2:
+            opsi3 = st. button("25 mol")
+            opsi4 = st. button("26 mol")
+        if opsi1:
+            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.success("soal selanjutnya!")
+            st.balloons()
+        elif opsi2:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi3:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')  
+        elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
         
     
 if option == "Titrimetri":
