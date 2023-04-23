@@ -112,7 +112,7 @@ Tuliskan Persamaan reaksi proses pengkaratan pada besi...
             opsi1 = st. button("2Fe2O3xH2O → Fe(OH)2+O2+H2O")
             opsi2 = st. button("2Fe+ O2+ 4H- → 2Fe2-+2H2O")
             
-if result == "soal 5":
+    if result == "soal 5":
         st.write(
             """
 Larutan HCL dalam air memiliki kadar 50 %. Hitunglah fraksi mol HCL dalam larutan tersebut (Mr HCL= 36,5)...
