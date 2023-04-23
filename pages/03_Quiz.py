@@ -23,11 +23,11 @@ if option == "Analisis Jenis":
     if result == "soal 1":
         st.write(
             """
-Perhatikan persamaan reaksi kimia berikut.
+        Perhatikan persamaan reaksi kimia berikut.
 
-aAgNO3 + 2H2O → bAg + O2 + cHNO3
+        aAgNO3 + 2H2O → bAg + O2 + cHNO3
 
-agar persamaan diatas dapat setara, maka a, b, dan c adalah...
+        agar persamaan diatas dapat setara, maka a, b, dan c adalah...
 """)
         col1, col2 = st.columns(2)
         with col1:
@@ -53,8 +53,8 @@ agar persamaan diatas dapat setara, maka a, b, dan c adalah...
     if result == "soal 2":
         st.write(
             """
-Bila Permanganat dipanasi dengan basa akan terjadi reaksi redoks, persamaan reaksi yang tepat sehingga terbentuk oksigen adalah...
-""")
+        Bila Permanganat dipanasi dengan basa akan terjadi reaksi redoks, persamaan reaksi yang tepat sehingga terbentuk oksigen adalah...
+        """)
         col1, col2 = st.columns(2)
         with col1:
             opsi1 = st. button("4MnO4 + 4OH- → 4MnO42- + 2H2O + O2")
@@ -79,8 +79,8 @@ Bila Permanganat dipanasi dengan basa akan terjadi reaksi redoks, persamaan reak
     if result == "soal 3":
         st.write(
             """
-Perak hidroksida akan mengalami disosiasi Ketika dilarutkan dalam air reksi yang tepat adalah...
-""")
+        Perak hidroksida akan mengalami disosiasi Ketika dilarutkan dalam air reksi yang tepat adalah...
+        """)
         col1, col2 = st.columns(2)
         with col1:
             opsi1 = st. button("AgNO3 + 2H2O → Ag + O2 + HNO3")
@@ -105,8 +105,8 @@ Perak hidroksida akan mengalami disosiasi Ketika dilarutkan dalam air reksi yang
     if result == "soal 4":
         st.write(
             """
-Tuliskan Persamaan reaksi proses pengkaratan pada besi...
-""")
+        Tuliskan Persamaan reaksi proses pengkaratan pada besi...
+        """)
         col1, col2 = st.columns(2)
         with col1:
             opsi1 = st. button("2Fe2O3xH2O → Fe(OH)2+O2+H2O")
@@ -115,8 +115,8 @@ Tuliskan Persamaan reaksi proses pengkaratan pada besi...
     if result == "soal 5":
         st.write(
             """
-Larutan HCL dalam air memiliki kadar 50 %. Hitunglah fraksi mol HCL dalam larutan tersebut (Mr HCL= 36,5)...
-""")
+        Larutan HCL dalam air memiliki kadar 50 %. Hitunglah fraksi mol HCL dalam larutan tersebut (Mr HCL= 36,5)...
+        """)
         col1, col2 = st.columns(2)
         with col1:
             opsi1 = st. button("27,4 mol")
@@ -138,6 +138,31 @@ Larutan HCL dalam air memiliki kadar 50 %. Hitunglah fraksi mol HCL dalam laruta
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
         
+    if result == "soal 6":
+        st.write(
+            """
+        Larutan Sorensen 10% b/v, memiliki PPM sebesar...
+        """)
+        col1, col2 = st.columns(2)
+        with col1:
+            opsi1 = st. button("1000000 ppm")
+            opsi2 = st. button("0,00001 ppm")
+        with col2:
+            opsi3 = st. button("10000")
+            opsi4 = st. button("1000")
+        if opsi1:
+            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.success("soal selanjutnya!")
+            st.balloons()
+        elif opsi2:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi3:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')  
+        elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
     
 if option == "Titrimetri":
     result = st.select_slider(
