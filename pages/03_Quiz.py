@@ -27,7 +27,7 @@ Perhatikan persamaan reaksi kimia berikut.
 
 aAgNO3 + 2H2O → bAg + O2 + cHNO3
 
-agar persamaan diatas dapat setara, maka a, b, dan c adalah
+agar persamaan diatas dapat setara, maka a, b, dan c adalah...
 """)
         col1, col2 = st.columns(2)
         with col1:
@@ -46,6 +46,32 @@ agar persamaan diatas dapat setara, maka a, b, dan c adalah
             st.markdown("<h2 style='text-align: center; color: red;'>Benar!!</h2>", unsafe_allow_html=True)
             st.success("soal selanjutnya!")
             st.balloons()
+        elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+            
+    if result == "soal 2":
+        st.write(
+            """
+Bila Permanganat dipanasi dengan basa akan terjadi reaksi redoks, persamaan reaksi yang tepat sehingga terbentuk oksigen adalah...
+""")
+        col1, col2 = st.columns(2)
+        with col1:
+            opsi1 = st. button("4MnO4 + 4OH- → 4MnO42- + 2H2O + O2")
+            opsi2 = st. button("MnO4 + 4OH → -1MnO2 + 2MnO4 + 2H2O")
+        with col2:
+            opsi3 = st. button("4MnO4 +2OH- → 4MnO42- + 2H2O + O2")
+            opsi4 = st. button("MnO4 +2OH- → MnO42- + 2H2O + O2")
+        if opsi1:
+            st.markdown("<h2 style='text-align: center; color: red;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.success("soal selanjutnya!")
+            st.balloons()
+        elif opsi2:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi3:
+            st.markdown("<h2 style='text-align: center; color: red;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')  
         elif opsi4:
             st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
