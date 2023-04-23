@@ -43,11 +43,11 @@ agar persamaan diatas dapat setara, maka a, b, dan c adalah...
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
         elif opsi3:
-            st.markdown("<h2 style='text-align: center; color: red;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
             st.success("soal selanjutnya!")
             st.balloons()
         elif opsi4:
-            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.markdown("<h2 style='text-align: center; color: red;'>salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
             
     if result == "soal 2":
@@ -63,17 +63,69 @@ Bila Permanganat dipanasi dengan basa akan terjadi reaksi redoks, persamaan reak
             opsi3 = st. button("4MnO4 +2OH- → 4MnO42- + 2H2O + O2")
             opsi4 = st. button("MnO4 +2OH- → MnO42- + 2H2O + O2")
         if opsi1:
-            st.markdown("<h2 style='text-align: center; color: red;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
             st.success("soal selanjutnya!")
             st.balloons()
         elif opsi2:
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
         elif opsi3:
-            st.markdown("<h2 style='text-align: center; color: red;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.markdown("<h2 style='text-align: center; color: red;'>salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')  
         elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: red;'>salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+            
+    if result == "soal 3":
+        st.write(
+            """
+Perak hidroksida akan mengalami disosiasi Ketika dilarutkan dalam air reksi yang tepat adalah...
+""")
+        col1, col2 = st.columns(2)
+        with col1:
+            opsi1 = st. button("AgNO3 + 2H2O → Ag + O2 + HNO3")
+            opsi2 = st. button("Ag(OH) + OH → Ag + OH")
+        with col2:
+            opsi3 = st. button("Ag(OH)2 + OH → Ag + 3OH")
+            opsi4 = st. button("2Ag(OH) + 4OH → 2Ag + 3H2O")
+        if opsi1:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi2:
             st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.success("soal selanjutnya!")
+            st.balloons()
+        elif opsi3:
+            st.markdown("<h2 style='text-align: center; color: red;'>salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')  
+        elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: red;'>salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+            
+    if result == "soal 4":
+        st.write(
+            """
+Tuliskan Persamaan reaksi proses pengkaratan pada besi...
+""")
+        col1, col2 = st.columns(2)
+        with col1:
+            opsi1 = st. button("2Fe2O3xH2O → Fe(OH)2+O2+H2O")
+            opsi2 = st. button("2Fe+ O2+ 4H- → 2Fe2-+2H2O")
+        with col2:
+            opsi3 = st. button("2Fe+ O2+ 4H- → 2Fe2-+2H2O")
+            opsi4 = st. button("Fe+ H2O → Fe2-+2H2O")
+        if opsi1:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi2:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi3:
+            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.success("soal selanjutnya!")
+            st.balloons()
+        elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: red;'>salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
     
 if option == "Titrimetri":
