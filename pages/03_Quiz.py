@@ -20,7 +20,7 @@ if option == "Analisis Jenis":
     result = st.select_slider(
         'pilih soal',
         options=['soal 1', 'soal 2', 'soal 3', 'soal 4', 'soal 5', 'soal 6', 'soal 7', "soal 8", "soal 9", "soal 10"])
-if result == "soal 1":
+    if result == "soal 1":
         st.write(
             """
 Perhatikan persamaan reaksi kimia berikut.
