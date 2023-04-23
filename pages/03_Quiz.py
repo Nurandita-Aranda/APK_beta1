@@ -112,7 +112,7 @@ if option == "Analisis Jenis":
             opsi1 = st. button("2Fe2O3xH2O → Fe(OH)2+O2+H2O")
             opsi2 = st. button("2Fe+ O2+ 4H- → 2Fe2-+2H2O")
         with col2:
-            opsi3 = st. button("2Fe+ O2+ 4H- → 2Fe2-+2H2O")
+            opsi3 = st. button("2Fe+ O2+ 4H- → 2Fe^2-  +2H2O")
             opsi4 = st. button("Fe+ H2O → Fe+2H2O")
         if opsi1:
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
