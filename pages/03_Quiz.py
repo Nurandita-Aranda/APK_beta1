@@ -28,8 +28,7 @@ Perhatikan persamaan reaksi kimia berikut.
 aAgNO3 + 2H2O → bAg + O2 + cHNO3
 
 agar persamaan diatas dapat setara, maka a, b, dan c adalah
-
-            """)
+""")
         col1, col2 = st.columns(2)
         with col1:
             opsi1 = st. button("4,2,dan4")
