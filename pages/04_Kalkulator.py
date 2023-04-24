@@ -9,10 +9,10 @@ with tab_1:
         "Pilih salah satu",
         ("Diketahui Mol zat terlarut & massa zat pelarut","Diketahui massa zat terlarut, molekul relatif zat terlarut, & massa pelarut"))
      if option == "Diketahui Mol zat terlarut & massa zat pelarut":
-        Mol1 = st.number_input("Masukkan mol zat terlarut(mol)")
-        massa1= st.number_input("Masukkan massa zat pelarut(kg)")
-         if tombol_1:
-            nilai_molalitas1 = Mol1/massa1
+        Mol_zatterlarut = st.number_input("Masukkan mol zat terlarut(mol)")
+        massa_zatpelarut = st.number_input("Masukkan massa zat pelarut(kg)")
+        if tombol_1:
+            nilai_molalitas1 = Mol_zatterlarut/massa_zatpelarut
             st.success(f"nilai Molalitas adalah {nilai_molalitas1}")
     
 with tab_2:
