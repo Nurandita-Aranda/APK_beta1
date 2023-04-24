@@ -13,7 +13,7 @@ with tab_1:
         massa_zatpelarut = st.number_input("Masukkan massa zat pelarut(kg)")
         if tombol_1:
             nilai_molalitas1 = Mol_zatterlarut/massa_zatpelarut
-            st.success(f"nilai Molalitas adalah {nilai_molalitas1}")
+            st.success(f"nilai molalitas adalah {nilai_molalitas1}")
     
 with tab_2:
     option = st.selectbox(
