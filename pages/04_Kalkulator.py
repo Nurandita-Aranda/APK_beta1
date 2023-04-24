@@ -54,21 +54,21 @@ with tab_3:
         tombol_1 = st.button("Hitung % Kadar (v/v)")
         if tombol_1:
             nilai_kadar1 =volume_zat1/volume_total1
-            st.success(f"nilai kadar1 adalah {nilai_kadar1}")
+            st.success(f"nilai % Kadar (v/v) adalah {nilai_kadar1}")
     if option == "% Kadar (b/v)":
         massa_zat1= st.number_input("Masukkan nilai massa zat")
         volume_total2 = st.number_input("Masukkan nilai volume total")
         tombol_2 = st.button("Hitung % Kadar (b/v)")
         if tombol_2: 
             nilai_kadar2 = massa_zat1/volume_total2
-            st.success(f"nilai kadar2 adalah {nilai_kadar2}")
+            st.success(f"nilai % Kadar (b/v) adalah {nilai_kadar2}")
     if option == "% Kadar (b/b)":
         massa_zat2= st.number_input("Masukkan nilai massa zat")
         massa_total1 = st.number_input("Masukkan nilai massa total")
         tombol_3 = st.button("Hitung % Kadar (b/b)")
         if tombol_3:
             nilai_kadar3 = massa_zat2/massa_total1
-            st.success(f"nilai kadar3 adalah {nilai_kadar3}")
+            st.success(f"nilai % Kadar (b/b) adalah {nilai_kadar3}")
     
     
 with tab_4:
