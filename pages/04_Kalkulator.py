@@ -11,6 +11,7 @@ with tab_1:
      if option == "Diketahui Mol zat terlarut & massa zat pelarut":
         Mol_zatterlarut = st.number_input("Masukkan mol zat terlarut(mol)")
         massa_zatpelarut = st.number_input("Masukkan massa zat pelarut(kg)")
+        tombol_1 = st.button("Hitung molalitas")       
         if tombol_1:
             nilai_molalitas1 = Mol_zatterlarut/massa_zatpelarut
             st.success(f"nilai molalitas adalah {nilai_molalitas1}")
