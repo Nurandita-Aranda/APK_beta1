@@ -5,7 +5,15 @@ st.subheader("Kalkulator buat kamu yang suka kimia")
 st.caption("Apa yang mau kamu hitung hari ini?")
 tab_1, tab_2, tab_3, tab_4, tab_5, tab_6 = st.tabs(["Molalitas","Molaritas", "% Kadar", "Normalitas", "PPM", "PPB"])
 with tab_1:
-    st.header("Blom ada isi")
+     option = st.selectbox(
+        "Pilih salah satu",
+        ("Diketahui Mol zat terlarut & massa zat pelarut","Diketahui massa zat terlarut, molekul relatif zat terlarut, & massa pelarut"))
+     if option == "Diketahui Mol zat terlarut & massa zat pelarut":
+        Mol1 = st.number_input("Masukkan mol zat terlarut(mol)")
+        massa1= st.number_input("Masukkan massa zat pelarut(kg)")
+        if tombol_1:
+            nilai_molalitas1 = Mol1/massa1
+            st.success(f"nilai Molalitas adalah {nilai_molalitas1}")
     
 with tab_2:
     option = st.selectbox(
