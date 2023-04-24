@@ -231,6 +231,62 @@ if option == "Analisis Jenis":
             st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
             st.success("soal selanjutnya!")
             st.balloons()
+            
+    if result == "soal 9":
+        st.write(
+            """
+        Suatu unsur ketika diuji dengan uji nyala menghasilkan nyala api berwarna hijau, unsur tersebut adalah...
+        """)
+        col1, col2 = st.columns(2)
+        with col1:
+            opsi1 = st. button("Berilium")
+            opsi2 = st. button("Barium")
+        with col2:
+            opsi3 = st. button("Magnesium")
+            opsi4 = st. button("Litium")
+        if opsi1:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi2:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi3:
+            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.success("soal selanjutnya!")
+            st.balloons() 
+        elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+            
+    if result == "soal 10":
+        st.write(
+            """
+        seorang mahasiswa berencana untuk melakukan percobaan pemisahan kation golongan I-V, ia memiliki sebuah sampel yang tidak diketahui golongannya,
+        ia pun berinisiatif untuk menambahkan HCl kedalam sampel tersebut, terjadilah pembentukan endapan putih ketika sampel tersebut ditambahkan dengan HCL,
+        ia pun berniat untuk memanaskan sampel tersebut setelah ia cuci namun ketika dipanaskan tidak terjadi perubahan,
+        lalu terakhir ia menambahkan senyawa K2CrO4 kedalam sampel, lalu sampel tersebut pun membentuk endapan kuning,
+        berdasarkan percobaan tersebut, sampel yang di uji oleh mahasiswa itu adalah...
+        """)
+        col1, col2 = st.columns(2)
+        with col1:
+            opsi1 = st. button("Fe ^3+")
+            opsi2 = st. button("Al ^3+")
+        with col2:
+            opsi3 = st. button("Hg ^2+")
+            opsi4 = st. button("Pb ^2+")
+        if opsi1:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi2:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi3:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.success("soal selanjutnya!")
+            st.balloons() 
     
 if option == "Titrimetri":
     result = st.select_slider(
