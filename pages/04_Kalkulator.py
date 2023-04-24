@@ -15,7 +15,15 @@ with tab_1:
         if tombol_1:
             nilai_molalitas1 = Mol_zatterlarut/massa_zatpelarut
             st.success(f"nilai molalitas adalah {nilai_molalitas1}")
-    
+     if option == "Diketahui massa zat terlarut, molekul relatif zat terlarut, & massa pelarut":
+        Massa_zatterlarut = st.number_input("Masukkan nilai massa(g)")
+        Molekulrelatif = st.number_input("Masukkan nilai Mr")
+        massa_zatpelarut1= st.number_input("Masukkan nilai massa pelarut (g)")
+        tombol_2 = st.button("Hitung molalitas")
+        if tombol_2:
+            nilai_molalitas2 = Massa_zatterlarut*1000/(Molekulrelatif*massa_zatpelarut1)
+            st.success(f"nilai normalitas adalah {nilai_molalita_2}")
+   
 with tab_2:
     option = st.selectbox(
         "Pilih salah satu",
