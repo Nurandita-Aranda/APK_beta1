@@ -48,6 +48,13 @@ with tab_3:
     option = st.selectbox(
         "Pilih salah satu",
         ("% Kadar (v/v)","% Kadar (b/v)","% Kadar (b/b)"))
+if option == "% Kadar (v/v)":
+        volume_zat= st.number_input("Masukkan nilai volume zat")
+        volume_total = st.number_input("Masukkan nilai volume total")
+        tombol_1 = st.button("Hitung % Kadar (v/v)")
+        if tombol_1:
+            nilai_persenKadar(v/v) =volume_zat/volume_total
+            st.success(f"nilai normalitas adalah {nilai_persenKadar(v/v)}")
     
 with tab_4:
     option = st.selectbox(
