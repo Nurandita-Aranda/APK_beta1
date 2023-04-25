@@ -1890,6 +1890,13 @@ Jika ada 2 gugus substituen, penamaan diberikan dengan nomor atau awalan orto (o
             """)
         imageKO3 = Image.open('Resource/image/Kimor/Benzena_polisubstitusi.png')
         st.image(imageKO3, caption = "Sumber: fathchemical.blogspot.com")
+        st.write(
+            """
+            Reaksi penting:
+1.	Hidrogenasi
+            """)
+        imageKO4 = Image.open('Resource/image/Kimor/Hidrogenasi_benzena.png')
+        st.image(imageKO4)
         
         
     if optionKO == "Alkohol dan Fenol":
@@ -1931,6 +1938,7 @@ Sifat Fisika:
 4.	Keasaman fenol lebih tinggi dari alkohol.
                  """)
 
+        
         
 #Materi Fisika Dasar
 with tab_5:
