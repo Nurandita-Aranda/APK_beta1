@@ -410,12 +410,10 @@ Hukum laju : Laju = k[A]X[Y]Y
 Untuk reaksi umum : aA + bB → cC + dD
 
 C. Hubungan Antara Konsentrasi Reaktan dan Waktu
-
 1. Reaksi Orde Pertama : Reaksi yang lajunya bergantung pada konsentrasi reaktan dipangkatkan dengan satu.
 2. Reaksi Orde Kedua : Reaksi yang lajunya bergantung pada konsentrasi reaktan dipangkatkan dengan dua.
 
 D. Energi Aktivasi dan Ketergantungan Konstanta Laju Terhadap suhu
-
 1. Teori Tumbukan pada Kinetika Kimia
 Dari segi teori tumbukan pada kinetika kimia, maka dapat diperkirakan laju reaksi akan berbanding lurus dengan banyaknya tumbukan molekul per detik atau berbanding lurus dengan frekuensi tumbukan molekul.
 
@@ -438,7 +436,6 @@ Tahap 2 : N2O2(g) + O2(g) →  2NO2(g)
 Reaksi Keseluruhan : 2NO(g) + N2O2(g) + O2(g) → N2O2(g) + 2NO2(g)
 
 Tahap Elementer harus memenuhi dua syarat :
-
 1. Jumlah elementer harus menghasilkan persamaan setara keseluruhan untuk reaksi tersebut.
 2. Tahap penentu laju, yaitu tahap paling lambat dari seluruh rangkaian tahap menuju pembentukan produk. Harus memprediksi hukum laju yang sama.
 
@@ -488,9 +485,9 @@ E. Apa yang Dapat Diketahui Dari Konstanta Kesetimbangan
 2. Menghitung konsentrasi kesetimbangan.
 
 F. Faktor yang mempengaruhi Kesetimbangan Kimia.
-
 1. Asas Le Chatelier
 Ada satu aturan umum yang membantu kita memprediksi kearah mana reaksi kesetimbangan akan bergeser bila terjadi perubahan konsentrasi, tekanan. Volume, atau suhu. Asas le chatalier menyatakan bahwa “ jika suatu tekanan eksternal diberikan kepada suatu sistem kesetimbangan, sistem ini akan menyesuaikan diri sedemikian rupa untuk mengimbangi sebagian tekanan ini pada saat sistem mencoba setimbang Kembali.”
+
 2. Perubahan Konsentrasi
 3. Perubahan Tekanan dan Volume
 4. Perubahan suhu 
@@ -1897,7 +1894,9 @@ Jika ada 2 gugus substituen, penamaan diberikan dengan nomor atau awalan orto (o
             """)
         imageKO4 = Image.open('Resource/image/Kimor/Hidrogenasi_benzena.png')
         st.image(imageKO4)
-        
+        st.write("2.	Sulfonasi")
+        imageKO5 = Image.open('Resource/image/Kimor/Sulfonasi_benzena.png')
+        st.image(imageKO5)
         
     if optionKO == "Alkohol dan Fenol":
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Alkohol</h2>", unsafe_allow_html=True)
