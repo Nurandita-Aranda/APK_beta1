@@ -8,7 +8,7 @@ col1, col2, col3 = st.columns(3)
 with col1:
     st.write(" ")
 with col2:
-    st.button(st.write("[link](https://drive.google.com/file/d/1Slheotw7HAcpZ-uEzV7PkO1ingI3lATo/view?usp=sharing)")
+    st.write("[Ayo mulai!](https://github.com/Nurandita-Aranda/Mini_Game1)"
         
 with col3:
     st.write(" ")
