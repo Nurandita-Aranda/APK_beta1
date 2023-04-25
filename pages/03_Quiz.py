@@ -287,13 +287,16 @@ if option == "Analisis Jenis":
             st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
             st.success("soal selanjutnya!")
             st.balloons() 
-    
+
+            
+            
 if option == "Titrimetri":
     result = st.select_slider(
         'pilih soal',
         options=['soal 1', 'soal 2', 'soal 3', 'soal 4', 'soal 5', 'soal 6', 'soal 7', "soal 8", "soal 9", "soal 10"])
     
 
+    
 if option == "Kimia Organik":
     result = st.select_slider(
         'pilih soal',
@@ -353,6 +356,28 @@ if option == "Kimia Organik":
         with col2:
             opsi3 = st. button("Natrium bisulfit")
             opsi4 = st. button("FeCl3")
+        if opsi1:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi2:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi3:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.success("soal selanjutnya!")
+            st.balloons()
+    if result == "soal 4":
+        st.write("Berikut ini yang merupakan sifat senyawa aromatik adalah...")
+        col1, col2 = st.columns(2)
+        with col1:
+            opsi1 = st. button("Memiliki rantai terbuka")
+            opsi2 = st. button("Mudah larut dalam air")
+        with col2:
+            opsi3 = st. button("Tidak memiliki ikatan rangkap")
+            opsi4 = st. button("Mudah terbakar")
         if opsi1:
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
