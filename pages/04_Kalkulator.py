@@ -137,6 +137,7 @@ with tab_6:
             nilai_ppb2 = Massa2/Berat
             st.success(f"nilai PPB adalah {nilai_ppb2}")
 
+button_style = f"""          
 <html>
 <head>
 <style>
@@ -189,3 +190,5 @@ with tab_6:
 
 </body>
 </html>
+"""
+st.markdown(button_style, unsafe_allow_html=True)
