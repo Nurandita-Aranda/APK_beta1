@@ -348,9 +348,90 @@ if option == "Titrimetri":
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
             
+    if result == "soal 3":
+        st.write(
+            """
+        Suatu sampel yang mengandung asam asetat diencerkan sebanyak 4x. sebanyak 10 mL dari larutan tersebut dititrasi dengan NaOH 0,1025 N sampai titik akhir diperoleh 15,27 mL.
+            
+        Hitunglah berapa persen kadar asam asetat dalam sampel.
+        """)
+        col1, col2 = st.columns(2)
+        with col1:
+            opsi1 = st. button("1,49%")
+            opsi2 = st. button("1,50%")
+        with col2:
+            opsi3 = st. button("1,51%")
+            opsi4 = st. button("1,52%")
+        if opsi1:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi2:
+            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.success("soal selanjutnya!")
+            st.balloons()
+        elif opsi3:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+            
+    if result == "soal 4":
+        st.write(
+            """
+        Ditimbang boraks (Na2B4O7. 10H2O) sebanyak  1500 mg kemudian dilarutkan ke dalam labu takar 100 mL dan tepatkan sampai tanda garis, lalu homogenkan. Larutan dipipet sebanyak 25 mL ke dalam Erlenmeyer, ditambahkan 2 tetes indikator MM kemudian dititrasi dengan larutan HCl 0,1 N sampai larutan berubah warna menjadi merah. Volume titik akhir diperoleh 21,10 mL. 
         
+        Berapakah normalitas HCl
+        """)
+        col1, col2 = st.columns(2)
+        with col1:
+            opsi1 = st. button("0,0933 N")
+            opsi2 = st. button("0,0932 N")
+        with col2:
+            opsi3 = st. button("0,0930 N")
+            opsi4 = st. button("0,0931 N")
+        if opsi1:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi2:
+            st.markdown("<h2 style='text-align: center; color: red;'>salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi3:
+            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.success("soal selanjutnya!")
+            st.balloons()
+        elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
             
-            
+    if result == "soal 5":
+        st.write(
+            """
+        Suatu sampel campuran Na2CO3 dan NaOH dititrasi dengan menggunakan cara dua indicator. Sampel seberat 0,8432 g memerlukan 28,56 mL HCl 0,1206 M untuk mencapai titik akhir dengan indicator pp. Ke dalam larutan ditambahkan indicator metil jingga dan titrasi dilanjutkan sampai titik akhir sehingga volume HCl akhir yang diperoleh adalah 40,74 mL (sebagai volume total) untuk mencapai titik akhir dengan indicator metil orange.
+         
+        Tentukan kadar masing-masing komponen dalam sampel
+        """)
+        col1, col2 = st.columns(2)
+        with col1:
+            opsi1 = st. button("Na2CO3 : 18,47% dan NaOH : 9,37%")
+            opsi2 = st. button("Na2CO3 : 9,37% dan NaOH : 18,47%")
+        with col2:
+            opsi3 = st. button("Na2CO3 : 23,17% dan NaOH : 18,77%")
+            opsi4 = st. button("Na2CO3 : 18,77% dan NaOH : 23,17%")
+        if opsi1:
+            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.success("soal selanjutnya!")
+            st.balloons()
+        elif opsi2:
+            st.markdown("<h2 style='text-align: center; color: red;'>salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi3:
+            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        
     
 
     
