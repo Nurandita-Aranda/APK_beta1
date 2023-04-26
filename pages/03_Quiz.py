@@ -327,7 +327,7 @@ if option == "Titrimetri":
             """
         Berapa garam asam oksalat (H2C2O4.2H2O) yang harus ditimbang untuk membuat larutan asam oksalat 0,1 N sebanyak 500 mL (BE= 63 g/grek)
         """)
-         col1, col2 = st.columns(2)
+        col1, col2 = st.columns(2)
         with col1:
             opsi1 = st. button("3,10")
             opsi2 = st. button("3,12")
