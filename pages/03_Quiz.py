@@ -686,8 +686,8 @@ if option == "Kimia Organik":
             opsi1 = st.button("2-bromo-2-kloropentana")
             opsi2 = st.button("2-bromo-2-kloroheksana")
         with col2:
-            opsi3 = st.button("2-brom-2,3-kloroheksana")
-            opsi4 = st.button("2-brom-2,3-dikloroheksana")
+            opsi3 = st.button("2-bromo-2,3-kloroheksana")
+            opsi4 = st.button("2-bromo-2,3-dikloroheksana")
         if opsi1:
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
@@ -701,3 +701,25 @@ if option == "Kimia Organik":
             st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
             st.success("soal selanjutnya!")
             st.balloons()
+    if result == "soal 8":
+        st.markdown("Berikut ini yang **bukan** penamaan IUPAC untuk rumus struktur alkohol dengan rumus C4H10O adalah")
+        col1, col2 = st.columns(2)
+        with col1:
+            opsi1 = st.button("t-butil alkohol")
+            opsi2 = st.button("3-butanol")
+        with col2:
+            opsi3 = st.button("2-butanol")
+            opsi4 = st.button("1-butanol")
+        if opsi1:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi2:
+            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.success("soal selanjutnya!")
+            st.balloons()
+        elif opsi3:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
