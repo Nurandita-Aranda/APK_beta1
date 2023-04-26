@@ -51,10 +51,7 @@ if option == "Analisis Jenis":
             st.error('Coba lagi!')
             
     if result == "soal 2":
-        st.write(
-            """
-        Bila Permanganat dipanasi dengan basa akan terjadi reaksi redoks, persamaan reaksi yang tepat sehingga terbentuk oksigen adalah...
-        """)
+        st.write("Bila Permanganat dipanasi dengan basa akan terjadi reaksi redoks, persamaan reaksi yang tepat sehingga terbentuk oksigen adalah...")
         col1, col2 = st.columns(2)
         with col1:
             opsi1 = st. button("4MnO4 + 4OH- → 4MnO42- + 2H2O + O2")
@@ -77,10 +74,7 @@ if option == "Analisis Jenis":
             st.error('Coba lagi!')
             
     if result == "soal 3":
-        st.write(
-            """
-        Perak hidroksida akan mengalami disosiasi Ketika dilarutkan dalam air reksi yang tepat adalah...
-        """)
+        st.write("Perak hidroksida akan mengalami disosiasi Ketika dilarutkan dalam air reksi yang tepat adalah...")
         col1, col2 = st.columns(2)
         with col1:
             opsi1 = st. button("AgNO3 + 2H2O → Ag + O2 + HNO3")
@@ -103,10 +97,7 @@ if option == "Analisis Jenis":
             st.error('Coba lagi!')
             
     if result == "soal 4":
-        st.write(
-            """
-        Tuliskan Persamaan reaksi proses pengkaratan pada besi...
-        """)
+        st.write("Tuliskan Persamaan reaksi proses pengkaratan pada besi...")
         col1, col2 = st.columns(2)
         with col1:
             opsi1 = st. button("2Fe2O3xH2O → Fe(OH)2+O2+H2O")
@@ -129,10 +120,7 @@ if option == "Analisis Jenis":
             st.error('Coba lagi!')
             
     if result == "soal 5":
-        st.write(
-            """
-        Larutan HCL dalam air memiliki kadar 50 %. Hitunglah fraksi mol HCL dalam larutan tersebut (Mr HCL= 36,5)...
-        """)
+        st.write("Larutan HCL dalam air memiliki kadar 50 %. Hitunglah fraksi mol HCL dalam larutan tersebut (Mr HCL= 36,5)...")
         col1, col2 = st.columns(2)
         with col1:
             opsi1 = st. button("27,4 mol")
@@ -155,10 +143,7 @@ if option == "Analisis Jenis":
             st.error('Coba lagi!')
         
     if result == "soal 6":
-        st.write(
-            """
-        Larutan Sorensen 10% b/v, memiliki PPM sebesar...
-        """)
+        st.write("Larutan Sorensen 10% b/v, memiliki PPM sebesar...")
         col1, col2 = st.columns(2)
         with col1:
             opsi1 = st. button("1000000 ppm")
@@ -323,10 +308,7 @@ if option == "Titrimetri":
             st.error('Coba lagi!')
             
     if result == "soal 2":
-        st.write(
-            """
-        Berapa garam asam oksalat (H2C2O4.2H2O) yang harus ditimbang untuk membuat larutan asam oksalat 0,1 N sebanyak 500 mL (BE= 63 g/grek)
-        """)
+        st.write("Berapa garam asam oksalat (H2C2O4.2H2O) yang harus ditimbang untuk membuat larutan asam oksalat 0,1 N sebanyak 500 mL (BE= 63 g/grek)")
         col1, col2 = st.columns(2)
         with col1:
             opsi1 = st. button("3,10")
