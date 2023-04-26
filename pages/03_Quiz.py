@@ -312,15 +312,43 @@ if option == "Titrimetri":
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
         elif opsi2:
-            st.markdown("<h2 style='text-align: center; color: red;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
             st.success("soal selanjutnya!")
             st.balloons()
         elif opsi3:
-            st.markdown("<h2 style='text-align: center; color: green;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
         elif opsi4:
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
+            
+    if result == "soal 2":
+        st.write(
+            """
+        Berapa garam asam oksalat (H2C2O4.2H2O) yang harus ditimbang untuk membuat larutan asam oksalat 0,1 N sebanyak 500 mL (BE= 63 g/grek)
+        """)
+         col1, col2 = st.columns(2)
+        with col1:
+            opsi1 = st. button("3,10")
+            opsi2 = st. button("3,12")
+        with col2:
+            opsi3 = st. button("3,15")
+            opsi4 = st. button("3,14")
+        if opsi1:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi2:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi3:
+            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.success("soal selanjutnya!")
+            st.balloons()
+        elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+            
+        
             
             
     
