@@ -415,10 +415,7 @@ if option == "Titrimetri":
             st.error('Coba lagi!')
             
     if result == "soal 6":
-        st.write(
-            """
-        Zat yang digunakan untuk mengetahui pada saat titrasi harus dihentikan (titik akhir titrasi)disebut 
-        """)
+        st.write("Zat yang digunakan untuk mengetahui pada saat titrasi harus dihentikan (titik akhir titrasi)disebut...")
         col1, col2 = st.columns(2)
         with col1:
             opsi1 = st. button("Indikator ")
@@ -469,10 +466,7 @@ if option == "Titrimetri":
             st.error('Coba lagi!')
             
     if result == "soal 8":
-        st.write(
-            """ 
-        Perhitungan atau penetapan analit didasarkan pada keadaan.
-        """)
+        st.write("Perhitungan atau penetapan analit didasarkan pada keadaan...")
         col1, col2 = st.columns(2)
         with col1:
             opsi1 = st. button("Titik jenuh")
@@ -647,3 +641,47 @@ if option == "Kimia Organik":
             st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
             st.success("soal selanjutnya!")
             st.balloons()
+    if result == "soal 5":
+        st.write("Berikut ini yang merupakan sifat senyawa aromatik adalah...")
+        col1, col2 = st.columns(2)
+        with col1:
+            opsi1 = st. button("Memiliki rantai terbuka")
+            opsi2 = st. button("Mudah larut dalam air")
+        with col2:
+            opsi3 = st. button("Tidak memiliki ikatan rangkap")
+            opsi4 = st. button("Mudah terbakar")
+        if opsi1:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi2:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi3:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.success("soal selanjutnya!")
+            st.balloons()
+    if result == "soal 6":
+        st.write("Senyawa alkohol yang jika dioksidasi akan menghasilkan alkanon adalah...")
+        col1, col2 = st.columns(2)
+        with col1:
+            opsi1 = st. button("2,3,3-trimetil-1-butanol")
+            opsi2 = st. button("3-pentanol")
+        with col2:
+            opsi3 = st. button("2-metil-1-butanol")
+            opsi4 = st. button("propanol")
+        if opsi1:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi2:
+            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.success("soal selanjutnya!")
+            st.balloons()
+        elif opsi3:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
