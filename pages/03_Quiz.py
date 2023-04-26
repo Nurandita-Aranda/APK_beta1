@@ -51,7 +51,10 @@ if option == "Analisis Jenis":
             st.error('Coba lagi!')
             
     if result == "soal 2":
-        st.write("Bila Permanganat dipanasi dengan basa akan terjadi reaksi redoks, persamaan reaksi yang tepat sehingga terbentuk oksigen adalah...")
+        st.write(
+            """
+        Bila Permanganat dipanasi dengan basa akan terjadi reaksi redoks, persamaan reaksi yang tepat sehingga terbentuk oksigen adalah...
+        """)
         col1, col2 = st.columns(2)
         with col1:
             opsi1 = st. button("4MnO4 + 4OH- → 4MnO42- + 2H2O + O2")
@@ -74,7 +77,10 @@ if option == "Analisis Jenis":
             st.error('Coba lagi!')
             
     if result == "soal 3":
-        st.write("Perak hidroksida akan mengalami disosiasi Ketika dilarutkan dalam air reksi yang tepat adalah...")
+        st.write(
+            """
+        Perak hidroksida akan mengalami disosiasi Ketika dilarutkan dalam air reksi yang tepat adalah...
+        """)
         col1, col2 = st.columns(2)
         with col1:
             opsi1 = st. button("AgNO3 + 2H2O → Ag + O2 + HNO3")
@@ -420,12 +426,148 @@ if option == "Titrimetri":
             st.markdown("<h2 style='text-align: center; color: red;'>salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
         elif opsi3:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+            
+    if result == "soal 6":
+        st.write(
+            """
+        Zat yang digunakan untuk mengetahui pada saat titrasi harus dihentikan (titik akhir titrasi)disebut 
+        """)
+        col1, col2 = st.columns(2)
+        with col1:
+            opsi1 = st. button("Indikator ")
+            opsi2 = st. button("Asam Sulfat")
+        with col2:
+            opsi3 = st. button("Karbon Aktif")
+            opsi4 = st. button("Natrium Hidroksida")
+        if opsi1:
+            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.success("soal selanjutnya!")
+            st.balloons()
+        elif opsi2:
+            st.markdown("<h2 style='text-align: center; color: red;'>salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi3:
             st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
         elif opsi4:
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
+            
+     if result == "soal 7":
+        st.write(
+            """
+        Hitunglah pH dari larutan berikut:
         
+        100 mL NH3 0,14 M + 50 mL HCl 0,1 M , (Kb = 1,8 x 10-5)
+        """)
+        col1, col2 = st.columns(2)
+        with col1:
+            opsi1 = st. button("9,51")
+            opsi2 = st. button("9,50")
+        with col2:
+            opsi3 = st. button("9,49")
+            opsi4 = st. button("9,48")
+        if opsi1:
+            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.success("soal selanjutnya!")
+            st.balloons()
+        elif opsi2:
+            st.markdown("<h2 style='text-align: center; color: red;'>salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi3:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+            
+    if result == "soal 8":
+        st.write(
+            """ 
+        Perhitungan atau penetapan analit didasarkan pada keadaan.
+        """)
+        col1, col2 = st.columns(2)
+        with col1:
+            opsi1 = st. button("Titik jenuh")
+            opsi2 = st. button("Ekivalen")
+        with col2:
+            opsi3 = st. button("Titik didih")
+            opsi4 = st. button("Standar")
+        if opsi1:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi2:
+            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.success("soal selanjutnya!")
+            st.balloons()
+        elif opsi3:
+            st.markdown("<h2 style='text-align: center; color:red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        
+    if result == "soal 9":
+        st.write(
+            """
+        Berapa gram KMnO4 yang harus ditimbang untuk membuat larutan KMnO4 0,1 N sebanyak 250 mL (reaksi dalam suasana asam), BM KMnO4 = 158 g/mol
+        
+        MnO4- + 8H+ → Mn2+ + 4H2O  (BE = 31,6 g/grek)
+        """)
+        col1, col2 = st.columns(2)
+        with col1:
+            opsi1 = st. button("0,81")
+            opsi2 = st. button("0,80")
+        with col2:
+            opsi3 = st. button("0,78")
+            opsi4 = st. button("0,79")
+        if opsi1:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi2:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi3:
+            st.markdown("<h2 style='text-align: center; color:red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.success("soal selanjutnya!")
+            st.balloons()
+            
+    if result == "soal 10":
+        st.write(
+            """
+        Asam oksalat ditimbang sebanyak 1,2653 gram dilarutkan dalam labu takar 250 mL. Sebanyak 25 mL dititrasi dengan NaOH sampai titik akhir titrasi pada volume 10,25 mL. 
+        
+        Hitunglah normalitas NaOH
+        """)
+        col1, col2 = st.columns(2)
+        with col1:
+            opsi1 = st. button("0,1953")
+            opsi2 = st. button("0,1955")
+        with col2:
+            opsi3 = st. button("0,1957")
+            opsi4 = st. button("0,1959")
+        if opsi1:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi2:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi3:
+            st.markdown("<h2 style='text-align: center; color:red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.success("soal selanjutnya!")
+            st.balloons()
+            
     
 
     
@@ -523,47 +665,3 @@ if option == "Kimia Organik":
             st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
             st.success("soal selanjutnya!")
             st.balloons()
-    if result == "soal 5":
-        st.write("Berikut ini yang merupakan produk adisi HBr pada butena mengikuti peraturan markovnikov adalah...")
-        col1, col2 = st.columns(2)
-        with col1:
-            opsi1 = st. button("CH3–CH2–CH=CH2")
-            opsi2 = st. button("CH2=CH–CH2–CH2–Br")
-        with col2:
-            opsi3 = st. button("CH3–CH2–CHBr–CH3")
-            opsi4 = st. button("CH2–Br–CH2–CH3")
-        if opsi1:
-            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
-            st.error('Coba lagi!')
-        elif opsi2:
-            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
-            st.error('Coba lagi!')
-        elif opsi3:
-            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
-            st.success("soal selanjutnya!")
-            st.balloons()
-        elif opsi4:
-            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
-            st.error('Coba lagi!')
-    if result == "soal 6":
-        st.write("Senyawa alkohol yang jika dioksidasi akan menghasilkan alkanon adalah...")
-        col1, col2 = st.columns(2)
-        with col1:
-            opsi1 = st. button("2,3,3-trimetil-1-butanol")
-            opsi2 = st. button("3-pentanol")
-        with col2:
-            opsi3 = st. button("2-metil-1-butanol")
-            opsi4 = st. button("propanol")
-        if opsi1:
-            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
-            st.error('Coba lagi!')
-        elif opsi2:
-            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
-            st.success("soal selanjutnya!")
-            st.balloons()
-        elif opsi3:
-            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
-            st.error('Coba lagi!')
-        elif opsi4:
-            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
-            st.error('Coba lagi!')
