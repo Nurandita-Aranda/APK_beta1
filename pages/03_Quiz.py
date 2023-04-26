@@ -51,10 +51,7 @@ if option == "Analisis Jenis":
             st.error('Coba lagi!')
             
     if result == "soal 2":
-        st.write(
-            """
-        Bila Permanganat dipanasi dengan basa akan terjadi reaksi redoks, persamaan reaksi yang tepat sehingga terbentuk oksigen adalah...
-        """)
+        st.write("Bila Permanganat dipanasi dengan basa akan terjadi reaksi redoks, persamaan reaksi yang tepat sehingga terbentuk oksigen adalah...")
         col1, col2 = st.columns(2)
         with col1:
             opsi1 = st. button("4MnO4 + 4OH- → 4MnO42- + 2H2O + O2")
@@ -77,10 +74,7 @@ if option == "Analisis Jenis":
             st.error('Coba lagi!')
             
     if result == "soal 3":
-        st.write(
-            """
-        Perak hidroksida akan mengalami disosiasi Ketika dilarutkan dalam air reksi yang tepat adalah...
-        """)
+        st.write("Perak hidroksida akan mengalami disosiasi Ketika dilarutkan dalam air reksi yang tepat adalah...")
         col1, col2 = st.columns(2)
         with col1:
             opsi1 = st. button("AgNO3 + 2H2O → Ag + O2 + HNO3")
@@ -552,7 +546,7 @@ if option == "Kimia Organik":
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
     if result == "soal 6":
-        st.write("Senyawa alkohol yang yang jika dioksidasi akan menghasilkan alkanon adalah...")
+        st.write("Senyawa alkohol yang jika dioksidasi akan menghasilkan alkanon adalah...")
         col1, col2 = st.columns(2)
         with col1:
             opsi1 = st. button("2,3,3-trimetil-1-butanol")
