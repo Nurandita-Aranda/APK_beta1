@@ -458,7 +458,7 @@ if option == "Titrimetri":
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
             
-     if result == "soal 7":
+    if result == "soal 7":
         st.write(
             """
         Hitunglah pH dari larutan berikut:
