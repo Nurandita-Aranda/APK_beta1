@@ -294,6 +294,35 @@ if option == "Titrimetri":
     result = st.select_slider(
         'pilih soal',
         options=['soal 1', 'soal 2', 'soal 3', 'soal 4', 'soal 5', 'soal 6', 'soal 7', "soal 8", "soal 9", "soal 10"])
+    if result == "soal 1":
+        st.write(
+            """
+        Hitunglah pH dari larutan berikut:
+        
+        60 mL CH3COOH 0,12 M +  40 mL NaOH 0,090 M  (Ka = 1,8 x10-5)
+        """)
+        col1, col2 = st.columns(2)
+        with col1:
+            opsi1 = st. button("4,70")
+            opsi2 = st. button("4,74")
+        with col2:
+            opsi3 = st. button("4,78")
+            opsi4 = st. button("4,80")
+        if opsi1:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi2:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.success("soal selanjutnya!")
+            st.balloons()
+        elif opsi3:
+            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+            
+            
     
 
     
