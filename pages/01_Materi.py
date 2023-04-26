@@ -469,12 +469,10 @@ Dimana a,b,c, dan d adalah koefisien stoikiometri untuk spesi spesi yang bereaks
      k = [C]c[D]d/[A]a[B]b
 
 C. Beberapa Cara Untuk Menyatakan Konstanta Kesetimbangan
-
 1. Kesetimbangan Homogen : berlaku untuk reaksi yang semua spesi bereaksinya berada pada fasa yang sama.
 2. Kesetimbangan Heterogen : untuk reaksi yang melibatkan fasa yang berbeda.
 
 D. Aturan-Aturan Penulisan Persamaan Konstanta Kesetimbangan
-
 1. konsentrasi dari spesi spesi yang konsentrasi-reaksi di dalam fasa terkondensasi. Dinyatakan dalam mol per liter.
 2. Konsentrasi dari padatan murni, cairan murni dan pelarut tidak dituliskan dalam persamaan konstanta kesetimbangan.
 3. konstanta kesetimbangan tidak berdimensi.
@@ -553,7 +551,6 @@ Maka konstanta kesetimbangan untuk asam ini dinamakan konstanta kesetimbanga asa
      ka = [H+][A-] / [HA]
 
 Dalam hal ini, tiga dasar tahapnya ialah:
-
 1.	Nyatakan konsentrasi kesetimbangan dari semua spesi dalam konsentrasi awalnya dan satu bilangan tak diketahui x, yang menyatakan perubahan konsentrasi.
 2.	Tuliskan konstanta ionisasi asam dalam konsentrasi-konsentrasi k setimbangnya. Dengan mengetahui nilai k maka kita dapat mengetahui nila x.
 3.	Setelah menentukan x, hitunglah konsentrasi kesetimbangan dari semua spesi atau pH larutan.
@@ -575,7 +572,6 @@ G. Hubungan Antara Konstanta-Konstanta Ionisasi Asam-Basa Konjugat
 Ketika dua reaksi ditambahkan untuk menghasilkan reaksi ketiga, konstanta kesetimbangan untuk reaksi ketiga adalah hasilkali antara konstanta-konstanta kesetimbangan dari kedua reaksi yang ditambahkan. Jadi, untuk pasangan asam konjugat-basa konjugat akan selalu berlaku.
 
 H. Sifat Asam Basa dari Garam
-
 1. Garam yang menghasilkan larutan netral.
 2. Garam yang menghasilkan larutan basa.
 3. Garam yang menghasilkan larutan asam.
@@ -1024,7 +1020,6 @@ Uji pipa tiup bertujuan untuk membebaskan logam tertentu dari sampel tertentu ya
         st.write(
             """
 Prosedur kerja
-
 1.  Campurkan di dalam mortar garam yang akan di periksa dengan Na2CO3(perbandingan 1:2) gerus sampai halus.Buat gerukan pada permukaan arang kayu.
 2.  Nyalakan bunsen perlahan sampai di dapat nyala api TB. Kemudian panaskan campuran yang ada
 3.  Siapkan sebongkah arang, lubangi arang kurang lebih 1,5cm. Sampel yang sebelumnya dilarutkan  dengan pereaksi dalam plat tetes dimasukan kedalam arang.
@@ -1166,7 +1161,7 @@ Svehla,G.1990.Buku Teks Analisis Anorganik Kualitatif Makro dan Semimikro.Jakart
         
 """)
         st.caption("Download Materi")
-        st.write("Google Drive: [link](https://drive.google.com/file/d/1nNtSU-ZxXD4xd_w0tBYA09KwL6vMIht3/view?usp=sharing)")
+        st.write("Google Drive: [link](https://drive.google.com/file/d/1HJm0txtr--xvcj2rKRQ9bOhwIgSabtu0/view?usp=sharing)")
         
         
     if optionanjen == "Pembuatan Larutan":
