@@ -642,14 +642,14 @@ if option == "Kimia Organik":
             st.success("soal selanjutnya!")
             st.balloons()
     if result == "soal 5":
-        st.write("Berikut ini yang merupakan sifat senyawa aromatik adalah...")
+        st.write("Berikut ini yang merupakan produk adisi HBr pada butena mengikuti peraturan markovnikov adalah...")
         col1, col2 = st.columns(2)
         with col1:
-            opsi1 = st. button("Memiliki rantai terbuka")
-            opsi2 = st. button("Mudah larut dalam air")
+            opsi1 = st. button("CH3–CH2–CH=CH2")
+            opsi2 = st. button("CH2=CH–CH2–CH2–Br")
         with col2:
-            opsi3 = st. button("Tidak memiliki ikatan rangkap")
-            opsi4 = st. button("Mudah terbakar")
+            opsi3 = st. button("CH3–CH2–CHBr–CH3")
+            opsi4 = st. button("CH2–Br–CH2–CH3")
         if opsi1:
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
@@ -657,12 +657,12 @@ if option == "Kimia Organik":
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
         elif opsi3:
-            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
-            st.error('Coba lagi!')
-        elif opsi4:
             st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
             st.success("soal selanjutnya!")
             st.balloons()
+        elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
     if result == "soal 6":
         st.write("Senyawa alkohol yang jika dioksidasi akan menghasilkan alkanon adalah...")
         col1, col2 = st.columns(2)
