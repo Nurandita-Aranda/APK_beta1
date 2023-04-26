@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.markdown("<h1 style='text-align: center; color: raisin black;'>Report</h1>", unsafe_allow_html=True)
-st.subheader("Tuliskan keluhan kamu agar kami bisa terus berkembang menjadi lebih baik")
+st.markdown("<h2 style='text-align: center; color: raisin black;'>Tuliskan keluhanmu agar kami bisa terus berkembang menjadi lebih baik</h2>", unsafe_allow_html=True)
 
 contact_form = """
 <form action="https://formsubmit.co/tugaslpk.kelompok4@gmail.com" method="POST">
