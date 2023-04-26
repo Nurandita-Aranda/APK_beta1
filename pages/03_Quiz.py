@@ -10,6 +10,7 @@ option = st.selectbox(
     "pilih mata kuliah yang kamu inginkan",
     ("--Pilih Mata Kuliah--", "Kimia Dasar","Analisis Jenis","Titrimetri", "Kimia Organik", "Fisika Dasar"))
 
+
 if option == "Kimia Dasar":
     result = st.select_slider(
         'pilih soal',
@@ -166,10 +167,7 @@ if option == "Analisis Jenis":
             st.error('Coba lagi!')
             
     if result == "soal 7":
-        st.write(
-            """
-        Berapa gram yang di butuhkan untuk membuat larutan NaoH 0,5 mol (Mr= 40)...
-        """)
+        st.write("Berapa gram yang di butuhkan untuk membuat larutan NaoH 0,5 mol (Mr= 40)...")
         col1, col2 = st.columns(2)
         with col1:
             opsi1 = st. button("20 g")
@@ -192,10 +190,7 @@ if option == "Analisis Jenis":
             st.error('Coba lagi!')
             
     if result == "soal 8":
-        st.write(
-            """
-        Larutan 0,2 molal H2SO4 terbuat dari 40 gram H2SO4 dengan...
-        """)
+        st.write("Larutan 0,2 molal H2SO4 terbuat dari 40 gram H2SO4 dengan...")
         col1, col2 = st.columns(2)
         with col1:
             opsi1 = st. button("2040,83")
@@ -218,10 +213,7 @@ if option == "Analisis Jenis":
             st.balloons()
             
     if result == "soal 9":
-        st.write(
-            """
-        Suatu unsur ketika diuji dengan uji nyala menghasilkan nyala api berwarna hijau, unsur tersebut adalah...
-        """)
+        st.write("Suatu unsur ketika diuji dengan uji nyala menghasilkan nyala api berwarna hijau, unsur tersebut adalah...")
         col1, col2 = st.columns(2)
         with col1:
             opsi1 = st. button("Berilium")
@@ -685,3 +677,27 @@ if option == "Kimia Organik":
         elif opsi4:
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
+    if result == "soal 7":
+        imageKO3 = Image.open('Resource/image/Quiz_Kimor/Soal_7.png')
+        st.image(imageKO3)
+        st.write("Penamaan yang benar untuk senyawa ini adalah?")
+        col1, col2 = st.columns(2)
+        with col1:
+            opsi1 = st.button("2-bromo-2-kloropentana")
+            opsi2 = st.button("2-bromo-2-kloroheksana")
+        with col2:
+            opsi3 = st.button("2-brom-2,3-kloroheksana")
+            opsi4 = st.button("2-brom-2,3-dikloroheksana")
+        if opsi1:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi2:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi3:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.success("soal selanjutnya!")
+            st.balloons()
