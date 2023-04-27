@@ -1619,9 +1619,28 @@ pH = -log [H+]
 pOH = -log [OH-]
 
 pH + pOH = 14
-""")
+
+1. Asam
+
+   Asam Kuat
+          
+                 [H+] = a x M
+                 
+   Asam Lemah
+   
+                 [H+] = √(ka x M)
+
+   Ket:
+         a = jumlah ion H+
+        
+         M= molaritas
+        
+         ka = konstanta kesetimbangan asam
+         """)
+
+
     
-       st.image("https://lh3.googleusercontent.com/a__hiRuNit-dYvMQbggHvsKiWL80A818KKdbyVKALe6deC-ZD__LRrN8onXSdN_3Ceue21Dz-9jSk-Ids10cT0XTLY3idX62KzhBaipzDZp6Lf5AVjHKH12aw2-aa0RgXx_gN9kLuB07jEwUsZor-3vWpGb_-zwwVHyHZQR2fcqQdCSvtO0fH8IoRaOFkYHU25d0rkvkYi-2_KxYjXI3t26DcQZunmR70eoPljxjLMP_pqioxTiMXxfQ0WJR1pFkXYjZ5IUoLeadRkQkyDi3S2FainEGyL_OcqkLPGKBko6x1DYh90hzMXRy0l1d4AN3Awo83VBQQFpQjzG_i3FRq7aKVX9D8O6JDGsPhYouN4NTyDxzw0WzY8rSwQzmziLFGqOKIr_P0GUQOV5wpHgJADxma9BBLxfl7a1YEDG1P5dBj4WxT_0iI-0gO4lizIdQLp-TtvAZ1Rpdz4zBLoL5MrzgbRWrjGh7rkOK5hnc2aIKfim0pflTcqFePJYHGvLo9Gqwq9CIuDdha_UspuqBecYde84Qhcz0hP8lM_-V2VN4Tbzjz9AbBMpQ2QyJYvpSdtU9gvXS8BBBcUtGpZNu-xHmWPkPax0LIq6fysjqYIAjSRIp4w4uriaSCmAUwmsO_i7kwkMEx_VZzw3Z2xhueNK5HFGxeVrvDNclQK1b5G-2qPwqVZtiG2jNhbK-iU8ye1l10zzCmZUVEXCWEQlbu9LbuTHp2zya627nnRfOfOOC5qTuwEA0N3SdK1_HFWMITOgKrTXp9dCsY0UQBO1_mLVgn_9b9BWCiaPhDTinDGu4xUr1jnIW8nICK0Mr1fLcZybiRsQoCOxn3EP0XNJHzmWaOc2GB3Zu3_HG3C0HCuF6aKo2MTV4tyjIJOoRdbhG-AF5huY2VGrwdbUi29ktcypsRB05HzvrJWD5GY7am5Ka=w477-h296-no?authuser=0")
+       st.image("https://lh3.googleusercontent.com/roXwdCOX43e3O7XyWrvI6ahfEK0cQKvStTLquj3ynKX7zKHj8DWDRe9RddxQLpn4oajpatEUDT25pNiaBuyKKB_DVseLyYYoNA3K8RHyqVnVUXN3GKiPoA8unRfFjm-6bTLYkEEzBvzz5ZWpyKPLdQW2I3sUSrPdALbHxKvfqMjHJy1_XfyT7eFL3_GG5684yZvksKCG9MZ5d86BKGvrTsPpCJb3xJq7Re29ZvGScLl2Og-GWI2igtzxwfH-ySms4JrgmXHFcLyIIiSMVBRVDuUzzIMShuMi7XZRB92JXg2Flxx9czBryORUzv3naNusu0PGrPjcYKZJACykiq0_SOMMP-YHXAeLcvoRjZ_4oFzM0zhlvsLAKdMvX1PUhR4I5lvLD3auBQBdPHw-wyaASjfhOXs2vjUvOZC6YVtgBDeovZ88OTWOrGQpqY92FDhqCj5OpkOpEOGS7caZ93v_5x47HkZI3KeRIVdwAi9jRNSf4u33Qa7rZqopaJrxU_eR78BG4w6_q1L2ABeZjRXNgEpPgEtvjDGCzVTo6Oa46sb70b2V5Lee0D5dBGne8xohk1QTTD28eOPhG-pXONoJ9ADr6SxYUYwG70ck9iNG4zB8nlYevGaDZ-wYytYXbtZMvSjXP63zzN2ofhdXeKCIrQXiw1ruLQRGLfmNsG3L-J6CgFGiawldfQhWquyzlnBgTh5_npodkWh60kEKEbywOMIRC6bnCHDa2YNuPXOaYTHxU_tcE33TnoY0mRdAwc0DnRpY3EH7f0DiRfjlv5e56Ci7nlqOK6ABg16yXwT9yz7xp_03oqbf5aZNaOoNqyRc_jP_A3LTCrZIn-votl8mHGzWGQLUymM2vKPX8PnYi9flxWybbtW1SXwkaxueFWLU-82tF0_c75OQypayDPL3WpOSqxtZVy8ep2KLNDhEl4Wr=w984-h610-s-no?authuser=0")
                 
     if optiontitri == "Asidimetri":
        st.markdown("<h2 style='text-align: center; color: raisin black;'>Asidimetri</h2>", unsafe_allow_html=True)
