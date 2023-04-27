@@ -65,7 +65,7 @@ if option == "Kimia Dasar":
         st.write("Berapa massa molekul relatif dari H2SO4?")
         col1, col2 = st.columns(2)
         with col1:
-            opsi1 = st.button("90 g/mol)")
+            opsi1 = st.button("90 g/mol")
             opsi2 = st.button("63 g/mol")
         with col2:
             opsi3 = st.button("100 g/mol")
@@ -83,7 +83,52 @@ if option == "Kimia Dasar":
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.succes("soal selanjutnya!")
             st.balloons()
-       
+            
+    if result == "soal 4":
+        st.write("Hitunglah Molaritas dari 36 g Asam asetat yang dilarutkan dalam 100 mL air. Dengan diketahui nilai massa molekul relatifnya 60 g/mol?")
+        col1, col2 = st.columns(2)
+        with col1:
+            opsi1 = st.button("6 mol/L")
+            opsi2 = st.button("12 mol/L")
+        with col2:
+            opsi3 = st.button("0,6 mol/L")
+            opsi4 = st.button("8 mol/L")
+        if opsi1:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.succes("soal selanjutnya")
+            st.balloons()
+        elif opsi2:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi3:
+            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+            
+    if result == "soal 5":
+        st.write("Hitunglah massa dari 4 M HCl dalam larutan 250 mL (Ar ; H : 1 , Cl :35,5)?")
+        col1, col2 = st.columns(2)
+        with col1:
+            opsi1 = st.button("40 gram")
+            opsi2 = st.button("35 gram")
+        with col2:
+            opsi3 = st.button("36,5 gram")
+            opsi4 = st.button("38 gram")
+         if opsi1:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi2:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi3:
+            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.succes("soal selanjutnya!")
+            st.balloons()
+          elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
         
             
      
