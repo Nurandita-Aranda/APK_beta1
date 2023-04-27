@@ -1398,9 +1398,9 @@ Titrasi yang melibatkan reaksi reduksi dan oksidasi antara titran dan titrat hin
    
    b. Larutan netral/sedikit basa pH 4-10
    
-         MnO4- + 4H+ + 3e ⇋ MnO2    + 2H2O
+          MnO4- + 4H+ + 3e ⇋ MnO2    + 2H2O
       
-        MnO4- + 2H2O + 3e ⇋ MnO2   + 4OH-
+          MnO4- + 2H2O + 3e ⇋ MnO2   + 4OH-
       
    c. Larutan sangat basa [OH-] 0,1 N 
    
@@ -1417,6 +1417,7 @@ Titrasi yang melibatkan reaksi reduksi dan oksidasi antara titran dan titrat hin
    HNO2
    
    reaksi:
+   
            5Fe2+ + MnO4- + 8H+ ⇋ 5Fe3+ + Mn2+ + 4H2O
 
 3. Titrasi tidak langsung
@@ -1431,12 +1432,14 @@ Titrasi yang melibatkan reaksi reduksi dan oksidasi antara titran dan titrat hin
 
    Hg2+
 
-   **Standardisasi Titrasi tidak langsung:**
+   Standardisasi Titrasi tidak langsung:
 
    1. Sampel diendapkan sebagai oksalat
    2. Disaring, dicuci 
    3. Dilarutkan dalam H2SO4 berlebih sehingga terbentuk asam oksalat
    4. Dititrasi asam oksalat dengan KMNO4
+   
+   Reaksi:
 
       Ca2+ + C2O42- ⇋ CaC2O4 ↓
 
