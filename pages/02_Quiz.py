@@ -129,6 +129,62 @@ if option == "Kimia Dasar":
         elif opsi4:
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
+            
+    if result == "soal 6":
+        st.write("Berikut nama unsur dalam tabel periodik yang memiliki nilai konfigurasi elektron : 1s2 2s2 2p6 3s2 3p4 ?")
+        col1, col2 = st.columns(2)
+        with col1:
+            opsi1 = st.button("Mg")
+            opsi2 = st.button("S")
+        with col2:
+            opsi3 = st.button("P")
+            opsi4 = st.button("O")
+        if opsi1:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi2:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.succes("soal selanjutnya!")
+            st.balloons()
+        elif opsi3:
+            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.error('coba lagi!')
+        elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+            
+    if result == "soal 7":
+        st.write(
+            """
+    Perhatikan Pernyataan berikut :
+1.	Perubahan Konsentrasi
+2.	Perubahan Tekanan dan Volume
+3.	Perubahan suhu
+4.	Pengaruh katalis
+Berdasarkan keempat pernyataan tersebut, pernyataan manakah yang termasuk faktor yang mempengaruhi kesetimbangan kimia?
+              """)
+        col1, col2 = st.columns(2)
+        with col1:
+            opsi1 = st. button("1 dan 2")
+            opsi2 = st. button("2 dan 4")
+        with col2:
+            opsi3 = st. button("1,2,dan3")
+            opsi4 = st. button("1,2,3,dan4")
+        if opsi1:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi2:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi3:
+            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.succes("soal selanjutnya!")
+            st.balloons()
+        
+
         
             
      
