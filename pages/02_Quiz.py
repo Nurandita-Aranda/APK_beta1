@@ -39,8 +39,8 @@ if option == "Kimia Dasar":
             st.error('Coba lagi!')
             
     if result == "soal 2":
-            st.write("Rumus kimia dari Asam Asetat?")
-            col1, col2 = st.columns(2)
+        st.write("Rumus kimia dari Asam Asetat?")
+        col1, col2 = st.columns(2)
         with col1:
             opsi1 = st.button("HCl")
             opsi2 = st.button("H2SO4")
