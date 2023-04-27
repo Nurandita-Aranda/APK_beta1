@@ -207,6 +207,17 @@ Berdasarkan keempat pernyataan tersebut, pernyataan manakah yang termasuk faktor
         elif opsi4:
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
+            
+    if result == "soal 9":
+        st.write(
+            """
+    Perhatikan Persamaan reaksi tersebut.
+	
+    HCl(aq) + NaOH(aq) ➝ NaCl(aq) + H2O(l)
+
+50 mL 0,1 M HCl direaksikan dengan 100 mL NaOH 0,1 M membentuk Natrium Klorida dan air, berapakah nilai pH dari larutan tersebut?
+""")
+
 
         
             
