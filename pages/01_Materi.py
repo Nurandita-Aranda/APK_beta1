@@ -956,7 +956,7 @@ Gambar 1. Bagan Pemisahan Kation (Sumber: Penuntun Praktik Analisis Jenis)
         
         """)
         st.caption("Download Materi")
-        st.write("Google Drive: [link](https://drive.google.com/file/d/1nNtSU-ZxXD4xd_w0tBYA09KwL6vMIht3/view?usp=sharing)")
+        st.write("Google Drive: [link](https://drive.google.com/file/d/1IdfRtJEGT5yQwW5ezAqdxIRJvzFvoRx7/view?usp=sharing)")
         
  
     if optionanjen == "Identifikasi Zat Dengan Cara Kering":
