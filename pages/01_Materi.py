@@ -1546,6 +1546,7 @@ Ti (III), Fe(II), Na2S2O3
            """
            
        **Asidimetri-alkalimetri**
+       
 Asidimetri adalah Bila ditentukan berapa mL larutan asam yang konsentrasinya diketahui untuk menetralkan suatu larutan basa yang kadarnya dicari.
 
 Alkalimetri adalah bila penitar dengan memakai basa yang konsentrasinya diketahui untuk menetapkan suatu asam
@@ -1587,7 +1588,7 @@ Alkalimetri adalah bila penitar dengan memakai basa yang konsentrasinya diketahu
   
                HIn     ⇌     H+ + In-
                
-             (warna A)        (warna B)
+         (warna A)        (warna B)
 
 **Suatu indicator pH digunakan untuk menunjukkan titik akhir**
 
@@ -1607,9 +1608,9 @@ Alkalimetri adalah bila penitar dengan memakai basa yang konsentrasinya diketahu
 
 • Makin besar daerah curam kurva ( makin panjang daerah yang curam), makin leluasa pemilihan indicator. Bentuk kurva dan panjang bagian yang curam tergantung pada:           
 
-  •Kesempurnaan reaksi 
+      •Kesempurnaan reaksi 
   
-  • Konsentrasi titran dan titrat
+      • Konsentrasi titran dan titrat
   
 **pH larutan**
 
@@ -1619,16 +1620,9 @@ pOH = -log [OH-]
 
 pH + pOH = 14
 """)
-       st.image("https://lh3.googleusercontent.com/2ThiusA4t_vN-0XPenr5f-eSV8tkjU9k7_cg_tYaOaiABWaSL59QqowZ1fd6yaD0dW7n4fuWw-6XYk8nZYBygI8OTglffLGRziT73w3Q4SxQ_w7VyjvxbvVTcvtBU5PWLeaFJbrrNrBUmfvXLWkufpijwI_VONjmPUEsvcVOeRwG1V6EOssce5YJStTQfbbXlkea1wxFhqNt79-ABf2fbqMM4KpoMJdhYNy0-ED6n26ug7k2G6fUwliO-5P6vYPBensnJFjd5W9Xbb2V0XnDJi8i556acZ6sVdUrjFVkRJ0U_LjM5oImnXZ726_SxjijzpEqSOilY1oUyNLLXBPMlsDwIUAsuyejuImEGR3uChF9U-w2uJ-lnZi1cZ_dw3fH-z1uNvvwqFrLOvxPzc5_rzg-DQjQT-uOptcfGi2CUO63FE4V5nc5ORFz4tqFqEO5fWvMVRsmp7GZMVTMiLuziG-ISGXiglKPh80YBodEzNpBiC-25KmPDwWMs03saxzzUO9YfO3BBxp7kOlnFSrAsP45RPhHM3SX7nt_387Dq6Ui2CG-a0VV8ZwIvniUwU60Gblys7yrNrX2sslaSQZd-7ly3pMrO1X123TDKvYF7QyrAXgJB1GNFLMWRUgF-BaEhGJdMtSGWatYqaP95QiPtS0pfjlYHqUr0I5bW65OrPWETNXpqhTCMmajrDqtHg3xnWJQve6Vcz89J-b0Lq4LRqeVG_DRSTaYB0nM89NQVsEs1AY5PUuBzKsVWbu72iMYmPzB40FkdLIYppd5v1v9vw2jtvb_nwdrnqXOUMpMViJzG-BjIa0w6m0yOFEFP9kdFLTy2T6GKKxeEYDZUVPgamqG4RMQ2YD6GTFsU2bVLDt212CQHyLFOFMSxXUpHzvgOMAtlY3XNH73f1v90ukvziIkLjy_OtujhuCv4ragojqd=w917-h663-s-no?authuser=0")
-
-       st.image("https://lh3.googleusercontent.com/zyJs4mOlXN7SbmdqojzdQvn7W08FgW2NRCSLg8Ag3J1k-M5_6MdM0NKtl2cUSLjFV12C3Yq9Fr0UrjJy_W00pvPpN3a4SLJSL2N8jmyaseIu8o97hv6lwZ4T0apKQyrDYoTHuZ7HiPoTcix3dK2xrai3JMfAbSFZSL9iT9oqMABXhCZQU1BNyhM4Y4IKHZjJIld7vgKCN_7HKvy8TCaEUSB7Uq4oTQChApRSrWUGVDqUZgsfBzSP0XOhA75mquHfHdwR4pz8n1u-CPYWgVAtE8PExHE1UB-exOSHxHH-dRY58iYTdKzHdMrYWzuxe1N9_WlKGRUAroNKd5H1tv7mAuQcrrIMUmOBK8cha_bn5ZEIEVolEbb_pqcO-1L0V_LEP7vvnv-v9TKCBtXgeb4ge2INw6L-V3oB_YFPtCCgpuhJmUiuwFECRjV3bv_LZFgvbH9MvgIQTHM_B-Qn8xpxrEF5a38c0NvBvEa2b992piz7P09Cus99kzYiN7-t4k1QkmKJEMm2H2dckKzbLOQnJq2jTY9HCt5_Noh1rKRwX9uTKFiJHJOstatyXPjZVf6tDc6z2n6buLze4MjUwbiqgdPnZDqtT2tVST8n4NKQudIIwI2eLpvTkJcGwVBBZ-DRGHX2wMC8K00bTMpPJLjFgIy4VKsQLdxf9Ua4dvGCKnr9Mg_jHodRjW-1Z_Z5TIBvfDUJswvonFcRDIlwiNn7xCuiud4DTMQrxCxW1cN3pnH3Jo_L0UgV9ITAN4MNCTsDdnCWgS7NsxbmIgx9cHI3__H0IdDqD7Gkicy58Qnf9tFjOzuUuMvZtz6CowBPqcvZbq4ue48W5GkoWiBzLsY96gPhKCJGhS3dLf1Iu6euQlVzbefeWSvOwgLY__c643RCk-ptyfOxDj_1ICl-iLDE1Uwd3APkQ72A-6dwKTna6YlK=w848-h648-s-no?authuser=0")
-                        
-       st.image("https://lh3.googleusercontent.com/qkfbTinTZvmh0YM9bRpp2tjkoRpjNfZb8TOX7txvIFbLBHN2vuB1Ihr5ovHTSplJRzwuxIxlS-bJxq5nySQb2Dj4EJwhp1PmipQLNybRBe3sNaHOwvgQrXttJKi1saommTyI_Uaw9ppIhMdAqCHqK_jhfFTrs4mdqZ5oE72E5VkZOS_BAn-0NjZpGkitOfogNNiXJN4FPj_RCVw-V9vm9oZo7P9zX2O_9w9fBcrR8TWCbZxIStAuS0tNYyVpSuiFKXASPCoRxyR7Xz9YXZLq1eWvWeDowoi9LkyIG_GSpCuSKz2g4qKRJ5KzWRsS8LVqyMwz2_VH2ybmfQvPVEC9gTid8r5iexD0F8ht0rGAPaA8sVCqZ2qXqWv3ej8NkOztLibmFNn699eTH2P6-yoF1vpEeTl0wdAjlqPiVPy2bsKY9c58FQOVPd4ydQYm45mjbYZds-Wkzebti6SVQ3Hrutc51e3527obg6F3oaYhgwZhBJfXiLRNvBTPBOCPJHr4eYeVZNt9rwi53eCO5Qw-dRAu7dklC0iempicbCcgGAvTBDx0ootwbA986uKWXGzLCZLjJMgh_pOhLPOLQozIPvY3CT4BHye5QVI3V9ZBGbmabP5NNJ1NRMSdN0j4wqi2kANRwDJwYCZF3af09PmIydo0cC9ZokaIkDMA03xwGWQoWVEZ8CbICR-942M7if-bUCpndYwxM2h8OESbedWP1ck2KfHCNRp4cNVqGISGbE_xTV040M3gzavApmGI5MRs_lxCE7qV6OZhbn_fzz46abTzZQ5hg3rMaIJMTKXKnW4xpsrx0l0FYkP-mNth36mlDP_HTqrXZBHW3lN2OpFQAxmMbpSD1Vt45bLr5_A_hAptuOpvnsoP-mx8HekOr3JSoHMmtMg4eb3GMl8W_a-6arlolCJY_UxQipm7wbWyF-QR=w803-h577-s-no?authuser=0")
-        
-       st.image("https://lh3.googleusercontent.com/BuEzRl2oRFpiJILdxy_neSAwZZEHF-A7p-WWqy_t6X7ORGnrJHxEIPIElrj7N_T8AFFEia5qj_d8tEvnwqdRKAyE_xrFPkD6AAAY09NbAMuaFfzzKHQZXTnhczevU3obkHRTkSyg8Lcv4S6-tMjXV0oklpjllTwZOBvw740LFxeuC70Tt2hAzFu83j10EG6vqg6K95dFQMT_4MrCIqYSI13u5-cVlOSJnmJi_w6F2giyZCXuX76l-mzw063UXzs6s0fk6qIZWZ0AFJxLvhS9Gbtw06y68zrJXId-kNvqhkDbD_kZnZ4oQw04EjUqDPxPeXa8tRlqGny2L-Y5harEB1tQBK7eA19BuvN61NOUHZI2UaMTWkpa21Zg82JYDwY6XxuXME3kukf4KRE4oTEJoTwjZuKUf2n556QMB4kzTN4cFLbPudbtn1f7S2AFFteE4-2AJiZIQQsvqeeY0emPX7eIj6kT1EPD7VLnifAtBvnCavLguqYeR7cviHWAp0JY6mWAUFWR1Wvap7RnAiysh8nQ4fMuUiJ4IMzJ1lXB8QZAZKzBi2H3GAGRJ7BxI9dxQD4TJyRYbj2fA6gcqc4Uaoxpa79Ds9eQ4S5QcRyUF9Ba4R2odabveJVCSUVYz8yzJam7gW7giabSiUNAgji8XL-7jBIcqpgNEdEdCk_XHB34YndWUyZ5lMk3Sb7VWcQwLW8Yd3OAqnpARHZuFnssxuthBoSeQ-z3Kun39sgvWKDsnOD0X0hO8WBSWbFUFtyy0LFLaS79ZNzOjSt3jWytIObH-oClDdzwSt6HPmkLd37xTIouQVePjPhBJGO9KbSt0VLdBJaTB8vMzREoNAKSxxBEV5C2oK_O86jYbAjDzU81rpcValxfl6QaecsbpnwsFsb7lp9M1SHIugJxD1fVzM2tZFw4VY3Q7rAKmA9NT13v=w901-h760-s-no?authuser=0")
-       
-       st.image("https://lh3.googleusercontent.com/4uyA5mwYNBjFgRFo59Owz7HlW-p8n6aik9QZjGtRFD9VzQCnhA8kqiLGjqvGwF4HgmWQdrukQiKgQWdV2287tAaZzr0EBJNAgEDUKLRMvyomRaiNpGtyq_vbi-MH8jOWYm20s4NkHZJcYAPasbET_LPtGm9_0NqLkoInd2QQp_AcTZp7it1aHaIsOnDbO4qBHdS3D598DUdyEN0nVLDIxjPKuUIQXOQNmwPdt7bxi_kNNLb0rvyIyKVC2HaihSNMGlN_KbSMn6vjx3IDLlUyTjZ3712KdECFxc0BAFPs2NIizaew6LGAxg0xs6q52S7LY2N8Q4M9UNSy38qKdO1fZeSeGGlgrdpnLq3nAC7r9r9EXRWqVYzVii90R44kgc3pavfOY09R9Rjvr2hfN89O5iBCqrDZv7rhXEZl0VIal20cys79cL4vC8HbNar4_E3FWpjScJIigkuzv7cc9AZ8HL_wGkq5sx-hb5rzZfRrqGm1R9q2FglORvC0BZg-08imhPTHbbj0e_8tc0CWaoQzPaZFdySFpax52EJIBoFq5RKugJ0EoDqg3uzYOimoeyu9G74JnCzWUaBtyqnrrHpBpwYaKnZtojyB-1D-YQJkusoprCYz1a5JUdDsv0k27UeQlvZcwmtO_FPL6pKzUs-naBkK42zdkA3QoMsxRp8WKEtp-7H1TBAolXhrn04fUae9sCI7sglb-TqxxHtLO9hbqF_37Gy7fnpMuNq11dPr4gokrETbA2KNAqKSjOJy9AJAtnpim6Gf_DqU2bBn8u13FPZK66sYULQ6_IxvjyF-do0ZWVQ3U0AQUFkVrg4apRL1O6Pqn_cj6wCkTdDjqqde4W9NDprj6gf7QmkVt_zPpM0cb_eAusH9DYsUQlQtMBI478zLpRwRYtuOtAdhDtB3yFDhnJsbuWiTTUkBgCdErYOK=w1124-h793-s-no?authuser=0")
-        
+    
+       st.image("https://lh3.googleusercontent.com/a__hiRuNit-dYvMQbggHvsKiWL80A818KKdbyVKALe6deC-ZD__LRrN8onXSdN_3Ceue21Dz-9jSk-Ids10cT0XTLY3idX62KzhBaipzDZp6Lf5AVjHKH12aw2-aa0RgXx_gN9kLuB07jEwUsZor-3vWpGb_-zwwVHyHZQR2fcqQdCSvtO0fH8IoRaOFkYHU25d0rkvkYi-2_KxYjXI3t26DcQZunmR70eoPljxjLMP_pqioxTiMXxfQ0WJR1pFkXYjZ5IUoLeadRkQkyDi3S2FainEGyL_OcqkLPGKBko6x1DYh90hzMXRy0l1d4AN3Awo83VBQQFpQjzG_i3FRq7aKVX9D8O6JDGsPhYouN4NTyDxzw0WzY8rSwQzmziLFGqOKIr_P0GUQOV5wpHgJADxma9BBLxfl7a1YEDG1P5dBj4WxT_0iI-0gO4lizIdQLp-TtvAZ1Rpdz4zBLoL5MrzgbRWrjGh7rkOK5hnc2aIKfim0pflTcqFePJYHGvLo9Gqwq9CIuDdha_UspuqBecYde84Qhcz0hP8lM_-V2VN4Tbzjz9AbBMpQ2QyJYvpSdtU9gvXS8BBBcUtGpZNu-xHmWPkPax0LIq6fysjqYIAjSRIp4w4uriaSCmAUwmsO_i7kwkMEx_VZzw3Z2xhueNK5HFGxeVrvDNclQK1b5G-2qPwqVZtiG2jNhbK-iU8ye1l10zzCmZUVEXCWEQlbu9LbuTHp2zya627nnRfOfOOC5qTuwEA0N3SdK1_HFWMITOgKrTXp9dCsY0UQBO1_mLVgn_9b9BWCiaPhDTinDGu4xUr1jnIW8nICK0Mr1fLcZybiRsQoCOxn3EP0XNJHzmWaOc2GB3Zu3_HG3C0HCuF6aKo2MTV4tyjIJOoRdbhG-AF5huY2VGrwdbUi29ktcypsRB05HzvrJWD5GY7am5Ka=w477-h296-no?authuser=0")
+                
     if optiontitri == "Asidimetri":
        st.markdown("<h2 style='text-align: center; color: raisin black;'>Asidimetri</h2>", unsafe_allow_html=True)
        st.write(
