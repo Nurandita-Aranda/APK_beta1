@@ -238,7 +238,7 @@ Berdasarkan keempat pernyataan tersebut, pernyataan manakah yang termasuk faktor
             st.succes("soal selanjutnya!")
             st.balloons()
 	
-   if result == "soal 10":
+    if result == "soal 10":
 	st.write("Diketahui sebuah larutan mengandung 5 gram 0,5N H2SO4 dalam 100 mL, Hitunglah Molaritas dari larutan tersebut?")
 	col1, col2 = st.columns(2)
         with col1:
