@@ -38,6 +38,31 @@ if option == "Kimia Dasar":
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
             
+     if result == "soal 2":
+            st.write("Rumus kimia dari Asam Asetat?")
+            col1, col2 = st.columns(2)
+        with col1:
+            opsi1 = st.button("HCl")
+            opsi2 = st.button("H2SO4")
+        with col2:
+            opsi3 = st.button("HCOOH")
+            opsi4 = st.button("CH3COOH")
+        if opsi1:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi2:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi3:
+            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.succes("soal selanjutnya!")
+            st.balloons()
+            
+     
+            
 
 
 if option == "Analisis Jenis":
