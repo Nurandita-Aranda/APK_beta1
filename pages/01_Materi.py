@@ -158,6 +158,7 @@ F.	Konsep Stoikiometri
 2.	Massa Molekul Relatif (Mr), massa molekul relatif adalah massa yang digunakan untuk mencari perbandingan massa dari satu molekul senyawa dengan 1/12 kali massa C-12.
 3.	Konsep Mol. konsep mol menyatakan bahwa satu mol suatu zat adalah banyaknya zat tersebut mengandung 6,02 x 1023. Hubungan mol dengan jumlah partikel telah ditetapkan sesuai dengan hipotesis Avogadro.
 4.	Molaritas (M), molaritas adalah jumlah mol zat terlarut pada satu liter larutan.
+
 Rumus molaritas:
 M = n/V
             """)
