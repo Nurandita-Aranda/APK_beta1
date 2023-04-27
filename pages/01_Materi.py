@@ -1292,13 +1292,13 @@ analit direaksikan dengan suatu pereaksi ,kemudian hasil reaksi di titrasi (anal
 3.	Titrasi balik /titrasi kembali ( _back titration_ ), 
 analit direaksikan dengan pereaksi berlebih. Dan kelebihan pereaksi di titrasi
             """)
-       st.write(" ")
-       st.caption("Download Materi")
-       st.write("Google Drive: [link](https://drive.google.com/file/d/1vNo_GQjerR3Bm_57VGHPAJMYzWoPf7Ud/view?usp=sharing)")          
+        st.write(" ")
+        st.caption("Download Materi")
+        st.write("Google Drive: [link](https://drive.google.com/file/d/1vNo_GQjerR3Bm_57VGHPAJMYzWoPf7Ud/view?usp=sharing)")          
         
     if optiontitri == "Iodometri":
-       st.markdown("<h2 style='text-align: center; color: raisin black;'>Iodometri</h2>", unsafe_allow_html=True)
-       st.write(
+        st.markdown("<h2 style='text-align: center; color: raisin black;'>Iodometri</h2>", unsafe_allow_html=True)
+        st.write(
           """
        **Iodometri (titrasi tidak langsung)**
        
@@ -1359,6 +1359,7 @@ Dalam titrasi iodometri, BE suatu zat dihitung dari banyaknya jumlah atom I, buk
 
               BE= BM/n atom I
 """)
+
         
     if optiontitri == "Permanganometri":
        st.markdown("<h2 style='text-align: center; color: raisin black;'>Permanganometri</h2>", unsafe_allow_html=True)
