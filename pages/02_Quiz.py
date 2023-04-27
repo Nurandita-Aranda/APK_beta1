@@ -161,6 +161,7 @@ if option == "Kimia Dasar":
 2.	Perubahan Tekanan dan Volume
 3.	Perubahan suhu
 4.	Pengaruh katalis
+
 Berdasarkan keempat pernyataan tersebut, pernyataan manakah yang termasuk faktor yang mempengaruhi kesetimbangan kimia?
               """)
         col1, col2 = st.columns(2)
