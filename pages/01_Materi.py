@@ -38,7 +38,8 @@ Kelemahan:
 1.	Tidak dapat menjelaskan sifat listrik atom
 2.	Pada kenyataannya atom dapat dibagi lagi menjadi partikel yang lebih kecil yang disebut subatomik.
             """)
-        st.image("https://lh3.googleusercontent.com/Dpa6_SGiJeIeSfBCz0-JRD5GkMpAIbclqfSjcOigh8n3cFjzpJv_TFqWenYrr0-6gAS1BFSv32np17zNz6FURI7rU3GQH3X_Bh2YpOKJ6d15ekLvC6Snbh0pWqMkLLVGGmwH15FQz65sGiX0HvwHb6pqIch9OXy35ZfbkLLeBoN5KRB0dm6Jm3lBj2RiK26rhCqxPDLV_35nHTYMKVCu-JgnTRbP6dW7Gf4vvk1Iu9tMzWJknLHUWyCnqbFI9f9QCG-gilc1ozsWF1_cQTjjnhaQggoVwRYLOMss9CgZ0TtsmfM-6CNAO3EEb9pHvB1oWD97A07OQOCucPQcRoKjugNK8BxohAWIvpMY851B0XKP8dXAOAvJGl_CDNjGZKksW2Ass47WU0niLHzWEs3Ke3-H4BlttGF4sQb5VObbqb-tR4ZLdVbq3wzEPMaPweAZ_if3yi0uAT7tDunWpUtjSyQ_HoyyMs3JKkADtliNt6z9dlpe3V9QBQUiwEzUcQOVX3uiL7LjaKWVysamkEw5H4oZkrT4he8OJRlNqQRG4_IqS6QhplpAxdeEPTxa6VztZ69kTWo73BtbgQ7b2X58TnCPoLhTKzil2kkZQFPJ3eu3WWERih9gM3DXcafQ6TBTyIC9Y5Allml1ZtXEGaQxeuHkEQcOe7-cmws0vDiTWICrJi6muT_v779T7c0p5L2ZvtpZ5zZa7ccO8T5O0LQOA-LO4tO3U8vqqq6VfaNaKVOH0FRxG19ejA0T0NAxeEkZwmxt3RkT-wFin0gwxEJGnmjAbKPgOK_IaF2Do3YJzmimocVBiRzfqLRzXsIvHHMzBHFFHpRhztHbHQuk9Mm3orw6XABKeLe31KgvPrplUtniU-UwMA8-PsSigpfSqpRnXXeqlXATHziAfWN_pIw9rCIeAVh1vJCrGgotIhkirVU=w151-h320-s-no?authuser=0")
+        imageKimdas1 = Image.open('Resource/image/Kimdas/Atom1.jpg')
+        st.image(imageKimdas1)
         st.write(
             """
             •	Teori Thomson
@@ -53,7 +54,8 @@ Kelemahan:
 
 Belum dapat menerangkan bagaimana susunan muatan positif dan jumlah elektron dalam bola.
             """)
-        st.image("https://lh3.googleusercontent.com/ggTz_zX8FAvn9TdSDsLu0zSEuGjwAZnoDFMC6pbSTsdC5TYD7-Od1-c6_7SJIo42K_-9EONsDAK2O1Zw6-xrrXqi8wxbiA91yscsomhtCZKQ6oPcoJ6816W6KtCZlovAzY6SUaK1FDzTOPYUAWNrufWJ7DLvAhV-VxC6mFuqqy9who3j5hgPXKyDwBRtgcffvSyQF4D3pnNAgo5J1abnJbXpVhJJOwsi2kZ-Sg9xJ6xEfshUZ_OKBQd2Dzvy74U_p2lxIwS9EeeteXRjAqmrNpvxecsArywlIzUHAXpYvjTpmWp7IqF_dRPyKBekcxtVrwkHwPKSBbMxS4V3ufAZhTPoS0AqaTN_qklE5xooDGknpWcLmuRtuB5WFdZT0j-BSfj_8CEGmGrrHtPnZXBs3LA2f5P2nWXe-Ntl6dMZsinSoSA127lT4LADEj7e3YLguI134bEY8-hWc6N6d3VU9UaCIG7Qzn3so4SC3F0Us-ikC_vLUGYF4TXfrSE4oEVZ-xw5iEIy6IRK9eAjRYiZ6wQUFz9m8i7mR-otRHIswdcxfdbz-U00TJfLoQqbVKpgKYrRWCnL1gX2xzJapBVxrf00rdzP9N8t_cZ43u53yHtZOGbOrsEBT5yJ-i5fGhWldSdLFPHhIdG1VuhJqXqy1XAqmXkUwoq4OxEp7mOcTEu2evChv47vvHj9dqlYVu5sNm1252h5WMNEpE0L7Fb8afAQCgiDrLhphBOMk6pxKXYqoRn5tmsZlgxi9l9XYTmDOaQ3L03D6AkHxWkgCPOwicEczLzJ_Qjvw19c8TPGk-4LapZze0dRTDi8ETj5oCwZ2JBm4OVwFTT9VYJHZdVS8yld1mrEGtPfI_kznJ7t4IdWSI8kkd1HeaSQd04FQnFCK2vmLLQwtlVaAO--RaZHxLdTdJIehKrObKdChvImjjY=w320-h253-s-no?authuser=0")
+        imageKimdas2 = Image.open('Resource/image/Kimdas/Atom2.jpg')
+        st.image(imageKimdas2)
         st.write(
             """
             •	Teori Rutherford
@@ -72,7 +74,8 @@ Kelamahan:
 
 Model tersebut tidak dapat menerangkan mengapa elektron tidak pernah jatuh ke dalam inti sesuai dengan teori fisika klasik.
             """)
-        st.image("https://lh3.googleusercontent.com/E-KXyUbelh2JObbxqtd_IfHJ2R1HAobVWP3FpWj1jdU1u7nO_vjuNSPzc5Cq7qPpg1sXEjRbzyLx8nevrez4xduWWznsmg6PJr40px0VNYriWpYIxELXR53S_XdX235YNBl449csZODin55FMaZlbWcBY1MzaocrgAEOTJeGEAe-kzKJJJaeUEPoSCpA5m3BxYY4TawGIsy5GDLwqZrROPnJP2GIX1T8Z5tLDlOBXs7dr0DVFzkNcsrEviybSqQ9wNI1ZuXowb4btnpwX2kOIkWWwovjEZc5XpcerN-E8HPf7tOabOgztvRsPjHj_y9mqZUZyCezChhjwlfSTDuhkzCAT-M33CsQQgDqdH6mIOOmG_1a0KppQ55AlJywAuNQCqK4S5o9sbSiJvHBXz_wUtkNKTmpiiIEB9OTaVy4ILuEmBL80tM9XDq0zgg7w2pTMY6rzvxnSOxoZe3KgW04IUY0gSTA6bm01duHJYDRPaow7g2qydFQEZq0YiYX1lK8IRA0_buXTomf90iD7cg3oTCQx7FYtMGnWP_2QDFrkWSVuPfInAaiQBpYm_x1HCMzRBqIT0zCp9i7iDWUYWoLRBaRebiynk7OH1RAgOWYn95NsQM6G0-mSkaaP5O2TfI6TnoW5gRnvYH-5NWSCG73Uq9wyOdBv_aqlNs7ESahxFbEQUYYQFS7jldTDRCxVrezd5NoW_e-GUq51ikvXMsn-XzocTWWVuxQdM05lCAm_c8chPGdX9hHjmy2FmO7YtIzbskLxseaiwDwfz1JIJX65DOJSBG5OTqyXjhJZzG6nYMmnr2LzpnjegxWjCA1vUpXWYC1q71e51ukLCXlvx8uj50tcGlBUp3AjttUdeoyTlv13kKYyri5AFr34fIyxriAAprhs0pCNs1sTNIT4bBOKnLSt_tFgEwjY2FX52RBF7A=w311-h264-s-no?authuser=0")
+        imageKimdas3 = Image.open('Resource/image/Kimdas/Atom3.jpg')
+        st.image(imageKimdas3)
         st.write(
             """
             •	Teori Bohr
@@ -92,7 +95,8 @@ Kelamahan :
 
 Hanya dapat menerangkan atom-atom yang memiliki elektron tunggal seperti gas hidrogen, tetapi tidak dapat menerangkan spektrum warna dari atom-atom yang memiliki banyak elektron.
             """)
-        st.image("https://lh3.googleusercontent.com/d2FudpfuSIr4NJIyqSVP18ZpPKwIf4RLLkr00Z1qgiJLVTa37HpnsfjexBbaGKZ-2BvS1y61PKPEtL9VKmm9-U7vW9caahlLKJsQ7gfgZXqhkSwG8JBmyolnRvzVnqsMu0mBlKVQFp3Pt1X0BSLcTMRyabX-JsKFpjNCl7kY5U3Odr8txN0DUR7csrO_7gs6eNuzMdlhM9-YUD6ccUBp3Y5H_MiK45CjnyjHT_JE70U93BLN9VgWRcHnmVLhpIDw1Xo_wGgK-HAliENOQI95sKLpvYVDqnCGjekRkCK9i-bH65YypdvDyslXEUtAZN-NJbPJ9yh3Mt8zoyvYWjYTwZxARw5RnCF7vFrYVg-HsFlOMlyx5FSQbtTYCaILH_YNSur-Lj83Sy689XCQMaKY6MnxbtdtXS9QpllJiXUP5osCfVgreIifmUHfTCmm8OT6McrTvkfv6VqGpK9RwcozPaJyAwUy-w4mA9nB1OvITzlkCFlgRIaAIHdh6PdIFM-K6t2tC-Ypx_1Fs4HeXt6xj0x_Q5fSA6eqCy7tKOwjAobZqBUzAMrXiNV4FW1RRqKVwjnNUv30ZkY3bTFU9O73Uihz7ED8XZd7S4Jppy4ONF08Y_WNrnbQr852IP00-27sxEt8WnOsF92hcZUKpONNhiNZaLCHBl7eP2kfMVlzu4iTRliW7nX3BdIW64tZ_c-Zx1Z3E3U8vLaf5ExuZz8IMHk37YZw4I6rHU1eVeyU6EaNfnHjw12xQ-rQVt-ez3Kuk3Kb7pRsth5QHsH19pULW70lQ23nWL5mlGEvUB9CY-ResqDMsKBVFzH8dUApSbWQbJDCidVRChEPxtaIo6bP4QlDl3BvQRN-jw0LqrVGbau6ethI6bCq00IKLlCiM5P7u0ZzygntPEC9Rdqdo8aUPniVCxryX5P2TokoD1obeH8=w230-h248-s-no?authuser=0")
+        imageKimdas4 = Image.open('Resource/image/Kimdas/Atom4.jpg')
+        st.image(imageKimdas4)
         st.write(
             """
             •	Teori Mekanika Kuantum
@@ -286,8 +290,8 @@ Proses pelarutan dibagi menjadi tiga tahap :
         st.write(
             """
             Proses pelarutan dipengaruhi oleh dua faktor. Faktor pertama adalah energi, yang menentukan apakah proses berlangsung eksotermik atau endotermik. Faktor kedua adalah kecenderungan hakiki menuju ketidakteraturan dalam semua kejadian dialam. 
-C. Satuan Konsentrasi
 
+C. Satuan Konsentrasi
 1. Jenis Satuan konsentrasi.
 
 Persen berdasar massa
@@ -311,10 +315,10 @@ V1 X M1=V2 X M2
 Keterangan : V adalah volume pelarut dan M dapat diganti dengan satuan lain sesuai dengan yang diketahui.
 
 D. Pengaruh Suhu terhadap kelarutan
-
 1. Kelarutan Padatan dan Suhu
 
 Kelarutan zat padatan meningkat dengan meningkatnya suhu.
+
 2. Kelarutan Gas dan Suhu
 
 Kelarutan gas dalam air biasanya menurun dengan meningkatnya suhu. Dengan meningkatnya suhu, molekul udara yang terlarut mulai’mendidih’dan keluar dari larutan jauh sebelum air itu mendidih
@@ -478,7 +482,6 @@ D. Aturan-Aturan Penulisan Persamaan Konstanta Kesetimbangan
 3. konstanta kesetimbangan tidak berdimensi.
 
 E. Apa yang Dapat Diketahui Dari Konstanta Kesetimbangan
-
 1. Memprediksi arah reaksi.
 2. Menghitung konsentrasi kesetimbangan.
 
@@ -496,7 +499,6 @@ Ada satu aturan umum yang membantu kita memprediksi kearah mana reaksi kesetimba
         st.write(
             """
             A. Asam dan Basa Brønsted 
-
 1. Pasangan Asam Basa Konjugat
 
 Basa konjugat dari suatu asam Brønsted ialah spesi yang tersisa ketika satu proton pindah asam tersebut. Sebaliknya, suatu asam konjugat dihasilkan dari penambahan sebuah proton pada basa Brønsted. Setiap asam Brønsted memiliki satu basa konjugat dan setiap basa Brønsted memiliki satu asam konjugat.
