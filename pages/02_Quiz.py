@@ -63,6 +63,27 @@ if option == "Kimia Dasar":
             
     if result == "soal 3":
         st.write("Berapa massa molekul relatif dari H2SO4?")
+        col1, col2 = st.columns(2)
+        with col1:
+            opsi1 = st.button("90 g/mol)")
+            opsi2 = st.button("63 g/mol")
+        with col2:
+            opsi3 = st.button("100 g/mol")
+            opsi4 = st.button("98 g/mol")
+        if opsi1:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi2:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi3:
+            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.succes("soal selanjutnya!")
+            st.balloons()
+       
         
             
      
