@@ -28,7 +28,7 @@ John Dalton tahun 1803 merumuskan teori atom sebagai berikut:
 2.	Atom-atom penyusun unsur bersifat identik (sama dan sejenis)
 3.	Atom suatu unsur yang tidak dapat diubah menjadi atom unsur lain
 4.	Senyawa tersusun atas 2 jenis atom atau lebih dengan perbandingan tetap dan juga tertentu.
-5.	Pada reaksi kimia terjadi penataulangan atom-atom yang bereaksi. Teaksi kimia terjadi karena pemisahan atom-atom senyawa untuk kemudian bergabung kembali membentuk senyawa baru.
+5.	Pada reaksi kimia terjadi penataulangan atom-atom yang bereaksi. Reaksi kimia terjadi karena pemisahan atom-atom senyawa untuk kemudian bergabung kembali membentuk senyawa baru.
 
 Kelebihan:
 1.	Dapat menerangkan hukum kekekalan massa (hukum Lavoisier)
@@ -1147,13 +1147,12 @@ Contoh Reaksi anion sulfit (SO32-) dari larutan garam natrium sulfit hepta hidra
     SO32-(aq) + 2H+(aq)=SO2(aq) + H2O(l)
 
 Identifikasi dilihat dari :
-- bau belerang terbakar yang menyesakkan nafas
-- warna hijau (terbentuk dari ion Cr3+ yang dihasilkan jika sehelai kertas saring yang telah dibasahi larutan K2Cr2O7 yang telah diasamkan,dipegang diatas mulut tabung reaksi.
+- Bau belerang terbakar yang menyesakkan nafas
+- Warna hijau (terbentuk dari ion Cr3+ yang dihasilkan jika sehelai kertas saring yang telah dibasahi larutan K2Cr2O7 yang telah diasamkan,dipegang diatas mulut tabung reaksi.
 
 Daftar Pustaka:
             
-Svehla,G.1990.Buku Teks Analisis Anorganik Kualitatif Makro dan Semimikro.Jakarta: PT. Kalman Media Pustaka 
-        
+Svehla,G.1990.Buku Teks Analisis Anorganik Kualitatif Makro dan Semimikro.Jakarta: PT. Kalman Media Pustaka      
 """)
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/1HJm0txtr--xvcj2rKRQ9bOhwIgSabtu0/view?usp=sharing)")
@@ -1573,11 +1572,7 @@ Alkalimetri adalah bila penitar dengan memakai basa yang konsentrasinya diketahu
 
 • Warna yang ditunjukkan dalam keadaan basa dinamakan warna basa
 """)
-       st.write(
-            """
-    **Jenis indikator asam-basa**
-   
-   """)
+       st.write("**Jenis indikator asam-basa**")
        st.image("https://lh3.googleusercontent.com/3KYn70iT0UprJOs6uoqUjmnTdyi-svgpMpAB6bONduJgIEd51vAhX12p0E_mw0PlldqH01LFKLvpofmpWHiu2E64-BdjcH9E_sNcahN-s-gw_zQ8-PpsKKNU9TpNP--oAnzfOyv2TjZfWfsdEiwcDAB0DCCg__BYv9UB3zt6HwU5BdsVaXsyQT67NgTFlDfWPb53yPNYZOogKP9p3VvN5lJTkYczOYHeBqRto1HTqcZbYjrD2TA7LOJmuyIG9lbWRJA9LoFAxrP_6or_wIEhvAJDSh9yRGiEGt6nCEuBu0GVeVT2PU2elIUeRREbYCx51AmZABnFjffUWIeHl8HRDXK8a6qhYKo44FxEiyF-FYDGdBeIN0gm-456KXfMscbgYOyGv6RJQaDH8l6WCzlZj3tUFkMAPgvI_HQTDaCidm5SUx2_QKkGtEbl7Q1Whpl0js0H_iThIsYwncA_7fCCjlYMVFgbSyAomsQo0Af92cKqrGJ6mLjqsG1KZOPEkrlmCXW3-YS5h-PMk5xc8p1rfE6aQAnQVudUnEN_0YtP2pVJiZzSaCONxV9p-IoT76WcmWSoS97ygAn2p1OOUv_irhDLZq4TOqNkqzt91ySxXxbsiwjgPExFWoNsNfjiD5VXd6AFTM7XBjIztTDreSpPAnYJzQ8E3V4kYq-YMvl5piXrmrUsw6yFc6Sa75nfmQLq9Dgm3HN5OLPVCKt4L62UMBalT8Th47b-WswHm4jB6G9RqTawQl2NafqlyzvlxlGc62GA1zACuww4lzyQ-6xu03Wg7dGnEXrCKpOhFASurib2PzrotjnGa98t-afQvKzPy4WmJ-roPIBKT7QrMnBhtfWY1umbcQnXVJuwbW-ftJp4n73qt4wv4PkjAl4fsMpIMHG_c-ZXhNACzZ1nHeaYjk0TRnUA1ZULeGV9oHb3oesO=w877-h432-s-no?authuser=0")
        
        st.write(
@@ -1702,15 +1697,11 @@ Larutan standar primer adalah larutan yang konsentrasinya harus diketahui dengan
 
 **Syarat-syarat larutan standar primer**
 
-1. Zat harus mudah diperoleh, murni, mudah dikeringkan
-
-2. Zat tak berubah selama penimbangan, stabil, tidak higroskopis
-
-3. Mudah diperiksa kemurniannya
-
-4. Mudah larut
-
-5. Reaksi dengan larutan standar harus stoikiometri dan cepat
+1.	Zat harus mudah diperoleh, murni, mudah dikeringkan
+2.	Zat tak berubah selama penimbangan, stabil, tidak higroskopis
+3.	Mudah diperiksa kemurniannya
+4.	Mudah larut
+5.	Reaksi dengan larutan standar harus stoikiometri dan cepat
 
 **Larutan standar sekunder**
 
@@ -1722,17 +1713,16 @@ Standardisasi ialah suatu usaha menentukan konsentrasi yang tepat dari larutan b
 
 Ditimbang teliti  ± 630 mg asam oksalat dengan kaca arloji, larutkan ke dalam labu takar 100 mL dan tepatkan sampai tanda garis, lalu homogenkan. Larutan dipipet sebanyak 25 mL ke dalam Erlenmeyer, tambahkan 2 tetes indikator PP kemudian dititar dengan larutan NaOH 0,1 N sampai larutan berubah warna menjadi merah muda
 """)
-       st.image("https://lh3.googleusercontent.com/F_wgX_wVZXH9a5TPRmPwLDoq_Mj7g86tqwlQK3xj0eyaSZO2nrjQKlUTIRBbqckvKN3QtNd4UyOAnCdz8_Malms4PJWO7ad9wyX6HUopRJVNKeqviw69TJll3IyZ5II1k39OReAcMGwqtEf--IDw0_GIjlWWQxEqNrJe-DkEE-K6Tvd4E-3jYCI_Ohv0heu-7p7jT1VI7mTL88ue8nzcxbhExytBVwWWb28dZkchf28POwqz4EVdtPwKuvueP71Ay7lsZaF79wKuvowZIJj7Jl_tZdWzqsu0KxgIPKFkL8VndAb9HSQ-I7FAPbwHdKPXXnxqTMsRnzlEo_c50U2Z2jTNEJzmmaP3k2ojNwQKxm-atGCqVaupbJNZphPPlTluAJbn_05jshwkkYT01Mu137_9LmGES7MJJ3U6KMgrYCCqrbKuln698y2vr76JHhXwnQkf1dIoqqUkhPX5zEXT4sJn9yx85RDv0-E3CmrVxGD0H4WAMcMMgnygf2R6yQwg2X7vclNQ04BZhnjsRlvfe6zrE_dr8K-cnCl7r5WJzKJOvxt0FIdC76XGTZ2lnVdjC5WK745sag_tKc80P0TTPzyxnaSfw0unwY5QsM4-0FGaPKd-6h2adWYomF_lbMooS6hRF6aWLvnSrYq5fkb87N7EUqgwGh0vT6Ray0c6xLFXTuKL2NZHUfNG1xGRTgjHgao07Tc3U4eXhkVXRFnvPEuv0Hb7LvA1zcxCZQBi7SHGnfEBtn153TtS73nNUL7WCt7pKKc5qDuEQ-q8H7qdgYIVMDOXWTc72-yiLb36bJSWszTZ7rdbIlkTHExB9BFp1fxbsWrIkn4Ypk5jNfynQO4jSXdF63pLY4AoBGlfY7SbPSmnD9F82i2yz11bkIcaTurhodzgZnWi0I-y5gBkqTcURPa3EQCHzkhY_JyuuEFn=w1016-h159-s-no?authuser=0")
-
+       imageT1 = Image.open('Resource/image/Titri/naoh.png')
+       st.image(imageT1)
        st.write(
            """
-           
        **Standarisasi NaOH secara langsung tanpa pelarutan secara kuantitatif**
            
 Ditimbang teliti  ± 157,5 mg asam oksalat dan dimasukkan ke dalam Erlenmeyer kemudian ditambahkan air suling kira-kira 25 mL. Ke dalam larutan ditambahkan 2 tetes indikator PP kemudian dititar dengan larutan NaOH 0,1 N sampai larutan berubah warna menjadi merah muda
 """)
-       st.image("https://lh3.googleusercontent.com/NtJ4Bax7NDQxyzStGdlPZpGFHL43Abv_RyIKOovArBl_-VDghjXeZwOiN529ku8H3yvVFqlg4uF24JdNvXcukSPpfP0Ej2r15ebF6PpkIh0VNpTGYKhmYDnf-CU5zL4dCCBvyUsr0wZctD0ZFycGAR1Lplr34jBB16KVyCfVVYfHe3mvN2zH1uuloW0unpMubE1LrElyMM0zWud6RIX9gOfnzLWwq4eakpWkXDwDJwZlN8WfIhEp-ThunjdKBDHcmoncA2T9UwUr0s_wwTOexDCdkppk5-9-UVGb9PM5SZbkbUjPMXjScj8_S4YJYdX517PapAsSPxQIMHN2_7Ol96EL8iPgr4IrJNKMARuIek7O4GcsOzE8AnO1xtnmUjZ2KkIa8YDyoHpzgVAJaZDklMCMjveOciZyx1fM6Nld2DXtWnFxdHQgI4Q2gapyt_W4aNaXwOHKTMh8GfZQmy7XC282PPGw5KTmGY85xk49Zagm-WmFI6jbBBRlRViQFlJ96k2zDzCEonX_F1t-VqnlBUyLeYgkWKHTdoCR3r68f38kyT3vBno-W7fZSuJTeE_ZOgzNIGiRocG6pb1MwK8Mwkb_1V2Xn8iuuy8ShD0QElPZ3TLtTJ8q5UkCWSpEUSXqRsQ1y2hyJInWTONI7F5IDZ2plE7Jgp0v68Kq8BEm2PYG0VCEBWKvRt8lwjUfboYkS_DJdJP3sKgHrL9wuanK8NpwYxs-W9NuLn2hDprjqnlHOrJt0137TLuvkX4gadjo0N0cnqz0oy6FVhWZHSbOfMQvhSrnaB0D92ep_6Gd708KzQFvCW-drecWb6C8d_We2p3wlqi68ByY8Si5swoh2OzHK50BmKyic-0HGXYCOh7SI8YDm8rJtLcg74iX09lzupXB12vq-F4zKidO01oxCnkPnQnviS5rToHuL1jy1juR=w807-h160-s-no?authuser=0")
-      
+       imageT2 = Image.open('Resource/image/Titri/naoh1.png')
+       st.image(imageT2)       
        st.write(
            """
        
@@ -1742,10 +1732,13 @@ Dipipet 5 mL contoh cuka makan ke dalam labu takar 250 mL kemudian ditepatkan de
 
 Menghitung kadar analit:
 """)
-       st.image("https://lh3.googleusercontent.com/meZ72KJURC2zTpaN6jog1UN6nd4E5aGdLuyYvIXcQ33misUKM6UI4grmgSQ67V7Xwnx98Hlk6wCMAil0ijIIGYHr3kgNKv0K9jDwf7TPn-nGUBQMN9s2fKp60mSB4Ie8dGHudkEXMgm3ET62GXHdbvMDIKIT9JmWKKg-0BDD5TC14VIfDlrxFQnBLor70Ua-WSCWhWD7uQBN5Ft4ToJdEPrP6AWH3DEqgKpTos3G05BuEwxK6hQfby4-IJq-Y3oeV6exjP0uzlTExrAqTLPsdVk4oqpexBwjd-DEO-MNm-hCefzazkM-MYkM4-co-7UC5edP9VWo0aphF6Drx1-5Hq4-Brpj6KieAglQ_yvrtWBOLsjUMXT7S2uQ5IGVCyb_4xtrt_lWM-X4NNno9Mrsivs9Bugs-HujJf5WvY0lCGc3hoaOjpUkkLZJw0Ml678SBvi8O0jgqoJBUdRdrKV7yYjNzOSmIC7XZ9JvkIS554cpE6RPVw-n_v-VmLMHB37ECjxEwSTMjIPWJFfBx1j7AswX2KRf2oLW2m9pAgRm7RCSJiZUdPR0NuzKf2NFwaURjmSWlqPUoIyzxxRy5UnHcRkl_kuwyqBGSK5Ncm-W7mP4zZCCBzTLhr050aP3s72-Rb0aurFCoB6YR1ji_Lg4QQ9os-sLET0vetlFxgLkp_v-Qsj-YzLGxALqFglOl0YGcIjqNrGKEExF6AA-E4kp6myvGpE4cdizTqBsa6kuJgeMO5lrSVozhr8Gadjj2YhzQU-eDvYlPuk7kFyrhdCbgThlGyWbfqAiaZbL4ZjWHgNsjzJ5Gom-lthYqsI_lg5iMtcRnSTtdcGI3v9bQUtQ3cJK1-GJhB_tRjg600zNw_ZodDyJUnE-EmtJvhilOGCr1ndi-3qTRzfWTWpBlos33Gcvv8hXO6leUZ4CaSFhhX-5=w1121-h436-s-no?authuser=0")
-       
-       st.image("https://lh3.googleusercontent.com/jf-34ekEXapqqXyO-DHYULhpUV5tEpCBajOJoFmyTcIIWykGH8zpeVGGZwiy721p1c2J3WbPZ94krO-MpqdzwOP11PD8ldXrK8nlthYtE_zJ_h0hfwm08UHDRTNe75uoJLytlRdPXIqZSEzfKdv2Ym4nN2Snd-ohacyYlR5GTQUK5_mRQBF2kZfA0mBLqixAv5YNc8ZeFoOnfgwD-jxa39J172ZphkWlL_S3ToiYCbVR3uCOmV-ImhzdBVO0WL3ew8iRJhZlcr3y5bjRXSvyMt1bci4hw6zVjSDw9SGdSlTk-me5T-cytyDvz-htV4-8S4lWs1L8-ln45r0fcadL1lq8nv8Fgmc_nHvI5X5B8StmlhxwrXOQdvKS1X7sn0-NNdhHAAN38S-6R59qDicFqfXEtxY4XnlAOGnCRE_9x7DD-i_Mhr5hBOmj9z2MgJM8SMogeEKg_S43zT4KijZe7aybb4sd4eObD2yVsmC75nrK6yyB_1ZFe-vR3Mt0smly3F8FwWAcVS8YhKGqKok4uLom0E9dgLnPDGvRLY4NACbAJ0L1fJR7bcdanOmPuTdEJjhZX7D3kW222XFcjrDrErPjaZ4KWuIY-_Vzy6HPTzluONFDQQG6RKg34sRuAxN7SWlZUqCfJ9uO3rnUEEn9QrLxksI1bBe-WH9UXNwHSCT8KFCqPYEnMFqLGNZfpw2kj1Iq_XgxE6cFHgTCoL0uI0jANYCjH1mTj2u4BSsX_NeNpFTDeLKwh69dKGdq-oNjCXsRi4ijJSF4P_4zjOV3sFgRSaaQpfmvY383EaqOhQAHO1TWSkQ99O3hCa-70sXahvPyPk0Nk1MrFmoSwfmn_pkVBHawXFbM9q-z6sUf7sWpGl3qEfTVRNNPv7TURnZE7ZbsfnBTgmr9Z9TAAGcHV9k9tYDe5WmzVa7aEjEU5ROR=w1112-h362-s-no?authuser=0")
-
+       imageT3 = Image.open('Resource/image/Titri/analit.png')
+       st.image(imageT3)
+       imageT4 = Image.open('Resource/image/Titri/analit1.png')
+       st.image(imageT4)
+       st.write(" ")
+       st.caption("Download Materi")
+       st.write("Google Drive: [link](https://drive.google.com/file/d/14SEvQRrbUxfo1-gzSeEAESPDNSpAVAOd/view?usp=sharing)")
 
    
 
