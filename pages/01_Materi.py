@@ -1313,15 +1313,15 @@ analit direaksikan dengan pereaksi berlebih. Dan kelebihan pereaksi di titrasi
        
        Oks(analit) + KI ⇋ I2 + Red(analit)
        
-       I2 + 2S2O32^- ⇋ 2I^- + S4O62^-
+       I2 + 2S2O3^2- ⇋ 2I^- + S4O6^2-
        
-       IO3^- + 5I- + 6H+ ⇋ 3I2 + 3H2O (pH rendah)
+       IO3^- + 5I^- + 6H^+ ⇋ 3I2 + 3H2O (pH rendah)
        
-       Cr2O72^- + 6I^- + 14H+ ⇋ 2Cr3^+ + 3I2 + 7H2O (pH rendah)
+       Cr2O7^2- + 6I^- + 14H+ ⇋ 2Cr3^+ + 3I2 + 7H2O (pH rendah)
        
-Reaksi I2 dengan S2O32^- berlangsung sempurna dan cepat 
+Reaksi I2 dengan S2O3^2- berlangsung sempurna dan cepat 
        
-Reaksi unik karena oksidator lain tidak mengubah S2O32^- menjadi S4O62^- melainkan menjadi SO32^- dan SO42^-
+Reaksi unik karena oksidator lain tidak mengubah S2O3^2- menjadi S4O6^2- melainkan menjadi SO32^- dan SO42^-
        
 **Titrasi tanpa Indikator :**
        
@@ -1337,9 +1337,9 @@ Reaksi unik karena oksidator lain tidak mengubah S2O32^- menjadi S4O62^- melaink
        
   Titran Na2S2O3 yang digunakan dari garam pentahidrat (Na2S2O3.5H2O)
        
-  Larutan stabil pada pH 9 dan 10 untuk meminimalkan bakteri yang dapat menguraikan S2O32^- menjadi SO32^- , SO42^-, dan S↓
+  Larutan stabil pada pH 9 dan 10 untuk meminimalkan bakteri yang dapat menguraikan S2O32^- menjadi SO3^2- , SO4^2-, dan S↓
         
-  Titik akhir : iod yang terikat dengan amilum itu pun hilang bereaksi dengan titran (S2O32^-) sehingga warna biru hilang
+  Titik akhir : iod yang terikat dengan amilum itu pun hilang bereaksi dengan titran (S2O3^2-) sehingga warna biru hilang
 
 **Kesalahan titrasi**
 
@@ -1349,17 +1349,17 @@ Reaksi unik karena oksidator lain tidak mengubah S2O32^- menjadi S4O62^- melaink
    
    reaksi:
 
-              4I- + O2 + 4H+ → 2I2 + 2H2O
+              4I^- + O2 + 4H^+ → 2I2 + 2H2O
 
    Reaksi ini dikatalisis oleh cahaya dan panas
 
 2. Penambahan Amilum terlalu awal
 
-   I2 menguap karena terlalu lama menunggu titrasi pH tinggi, S2O32- teroksidasi secara parsial menjadi SO42-
+   I2 menguap karena terlalu lama menunggu titrasi pH tinggi, S2O3^2- teroksidasi secara parsial menjadi SO4^2-
    
    reaksi:
    
-             4I2 + S2O32- + 5H2O → 8I- + 2SO42- + 10H+
+             4I2 + S2O3^2- + 5H2O → 8I^- + 2SO4^2- + 10H^+
     
 **Bobot Ekivalen**
 
