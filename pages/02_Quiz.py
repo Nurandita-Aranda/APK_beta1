@@ -187,10 +187,11 @@ Berdasarkan keempat pernyataan tersebut, pernyataan manakah yang termasuk faktor
             
     if result == "soal 8":
         st.write("Dibawah ini yang merupakan sifat dari ion adalah,kecuali?")
-        col1 = st.columns(1)
+        col1, col2= st.columns(2)
         with col1:
             opsi1 = st. button("Memiliki titik didih dan titik leleh yang rendah")
             opsi2 = st. button("Berupa padatan pada suhu ruang")
+        with col2:
             opsi3 = st. button("Keras tetapi rapuh")
             opsi4 = st. button("Tidak meghantarkan listrik pada fasa padatan. Tetapi, menghantarkan listrik pada fasa cairan")
         if opsi1:
