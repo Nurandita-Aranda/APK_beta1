@@ -1321,23 +1321,25 @@ Reaksi unik karena oksidator lain tidak mengubah S2O32^- menjadi S4O62^- melaink
        
 • Lenyapnya warna I2 (coklat tua - kuning - biru tua - bening)
        
-Amilum + I2 membentuk kompleks berwarna biru tua, sangat jelas walaupun I2 sedikit sekali
+  Amilum + I2 membentuk kompleks berwarna biru tua, sangat jelas walaupun I2 sedikit sekali
        
-Titik akhir : iod yang terikat dengan amilum itu pun hilang bereaksi dengan titran (S2O32^-) sehingga warna biru hilang
+  Titik akhir : iod yang terikat dengan amilum itu pun hilang bereaksi dengan titran (S2O32^-) sehingga warna biru hilang
        
-Titran Na2S2O3 yang digunakan dari garam pentahidrat (Na2S2O3.5H2O)
+  Titran Na2S2O3 yang digunakan dari garam pentahidrat (Na2S2O3.5H2O)
        
-Larutan stabil pada pH 9 dan 10 untuk meminimalkan bakteri yang dapat menguraikan S2O32^- menjadi SO32^- , SO42^-, dan S↓
-       
-Titik akhir : iod yang terikat dengan amilum itu pun hilang bereaksi dengan titran (S2O32^-) sehingga warna biru hilang
+  Larutan stabil pada pH 9 dan 10 untuk meminimalkan bakteri yang dapat menguraikan S2O32^- menjadi SO32^- , SO42^-, dan S↓
+        
+  Titik akhir : iod yang terikat dengan amilum itu pun hilang bereaksi dengan titran (S2O32^-) sehingga warna biru hilang
 
 **Kesalahan titrasi**
 
 1. Kesalahan Oksigen
 
    O2 diudara dapat menyebabkan hasil titrasi terlalu tinggi karena dapat mengoksidasi
+   
+   reaksi:
 
-   4I- + O2 + 4H+ → 2I2 + 2H2O
+              4I- + O2 + 4H+ → 2I2 + 2H2O
 
    Reaksi ini dikatalisis oleh cahaya dan panas
 
@@ -1345,13 +1347,15 @@ Titik akhir : iod yang terikat dengan amilum itu pun hilang bereaksi dengan titr
 
    I2 menguap karena terlalu lama menunggu titrasi pH tinggi, S2O32- teroksidasi secara parsial menjadi SO42-
    
-   4I2 + S2O32- + 5H2O → 8I- + 2SO42- + 10H+
+   reaksi:
+   
+             4I2 + S2O32- + 5H2O → 8I- + 2SO42- + 10H+
     
 **Bobot Ekivalen**
 
 Dalam titrasi iodometri, BE suatu zat dihitung dari banyaknya jumlah atom I, bukan jumlah ion I-
 
-BE= BM/n atom I
+              BE= BM/n atom I
 """)
         
     if optiontitri == "Permanganometri":
@@ -1479,9 +1483,9 @@ Titrasi yang melibatkan reaksi reduksi dan oksidasi antara titran dan titrat hin
 
 Kalium dikromat adalah oksidator yang lebih lemah daripada KMnO4 dan Ce(IV), namun sangat stabil dan inert terhadap Cl- 
 
-Dalam suasana asam, K2Cr2O7 mengalami reduksi menjadi
+Dalam suasana asam, K2Cr2O7 mengalami reduksi menjadi:
 
- Cr3+Cr2O7 2- + 14H+ + 6e ⇋ 2Cr3+ + 7H2O
+            Cr3+Cr2O7 2- + 14H+ + 6e ⇋ 2Cr3+ + 7H2O
  
 Memerlukan indikator redoks, yaitu zat yang dapat dioksidasi/ reduksi dan berubah warna akibat reaksi tersebut
 
@@ -1499,29 +1503,29 @@ Penentuan Fe2+ digunakan indikator asam difenilamin sulfonate
 
 2. Ce4+ mengalami reduksi menjadi Ce3+ Ce4+ + e ⇋ Ce3+
 
-Kelebihan
+   Kelebihan
 
-• Larutan stabil dalam H2SO4
+   • Larutan stabil dalam H2SO4
 
-• Hasil reaksi tunggal
+   • Hasil reaksi tunggal
 
-• Tidak mengoksidasi Cl-
+   • Tidak mengoksidasi Cl-
 
-Kekurangan
+   Kekurangan
 
-• Larutan stabil dalam H2SO4
+   • Larutan stabil dalam H2SO4
 
-• Hasil reaksi tunggal
+   • Hasil reaksi tunggal
 
-• Tidak mengoksidasi Cl-
+   • Tidak mengoksidasi Cl-
 
-• Hanya larut dalam asam
+   • Hanya larut dalam asam
 
-• Membentuk endapan dalam basa
+   • Membentuk endapan dalam basa
 
-• Harga tinggi
+   • Harga tinggi
 
-• Memerlukan indicator redoks : Fe(II)- ortofenantrolin (ferroin)
+   • Memerlukan indicator redoks : Fe(II)- ortofenantrolin (ferroin)
 
 **Reduktor kuat sebagai Titran**
 
@@ -1541,18 +1545,24 @@ Ti (III), Fe(II), Na2S2O3
        st.write(
            """
            
-           Asidimetri-alkalimetri
+       **Asidimetri-alkalimetri**
 Asidimetri adalah Bila ditentukan berapa mL larutan asam yang konsentrasinya diketahui untuk menetralkan suatu larutan basa yang kadarnya dicari.
+
 Alkalimetri adalah bila penitar dengan memakai basa yang konsentrasinya diketahui untuk menetapkan suatu asam
 """)
        st.image("https://lh3.googleusercontent.com/K7bmKtS-Ya75TDaiZUL6_ZAVyZZ7D19-vBrmUTaSKKsFuqWnimVMVHxrKfypBz66vrEKoHW7RvK9KRN5UZmCwrUekfGHj678FnW-JqNXCie95tt71ES90xeOfW4rXXCZXTnzncprL4XY7Mom1m3bdatP0d7FxHzaKKy-s_69DYf5OMF6LhofxdY8vB-60lxGixuI1JQpmZHr5BfOW2SBo5Gs7xvp34Zomr_LwxUq5_A3SGsqpz3rXIsbyF3YOCAz5w22mlfd9y1MmWdibeald91AcEkgoEKWmJ6cxtoI6WISiWIcMf5krEbif5VsDLRgVRO6CWLcBasKnq5CRIN1ax6dmkf8liQLwGhHrVALuSLY9AwPPsAsmZe0-G1MdDH6RNuCZgac7QdUjt67ebBYcTyYOzpF41N3iVblQKFzGLQMH7Jtv8QYZwtVED5qriBQ1bSkLEUxwPgWONGpd3vKGjV8gUBo3tnFoCj5Uzd8x9lJeNU5IxFqc_s0bKvI941M3PR7dca7AVMWGAHZoX7_r2FFd8DGoqJPUL2ZASnSUn_Bx6DJPHtpi1_Ke_Jp5zZBXEVFyAI-pIiAyYnw8THYC7J1P3rR2QdRIQjOWRXQv39Q44w2LReNUrpsn7zMHlYBTF9VecD_HFg_mLFKiCIxg9neAaUqxna2H3_uevThIZyrZwX69G1S1bufkwbb-Ly5OWdp0DPZIKEI0n2yxW2gDhYW8jtcY4lWemYSTHEDNQKYtaDQswlbLO9MUMEodQF3WITeIzSjclTwuKPOgmIZ3oybOcl99rfUF0vng6t1Tv2alpHyjabTl0apqEpG0Y04CpXJG-aMKV7eXE4yWhN23mHTwqAGImQ0MdGiSc4aUlq_nXG1cyF96yAiN0HKXp5nVm92_PD5YfvtVRqRvZlJWuk86IwamomRHauUry0t9BuX=w341-h475-s-no?authuser=0")
+      
        st.image("https://lh3.googleusercontent.com/p09MJ6OgA0mqj8MbYzvEJ48rwO3U4j47FyHgSih7xiyo8EtHQMXGJ5PpCd2U6iUY504wVz0NgZvX1lxgg99nTToCBoEI1j3Etsw4NFOKZXiVQoId1YVVoZjgEGUE88FKu90dREtqIKIJGQqmS3BNoKlBpdRnQu4JbOOxKgWUjy32iQd9vBb_P_qeOBjhZli5OY8DTq1oh_UVt6D4Sa8um-71plHXe_mQkSD-tHq6OckTA3C3DZzNGTJpY8p96AJA97W5PYnSZr6VfxK7kNYc81fzQHzaop1DwL54vYauQeNe5zj8i7biUlbCZFE37h4Lt2EIrZyDBFf1uaAsO2LhiLqyhx5GbXkQ4sk_paq74IVsga5yoNPLfrHENzYgwHEHanCInz-jV2Nf5otskEjjU21rA5vkaxw2CBfGM2X3x0PDQCYiJhBhiMPrM8yoLFQdbzHAz1iV3mV4jGkFHGZ24onW5kArmhfB-G90mgViWaUI-3GXXW1lN20gMkY-upCPKDuKWCI1koFFIHF2N8howm9W9XgnNWKnHTn2oOJm9DuF4Ey7tfrB0QlQvOG09y2G7_VuyRrtl-aTdaDZ1UrG0YIlGZ1zoiss6q3iLKXw6t5CAhpSX7FrWwcuv3z4u8BE4ItN6w4lgYk8x5MOYLDaDR3jroQoY8QqwUs_NVE_TuBS9PlHjtFTw1XTiMHOm_Jm3RiUkKBRy2EzBaqJzArqLG6OOWhzJld1amRc34GWjejTwRorefFEF0YHTPC88jYzM_G0Wfx0lMJwSPZCtktz1Dr6xEvkkHXFz3gbiF6sKMIOo1PJ77eAegbsMcIijSl0mPIN20X3ZdjqfjKmeirjHCwDubBdbjoNmSi0vm0Z53qfvX1ianb4uKKOu5Ij14JOTZ2QrXXumz0Z2jqRWBqduk4Yna_rWVVq4cfQ2yU5U-p0=w538-h485-s-no?authuser=0")
+       
        st.write(
            """
-           **Pemilihan Indikator**
+           
+       **Pemilihan Indikator**
            
 • Indikator asam – basa adalah zat yang dapat berubah warna apabila pH lingkungannya berubah
+
 • Warna dalam keadaan asam dinamakan warna asam
+
 • Warna yang ditunjukkan dalam keadaan basa dinamakan warna basa
 """)
        st.write(
@@ -1561,36 +1571,52 @@ Alkalimetri adalah bila penitar dengan memakai basa yang konsentrasinya diketahu
    
    """)
        st.image("https://lh3.googleusercontent.com/3KYn70iT0UprJOs6uoqUjmnTdyi-svgpMpAB6bONduJgIEd51vAhX12p0E_mw0PlldqH01LFKLvpofmpWHiu2E64-BdjcH9E_sNcahN-s-gw_zQ8-PpsKKNU9TpNP--oAnzfOyv2TjZfWfsdEiwcDAB0DCCg__BYv9UB3zt6HwU5BdsVaXsyQT67NgTFlDfWPb53yPNYZOogKP9p3VvN5lJTkYczOYHeBqRto1HTqcZbYjrD2TA7LOJmuyIG9lbWRJA9LoFAxrP_6or_wIEhvAJDSh9yRGiEGt6nCEuBu0GVeVT2PU2elIUeRREbYCx51AmZABnFjffUWIeHl8HRDXK8a6qhYKo44FxEiyF-FYDGdBeIN0gm-456KXfMscbgYOyGv6RJQaDH8l6WCzlZj3tUFkMAPgvI_HQTDaCidm5SUx2_QKkGtEbl7Q1Whpl0js0H_iThIsYwncA_7fCCjlYMVFgbSyAomsQo0Af92cKqrGJ6mLjqsG1KZOPEkrlmCXW3-YS5h-PMk5xc8p1rfE6aQAnQVudUnEN_0YtP2pVJiZzSaCONxV9p-IoT76WcmWSoS97ygAn2p1OOUv_irhDLZq4TOqNkqzt91ySxXxbsiwjgPExFWoNsNfjiD5VXd6AFTM7XBjIztTDreSpPAnYJzQ8E3V4kYq-YMvl5piXrmrUsw6yFc6Sa75nfmQLq9Dgm3HN5OLPVCKt4L62UMBalT8Th47b-WswHm4jB6G9RqTawQl2NafqlyzvlxlGc62GA1zACuww4lzyQ-6xu03Wg7dGnEXrCKpOhFASurib2PzrotjnGa98t-afQvKzPy4WmJ-roPIBKT7QrMnBhtfWY1umbcQnXVJuwbW-ftJp4n73qt4wv4PkjAl4fsMpIMHG_c-ZXhNACzZ1nHeaYjk0TRnUA1ZULeGV9oHb3oesO=w877-h432-s-no?authuser=0")
+       
        st.write(
           """
-            **Indikator asam-basa berubah warna bila pH lingkungannya berubah**
+          
+       **Indikator asam-basa berubah warna bila pH lingkungannya berubah**
             
 • Indikator asam-basa ialah asam organik lemah, jadi dalam larutan mengalami kesetimbangan pengionan.
+
 • Molekul-molekul indikator tersebut mempunyai warna yang berbeda dengan ion-ionnya
+
 • Letak trayek pH pada pH tinggi, atau rendah atau ditengah, tergantung dari nilai ka, kb indicator
 
-    HIn     ⇌     H+ + In-
-(warna A)        (warna B)
+  reaksi: 
+  
+               HIn     ⇌     H+ + In-
+               
+             (warna A)        (warna B)
 
 **Suatu indicator pH digunakan untuk menunjukkan titik akhir**
 
 1. Indicator harus berubah warna tepat pada saat titran menjadi ekivalen dengan titrat agar tidak terjadi kesalahan titrasi. Untuk mengatasinya trayek indicator harus mencakup pH larutan pada titik ekivalen
+
 2. Perubahan warna itu harus terjadi dengan mendadak(jelas). Untuk mengatasinya trayekindicator harus memotong bagian yang curam dari kurva
 
 **Titik ekuivalen**
 
 • Titrasi asam kuat oleh basa kuat , pH titik ekuivalen = 7
+
 • Titrasi asam lemah oleh basa kuat, pH titik ekuivalen ± 9
+
 • Titrasi basa kuat oleh asam kuat, pH titik ekuivalen = 7
+
 • Titrasi basa lemah oleh asam kuat, pH titik ekuivalen ± 5
+
 • Makin besar daerah curam kurva ( makin panjang daerah yang curam), makin leluasa pemilihan indicator. Bentuk kurva dan panjang bagian yang curam tergantung pada:           
+
   •Kesempurnaan reaksi 
+  
   • Konsentrasi titran dan titrat
   
 **pH larutan**
 
 pH = -log [H+]
+
 pOH = -log [OH-]
+
 pH + pOH = 14
 """)
        st.image("https://lh3.googleusercontent.com/2ThiusA4t_vN-0XPenr5f-eSV8tkjU9k7_cg_tYaOaiABWaSL59QqowZ1fd6yaD0dW7n4fuWw-6XYk8nZYBygI8OTglffLGRziT73w3Q4SxQ_w7VyjvxbvVTcvtBU5PWLeaFJbrrNrBUmfvXLWkufpijwI_VONjmPUEsvcVOeRwG1V6EOssce5YJStTQfbbXlkea1wxFhqNt79-ABf2fbqMM4KpoMJdhYNy0-ED6n26ug7k2G6fUwliO-5P6vYPBensnJFjd5W9Xbb2V0XnDJi8i556acZ6sVdUrjFVkRJ0U_LjM5oImnXZ726_SxjijzpEqSOilY1oUyNLLXBPMlsDwIUAsuyejuImEGR3uChF9U-w2uJ-lnZi1cZ_dw3fH-z1uNvvwqFrLOvxPzc5_rzg-DQjQT-uOptcfGi2CUO63FE4V5nc5ORFz4tqFqEO5fWvMVRsmp7GZMVTMiLuziG-ISGXiglKPh80YBodEzNpBiC-25KmPDwWMs03saxzzUO9YfO3BBxp7kOlnFSrAsP45RPhHM3SX7nt_387Dq6Ui2CG-a0VV8ZwIvniUwU60Gblys7yrNrX2sslaSQZd-7ly3pMrO1X123TDKvYF7QyrAXgJB1GNFLMWRUgF-BaEhGJdMtSGWatYqaP95QiPtS0pfjlYHqUr0I5bW65OrPWETNXpqhTCMmajrDqtHg3xnWJQve6Vcz89J-b0Lq4LRqeVG_DRSTaYB0nM89NQVsEs1AY5PUuBzKsVWbu72iMYmPzB40FkdLIYppd5v1v9vw2jtvb_nwdrnqXOUMpMViJzG-BjIa0w6m0yOFEFP9kdFLTy2T6GKKxeEYDZUVPgamqG4RMQ2YD6GTFsU2bVLDt212CQHyLFOFMSxXUpHzvgOMAtlY3XNH73f1v90ukvziIkLjy_OtujhuCv4ragojqd=w917-h663-s-no?authuser=0")
@@ -1600,6 +1626,7 @@ pH + pOH = 14
        st.image("https://lh3.googleusercontent.com/qkfbTinTZvmh0YM9bRpp2tjkoRpjNfZb8TOX7txvIFbLBHN2vuB1Ihr5ovHTSplJRzwuxIxlS-bJxq5nySQb2Dj4EJwhp1PmipQLNybRBe3sNaHOwvgQrXttJKi1saommTyI_Uaw9ppIhMdAqCHqK_jhfFTrs4mdqZ5oE72E5VkZOS_BAn-0NjZpGkitOfogNNiXJN4FPj_RCVw-V9vm9oZo7P9zX2O_9w9fBcrR8TWCbZxIStAuS0tNYyVpSuiFKXASPCoRxyR7Xz9YXZLq1eWvWeDowoi9LkyIG_GSpCuSKz2g4qKRJ5KzWRsS8LVqyMwz2_VH2ybmfQvPVEC9gTid8r5iexD0F8ht0rGAPaA8sVCqZ2qXqWv3ej8NkOztLibmFNn699eTH2P6-yoF1vpEeTl0wdAjlqPiVPy2bsKY9c58FQOVPd4ydQYm45mjbYZds-Wkzebti6SVQ3Hrutc51e3527obg6F3oaYhgwZhBJfXiLRNvBTPBOCPJHr4eYeVZNt9rwi53eCO5Qw-dRAu7dklC0iempicbCcgGAvTBDx0ootwbA986uKWXGzLCZLjJMgh_pOhLPOLQozIPvY3CT4BHye5QVI3V9ZBGbmabP5NNJ1NRMSdN0j4wqi2kANRwDJwYCZF3af09PmIydo0cC9ZokaIkDMA03xwGWQoWVEZ8CbICR-942M7if-bUCpndYwxM2h8OESbedWP1ck2KfHCNRp4cNVqGISGbE_xTV040M3gzavApmGI5MRs_lxCE7qV6OZhbn_fzz46abTzZQ5hg3rMaIJMTKXKnW4xpsrx0l0FYkP-mNth36mlDP_HTqrXZBHW3lN2OpFQAxmMbpSD1Vt45bLr5_A_hAptuOpvnsoP-mx8HekOr3JSoHMmtMg4eb3GMl8W_a-6arlolCJY_UxQipm7wbWyF-QR=w803-h577-s-no?authuser=0")
         
        st.image("https://lh3.googleusercontent.com/BuEzRl2oRFpiJILdxy_neSAwZZEHF-A7p-WWqy_t6X7ORGnrJHxEIPIElrj7N_T8AFFEia5qj_d8tEvnwqdRKAyE_xrFPkD6AAAY09NbAMuaFfzzKHQZXTnhczevU3obkHRTkSyg8Lcv4S6-tMjXV0oklpjllTwZOBvw740LFxeuC70Tt2hAzFu83j10EG6vqg6K95dFQMT_4MrCIqYSI13u5-cVlOSJnmJi_w6F2giyZCXuX76l-mzw063UXzs6s0fk6qIZWZ0AFJxLvhS9Gbtw06y68zrJXId-kNvqhkDbD_kZnZ4oQw04EjUqDPxPeXa8tRlqGny2L-Y5harEB1tQBK7eA19BuvN61NOUHZI2UaMTWkpa21Zg82JYDwY6XxuXME3kukf4KRE4oTEJoTwjZuKUf2n556QMB4kzTN4cFLbPudbtn1f7S2AFFteE4-2AJiZIQQsvqeeY0emPX7eIj6kT1EPD7VLnifAtBvnCavLguqYeR7cviHWAp0JY6mWAUFWR1Wvap7RnAiysh8nQ4fMuUiJ4IMzJ1lXB8QZAZKzBi2H3GAGRJ7BxI9dxQD4TJyRYbj2fA6gcqc4Uaoxpa79Ds9eQ4S5QcRyUF9Ba4R2odabveJVCSUVYz8yzJam7gW7giabSiUNAgji8XL-7jBIcqpgNEdEdCk_XHB34YndWUyZ5lMk3Sb7VWcQwLW8Yd3OAqnpARHZuFnssxuthBoSeQ-z3Kun39sgvWKDsnOD0X0hO8WBSWbFUFtyy0LFLaS79ZNzOjSt3jWytIObH-oClDdzwSt6HPmkLd37xTIouQVePjPhBJGO9KbSt0VLdBJaTB8vMzREoNAKSxxBEV5C2oK_O86jYbAjDzU81rpcValxfl6QaecsbpnwsFsb7lp9M1SHIugJxD1fVzM2tZFw4VY3Q7rAKmA9NT13v=w901-h760-s-no?authuser=0")
+       
        st.image("https://lh3.googleusercontent.com/4uyA5mwYNBjFgRFo59Owz7HlW-p8n6aik9QZjGtRFD9VzQCnhA8kqiLGjqvGwF4HgmWQdrukQiKgQWdV2287tAaZzr0EBJNAgEDUKLRMvyomRaiNpGtyq_vbi-MH8jOWYm20s4NkHZJcYAPasbET_LPtGm9_0NqLkoInd2QQp_AcTZp7it1aHaIsOnDbO4qBHdS3D598DUdyEN0nVLDIxjPKuUIQXOQNmwPdt7bxi_kNNLb0rvyIyKVC2HaihSNMGlN_KbSMn6vjx3IDLlUyTjZ3712KdECFxc0BAFPs2NIizaew6LGAxg0xs6q52S7LY2N8Q4M9UNSy38qKdO1fZeSeGGlgrdpnLq3nAC7r9r9EXRWqVYzVii90R44kgc3pavfOY09R9Rjvr2hfN89O5iBCqrDZv7rhXEZl0VIal20cys79cL4vC8HbNar4_E3FWpjScJIigkuzv7cc9AZ8HL_wGkq5sx-hb5rzZfRrqGm1R9q2FglORvC0BZg-08imhPTHbbj0e_8tc0CWaoQzPaZFdySFpax52EJIBoFq5RKugJ0EoDqg3uzYOimoeyu9G74JnCzWUaBtyqnrrHpBpwYaKnZtojyB-1D-YQJkusoprCYz1a5JUdDsv0k27UeQlvZcwmtO_FPL6pKzUs-naBkK42zdkA3QoMsxRp8WKEtp-7H1TBAolXhrn04fUae9sCI7sglb-TqxxHtLO9hbqF_37Gy7fnpMuNq11dPr4gokrETbA2KNAqKSjOJy9AJAtnpim6Gf_DqU2bBn8u13FPZK66sYULQ6_IxvjyF-do0ZWVQ3U0AQUFkVrg4apRL1O6Pqn_cj6wCkTdDjqqde4W9NDprj6gf7QmkVt_zPpM0cb_eAusH9DYsUQlQtMBI478zLpRwRYtuOtAdhDtB3yFDhnJsbuWiTTUkBgCdErYOK=w1124-h793-s-no?authuser=0")
         
     if optiontitri == "Asidimetri":
