@@ -116,7 +116,7 @@ if option == "Kimia Dasar":
         with col2:
             opsi3 = st.button("36,5 gram")
             opsi4 = st.button("38 gram")
-         if opsi1:
+        if opsi1:
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
         elif opsi2:
