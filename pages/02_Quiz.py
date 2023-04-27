@@ -61,6 +61,10 @@ if option == "Kimia Dasar":
             st.succes("soal selanjutnya!")
             st.balloons()
             
+    if result == "soal 3":
+        st.write("Berapa massa molekul relatif dari H2SO4?")
+        
+            
      
             
 
