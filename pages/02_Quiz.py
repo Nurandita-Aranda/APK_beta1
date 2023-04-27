@@ -237,7 +237,7 @@ Berdasarkan keempat pernyataan tersebut, pernyataan manakah yang termasuk faktor
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.succes("soal selanjutnya!")
             st.balloons()
-
+	
     if result == "soal 10":
 	st.write("Diketahui sebuah larutan mengandung 5 gram 0,5 N H2SO4 dalam 100 mL, 	Hitunglah Molaritas dari larutan tersebut?")
 	col1, col2 = st. columns(2)
