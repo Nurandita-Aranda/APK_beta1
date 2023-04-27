@@ -1595,8 +1595,6 @@ Alkalimetri adalah bila penitar dengan memakai basa yang konsentrasinya diketahu
   
                   HIn     ⇌     H+ + In-
                
-                 (warna A)    (warna B)
-
 **Suatu indicator pH digunakan untuk menunjukkan titik akhir**
 
 1. Indicator harus berubah warna tepat pada saat titran menjadi ekivalen dengan titrat agar tidak terjadi kesalahan titrasi. Untuk mengatasinya trayek indicator harus mencakup pH larutan pada titik ekivalen
@@ -1641,17 +1639,17 @@ Borax atau natrium tetraborat dekahidrat
 
 1. Na2B4O7.10 H2O ( BM =381,4 BE = BM/2)
 
-          Na2B4O7 + 5H2O   →   2NaH2BO3 + 2H3BO3
+     Na2B4O7 + 5H2O   →   2NaH2BO3 + 2H3BO3
 
-          2NaH2BO3 + 2HCl   →  2NaCl + 2H3BO3
+     2NaH2BO3 + 2HCl   →  2NaCl + 2H3BO3
 
-          Na2B4O7 + 5H2O + 2HCl   →   2NaCl + 4H3BO3
+     Na2B4O7 + 5H2O + 2HCl   →   2NaCl + 4H3BO3
 
 2. Natrium karbonat ( Na2CO3) ( BM = 105,96)
 
-          Na2CO3 + HCl   →    NaHCO3 + NaCl
+     Na2CO3 + HCl   →    NaHCO3 + NaCl
           
-          NaHCO3 + HCl   →   NaCl + H2O + CO2
+     NaHCO3 + HCl   →   NaCl + H2O + CO2
 
 **Standardisasi HCl 0,1 N dengan Bahan Baku Primer Boraks**
 
@@ -1680,19 +1678,13 @@ Dipipet 25 mL contoh ke dalam Erlenmeyer ditambahkan dengan sedikit air suling, 
 Reaksi  
                PP
 1). NaOH + HCl  →  NaCl + H2O      
-
                 PP
 2). Na2CO3 + HCl →  NaHCO3 + NaCl
-
                 SM
     NaHCO3 + HCl →  NaCl + CO2 + H2O 
     """)
     
-       st.image("https://lh3.googleusercontent.com/jZlm4_Vl3jQZGlhrFfxq8Ml_n5qvvxdHowWGUkDaJolpzkBn_M9L9Wb3ha_6QvotZJSZW1Txw0kTarow4J3OcYthdqBDLdYcI-whpHK_Bgpe4VImGclj_CqEu_E61y3rAjlPQfbNaVUEiGlR-TfT1EoAefk0clvFxwZHke7yGmzNk71z9VUXXE9xIshgf12h0QCK9QMSfnSXf91acWxkQCXTjP-H4fdT_A6v3oiJQLjb8Dl5oEO6kE-HuhRbklD4B-aPKo68blMcHULJ549oDua9h3YiwksS0lHZ4_njy6w7cVNHM-1Wh0fWHQ-v3svXuG7RyGsw-AsHcoFoMq23VuNHMdenI_uyRQ3Xb3B_zDS-JhP4LQr1LdTKlFXL1G5N4Gja_3MKEgzu9kilNR-kanmzya5EylU2Q7K5o2wQkguaKeVxudD9TkYGCKoY_kUFqCI5uuGjaM31hxVD9bpksi8EQnYbho-seHTAvzpC47oJPkG4wX3W47tp0GDCMpigWRILEjM8lmJYUGm1iV9I8ZD2npIxeC6c63jlvkFDQaUwL_RyD1pvga_o3JVisdvIb29MIl6vhk0K1NoZxHh9jhWC8RCzFQa8ybLMEiGJFPTn8aYOqOtF16uVI0JN2aga5Zz3VuYrtebSKlmhc7xSxV1nCKWfi5V-YF2p7QJU0wp1RiKPsTIeENtIgm6e3Z_OM7wBjyMcTWbIpU2CnVNXetKdKekLli9vUSIMyfJZrKxXDh3IkCz9fZtesRoXKmzqFhWL4dilkqjAqtSbw7wRqzZfmq-Qwtk3_RG2I61byedliLJ7E09jgannuZtKh-FuDiwbn4vYechq6hYxVeynCmdqW0KWDTEAfIbm333D8CKulsHd15ZWsqkfv3RMWTkb5ouDEaEOf8m9hF199La2kPglSy2WhC0FCg-sc3eZjn_m=w621-h327-no?authuser=0")
-       
-       st.image("https://lh3.googleusercontent.com/EFMWwPFLq06PkqgoBJJzPyPYoYoM8fRbUooUzJ6s9ori_OUrP-XE5m8ZCulwY_Hbj477DafL2im1o7gjjUeRi8CeuqJesTtU0xjGO91znRsNHsFW-Q1CqQYpNNdeC_4lMpGLKFIw532-s2eDgGofpASIeUU9ljP8BfNFpUm399P_VN2vQiLs_I9oEhX8UQCEabqDlVgYmtEomMV6PCkh-lyQJk2r-s1UXVnQnYC3kfTHXtkzIHuw_5S2pnx1LxUmxBInXF0WpwCC1trR-_oPrl7CpCACVeNCNa85rj9G6SrRb9zft-pU6lT2R2Tw0-ugdWmD9YKzijxiAITw7OIOYHYHVpzOVWUqU1NwWZZlg2O_cSS6h3HBggLm3wfbDgybLjnO-CN0kCs3a4MpAQ8UyjyfXFyt5Xk1DiYcF5jSjxPmerMvLfEBTwetU1PGwJUFEJrntTHi1zuCkgCPBg9-wGDd4OxtjrRX-XBEv54hQIz0YNCn2WAYyyAPn8l06qAPveo07NhuqgSfXOPBdbPVpfINTjbSU6xhk9cwMpNIybM0ew2TCyTP__6rR8GPU0tyomW-xYyhtH6oTCQxyyBDgbBP5ppHoJEY-qBy01-q6YHcFy_q1Uw1S9wLqQ9sVhx1qACYFlBvkxcNoW0EVq_bS2Auilp_yiLA0g8LpX_UksFNkDAfruHNQwfmDifXLTfnfbmonBs8D3FiiheWg0lp8UyGm8MTOHJ3fZ5fNky09vvbzzF1FkvEbOq3vjjoObnpmG9hEkUlphflq2Ew8SGxWcP3xttVclkMOE2zUmEL9o2Sjn6jXIShs3veGpvlpaEYyd0xkJ55pVyhtZ0Zo_aSCWgsJ_xnwVbmcg6l6_bQ95ZYuxrl6tMoAiR7_RfxIc646KtPjl_Nkl3YcxhJ2hNS3AF0tLubM3qIni7EEtKAggQM=w622-h336-no?authuser=0")
-      
-       st.write("**Kadar Na2CO3 dan NaOH**")
+       st.image("https://lh3.googleusercontent.com/LQF0Zzfd_mbTkw83ai_wuwXc9Bg0hGjEfZcSsrNMDwmBMoXk7Z30DjxbVjYK_knkdYKpBCOaAW7fIDT9bLubz5YsVF3DFGXFRlT-QNVlbwGP59wcJ_26oXJ59bqiNVIVHvSZk64zKtGqx6mhXWrsuho0wIQw0YsTnpNVQcuGYBzLhnOCGQBLBsV41Wy0qZa7HVSrpn7tEP57kFt8lMmIc7QducowGNc0_4zYupu0J-yfR_lcgWI-0ftrMQ3vHhQctyFp1qjB9armFjrAb8_XHqsyBKlR0bC2Q18nwHO-C-LoSTGD1fflHZFwVxszAazJ9qXVZit3wVxeUTaPQ0jTfeP9GunjnqJZ5xUHDM_CRvGb5Jh_yIoJT_u4o84ENp953CPoDm35NtKfFxxrCZinE74nBvb_haBXUS_Ldik3Q2yE2p_FO31te2E6okf7SM2Sol9wVcXCcAn-GrFzugUVpHwoXkGPt2iDZpsz2NG5HEJlfQ8jG_che0Cp7D2BHIVqRuLP6c6Q-cNIt-5xGwh-43xM-mSq10PWC1Uf80gkZTYYmMzoT_q_O1zSfCQ3UWr41Oqwb79oEsqmw_WFssb6I2qpRHWGNwBWdv5AbmMOPFcAfYnv9__nz8ISPFN1dZI3S2qN6dOtpbCA0N9VKA0c99tdw_ZSrNg2HUAwBgnBe1rQOq1LQHbSBCM8ToaVhVQ5nsJGmH4BpzYVe6Xv1vJqtgOg-SS8kuKgh2SiPeXKgnkdNwViG4qtn5bbec9a7h_Bloj1mF_GhVlMN7CFmnqbku7-WeowrGLMZBFlrEjKqDh6DsSfUFLRcizV-0YL6bp5IBAXdfmEuSFPU_CFHnXb8stq8URAqM1PVu2TUZhqBe3o8-FBpZG1IhZQwn3GeBglJSttUwIHHak_uh4rAllU7i5lEpMmABN9zvH0CDnU0GL9=w1037-h522-s-no?authuser=0")
        
        st.image("https://lh3.googleusercontent.com/XzvRNeFjeok64TqT8XJCCM5uKX8pA6Ptd_e-oONrCdK7sLqKgVdOlml8J-NQqb41An82MuBrarbng2BgKcZf8uMdhIn9Zgefa_Ay-1x4oXR6xrFdnBIMRYODGysEEgiWKsFNQ6OEOEkQKGBZZLECxKHW3g_jS97n4UUbD5ADPMJ0FPInl0sfSGYHiu1LMkg-ThnILmb6le7GBKdKPiIR1n6RWDpkE15a2HKz3lZATZ0xgWbH2kzSbS9Z6AiqoMLu2VkkY-sSqu_X1iYUwqRLNy07SzvNa6PfIttk0vbOiSirmcwLrldtFGx0dOulp1ZYUIO_AULu2EK0_-k_0fsUFDO1qQqXfZqbsok7qEUbQdH-fhoxnQNmYaWv4_vKwB04QNlmfYGy2cQkOO8Xlb5Qtc9KhBODdXmTHfpc-TsW9F4o_oww-J1K_HdjtA5zgBtamqY1o07GMXkb5TtBn9XaUr0CMctZBunyF6H3JbO_ALp79pGgbT2ZnyVo5CQlNKhV0aMgaUbsSskcb3NFI-BxXD9zSBZfvrTj1zWWJoEhqzaB3AKUPZ_EfSa8BPhk3MoKpGYMTFx3bU_OM_s0OhIOjCyFKsD8MJ9Yo9VefiP9OhWGWfDCntM2mZ68Vmb4AC47UP-fsSUe_rK-dKbXNcxhf5QB4zsm_hHofzlZrBsKZbv524UwMl73GOuVKV0_UN44ocMojzmcWw-RyQ15VxWC6owmA7YuCwNQB9eNC13htaqbTkkj006CBQcL25QfN9YYLdRD68Hz_sP-vgOdiR6LQNSvA1o06-sZDrLR6iexLsqcbV0jXPw9iNk062kM2jOj72difjPcR3Omle2mL-x_KSWlSWOW4cfAP4MLVeVfqbf040YWUkuSgQzF_6kOez6ZDhSwkLpuVAhaR56hIg9LS0i-l3MoRlATE_uccw0jCEHv=w607-h327-no?authuser=0")
     
