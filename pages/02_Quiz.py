@@ -38,7 +38,7 @@ if option == "Kimia Dasar":
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
             
-     if result == "soal 2":
+    if result == "soal 2":
             st.write("Rumus kimia dari Asam Asetat?")
             col1, col2 = st.columns(2)
         with col1:
