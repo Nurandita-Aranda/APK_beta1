@@ -1384,11 +1384,11 @@ Titrasi yang melibatkan reaksi reduksi dan oksidasi antara titran dan titrat hin
    
 4. I2 sebagai Titran
 
-**Iodometri (langsung)**
+   Iodometri (langsung)
 
-1. Oksidator kuat sebagai Titran	
+**Oksidator kuat sebagai Titran**
 
-   KMnO4 (Permanganometri)
+1. KMnO4 (Permanganometri)
    
    Kalium permanganat adalah oksidator kuat yang dapat bereaksi dengan cara yang berbeda tergantung kondisi pH
    
@@ -1406,7 +1406,7 @@ Titrasi yang melibatkan reaksi reduksi dan oksidasi antara titran dan titrat hin
    
       MnO4- + e ⇋ MnO4
 
-**Titrasi langsung**                           
+2. Titrasi langsung                         
 
 Fe2+
 
@@ -1416,7 +1416,8 @@ Fe(CN)6 4-
 
 HNO2
 
-**Titrasi tidak langsung**
+3. Titrasi tidak langsung
+
 Ba2+
 
 Ca2+
