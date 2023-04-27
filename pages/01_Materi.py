@@ -64,6 +64,7 @@ Pada tahun 1903 Philipp Lenard melalui percobaannya membuktikan bahwa teori atom
 1.	Sebagian besar ruang dalam atom adalah tuang hampa; partikel α diteruskan
 2.	Didalam atom terdapat suatu bagian yang sangat kecil dan padat yang disebut inti atom; partikel α dipentulkan kembali oleh inti atom
 3.	Muatan inti atom dan juga partikel α sejenis yaitu positif; sebagian kecil partikel α dibelokkan
+
 Hasil percobaan tersebut menggugurkan teori atom Thomson. Kemudian Rutherford mengajukan teori atom sebagi berikut: atom tersusun atas inti atom yang bermuatan positif sebagai pusa massa dan keliling elektron-elektron yang bermuatan negative.
 
 Kelebihan:
