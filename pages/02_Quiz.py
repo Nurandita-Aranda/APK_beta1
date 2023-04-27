@@ -28,11 +28,11 @@ if option == "Kimia Dasar":
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
         elif opsi2:
-            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.markdown("<h2 style='text-align: center; color: red;'>Benar!!</h2>", unsafe_allow_html=True)
             st.succes("soal selanjutnya!")
             st.balloons()
         elif opsi3:
-            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.markdown("<h2 style='text-align: center; color: green;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('coba lagi!')
         elif opsi4:
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
@@ -54,10 +54,10 @@ if option == "Kimia Dasar":
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
         elif opsi3:
-            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.markdown("<h2 style='text-align: center; color: green;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
         elif opsi4:
-            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.markdown("<h2 style='text-align: center; color: red;'>Benar!!</h2>", unsafe_allow_html=True)
             st.succes("soal selanjutnya!")
             st.balloons()
             
@@ -77,10 +77,10 @@ if option == "Kimia Dasar":
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
         elif opsi3:
-            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.markdown("<h2 style='text-align: center; color: green;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
         elif opsi4:
-            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.markdown("<h2 style='text-align: center; color: red;'>Benar!!</h2>", unsafe_allow_html=True)
             st.succes("soal selanjutnya!")
             st.balloons()
             
@@ -94,14 +94,14 @@ if option == "Kimia Dasar":
             opsi3 = st.button("0,6 mol/L")
             opsi4 = st.button("8 mol/L")
         if opsi1:
-            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.markdown("<h2 style='text-align: center; color: red;'>Benar!!</h2>", unsafe_allow_html=True)
             st.succes("soal selanjutnya")
             st.balloons()
         elif opsi2:
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
         elif opsi3:
-            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.markdown("<h2 style='text-align: center; color: green;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
         elif opsi4:
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
@@ -143,11 +143,11 @@ if option == "Kimia Dasar":
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
         elif opsi2:
-            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.markdown("<h2 style='text-align: center; color: red;'>Benar!!</h2>", unsafe_allow_html=True)
             st.succes("soal selanjutnya!")
             st.balloons()
         elif opsi3:
-            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.markdown("<h2 style='text-align: center; color: green;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('coba lagi!')
         elif opsi4:
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
@@ -178,10 +178,10 @@ Berdasarkan keempat pernyataan tersebut, pernyataan manakah yang termasuk faktor
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
         elif opsi3:
-            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.markdown("<h2 style='text-align: center; color: green;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
         elif opsi4:
-            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.markdown("<h2 style='text-align: center; color: red;'>Benar!!</h2>", unsafe_allow_html=True)
             st.succes("soal selanjutnya!")
             st.balloons()
             
@@ -195,14 +195,14 @@ Berdasarkan keempat pernyataan tersebut, pernyataan manakah yang termasuk faktor
             opsi3 = st. button("Keras tetapi rapuh")
             opsi4 = st. button("Tidak meghantarkan listrik pada fasa padatan. Tetapi, menghantarkan listrik pada fasa cairan")
         if opsi1:
-            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.markdown("<h2 style='text-align: center; color: red;'>Benar!!</h2>", unsafe_allow_html=True)
             st.succes("soal selanjutnya!")
             st.balloons()
         elif opsi2:
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
         elif opsi3:
-            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.markdown("<h2 style='text-align: center; color: green;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
         elif opsi4:
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
@@ -231,31 +231,31 @@ Berdasarkan keempat pernyataan tersebut, pernyataan manakah yang termasuk faktor
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
         elif opsi3:
-            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.markdown("<h2 style='text-align: center; color: green;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
         elif opsi4:
-            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.markdown("<h2 style='text-align: center; color: red;'>Benar!!</h2>", unsafe_allow_html=True)
             st.succes("soal selanjutnya!")
             st.balloons()
 	
     if result == "soal 10":
 	st.write("Diketahui sebuah larutan mengandung 5 gram 0,5N H2SO4 dalam 100 mL, Hitunglah Molaritas dari larutan tersebut?")
-	col1, col2 = st. columns(2)
+	col1, col2 = st.columns(2)
         with col1:
-            opsi1 = st. button("1M")
-            opsi2 = st. button("0,25M")
+            opsi1 = st.button("1M")
+            opsi2 = st.button("0,25M")
         with col2:
-            opsi3 = st. button("1,25")
-            opsi4 = st. button("0,5M")
+            opsi3 = st.button("1,25")
+            opsi4 = st.button("0,5M")
         if opsi1:
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
         elif opsi2:
-            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.markdown("<h2 style='text-align: center; color: red;'>Benar!!</h2>", unsafe_allow_html=True)
             st.succes("soal selanjutnya!")
             st.balloons()
         elif opsi3:
-            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.markdown("<h2 style='text-align: center; color: green;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('coba lagi!')
         elif opsi4:
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
