@@ -1394,39 +1394,39 @@ Titrasi yang melibatkan reaksi reduksi dan oksidasi antara titran dan titrat hin
    
    a. Dalam larutan asam [H+] 0,1 N
    
-      MnO4- + 8H+ + 5e ⇋ Mn2+ + 4H2O
+         MnO4- + 8H+ + 5e ⇋ Mn2+ + 4H2O
    
    b. Larutan netral/sedikit basa pH 4-10
    
-      MnO4- + 4H+ + 3e ⇋ MnO2    + 2H2O
+         MnO4- + 4H+ + 3e ⇋ MnO2    + 2H2O
       
-      MnO4- + 2H2O + 3e ⇋ MnO2   + 4OH-
+         MnO4- + 2H2O + 3e ⇋ MnO2   + 4OH-
       
    c. Larutan sangat basa [OH-] 0,1 N 
    
-      MnO4- + e ⇋ MnO4
+         MnO4- + e ⇋ MnO4
 
 2. Titrasi langsung                         
 
-Fe2+
+   Fe2+
 
-Sn2+
+   Sn2+
 
-Fe(CN)6 4-
+   Fe(CN)6 4-
 
-HNO2
+   HNO2
 
 3. Titrasi tidak langsung
 
-Ba2+
+   Ba2+
 
-Ca2+
+   Ca2+
 
-Pb2+
+   Pb2+
 
-Zn2+
+   Zn2+
 
-Hg2+
+   Hg2+
 
 **Titrasi langsung**
 
