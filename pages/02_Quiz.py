@@ -217,13 +217,13 @@ Berdasarkan keempat pernyataan tersebut, pernyataan manakah yang termasuk faktor
 
 50 mL 0,1 M HCl direaksikan dengan 100 mL NaOH 0,1 M membentuk Natrium Klorida dan air, berapakah nilai pH dari larutan tersebut?
             """)
-        col1, col2 = st. columns(2)
+        col1, col2 = st.columns(2)
         with col1:
-            opsi1 = st. button("8,00")
-            opsi2 = st. button("13,50")
+            opsi1 = st.button("8,00")
+            opsi2 = st.button("13,50")
         with col2:
-            opsi3 = st. button("11,90")
-            opsi4 = st. button("12,52")
+            opsi3 = st.button("11,90")
+            opsi4 = st.button("12,52")
         if opsi1:
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
