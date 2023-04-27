@@ -8,3 +8,6 @@ st.markdown("<h2 style='text-align: center; color: raisin black;'>Isi waktumu de
 image1 = Image.open('Resource/image/Intermezzo/tabel-periodik.jpg')
 st.image(image1,caption = "Sumber: scincenotes.org")
 
+optiongolongan = st.selectbox(
+  "Pilih materi yang kamu mau",
+  ("--- Pilih Golongan ---", "Golongan I", "Golongan II","Golongan III","Golongan IV","Golongan V","Golongan VI","Golongan VII", "Golongan VIII"))
