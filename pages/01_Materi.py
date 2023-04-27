@@ -1335,11 +1335,11 @@ Titik akhir : iod yang terikat dengan amilum itu pun hilang bereaksi dengan titr
 
 1. Kesalahan Oksigen
 
-O2 diudara dapat menyebabkan hasil titrasi terlalu tinggi karena dapat mengoksidasi
+   O2 diudara dapat menyebabkan hasil titrasi terlalu tinggi karena dapat mengoksidasi
 
-4I- + O2 + 4H+ → 2I2 + 2H2O
+   4I- + O2 + 4H+ → 2I2 + 2H2O
 
-Reaksi ini dikatalisis oleh cahaya dan panas
+   Reaksi ini dikatalisis oleh cahaya dan panas
 
 2. Penambahan Amilum terlalu awal
 
@@ -1348,66 +1348,104 @@ Reaksi ini dikatalisis oleh cahaya dan panas
    4I2 + S2O32- + 5H2O → 8I- + 2SO42- + 10H+
     
 **Bobot Ekivalen**
+
 Dalam titrasi iodometri, BE suatu zat dihitung dari banyaknya jumlah atom I, bukan jumlah ion I-
+
 BE= BM/n atom I
 """)
+        
     if optiontitri == "Permanganometri":
        st.markdown("<h2 style='text-align: center; color: raisin black;'>Permanganometri</h2>", unsafe_allow_html=True)
        st.write(
            """
           **Pengertian titrasi redoks**
+          
 Titrasi yang melibatkan reaksi reduksi dan oksidasi antara titran dan titrat hingga tepat ekuivalen
 
 **Jenis Titrasi Redoks**
+
 1. Oksidator kuat sebagai Titran
-KMnO4 (Permanganometri)
-K2Cr2O7
-Ce (IV)
+
+   KMnO4 (Permanganometri)
+   
+   K2Cr2O7
+   
+   Ce (IV)
 2. Reduktor kuat sebagai Titran
-Ti (III)
-Fe (II)
-Na2S2O3
+   Ti (III)
+   
+   Fe (II)
+   
+   Na2S2O3
+   
 3. Na2S2O3 sebagai Titran
-Iodometri (Tak langsung)
+
+   Iodometri (Tak langsung)
+   
 4. I2 sebagai Titran
 
 **Iodometri (langsung)**
-Oksidator kuat sebagai Titran	
-KMnO4 (Permanganometri)
-Kalium permanganat adalah oksidator kuat yang dapat bereaksi dengan cara yang berbeda tergantung kondisi pH
-Dalam larutan asam [H+] 0,1 N
-MnO4- + 8H+ + 5e ⇋ Mn2+ + 4H2O
-b. Larutan netral/sedikit basa pH 4-10
-     MnO4- + 4H+ + 3e ⇋ MnO2    + 2H2O
-     MnO4- + 2H2O + 3e ⇋ MnO2   + 4OH-
-Larutan sangat basa [OH-] 0,1 N 
-MnO4- + e ⇋ MnO4
+
+1. Oksidator kuat sebagai Titran	
+
+   KMnO4 (Permanganometri)
+   
+   Kalium permanganat adalah oksidator kuat yang dapat bereaksi dengan cara yang berbeda tergantung kondisi pH
+   
+   a. Dalam larutan asam [H+] 0,1 N
+   
+      MnO4- + 8H+ + 5e ⇋ Mn2+ + 4H2O
+   
+   b. Larutan netral/sedikit basa pH 4-10
+   
+      MnO4- + 4H+ + 3e ⇋ MnO2    + 2H2O
+      
+      MnO4- + 2H2O + 3e ⇋ MnO2   + 4OH-
+      
+   c. Larutan sangat basa [OH-] 0,1 N 
+   
+      MnO4- + e ⇋ MnO4
 
 **Titrasi langsung**                           
+
 Fe2+
+
 Sn2+
+
 Fe(CN)6 4-
+
 HNO2
 
 **Titrasi tidak langsung**
 Ba2+
+
 Ca2+
+
 Pb2+
+
 Zn2+
+
 Hg2+
 
 **Titrasi langsung**
+
 5Fe2+ + MnO4- + 8H+ ⇋ 5Fe3+ + Mn2+ + 4H2O
 
 **Titrasi tidak langsung**
-Sampel diendapkan sebagai oksalat
-Disaring, dicuci 
-Dilarutkan dalam H2SO4 berlebih sehingga terbentuk asam oksalat
-Dititrasi asam oksalat dengan KMNO4
+
+1. Sampel diendapkan sebagai oksalat
+2. Disaring, dicuci 
+3. Dilarutkan dalam H2SO4 berlebih sehingga terbentuk asam oksalat
+4. Dititrasi asam oksalat dengan KMNO4
+
 Ca2+ + C2O42- ⇋ CaC2O4 ↓
+
 CaC2O4↓ + 2H+ ⇋ Ca2+ + H2C2O4
+
 5H2C2O4 + 2MnO4- + 6H+ ⇋ 10CO2 + 2Mn2+ + 8H2O
+
 KMnO4 bertindak sebagai auto indikator
+
 Warna titik akhir titrasi berasal dari KMnO4
 
  **Pembuatan dan Penyimpanan KMnO4**
