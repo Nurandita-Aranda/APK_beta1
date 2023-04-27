@@ -1455,8 +1455,8 @@ Titrasi yang melibatkan reaksi reduksi dan oksidasi antara titran dan titrat hin
 
  **Pembuatan dan Penyimpanan KMnO4**
 """)
-       st.image(imageT1)
-       imageT1 = Image.open('Resource/image/Titri/KMnO4.png')       
+       imageT1 = Image.open('Resource/image/Titri/KMnO4.png')
+       st.image(imageT1)       
        st.write(
        """  
     **Kesalahan titrasi**
