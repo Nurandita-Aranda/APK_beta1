@@ -15,6 +15,29 @@ if option == "Kimia Dasar":
     result = st.select_slider(
         'pilih soal',
         options=['soal 1', 'soal 2', 'soal 3', 'soal 4', 'soal 5', 'soal 6', 'soal 7', "soal 8", "soal 9", "soal 10"])
+    if result == "soal 1":
+        st.write("Ikatan ionik sering disebut dengan nama?")
+        col1, col2 = st.columns(2)
+        with col1:
+            opsi1 = st.button("Ikatan Kovalen")
+            opsi2 = st.button("Ikatan Elektrovalen")
+        with col2:
+            opsi3 = st.button("Ikatan Homovalen")
+            opsi4 = st.button("Tidak ada yang benar")
+        if opsi1:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi2:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.succes("soal selanjutnya!")
+            st.balloons()
+        elif opsi3:
+            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.error('coba lagi!')
+        elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+            
 
 
 if option == "Analisis Jenis":
