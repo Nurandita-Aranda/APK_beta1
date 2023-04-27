@@ -184,7 +184,28 @@ Berdasarkan keempat pernyataan tersebut, pernyataan manakah yang termasuk faktor
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.succes("soal selanjutnya!")
             st.balloons()
-        
+            
+    if result == "soal 8":
+        st.write("Dibawah ini yang merupakan sifat dari ion adalah,kecuali?")
+        col1 = st.columns(1)
+        with col1:
+            opsi1 = st. button("Memiliki titik didih dan titik leleh yang rendah")
+            opsi2 = st. button("Berupa padatan pada suhu ruang")
+            opsi3 = st. button("Keras tetapi rapuh")
+            opsi4 = st. button("Tidak meghantarkan listrik pada fasa padatan. Tetapi, menghantarkan listrik pada fasa cairan")
+        if opsi1:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.succes("soal selanjutnya!")
+            st.balloons()
+        elif opsi2:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi3:
+            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
 
         
             
