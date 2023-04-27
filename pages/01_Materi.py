@@ -943,11 +943,11 @@ Gambar 1. Bagan Pemisahan Kation (Sumber: Penuntun Praktik Analisis Jenis)
     
     """)
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Pemisahan kation golongan II</h2>", unsafe_allow_html=True)
-        st.write (" Setelah ditambahkan hidrogen sulfida, kemudian saring menghasilkan filtrat dan residu (Golongan III). Filtrat ini mungkin terdiri dari sulfida-sulfida logam logam IIA (HgS, PbS, Bi2S3, CuS) dan sulfida-sulfda logam golongan IIB (As2S3, Sb2S3, Sb2S5, SnS2). Pemisahan golongan IIA dan IIB dilakukan dengan mencuci dengan sulfida yang diendapkan dengan sedikit larutan NH4Cl yang telah dijenuhi H2S.")
+        st.write ("Setelah ditambahkan hidrogen sulfida, kemudian saring menghasilkan filtrat dan residu (Golongan III). Filtrat ini mungkin terdiri dari sulfida-sulfida logam logam IIA (HgS, PbS, Bi2S3, CuS) dan sulfida-sulfda logam golongan IIB (As2S3, Sb2S3, Sb2S5, SnS2). Pemisahan golongan IIA dan IIB dilakukan dengan mencuci dengan sulfida yang diendapkan dengan sedikit larutan NH4Cl yang telah dijenuhi H2S.")
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Pemisahan kation golongan III</h2>", unsafe_allow_html=True)
-        st.write("  Pemisahan kation-kation golongan III dan golongan-golongan lain yaitu dengan menambahkan H2O dan Panaskan, kemudian saring menghasilkan residu dan filtrat (Golongan IV). Endapan yang dihasilkan tersebut ditambahkan sedikit air, NH4Cl serta larutan NH3 dan panaskan hingga mendidih, kemudian saring menghasilkan residu dan filtrat. Residu mungkin mengandung golongan III.A yaitu MnO- , Fe(OH)3, Cr(OH)3, dan Al(OH)3, dan filtrat mungkin mengandung CoS, NiS, MnS, dan ZnS.")
+        st.write("Pemisahan kation-kation golongan III dan golongan-golongan lain yaitu dengan menambahkan H2O dan Panaskan, kemudian saring menghasilkan residu dan filtrat (Golongan IV). Endapan yang dihasilkan tersebut ditambahkan sedikit air, NH4Cl serta larutan NH3 dan panaskan hingga mendidih, kemudian saring menghasilkan residu dan filtrat. Residu mungkin mengandung golongan III.A yaitu MnO- , Fe(OH)3, Cr(OH)3, dan Al(OH)3, dan filtrat mungkin mengandung CoS, NiS, MnS, dan ZnS.")
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Pemisahan kation golongan IV</h2>", unsafe_allow_html=True)
-        st. write(" Hasil filtrat yang diperoleh dari pemisahan kation golongan III, mungkin mengandung golongan IV dan V. Cara pemisahannya dilakukan dengan penambahan reagen natrium heksanitritokobaltat(III) sebanyak 5 mL, kemudian saring menghasilkan residu dan filtrat (mungkin golongan V). Pemisahan Kation Golongan IV dengan Metode Sulfat yaitu residu yang dihasilkan mungkin mengandung BaCO3, SrCO3 dan CaCO3")
+        st. write("Hasil filtrat yang diperoleh dari pemisahan kation golongan III, mungkin mengandung golongan IV dan V. Cara pemisahannya dilakukan dengan penambahan reagen natrium heksanitritokobaltat(III) sebanyak 5 mL, kemudian saring menghasilkan residu dan filtrat (mungkin golongan V). Pemisahan Kation Golongan IV dengan Metode Sulfat yaitu residu yang dihasilkan mungkin mengandung BaCO3, SrCO3 dan CaCO3")
         st.write(
             """
             Daftar Pustaka:
@@ -1170,49 +1170,32 @@ Svehla,G.1990.Buku Teks Analisis Anorganik Kualitatif Makro dan Semimikro.Jakart
         st.write(
             """
 •	Menimbang kristal senyawa atau memipet dari larutan pekat
-
 •	Hasil penimbangan dan pemipetan dilarutkan dalam volume tertentu
-
 •	Larutan yang dibuat harus dengan konsentrasi tertentu
-
 •	Larutan disimpan dalam botol/ wadah yang sesuai
-
 •	Botol atau wadah penyimpanan harus diberi label
 """)
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Informasi Yang Ada Pada Label</h2>", unsafe_allow_html=True)
         st.write(
             """
 •	Nama senyawa kimia/ Rumus kimia senyawa dari larutan yang dibuat
-
 •	Konsentrasi larutan
-
 •	Tanggal pembuatan
-
 •	Tanggal kadaluarsa
-
 •	Sifat bahan bahan kimia
-
 •	Inisial pembuat larutan
 """)
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Alat Yang Digunakan Untuk Pembuatan Larutan</h2>", unsafe_allow_html=True)
         st.write(
             """
 •	Labu takar
-
 •	Beaker glass
-
 •	Kaca arloji
-
 •	Pipet
-
 •	Batang pengaduk
-
 •	Labu semprot
-
 •	Corong
-
-•	Bulp
-        
+•	Bulp  
 """)
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/12ZVIMB3NRyBopmbTfveV_GPcmlg4wltK/view?usp=sharing)")
