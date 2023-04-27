@@ -126,7 +126,7 @@ if option == "Kimia Dasar":
             st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
             st.succes("soal selanjutnya!")
             st.balloons()
-          elif opsi4:
+        elif opsi4:
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
         
