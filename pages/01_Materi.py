@@ -1402,7 +1402,7 @@ Titrasi yang melibatkan reaksi reduksi dan oksidasi antara titran dan titrat hin
    
    b. Larutan netral/sedikit basa pH 4-10
    
-         MnO4- + 4H+ + 3e ⇋ MnO2    + 2H2O
+          MnO4- + 4H+ + 3e ⇋ MnO2    + 2H2O
          
          MnO4- + 2H2O + 3e ⇋ MnO2   + 4OH-
       
@@ -1445,9 +1445,9 @@ Titrasi yang melibatkan reaksi reduksi dan oksidasi antara titran dan titrat hin
    
    Reaksi:
 
-           Ca2+ + C2O42- ⇋ CaC2O4 ↓
+                    Ca2+ + C2O42- ⇋ CaC2O4 ↓
 
-           CaC2O4↓ + 2H+ ⇋ Ca2+ + H2C2O4
+                    CaC2O4↓ + 2H+ ⇋ Ca2+ + H2C2O4
 
            5H2C2O4 + 2MnO4- + 6H+ ⇋ 10CO2 + 2Mn2+ + 8H2O
 
@@ -1477,7 +1477,7 @@ Titrasi yang melibatkan reaksi reduksi dan oksidasi antara titran dan titrat hin
    
            H2C2O4 + O2 ⇋ H2O2 + 2CO2↑
            
-           H2O2 ⇋ H2O + O2 ↑
+                  H2O2 ⇋ H2O + O2 ↑
 
 **K2Cr2O7 (Kalium Dikromat)**
 
@@ -1586,9 +1586,9 @@ Alkalimetri adalah bila penitar dengan memakai basa yang konsentrasinya diketahu
 
   reaksi: 
   
-               HIn     ⇌     H+ + In-
+                  HIn     ⇌     H+ + In-
                
-         (warna A)        (warna B)
+           (warna A)                     (warna B)
 
 **Suatu indicator pH digunakan untuk menunjukkan titik akhir**
 
@@ -1608,7 +1608,7 @@ Alkalimetri adalah bila penitar dengan memakai basa yang konsentrasinya diketahu
 
 • Makin besar daerah curam kurva ( makin panjang daerah yang curam), makin leluasa pemilihan indicator. Bentuk kurva dan panjang bagian yang curam tergantung pada:           
 
-      •Kesempurnaan reaksi 
+      • Kesempurnaan reaksi 
   
       • Konsentrasi titran dan titrat
   
@@ -1619,27 +1619,8 @@ pH = -log [H+]
 pOH = -log [OH-]
 
 pH + pOH = 14
+""")
 
-1. Asam
-
-   Asam Kuat
-          
-                 [H+] = a x M
-                 
-   Asam Lemah
-   
-                 [H+] = √(ka x M)
-
-   Ket:
-         a = jumlah ion H+
-        
-         M= molaritas
-        
-         ka = konstanta kesetimbangan asam
-         """)
-
-
-    
        st.image("https://lh3.googleusercontent.com/roXwdCOX43e3O7XyWrvI6ahfEK0cQKvStTLquj3ynKX7zKHj8DWDRe9RddxQLpn4oajpatEUDT25pNiaBuyKKB_DVseLyYYoNA3K8RHyqVnVUXN3GKiPoA8unRfFjm-6bTLYkEEzBvzz5ZWpyKPLdQW2I3sUSrPdALbHxKvfqMjHJy1_XfyT7eFL3_GG5684yZvksKCG9MZ5d86BKGvrTsPpCJb3xJq7Re29ZvGScLl2Og-GWI2igtzxwfH-ySms4JrgmXHFcLyIIiSMVBRVDuUzzIMShuMi7XZRB92JXg2Flxx9czBryORUzv3naNusu0PGrPjcYKZJACykiq0_SOMMP-YHXAeLcvoRjZ_4oFzM0zhlvsLAKdMvX1PUhR4I5lvLD3auBQBdPHw-wyaASjfhOXs2vjUvOZC6YVtgBDeovZ88OTWOrGQpqY92FDhqCj5OpkOpEOGS7caZ93v_5x47HkZI3KeRIVdwAi9jRNSf4u33Qa7rZqopaJrxU_eR78BG4w6_q1L2ABeZjRXNgEpPgEtvjDGCzVTo6Oa46sb70b2V5Lee0D5dBGne8xohk1QTTD28eOPhG-pXONoJ9ADr6SxYUYwG70ck9iNG4zB8nlYevGaDZ-wYytYXbtZMvSjXP63zzN2ofhdXeKCIrQXiw1ruLQRGLfmNsG3L-J6CgFGiawldfQhWquyzlnBgTh5_npodkWh60kEKEbywOMIRC6bnCHDa2YNuPXOaYTHxU_tcE33TnoY0mRdAwc0DnRpY3EH7f0DiRfjlv5e56Ci7nlqOK6ABg16yXwT9yz7xp_03oqbf5aZNaOoNqyRc_jP_A3LTCrZIn-votl8mHGzWGQLUymM2vKPX8PnYi9flxWybbtW1SXwkaxueFWLU-82tF0_c75OQypayDPL3WpOSqxtZVy8ep2KLNDhEl4Wr=w984-h610-s-no?authuser=0")
                 
     if optiontitri == "Asidimetri":
