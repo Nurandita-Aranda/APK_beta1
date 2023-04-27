@@ -1270,11 +1270,10 @@ mgrek titran = mgrek titrat
 
 
 Syarat-syarat reaksi dapat digunakan sebagai reaksi titrasi:
-
 1.	Berlangsung sempurna, tunggal dan menurut persamaan yang jelas.
 2.	Reaksi berlangsung cepat
-3.	Ada penunjuk titik akhir ( indicator)
-4.	Larutan baku yang direaksikan dengan analit harus mudah didapat dan sederhana    menggunakannya, harus stabil sehingga konsentrasinya tidak berubah sewaktu disimpan.
+3.	Ada penunjuk titik akhir ( indikator)
+4.	Larutan baku yang direaksikan dengan analit harus mudah didapat dan sederhana menggunakannya, harus stabil sehingga konsentrasinya tidak berubah sewaktu disimpan.
 
 **Problema dalam titrasi:**
 
@@ -1398,7 +1397,6 @@ Titrasi yang melibatkan reaksi reduksi dan oksidasi antara titran dan titrat hin
    Iodometri (langsung)
 
 **Oksidator kuat sebagai Titran**
-
 1. KMnO4 (Permanganometri)
    
    Kalium permanganat adalah oksidator kuat yang dapat bereaksi dengan cara yang berbeda tergantung kondisi pH
@@ -1444,7 +1442,6 @@ Titrasi yang melibatkan reaksi reduksi dan oksidasi antara titran dan titrat hin
    Hg2+
 
    Standardisasi Titrasi tidak langsung:
-
    1.	Sampel diendapkan sebagai oksalat
    2.	Disaring, dicuci 
    3.	Dilarutkan dalam H2SO4 berlebih sehingga terbentuk asam oksalat
@@ -1463,7 +1460,6 @@ Titrasi yang melibatkan reaksi reduksi dan oksidasi antara titran dan titrat hin
       Warna titik akhir titrasi berasal dari KMnO4
 
  **Pembuatan dan Penyimpanan KMnO4**
- 
 """)
        st.image("https://lh3.googleusercontent.com/IMhCdyGJ45Ml9P7nPOtOyv56IzGYKuSU5qsQRncFSJ2ArKNaumtOiHNkClu0b5edpStjorldhFisw7Fv4yMo2kcVhHwi8m7cj74s9Si6jPfrx5lTO3aiPKyIJ0vwqwDJU-qBNOpSnXkvhCyh7e9TfjFE96nBd0-GXmHz0cRL6D-PnXofxjINw0Gi7qSgKaw15QtDmggv5sYwkW1btu6wJlkoDu7mmZHWlhC9YiezBwV-sOZU2PvkqhyoJYtmb1ijr-ozprFsFtbO1rWyzxhi153_4EpVCnC1spCSjn9sftoNU9Xx7GyKrjSWFhot3RSOPonfQfHwFDPsvWdhbZTebRRhbN8WxDRSCpOL_VpZMBqfm9lhqrrLrzx2deRziqFqemeTLxLxk6KWbUlCbSAmHLYt45KHZr6qjAbyq4fQXt7_f31Rgb3RrGG0bzmljnqh0qIRCAjp30H0inGegsAsKfPG2zUKXkhvLOo7NZmYpzCRybi5c6bMIf7cG599NrIArCd9igdwH7vv4IX1zd_eFTTl8T7PnWsf9eoX1MfrUJ9OqXwQIPl_R1zQA0tu_N4BnjeBjUZjxzGBSAovkQm58VXAbwOMKDNN6mynqkRZ-Ey1O-HE28iSyyhKF0OXdxYkKYd-EQd2iT6pw_F3G9rsbJSjjGzgrHV51RW45fu-WV8ODOT2sOTagPrALeUfUTxUY4Ccy2gEIewm-uamtMfSJOMPi3V4O-QqudtX9fOP44rW1WPcgfJivGrX0ER5_l9wVKUcyxDrcmquAp1qOHsIAZNnTYb0KbYA-Qssj6NWqWTNm0ChBzhB6i8qbKaRtdBMWPV0-EY9je3MIAaTGpUggKeXR6WWPNXNM9rFTct57UqKPc7FQDqN0Fo-qwo43WmUyuDOjCJohNH3kafBVGNGUVQycvfkwPpEqULcY3956EkD=w1188-h658-s-no?authuser=0")
        
