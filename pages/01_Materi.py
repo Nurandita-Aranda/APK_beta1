@@ -158,7 +158,6 @@ F.	Konsep Stoikiometri
 2.	Massa Molekul Relatif (Mr), massa molekul relatif adalah massa yang digunakan untuk mencari perbandingan massa dari satu molekul senyawa dengan 1/12 kali massa C-12.
 3.	Konsep Mol. konsep mol menyatakan bahwa satu mol suatu zat adalah banyaknya zat tersebut mengandung 6,02 x 1023. Hubungan mol dengan jumlah partikel telah ditetapkan sesuai dengan hipotesis Avogadro.
 4.	Molaritas (M), molaritas adalah jumlah mol zat terlarut pada satu liter larutan.
-
 Rumus molaritas:
 M = n/V
             """)
@@ -1677,11 +1676,11 @@ Tahap 2: Ditambahkan indikator SM, HCl bereaksi dengan ion hidrogen karbonat (bi
 
 Dipipet 25 mL contoh ke dalam Erlenmeyer ditambahkan dengan sedikit air suling, dibubuhi 2-3 tetes PP, lalu dititar dengan HCl 0,1 N sehingga tercapai titik akhir hilangnya warna merah muda. Banyaknya HCl yang dipakai dicatat, misalnya a mL. Larutan dibubuhi 2-3 tetes indikator SM, titar dengan HCl sampai titik akhir dari buret tadi tanpa buret dinolkan lagi. Panaskan hingga hampir mendidih (jika warna larutan berubah warna maka dititar lagi dengan HCl). Catat mL HCl yang dipakai, misalnya b mL.
 Reaksi  
-               PP
+               
 1). NaOH + HCl  →  NaCl + H2O      
-                PP
+                
 2). Na2CO3 + HCl →  NaHCO3 + NaCl
-                SM
+                
     NaHCO3 + HCl →  NaCl + CO2 + H2O 
     """)
     
