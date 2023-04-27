@@ -1400,7 +1400,7 @@ Titrasi yang melibatkan reaksi reduksi dan oksidasi antara titran dan titrat hin
    
          MnO4- + 4H+ + 3e ⇋ MnO2    + 2H2O
       
-         MnO4- + 2H2O + 3e ⇋ MnO2   + 4OH-
+        MnO4- + 2H2O + 3e ⇋ MnO2   + 4OH-
       
    c. Larutan sangat basa [OH-] 0,1 N 
    
@@ -1415,6 +1415,9 @@ Titrasi yang melibatkan reaksi reduksi dan oksidasi antara titran dan titrat hin
    Fe(CN)6 4-
 
    HNO2
+   
+   reaksi:
+           5Fe2+ + MnO4- + 8H+ ⇋ 5Fe3+ + Mn2+ + 4H2O
 
 3. Titrasi tidak langsung
 
@@ -1428,26 +1431,22 @@ Titrasi yang melibatkan reaksi reduksi dan oksidasi antara titran dan titrat hin
 
    Hg2+
 
-**Titrasi langsung**
+   **Standardisasi Titrasi tidak langsung:**
 
-5Fe2+ + MnO4- + 8H+ ⇋ 5Fe3+ + Mn2+ + 4H2O
+   1. Sampel diendapkan sebagai oksalat
+   2. Disaring, dicuci 
+   3. Dilarutkan dalam H2SO4 berlebih sehingga terbentuk asam oksalat
+   4. Dititrasi asam oksalat dengan KMNO4
 
-**Titrasi tidak langsung**
+      Ca2+ + C2O42- ⇋ CaC2O4 ↓
 
-1. Sampel diendapkan sebagai oksalat
-2. Disaring, dicuci 
-3. Dilarutkan dalam H2SO4 berlebih sehingga terbentuk asam oksalat
-4. Dititrasi asam oksalat dengan KMNO4
+      CaC2O4↓ + 2H+ ⇋ Ca2+ + H2C2O4
 
-Ca2+ + C2O42- ⇋ CaC2O4 ↓
+      5H2C2O4 + 2MnO4- + 6H+ ⇋ 10CO2 + 2Mn2+ + 8H2O
 
-CaC2O4↓ + 2H+ ⇋ Ca2+ + H2C2O4
+      KMnO4 bertindak sebagai auto indikator
 
-5H2C2O4 + 2MnO4- + 6H+ ⇋ 10CO2 + 2Mn2+ + 8H2O
-
-KMnO4 bertindak sebagai auto indikator
-
-Warna titik akhir titrasi berasal dari KMnO4
+      Warna titik akhir titrasi berasal dari KMnO4
 
  **Pembuatan dan Penyimpanan KMnO4**
  
