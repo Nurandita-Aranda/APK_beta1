@@ -1332,14 +1332,20 @@ Larutan stabil pada pH 9 dan 10 untuk meminimalkan bakteri yang dapat menguraika
 Titik akhir : iod yang terikat dengan amilum itu pun hilang bereaksi dengan titran (S2O32^-) sehingga warna biru hilang
 
 **Kesalahan titrasi**
-Kesalahan Oksigen
+
+1. Kesalahan Oksigen
+
 O2 diudara dapat menyebabkan hasil titrasi terlalu tinggi karena dapat mengoksidasi
+
 4I- + O2 + 4H+ → 2I2 + 2H2O
+
 Reaksi ini dikatalisis oleh cahaya dan panas
 
-Penambahan Amilum terlalu awal
-I2 menguap karena terlalu lama menunggu titrasi pH tinggi, S2O32- teroksidasi secara parsial menjadi SO42-
-4I2 + S2O32- + 5H2O → 8I- + 2SO42- + 10H+
+2. Penambahan Amilum terlalu awal
+
+   I2 menguap karena terlalu lama menunggu titrasi pH tinggi, S2O32- teroksidasi secara parsial menjadi SO42-
+   
+   4I2 + S2O32- + 5H2O → 8I- + 2SO42- + 10H+
     
 **Bobot Ekivalen**
 Dalam titrasi iodometri, BE suatu zat dihitung dari banyaknya jumlah atom I, bukan jumlah ion I-
