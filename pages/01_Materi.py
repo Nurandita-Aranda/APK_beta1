@@ -1309,27 +1309,27 @@ analit direaksikan dengan pereaksi berlebih. Dan kelebihan pereaksi di titrasi
        
        Cr2O72^- + 6I^- + 14H+ ⇋ 2Cr3^+ + 3I2 + 7H2O (pH rendah)
        
-       Reaksi I2 dengan S2O32^- berlangsung sempurna dan cepat 
+Reaksi I2 dengan S2O32^- berlangsung sempurna dan cepat 
        
-       Reaksi unik karena oksidator lain tidak mengubah S2O32^- menjadi S4O62^- melainkan menjadi SO32^- dan SO42^-
+Reaksi unik karena oksidator lain tidak mengubah S2O32^- menjadi S4O62^- melainkan menjadi SO32^- dan SO42^-
        
-       Titrasi tanpa Indikator :
+Titrasi tanpa Indikator :
        
        • Lenyapnya warna I2 (coklat tua - kuning - bening)
        
-       Titrasi dengan Indikator Amilum/kanji :
+Titrasi dengan Indikator Amilum/kanji :
        
        • Lenyapnya warna I2 (coklat tua - kuning - biru tua - bening)
        
-       Amilum + I2 membentuk kompleks berwarna biru tua, sangat jelas walaupun I2 sedikit sekali
+               Amilum + I2 membentuk kompleks berwarna biru tua, sangat jelas walaupun I2 sedikit sekali
        
-       Titik akhir : iod yang terikat dengan amilum itu pun hilang bereaksi dengan titran (S2O32^-) sehingga warna biru hilang
+               Titik akhir : iod yang terikat dengan amilum itu pun hilang bereaksi dengan titran (S2O32^-) sehingga warna biru hilang
        
-       Titran Na2S2O3 yang digunakan dari garam pentahidrat (Na2S2O3.5H2O)
+               Titran Na2S2O3 yang digunakan dari garam pentahidrat (Na2S2O3.5H2O)
        
-       Larutan stabil pada pH 9 dan 10 untuk meminimalkan bakteri yang dapat menguraikan S2O32^- menjadi SO32^- , SO42^-, dan S↓
+               Larutan stabil pada pH 9 dan 10 untuk meminimalkan bakteri yang dapat menguraikan S2O32^- menjadi SO32^- , SO42^-, dan S↓
        
-       Titik akhir : iod yang terikat dengan amilum itu pun hilang bereaksi dengan titran (S2O32^-) sehingga warna biru hilang
+               Titik akhir : iod yang terikat dengan amilum itu pun hilang bereaksi dengan titran (S2O32^-) sehingga warna biru hilang
 
 **Kesalahan titrasi**
 Kesalahan Oksigen
