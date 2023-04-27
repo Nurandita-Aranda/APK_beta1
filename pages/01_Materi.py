@@ -1238,24 +1238,34 @@ Analisis volumetri /analisis titrimetri adalah teknis analisis yang berdasarkan 
         st.image(imageT1)
         st.write(
             """
-            Istilah dalam analisis volumetri/titrimetri:
+        Istilah dalam analisis volumetri/titrimetri:
             
 •	Titrasi adalah proses penambahan larutan standar dari buret sedikit demi sedikit sampai jumlah zat yang direaksikan tepat ekuivalen satu sama lain.
+
 •	Titran adalah zat yang diketahui konsentrasinya yang digunakan untuk menitar zat lain
+
 •	Titrat adalah zat yang dititrasi
+
 •	Titik ekuivalen (setara) adalah titik pada saat titran yang ditambahkan tepat ekuivalen dengan titrat maka penambahan titran harus dihentikan
+
 •	Titik akhir titrasi adalah titik pada saat titrasi dihentikan yang ditandai oleh perubahan warna dari indikator
+
 •	Indikator : Zat yang ditambahkan ke dalam titrat sebagai penunjuk titik akhir titrasi
+
 •	Larutan standar (larutan baku) adalah larutan yang konsentrasinya diketahui secara pasti
 
 **Prinsip /reaksi titrimetri**
+
 •	aA + tT → produk 
 
 A = Analit
+
 T = zat penitar (titran)
+
 a dan t = jumlah molekul / koefisien reaksi
 
 •	Prinsip reaksi titrasi volumetri :
+
 mgrek titran = mgrek titrat
 
 
@@ -1551,10 +1561,7 @@ Asidimetri adalah Bila ditentukan berapa mL larutan asam yang konsentrasinya dik
 
 Alkalimetri adalah bila penitar dengan memakai basa yang konsentrasinya diketahui untuk menetapkan suatu asam
 """)
-       st.image("https://lh3.googleusercontent.com/K7bmKtS-Ya75TDaiZUL6_ZAVyZZ7D19-vBrmUTaSKKsFuqWnimVMVHxrKfypBz66vrEKoHW7RvK9KRN5UZmCwrUekfGHj678FnW-JqNXCie95tt71ES90xeOfW4rXXCZXTnzncprL4XY7Mom1m3bdatP0d7FxHzaKKy-s_69DYf5OMF6LhofxdY8vB-60lxGixuI1JQpmZHr5BfOW2SBo5Gs7xvp34Zomr_LwxUq5_A3SGsqpz3rXIsbyF3YOCAz5w22mlfd9y1MmWdibeald91AcEkgoEKWmJ6cxtoI6WISiWIcMf5krEbif5VsDLRgVRO6CWLcBasKnq5CRIN1ax6dmkf8liQLwGhHrVALuSLY9AwPPsAsmZe0-G1MdDH6RNuCZgac7QdUjt67ebBYcTyYOzpF41N3iVblQKFzGLQMH7Jtv8QYZwtVED5qriBQ1bSkLEUxwPgWONGpd3vKGjV8gUBo3tnFoCj5Uzd8x9lJeNU5IxFqc_s0bKvI941M3PR7dca7AVMWGAHZoX7_r2FFd8DGoqJPUL2ZASnSUn_Bx6DJPHtpi1_Ke_Jp5zZBXEVFyAI-pIiAyYnw8THYC7J1P3rR2QdRIQjOWRXQv39Q44w2LReNUrpsn7zMHlYBTF9VecD_HFg_mLFKiCIxg9neAaUqxna2H3_uevThIZyrZwX69G1S1bufkwbb-Ly5OWdp0DPZIKEI0n2yxW2gDhYW8jtcY4lWemYSTHEDNQKYtaDQswlbLO9MUMEodQF3WITeIzSjclTwuKPOgmIZ3oybOcl99rfUF0vng6t1Tv2alpHyjabTl0apqEpG0Y04CpXJG-aMKV7eXE4yWhN23mHTwqAGImQ0MdGiSc4aUlq_nXG1cyF96yAiN0HKXp5nVm92_PD5YfvtVRqRvZlJWuk86IwamomRHauUry0t9BuX=w341-h475-s-no?authuser=0")
-      
-       st.image("https://lh3.googleusercontent.com/p09MJ6OgA0mqj8MbYzvEJ48rwO3U4j47FyHgSih7xiyo8EtHQMXGJ5PpCd2U6iUY504wVz0NgZvX1lxgg99nTToCBoEI1j3Etsw4NFOKZXiVQoId1YVVoZjgEGUE88FKu90dREtqIKIJGQqmS3BNoKlBpdRnQu4JbOOxKgWUjy32iQd9vBb_P_qeOBjhZli5OY8DTq1oh_UVt6D4Sa8um-71plHXe_mQkSD-tHq6OckTA3C3DZzNGTJpY8p96AJA97W5PYnSZr6VfxK7kNYc81fzQHzaop1DwL54vYauQeNe5zj8i7biUlbCZFE37h4Lt2EIrZyDBFf1uaAsO2LhiLqyhx5GbXkQ4sk_paq74IVsga5yoNPLfrHENzYgwHEHanCInz-jV2Nf5otskEjjU21rA5vkaxw2CBfGM2X3x0PDQCYiJhBhiMPrM8yoLFQdbzHAz1iV3mV4jGkFHGZ24onW5kArmhfB-G90mgViWaUI-3GXXW1lN20gMkY-upCPKDuKWCI1koFFIHF2N8howm9W9XgnNWKnHTn2oOJm9DuF4Ey7tfrB0QlQvOG09y2G7_VuyRrtl-aTdaDZ1UrG0YIlGZ1zoiss6q3iLKXw6t5CAhpSX7FrWwcuv3z4u8BE4ItN6w4lgYk8x5MOYLDaDR3jroQoY8QqwUs_NVE_TuBS9PlHjtFTw1XTiMHOm_Jm3RiUkKBRy2EzBaqJzArqLG6OOWhzJld1amRc34GWjejTwRorefFEF0YHTPC88jYzM_G0Wfx0lMJwSPZCtktz1Dr6xEvkkHXFz3gbiF6sKMIOo1PJ77eAegbsMcIijSl0mPIN20X3ZdjqfjKmeirjHCwDubBdbjoNmSi0vm0Z53qfvX1ianb4uKKOu5Ij14JOTZ2QrXXumz0Z2jqRWBqduk4Yna_rWVVq4cfQ2yU5U-p0=w538-h485-s-no?authuser=0")
-       
+       st.image("https://lh3.googleusercontent.com/LQF0Zzfd_mbTkw83ai_wuwXc9Bg0hGjEfZcSsrNMDwmBMoXk7Z30DjxbVjYK_knkdYKpBCOaAW7fIDT9bLubz5YsVF3DFGXFRlT-QNVlbwGP59wcJ_26oXJ59bqiNVIVHvSZk64zKtGqx6mhXWrsuho0wIQw0YsTnpNVQcuGYBzLhnOCGQBLBsV41Wy0qZa7HVSrpn7tEP57kFt8lMmIc7QducowGNc0_4zYupu0J-yfR_lcgWI-0ftrMQ3vHhQctyFp1qjB9armFjrAb8_XHqsyBKlR0bC2Q18nwHO-C-LoSTGD1fflHZFwVxszAazJ9qXVZit3wVxeUTaPQ0jTfeP9GunjnqJZ5xUHDM_CRvGb5Jh_yIoJT_u4o84ENp953CPoDm35NtKfFxxrCZinE74nBvb_haBXUS_Ldik3Q2yE2p_FO31te2E6okf7SM2Sol9wVcXCcAn-GrFzugUVpHwoXkGPt2iDZpsz2NG5HEJlfQ8jG_che0Cp7D2BHIVqRuLP6c6Q-cNIt-5xGwh-43xM-mSq10PWC1Uf80gkZTYYmMzoT_q_O1zSfCQ3UWr41Oqwb79oEsqmw_WFssb6I2qpRHWGNwBWdv5AbmMOPFcAfYnv9__nz8ISPFN1dZI3S2qN6dOtpbCA0N9VKA0c99tdw_ZSrNg2HUAwBgnBe1rQOq1LQHbSBCM8ToaVhVQ5nsJGmH4BpzYVe6Xv1vJqtgOg-SS8kuKgh2SiPeXKgnkdNwViG4qtn5bbec9a7h_Bloj1mF_GhVlMN7CFmnqbku7-WeowrGLMZBFlrEjKqDh6DsSfUFLRcizV-0YL6bp5IBAXdfmEuSFPU_CFHnXb8stq8URAqM1PVu2TUZhqBe3o8-FBpZG1IhZQwn3GeBglJSttUwIHHak_uh4rAllU7i5lEpMmABN9zvH0CDnU0GL9=w1037-h522-s-no?authuser=0")
        st.write(
            """
            
