@@ -1341,8 +1341,7 @@ Reaksi unik karena oksidator lain tidak mengubah S2O3^2- menjadi S4O6^2- melaink
   Titik akhir : iod yang terikat dengan amilum itu pun hilang bereaksi dengan titran (S2O3^2-) sehingga warna biru hilang
 
 **Kesalahan titrasi**
-
-1. Kesalahan Oksigen
+1.	Kesalahan Oksigen
 
    O2 diudara dapat menyebabkan hasil titrasi terlalu tinggi karena dapat mengoksidasi
    
@@ -1352,7 +1351,7 @@ Reaksi unik karena oksidator lain tidak mengubah S2O3^2- menjadi S4O6^2- melaink
 
    Reaksi ini dikatalisis oleh cahaya dan panas
 
-2. Penambahan Amilum terlalu awal
+2.	Penambahan Amilum terlalu awal
 
    I2 menguap karena terlalu lama menunggu titrasi pH tinggi, S2O3^2- teroksidasi secara parsial menjadi SO4^2-
    
@@ -1376,26 +1375,25 @@ Dalam titrasi iodometri, BE suatu zat dihitung dari banyaknya jumlah atom I, buk
 Titrasi yang melibatkan reaksi reduksi dan oksidasi antara titran dan titrat hingga tepat ekuivalen
 
 **Jenis Titrasi Redoks**
-
-1. Oksidator kuat sebagai Titran
+1.	Oksidator kuat sebagai Titran
 
    KMnO4 (Permanganometri)
    
    K2Cr2O7
    
    Ce (IV)
-2. Reduktor kuat sebagai Titran
+2.	Reduktor kuat sebagai Titran
    Ti (III)
    
    Fe (II)
    
    Na2S2O3
    
-3. Na2S2O3 sebagai Titran
+3.	Na2S2O3 sebagai Titran
 
    Iodometri (Tak langsung)
    
-4. I2 sebagai Titran
+4.	I2 sebagai Titran
 
    Iodometri (langsung)
 
@@ -1447,10 +1445,10 @@ Titrasi yang melibatkan reaksi reduksi dan oksidasi antara titran dan titrat hin
 
    Standardisasi Titrasi tidak langsung:
 
-   1. Sampel diendapkan sebagai oksalat
-   2. Disaring, dicuci 
-   3. Dilarutkan dalam H2SO4 berlebih sehingga terbentuk asam oksalat
-   4. Dititrasi asam oksalat dengan KMNO4
+   1.	Sampel diendapkan sebagai oksalat
+   2.	Disaring, dicuci 
+   3.	Dilarutkan dalam H2SO4 berlebih sehingga terbentuk asam oksalat
+   4.	Dititrasi asam oksalat dengan KMNO4
    
    Reaksi:
 
@@ -1473,12 +1471,11 @@ Titrasi yang melibatkan reaksi reduksi dan oksidasi antara titran dan titrat hin
        """
     
     **Kesalahan titrasi**
-
-1. Kesalahan Positif
+1.	Kesalahan Positif
 
    Penambahan KMnO4 terlalu cepat,menyebabkan terjadinya reaksi MnO4- dengan Mn2+ 
 
-2. Kesalahan Negatif 
+2.	Kesalahan Negatif 
 
    Penambahan KMnO4 terlalu lama, menyebabkan hilangnya oksalat karena membentuk peroksida yang terurai menjadi air
 
@@ -1591,10 +1588,8 @@ Alkalimetri adalah bila penitar dengan memakai basa yang konsentrasinya diketahu
                   HIn     ⇌     H+ + In-
                
 **Suatu indicator pH digunakan untuk menunjukkan titik akhir**
-
-1. Indicator harus berubah warna tepat pada saat titran menjadi ekivalen dengan titrat agar tidak terjadi kesalahan titrasi. Untuk mengatasinya trayek indicator harus mencakup pH larutan pada titik ekivalen
-
-2. Perubahan warna itu harus terjadi dengan mendadak(jelas). Untuk mengatasinya trayekindicator harus memotong bagian yang curam dari kurva
+1.	Indicator harus berubah warna tepat pada saat titran menjadi ekivalen dengan titrat agar tidak terjadi kesalahan titrasi. Untuk mengatasinya trayek indicator harus mencakup pH larutan pada titik ekivalen
+2.	Perubahan warna itu harus terjadi dengan mendadak(jelas). Untuk mengatasinya trayekindicator harus memotong bagian yang curam dari kurva
 
 **Titik ekuivalen**
 
@@ -1627,12 +1622,11 @@ pH + pOH = 14
        st.markdown("<h2 style='text-align: center; color: raisin black;'>Asidimetri</h2>", unsafe_allow_html=True)
        st.write(
           """
-          
        **Bahan baku primer standarisasi asam (HCl)**
               
-Borax atau natrium tetraborat dekahidrat
+Boraks atau natrium tetraborat dekahidrat
 
-1. Na2B4O7.10 H2O ( BM =381,4 BE = BM/2)
+1.	Na2B4O7.10 H2O ( BM =381,4 BE = BM/2)
 
      Na2B4O7 + 5H2O   →   2NaH2BO3 + 2H3BO3
 
@@ -1640,7 +1634,7 @@ Borax atau natrium tetraborat dekahidrat
 
      Na2B4O7 + 5H2O + 2HCl   →   2NaCl + 4H3BO3
 
-2. Natrium karbonat ( Na2CO3) ( BM = 105,96)
+2.	Natrium karbonat ( Na2CO3) ( BM = 105,96)
 
      Na2CO3 + HCl   →    NaHCO3 + NaCl
           
@@ -1650,11 +1644,10 @@ Borax atau natrium tetraborat dekahidrat
 
 Ditimbang teliti  ± 1500 mg boraks dengan kaca arloji, larutkan ke dalam labu takar 100 mL dan tepatkan sampai tanda garis, lalu homogenkan. Larutan dipipet sebanyak 25 mL ke dalam Erlenmeyer, tambahkan 2 tetes indikator MM kemudian dititar dengan larutan HCl 0,1 N sampai larutan berubah warna menjadi merah
 """)
-       st.image("https://lh3.googleusercontent.com/F_wgX_wVZXH9a5TPRmPwLDoq_Mj7g86tqwlQK3xj0eyaSZO2nrjQKlUTIRBbqckvKN3QtNd4UyOAnCdz8_Malms4PJWO7ad9wyX6HUopRJVNKeqviw69TJll3IyZ5II1k39OReAcMGwqtEf--IDw0_GIjlWWQxEqNrJe-DkEE-K6Tvd4E-3jYCI_Ohv0heu-7p7jT1VI7mTL88ue8nzcxbhExytBVwWWb28dZkchf28POwqz4EVdtPwKuvueP71Ay7lsZaF79wKuvowZIJj7Jl_tZdWzqsu0KxgIPKFkL8VndAb9HSQ-I7FAPbwHdKPXXnxqTMsRnzlEo_c50U2Z2jTNEJzmmaP3k2ojNwQKxm-atGCqVaupbJNZphPPlTluAJbn_05jshwkkYT01Mu137_9LmGES7MJJ3U6KMgrYCCqrbKuln698y2vr76JHhXwnQkf1dIoqqUkhPX5zEXT4sJn9yx85RDv0-E3CmrVxGD0H4WAMcMMgnygf2R6yQwg2X7vclNQ04BZhnjsRlvfe6zrE_dr8K-cnCl7r5WJzKJOvxt0FIdC76XGTZ2lnVdjC5WK745sag_tKc80P0TTPzyxnaSfw0unwY5QsM4-0FGaPKd-6h2adWYomF_lbMooS6hRF6aWLvnSrYq5fkb87N7EUqgwGh0vT6Ray0c6xLFXTuKL2NZHUfNG1xGRTgjHgao07Tc3U4eXhkVXRFnvPEuv0Hb7LvA1zcxCZQBi7SHGnfEBtn153TtS73nNUL7WCt7pKKc5qDuEQ-q8H7qdgYIVMDOXWTc72-yiLb36bJSWszTZ7rdbIlkTHExB9BFp1fxbsWrIkn4Ypk5jNfynQO4jSXdF63pLY4AoBGlfY7SbPSmnD9F82i2yz11bkIcaTurhodzgZnWi0I-y5gBkqTcURPa3EQCHzkhY_JyuuEFn=w1016-h159-no?authuser=0")
-      
+       imageT1 = Image.open('Resource/image/Titri/As1.png')
+       st.image(imageT1)      
        st.write(
            """
-           
        **Penetapan Kadar NaOH dan Na2CO3 dalam Campuran Secara (WARDER)**
            
 Na2CO3 dan NaOH dalam sampel campuran dapat ditentukan kadar
@@ -1678,10 +1671,16 @@ Reaksi
                 
     NaHCO3 + HCl →  NaCl + CO2 + H2O 
     """)
+       imageT2 = Image.open('Resource/image/Titri/As2.png')
+       st.image(imageT2)       
+       imageT3 = Image.open('Resource/image/Titri/As3.png')
+       st.image(imageT3)
+       imageT4 = Image.open('Resource/image/Titri/As4.png')
+       st.image(imageT4)
+       st.write(" ")
+       st.caption("Download Materi")
+       st.write("Google Drive: [link](https://drive.google.com/file/d/1pyJ7HgQ854Ar92zpA7U02gs10UypZyFh/view?usp=sharing)")    
     
-       st.image("https://lh3.googleusercontent.com/LQF0Zzfd_mbTkw83ai_wuwXc9Bg0hGjEfZcSsrNMDwmBMoXk7Z30DjxbVjYK_knkdYKpBCOaAW7fIDT9bLubz5YsVF3DFGXFRlT-QNVlbwGP59wcJ_26oXJ59bqiNVIVHvSZk64zKtGqx6mhXWrsuho0wIQw0YsTnpNVQcuGYBzLhnOCGQBLBsV41Wy0qZa7HVSrpn7tEP57kFt8lMmIc7QducowGNc0_4zYupu0J-yfR_lcgWI-0ftrMQ3vHhQctyFp1qjB9armFjrAb8_XHqsyBKlR0bC2Q18nwHO-C-LoSTGD1fflHZFwVxszAazJ9qXVZit3wVxeUTaPQ0jTfeP9GunjnqJZ5xUHDM_CRvGb5Jh_yIoJT_u4o84ENp953CPoDm35NtKfFxxrCZinE74nBvb_haBXUS_Ldik3Q2yE2p_FO31te2E6okf7SM2Sol9wVcXCcAn-GrFzugUVpHwoXkGPt2iDZpsz2NG5HEJlfQ8jG_che0Cp7D2BHIVqRuLP6c6Q-cNIt-5xGwh-43xM-mSq10PWC1Uf80gkZTYYmMzoT_q_O1zSfCQ3UWr41Oqwb79oEsqmw_WFssb6I2qpRHWGNwBWdv5AbmMOPFcAfYnv9__nz8ISPFN1dZI3S2qN6dOtpbCA0N9VKA0c99tdw_ZSrNg2HUAwBgnBe1rQOq1LQHbSBCM8ToaVhVQ5nsJGmH4BpzYVe6Xv1vJqtgOg-SS8kuKgh2SiPeXKgnkdNwViG4qtn5bbec9a7h_Bloj1mF_GhVlMN7CFmnqbku7-WeowrGLMZBFlrEjKqDh6DsSfUFLRcizV-0YL6bp5IBAXdfmEuSFPU_CFHnXb8stq8URAqM1PVu2TUZhqBe3o8-FBpZG1IhZQwn3GeBglJSttUwIHHak_uh4rAllU7i5lEpMmABN9zvH0CDnU0GL9=w1037-h522-s-no?authuser=0")
-       
-       st.image("https://lh3.googleusercontent.com/XzvRNeFjeok64TqT8XJCCM5uKX8pA6Ptd_e-oONrCdK7sLqKgVdOlml8J-NQqb41An82MuBrarbng2BgKcZf8uMdhIn9Zgefa_Ay-1x4oXR6xrFdnBIMRYODGysEEgiWKsFNQ6OEOEkQKGBZZLECxKHW3g_jS97n4UUbD5ADPMJ0FPInl0sfSGYHiu1LMkg-ThnILmb6le7GBKdKPiIR1n6RWDpkE15a2HKz3lZATZ0xgWbH2kzSbS9Z6AiqoMLu2VkkY-sSqu_X1iYUwqRLNy07SzvNa6PfIttk0vbOiSirmcwLrldtFGx0dOulp1ZYUIO_AULu2EK0_-k_0fsUFDO1qQqXfZqbsok7qEUbQdH-fhoxnQNmYaWv4_vKwB04QNlmfYGy2cQkOO8Xlb5Qtc9KhBODdXmTHfpc-TsW9F4o_oww-J1K_HdjtA5zgBtamqY1o07GMXkb5TtBn9XaUr0CMctZBunyF6H3JbO_ALp79pGgbT2ZnyVo5CQlNKhV0aMgaUbsSskcb3NFI-BxXD9zSBZfvrTj1zWWJoEhqzaB3AKUPZ_EfSa8BPhk3MoKpGYMTFx3bU_OM_s0OhIOjCyFKsD8MJ9Yo9VefiP9OhWGWfDCntM2mZ68Vmb4AC47UP-fsSUe_rK-dKbXNcxhf5QB4zsm_hHofzlZrBsKZbv524UwMl73GOuVKV0_UN44ocMojzmcWw-RyQ15VxWC6owmA7YuCwNQB9eNC13htaqbTkkj006CBQcL25QfN9YYLdRD68Hz_sP-vgOdiR6LQNSvA1o06-sZDrLR6iexLsqcbV0jXPw9iNk062kM2jOj72difjPcR3Omle2mL-x_KSWlSWOW4cfAP4MLVeVfqbf040YWUkuSgQzF_6kOez6ZDhSwkLpuVAhaR56hIg9LS0i-l3MoRlATE_uccw0jCEHv=w607-h327-no?authuser=0")
     
     if optiontitri == "Alkalimetri":
        st.markdown("<h2 style='text-align: center; color: raisin black;'>Alkalimetri</h2>", unsafe_allow_html=True)
