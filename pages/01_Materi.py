@@ -1297,7 +1297,7 @@ analit direaksikan dengan pereaksi berlebih. Dan kelebihan pereaksi di titrasi
        st.markdown("<h2 style='text-align: center; color: raisin black;'>Iodometri</h2>", unsafe_allow_html=True)
        st.write(
           """
-       Iodometri (titrasi tidak langsung)
+       **Iodometri (titrasi tidak langsung)**
        
        Analit → Oksidator (KIO3, K2Cr2O7)
        
@@ -1313,11 +1313,11 @@ Reaksi I2 dengan S2O32^- berlangsung sempurna dan cepat
        
 Reaksi unik karena oksidator lain tidak mengubah S2O32^- menjadi S4O62^- melainkan menjadi SO32^- dan SO42^-
        
-Titrasi tanpa Indikator :
+**Titrasi tanpa Indikator :**
        
 • Lenyapnya warna I2 (coklat tua - kuning - bening)
        
-Titrasi dengan Indikator Amilum/kanji :
+**Titrasi dengan Indikator Amilum/kanji :**
        
 • Lenyapnya warna I2 (coklat tua - kuning - biru tua - bening)
        
