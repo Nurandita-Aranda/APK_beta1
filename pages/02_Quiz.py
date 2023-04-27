@@ -217,6 +217,51 @@ Berdasarkan keempat pernyataan tersebut, pernyataan manakah yang termasuk faktor
 
 50 mL 0,1 M HCl direaksikan dengan 100 mL NaOH 0,1 M membentuk Natrium Klorida dan air, berapakah nilai pH dari larutan tersebut?
 """)
+	col1, col2 = st.columns(2)
+        with col1:
+            opsi1 = st. button("8,00")
+            opsi2 = st. button("13,50")
+        with col2:
+            opsi3 = st. button("11,90")
+            opsi4 = st. button("12,52")
+        if opsi1:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi2:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi3:
+            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.succes("soal selanjutnya!")
+            st.balloons()
+
+    if result == "soal 10":
+	st.write("Diketahui sebuah larutan mengandung 5 gram 0,5 N H2SO4 dalam 100 mL. Hitunglah Molaritas dari larutan tersebut?")
+	col1, col2 = st.columns(2)
+        with col1:
+            opsi1 = st.button("1M")
+            opsi2 = st.button("0,25M")
+        with col2:
+            opsi3 = st.button("1,25")
+            opsi4 = st.button("0,5M")
+        if opsi1:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi2:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.succes("soal selanjutnya!")
+            st.balloons()
+        elif opsi3:
+            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.error('coba lagi!')
+        elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+            
+	
 
 
         
