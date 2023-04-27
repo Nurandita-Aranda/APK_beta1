@@ -1398,9 +1398,9 @@ Titrasi yang melibatkan reaksi reduksi dan oksidasi antara titran dan titrat hin
    
    b. Larutan netral/sedikit basa pH 4-10
    
-          MnO4- + 4H+ + 3e ⇋ MnO2    + 2H2O
-      
-          MnO4- + 2H2O + 3e ⇋ MnO2   + 4OH-
+         MnO4- + 4H+ + 3e ⇋ MnO2    + 2H2O
+         
+         MnO4- + 2H2O + 3e ⇋ MnO2   + 4OH-
       
    c. Larutan sangat basa [OH-] 0,1 N 
    
@@ -1441,11 +1441,11 @@ Titrasi yang melibatkan reaksi reduksi dan oksidasi antara titran dan titrat hin
    
    Reaksi:
 
-      Ca2+ + C2O42- ⇋ CaC2O4 ↓
+           Ca2+ + C2O42- ⇋ CaC2O4 ↓
 
-      CaC2O4↓ + 2H+ ⇋ Ca2+ + H2C2O4
+           CaC2O4↓ + 2H+ ⇋ Ca2+ + H2C2O4
 
-      5H2C2O4 + 2MnO4- + 6H+ ⇋ 10CO2 + 2Mn2+ + 8H2O
+           5H2C2O4 + 2MnO4- + 6H+ ⇋ 10CO2 + 2Mn2+ + 8H2O
 
       KMnO4 bertindak sebagai auto indikator
 
@@ -1455,35 +1455,50 @@ Titrasi yang melibatkan reaksi reduksi dan oksidasi antara titran dan titrat hin
  
 """)
        st.image("https://lh3.googleusercontent.com/IMhCdyGJ45Ml9P7nPOtOyv56IzGYKuSU5qsQRncFSJ2ArKNaumtOiHNkClu0b5edpStjorldhFisw7Fv4yMo2kcVhHwi8m7cj74s9Si6jPfrx5lTO3aiPKyIJ0vwqwDJU-qBNOpSnXkvhCyh7e9TfjFE96nBd0-GXmHz0cRL6D-PnXofxjINw0Gi7qSgKaw15QtDmggv5sYwkW1btu6wJlkoDu7mmZHWlhC9YiezBwV-sOZU2PvkqhyoJYtmb1ijr-ozprFsFtbO1rWyzxhi153_4EpVCnC1spCSjn9sftoNU9Xx7GyKrjSWFhot3RSOPonfQfHwFDPsvWdhbZTebRRhbN8WxDRSCpOL_VpZMBqfm9lhqrrLrzx2deRziqFqemeTLxLxk6KWbUlCbSAmHLYt45KHZr6qjAbyq4fQXt7_f31Rgb3RrGG0bzmljnqh0qIRCAjp30H0inGegsAsKfPG2zUKXkhvLOo7NZmYpzCRybi5c6bMIf7cG599NrIArCd9igdwH7vv4IX1zd_eFTTl8T7PnWsf9eoX1MfrUJ9OqXwQIPl_R1zQA0tu_N4BnjeBjUZjxzGBSAovkQm58VXAbwOMKDNN6mynqkRZ-Ey1O-HE28iSyyhKF0OXdxYkKYd-EQd2iT6pw_F3G9rsbJSjjGzgrHV51RW45fu-WV8ODOT2sOTagPrALeUfUTxUY4Ccy2gEIewm-uamtMfSJOMPi3V4O-QqudtX9fOP44rW1WPcgfJivGrX0ER5_l9wVKUcyxDrcmquAp1qOHsIAZNnTYb0KbYA-Qssj6NWqWTNm0ChBzhB6i8qbKaRtdBMWPV0-EY9je3MIAaTGpUggKeXR6WWPNXNM9rFTct57UqKPc7FQDqN0Fo-qwo43WmUyuDOjCJohNH3kafBVGNGUVQycvfkwPpEqULcY3956EkD=w1188-h658-s-no?authuser=0")
-       st.write(
+       
+        st.write(
        """
-     **Kesalahan titrasi**
-Kesalahan Positif
-Penambahan KMnO4 terlalu cepat,menyebabkan terjadinya reaksi MnO4- dengan Mn2+ 
+    
+    **Kesalahan titrasi**
 
-Kesalahan Negatif 
-Penambahan KMnO4 terlalu lama, menyebabkan hilangnya oksalat karena membentuk peroksida yang terurai menjadi air
+1. Kesalahan Positif
 
-H2C2O4 + O2 ⇋ H2O2 + 2CO2↑
-H2O2 ⇋ H2O + O2 ↑
+   Penambahan KMnO4 terlalu cepat,menyebabkan terjadinya reaksi MnO4- dengan Mn2+ 
+
+2. Kesalahan Negatif 
+
+   Penambahan KMnO4 terlalu lama, menyebabkan hilangnya oksalat karena membentuk peroksida yang terurai menjadi air
+
+   reaksi:
+   
+           H2C2O4 + O2 ⇋ H2O2 + 2CO2↑
+           
+           H2O2 ⇋ H2O + O2 ↑
 
 **K2Cr2O7 (Kalium Dikromat)**
+
 Kalium dikromat adalah oksidator yang lebih lemah daripada KMnO4 dan Ce(IV), namun sangat stabil dan inert terhadap Cl- 
+
 Dalam suasana asam, K2Cr2O7 mengalami reduksi menjadi
+
  Cr3+Cr2O7 2- + 14H+ + 6e ⇋ 2Cr3+ + 7H2O
+ 
 Memerlukan indikator redoks, yaitu zat yang dapat dioksidasi/ reduksi dan berubah warna akibat reaksi tersebut
+
 Penentuan Fe2+ digunakan indikator asam difenilamin sulfonate
 
 **Ce(IV) (Serium Tetravalen)**
-Serium tetravalen yang digunakan dalam bentuk garam
 
-• Ce(NO3)4.2NH4NO3
+1. Serium tetravalen yang digunakan dalam bentuk garam
 
-• Ce(SO4)2.2(NH4)2SO4.2H2O
+   • Ce(NO3)4.2NH4NO3
 
-•Ce(HSO4)4  
+   • Ce(SO4)2.2(NH4)2SO4.2H2O
 
-Ce4+ mengalami reduksi menjadi Ce3+ Ce4+ + e ⇋ Ce3+
+   • Ce(HSO4)4  
+
+2. Ce4+ mengalami reduksi menjadi Ce3+ Ce4+ + e ⇋ Ce3+
+
 Kelebihan
 
 • Larutan stabil dalam H2SO4
@@ -1509,16 +1524,23 @@ Kekurangan
 • Memerlukan indicator redoks : Fe(II)- ortofenantrolin (ferroin)
 
 **Reduktor kuat sebagai Titran**
+
 Ti (III), Fe(II), Na2S2O3
-Ti (III) mudah teroksidasi oleh udara, sehingga perlu penanganan khusus
-Proses titrasi dilakukan dalam atmosfer inert (mengalirkan N2atau CO2)
-Fe (II) mudah teroksidasi oleh udara dalam larutan netral, sehingga larutan harus dalam suasana asam 
-Na2S2O3 iodometri (titrasi tidak langsung)
+
+1. Ti (III) mudah teroksidasi oleh udara, sehingga perlu penanganan khusus
+
+   Proses titrasi dilakukan dalam atmosfer inert (mengalirkan N2atau CO2)
+
+2. Fe (II) mudah teroksidasi oleh udara dalam larutan netral, sehingga larutan harus dalam suasana asam 
+
+3. Na2S2O3 iodometri (titrasi tidak langsung)
 """)
+        
     if optiontitri == "Asidimetri-Alkalimetri":
        st.markdown("<h2 style='text-align: center; color: raisin black;'>Asidimetri-Alkalimetri</h2>", unsafe_allow_html=True)
        st.write(
            """
+           
            Asidimetri-alkalimetri
 Asidimetri adalah Bila ditentukan berapa mL larutan asam yang konsentrasinya diketahui untuk menetralkan suatu larutan basa yang kadarnya dicari.
 Alkalimetri adalah bila penitar dengan memakai basa yang konsentrasinya diketahui untuk menetapkan suatu asam
