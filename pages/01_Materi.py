@@ -1035,13 +1035,12 @@ Prosedur kerja
             
 pengamatan warna nyala sampel pada manik boraks yang dipanasi diatas nyala api oksidasi dan reduksibaik dalam dingin ataupun panas dapat diperoleh warna yang menunjukkan apakah zat itu mengandungkation atau anion. Jika sampel mengandung anion logam maka saat dipanaskan pada nyala api akanmengeluarkan warna nyala mutiara boraks yang spesifik.
      
- Prosedur Kerja
- 
--	Kawat platina dipijarkan (sampai merah)
--	Kawat dimasukkan ke dalam boraks (bubuk halus)
--	Kawat dipanaskan lagi sampai terbentuk butiran tak berwarna dan transpara (tembus cahaya),
--	Mutiara panas disentuhkan ke zat uji
--	Dipanaskan dalam api pengoksidasi dan api pereduksi
+Prosedur Kerja
+1.  Kawat platina dipijarkan (sampai merah)
+2.  Kawat dimasukkan ke dalam boraks (bubuk halus)
+3.  Kawat dipanaskan lagi sampai terbentuk butiran tak berwarna dan transpara (tembus cahaya),
+4.  Mutiara panas disentuhkan ke zat uji
+5.  Dipanaskan dalam api pengoksidasi dan api pereduksi
 """)
         st.image("https://lh3.googleusercontent.com/pw/AJFCJaXiOVJX1JoTaC5enyf11ngrq7mb9RpnzeVkC8KxcYKjhHRykwzLYE6CcJo-QAMHD9wGujSP99hvN1ouvdA9Qu1ffM37Ms7LaWZdt9cSxi3puLyVFs0pReHjSWfEFr-8z6rQ6Y5ArVRLYUfa8rG-U0bN=w384-h293-s-no?authuser=0")
         st.caption("Download Materi")
@@ -1049,10 +1048,7 @@ pengamatan warna nyala sampel pada manik boraks yang dipanasi diatas nyala api o
         
     if optionanjen == "Pemisahan Anion Golongan I-V":
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Pemisahan Anion Golongan I-V</h2>", unsafe_allow_html=True)
-        st.write(
-            """
-            Klasifikasi anion ini adalah salah satu contoh pengelompokan anion yang dibagi berdasarkan reaksinya dengan asam klorida encer (HCl(aq) ) dan perbedaan kelarutannya sebagai garam barium dan perak. Empat golongan anion dan karakteristiknya adalah sebagai berikut:
-            """)
+        st.write("Klasifikasi anion ini adalah salah satu contoh pengelompokan anion yang dibagi berdasarkan reaksinya dengan asam klorida encer (HCl(aq) ) dan perbedaan kelarutannya sebagai garam barium dan perak. Empat golongan anion dan karakteristiknya adalah sebagai berikut:")
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Anion Golongan I</h2>", unsafe_allow_html=True)
         
         st.write(
@@ -1118,7 +1114,6 @@ Reaksi Tiosianat:
 
          SCN- + Ag+ → AgSCN(s) 
          """)
-        
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Anion Golongan IV</h2>", unsafe_allow_html=True)
         st.write(
             """
@@ -1165,7 +1160,6 @@ Svehla,G.1990.Buku Teks Analisis Anorganik Kualitatif Makro dan Semimikro.Jakart
             Cara membuat larutan perlu diperhatikan,yaitu cara membuat larutan  dari bahan  cair atau padat dengan menggunakan  konsentrasi tertentu. Larutan adalah campuran homogen dari dua atau lebih zat  yang berbeda komposisinya. Suatu larutan dalam volume kecil disebut zat  terlarut. Pelarut didefinisikan sebagai zat yang jumlahnya melebihi zat lain.
             """)
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Cara Pembuatan Larutan</h2>", unsafe_allow_html=True)
-        
         st.write(
             """
 •	Menimbang kristal senyawa atau memipet dari larutan pekat
@@ -1461,11 +1455,10 @@ Titrasi yang melibatkan reaksi reduksi dan oksidasi antara titran dan titrat hin
 
  **Pembuatan dan Penyimpanan KMnO4**
 """)
-       st.image("https://lh3.googleusercontent.com/IMhCdyGJ45Ml9P7nPOtOyv56IzGYKuSU5qsQRncFSJ2ArKNaumtOiHNkClu0b5edpStjorldhFisw7Fv4yMo2kcVhHwi8m7cj74s9Si6jPfrx5lTO3aiPKyIJ0vwqwDJU-qBNOpSnXkvhCyh7e9TfjFE96nBd0-GXmHz0cRL6D-PnXofxjINw0Gi7qSgKaw15QtDmggv5sYwkW1btu6wJlkoDu7mmZHWlhC9YiezBwV-sOZU2PvkqhyoJYtmb1ijr-ozprFsFtbO1rWyzxhi153_4EpVCnC1spCSjn9sftoNU9Xx7GyKrjSWFhot3RSOPonfQfHwFDPsvWdhbZTebRRhbN8WxDRSCpOL_VpZMBqfm9lhqrrLrzx2deRziqFqemeTLxLxk6KWbUlCbSAmHLYt45KHZr6qjAbyq4fQXt7_f31Rgb3RrGG0bzmljnqh0qIRCAjp30H0inGegsAsKfPG2zUKXkhvLOo7NZmYpzCRybi5c6bMIf7cG599NrIArCd9igdwH7vv4IX1zd_eFTTl8T7PnWsf9eoX1MfrUJ9OqXwQIPl_R1zQA0tu_N4BnjeBjUZjxzGBSAovkQm58VXAbwOMKDNN6mynqkRZ-Ey1O-HE28iSyyhKF0OXdxYkKYd-EQd2iT6pw_F3G9rsbJSjjGzgrHV51RW45fu-WV8ODOT2sOTagPrALeUfUTxUY4Ccy2gEIewm-uamtMfSJOMPi3V4O-QqudtX9fOP44rW1WPcgfJivGrX0ER5_l9wVKUcyxDrcmquAp1qOHsIAZNnTYb0KbYA-Qssj6NWqWTNm0ChBzhB6i8qbKaRtdBMWPV0-EY9je3MIAaTGpUggKeXR6WWPNXNM9rFTct57UqKPc7FQDqN0Fo-qwo43WmUyuDOjCJohNH3kafBVGNGUVQycvfkwPpEqULcY3956EkD=w1188-h658-s-no?authuser=0")
-       
+       st.image(imageT1)
+       imageT1 = Image.open('Resource/image/Titri/KMnO4.png')       
        st.write(
-       """
-    
+       """  
     **Kesalahan titrasi**
 1.	Kesalahan Positif
 
@@ -1541,6 +1534,10 @@ Ti (III), Fe(II), Na2S2O3
 
 3. Na2S2O3 iodometri (titrasi tidak langsung)
 """)
+       st.write(" ")
+       st.caption("Download Materi")
+       st.write("Google Drive: [link](https://drive.google.com/file/d/1dXmGHm_zCBy7CtaNNObd2rK2vm4wOjYx/view?usp=sharing)")
+      
         
     if optiontitri == "Asidimetri-Alkalimetri":
        st.markdown("<h2 style='text-align: center; color: raisin black;'>Asidimetri-Alkalimetri</h2>", unsafe_allow_html=True)
@@ -1567,10 +1564,8 @@ Alkalimetri adalah bila penitar dengan memakai basa yang konsentrasinya diketahu
 """)
        st.write("**Jenis indikator asam-basa**")
        st.image("https://lh3.googleusercontent.com/3KYn70iT0UprJOs6uoqUjmnTdyi-svgpMpAB6bONduJgIEd51vAhX12p0E_mw0PlldqH01LFKLvpofmpWHiu2E64-BdjcH9E_sNcahN-s-gw_zQ8-PpsKKNU9TpNP--oAnzfOyv2TjZfWfsdEiwcDAB0DCCg__BYv9UB3zt6HwU5BdsVaXsyQT67NgTFlDfWPb53yPNYZOogKP9p3VvN5lJTkYczOYHeBqRto1HTqcZbYjrD2TA7LOJmuyIG9lbWRJA9LoFAxrP_6or_wIEhvAJDSh9yRGiEGt6nCEuBu0GVeVT2PU2elIUeRREbYCx51AmZABnFjffUWIeHl8HRDXK8a6qhYKo44FxEiyF-FYDGdBeIN0gm-456KXfMscbgYOyGv6RJQaDH8l6WCzlZj3tUFkMAPgvI_HQTDaCidm5SUx2_QKkGtEbl7Q1Whpl0js0H_iThIsYwncA_7fCCjlYMVFgbSyAomsQo0Af92cKqrGJ6mLjqsG1KZOPEkrlmCXW3-YS5h-PMk5xc8p1rfE6aQAnQVudUnEN_0YtP2pVJiZzSaCONxV9p-IoT76WcmWSoS97ygAn2p1OOUv_irhDLZq4TOqNkqzt91ySxXxbsiwjgPExFWoNsNfjiD5VXd6AFTM7XBjIztTDreSpPAnYJzQ8E3V4kYq-YMvl5piXrmrUsw6yFc6Sa75nfmQLq9Dgm3HN5OLPVCKt4L62UMBalT8Th47b-WswHm4jB6G9RqTawQl2NafqlyzvlxlGc62GA1zACuww4lzyQ-6xu03Wg7dGnEXrCKpOhFASurib2PzrotjnGa98t-afQvKzPy4WmJ-roPIBKT7QrMnBhtfWY1umbcQnXVJuwbW-ftJp4n73qt4wv4PkjAl4fsMpIMHG_c-ZXhNACzZ1nHeaYjk0TRnUA1ZULeGV9oHb3oesO=w877-h432-s-no?authuser=0")
-       
        st.write(
           """
-          
        **Indikator asam-basa berubah warna bila pH lingkungannya berubah**
             
 • Indikator asam-basa ialah asam organik lemah, jadi dalam larutan mengalami kesetimbangan pengionan.
