@@ -988,7 +988,7 @@ if option == "Fisika Dasar":
             """
 	    Sebuah mobil bergerak dengan kecepatan konstan 20 m/s selama 10 detik. Berapa jarak yang ditempuh mobil tersebut?
 	    """)
-	col1, col2 = st.columns(2)
+        col1, col2 = st.columns(2)
         with col1:
             opsi1 = st. button("20 meter")
             opsi2 = st. button("100 meter")
