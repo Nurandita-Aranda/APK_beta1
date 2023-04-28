@@ -2294,3 +2294,65 @@ Ep2 = energi potensial akhir (dalam satuan Joule)
 Ek1 = energi kinetik awal (dalam satuan Joule)
 Ek2 = energi kinetik akhir (dalam satuan Joule)
            """)
+    if optionfisdas == "Arus Listrik":
+        st.markdown("<h2 style='text-align: center; color: raisin black;'>Arus Listrik</h2>", unsafe_allow_html=True)
+        st.write(
+           """
+1. Arus Listrik
+
+    Arus listrik adalah gerakan muatan listrik melalui suatu penghantar. Arus listrik dapat
+dihasilkan oleh baterai, generator listrik, atau sumber energi listrik lainnya. Arus listrik diukur
+dalam satuan ampere (A).
+Ada dua jenis arus listrik, yaitu arus searah (DC) dan arus bolak-balik (AC).
+Arus searah (DC) adalah arus listrik yang mengalir dalam satu arah atau polaritas
+tertentu. Arus searah biasanya dihasilkan oleh baterai dan digunakan dalam aplikasi seperti
+lampu kilat, sirkuit elektronik, dan kendaraan listrik.
+Arus bolak-balik (AC) adalah arus listrik yang mengalir bolak-balik antara dua arah
+atau polaritas. Arus bolak-balik dihasilkan oleh generator listrik dan digunakan dalam sistem
+listrik rumah tangga dan industri.
+
+2. Tegangan Listrik
+
+    Tegangan listrik (atau beda potensial listrik) adalah perbedaan potensial listrik antara dua
+titik dalam rangkaian listrik yang dapat mendorong arus listrik mengalir. Satuan tegangan
+listrik adalah volt (V) dan dapat diukur menggunakan alat yang disebut voltmeter.
+
+3. Hambatan Listrik
+
+    Hambatan listrik adalah besarnya penghalang yang dihadapi oleh arus listrik dalam
+mengalir melalui penghantar. Hambatan listrik diukur dalam satuan ohm (Ω) dan dapat
+dihitung menggunakan hukum Ohm.
+
+4. Hukum Ohm
+
+    Hukum Ohm menyatakan bahwa beda potensial listrik pada suatu penghantar sebanding
+dengan arus listrik yang mengalir melaluinya dan invers sebanding dengan hambatan
+penghantar. Persamaannya adalah:
+V = I * R
+
+dengan:
+V = beda potensial listrik (dalam satuan volt)
+I = arus listrik (dalam satuan ampere)
+R = hambatan listrik (dalam satuan ohm)
+
+5. Hukum Kirchoff
+
+Hukum Kirchoff terdiri dari dua hukum, yaitu:
+- Hukum Kirchoff Pertama (KPL) menyatakan bahwa jumlah arus listrik yang masuk ke sebuah
+simpul sama dengan jumlah arus listrik yang keluar dari simpul tersebut. Persamaannya adalah:
+ΣI_masuk = ΣI_keluar
+- Hukum Kirchoff Kedua (KPL) menyatakan bahwa jumlah beda potensial listrik dalam suatu
+loop tertutup sama dengan nol. Persamaannya adalah:
+ΣV_loop = 0
+
+6. Daya Listrik
+
+Daya listrik adalah besarnya energi yang dikonsumsi atau dihasilkan oleh suatu rangkaian
+listrik dalam satu satuan waktu. Daya listrik diukur dalam satuan watt (W) dan dapat dihitung
+menggunakan persamaan:
+P = V * I
+
+dengan:
+P = daya listrik (dalam satuan watt)
+V = beda potensial listrik (dalam satuan volt)
+I = arus listrik (dalam satuan ampere)
