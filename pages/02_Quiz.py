@@ -1015,7 +1015,7 @@ if option == "Fisika Dasar":
 	    
 	    9 = (9,8m/s)
 	    """)
-	col1, col2 = st.columns(2)
+        col1, col2 = st.columns(2)
         with col1:
             opsi1 = st.button("2,46 detik")
             opsi2 = st.button("1,53 detik")
