@@ -976,3 +976,87 @@ if option == "Kimia Organik":
         elif opsi4:
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
+
+		
+
+if option == "Fisika Dasar":
+    result = st.select_slider(
+        'pilih soal',
+        options=['soal 1', 'soal 2', 'soal 3', 'soal 4', 'soal 5', 'soal 6', 'soal 7', "soal 8", "soal 9", "soal 10"])
+    if result == "soal 1":
+        st.write(
+            """
+	    Sebuah mobil bergerak dengan kecepatan konstan 20 m/s selama 10 detik. Berapa jarak yang ditempuh mobil tersebut?
+	    """)
+	col1, col2 = st.columns(2)
+        with col1:
+            opsi1 = st. button("20 meter")
+            opsi2 = st. button("100 meter")
+        with col2:
+            opsi3 = st. button("10 meter")
+            opsi4 = st. button("200 meter")
+        if opsi1:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi2:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi3:
+            st.markdown("<h2 style='text-align: center; color:red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.success("soal selanjutnya!")
+            st.balloons()
+    if result == "soal 2":
+        st.write(
+            """
+	    Sebuah benda dilempar ke atas dengan kecepatan awal 15 m/s. Berapa waktu yang dibutuhkan benda tersebut untuk mencapai ketinggian maksimumnya?
+	    
+	    9 = (9,8m/s)
+	    """)
+	col1, col2 = st.columns(2)
+        with col1:
+            opsi1 = st.button("2,46 detik")
+            opsi2 = st.button("1,53 detik")
+        with col2:
+            opsi3 = st.button("11,5 detik")
+            opsi4 = st.button("13,25 detik")
+        if opsi1:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi2:
+            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.success("soal selanjutnya!")
+            st.balloons()
+        elif opsi3:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+    if result == "soal 2":
+        st.write(
+            """
+	    Sebuah gaya sebesar 50 N bekerja pada benda dan memindahkannya sejauh 10 meter searah dengan arah gaya. Berapa usaha yang dilakukan pada benda tersebut?
+	    """)
+	 col1, col2 = st.columns(2)
+         with col1:
+            opsi1 = st. button("9,51")
+            opsi2 = st. button("9,50")
+         with col2:
+            opsi3 = st. button("9,49")
+            opsi4 = st. button("9,48")
+         if opsi1:
+            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.success("soal selanjutnya!")
+            st.balloons()
+         elif opsi2:
+            st.markdown("<h2 style='text-align: center; color: red;'>salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+         elif opsi3:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+         elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
