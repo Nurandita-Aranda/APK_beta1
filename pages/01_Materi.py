@@ -1380,25 +1380,26 @@ Titrasi yang melibatkan reaksi reduksi dan oksidasi antara titran dan titrat hin
 **Jenis Titrasi Redoks**
 1.	Oksidator kuat sebagai Titran
 
-   KMnO4 (Permanganometri)
+    KMnO4 (Permanganometri)
    
-   K2Cr2O7
+    K2Cr2O7
    
-   Ce (IV)
+    Ce (IV)
+
 2.	Reduktor kuat sebagai Titran
-   Ti (III)
+    Ti (III)
    
-   Fe (II)
+    Fe (II)
    
-   Na2S2O3
+    Na2S2O3
    
 3.	Na2S2O3 sebagai Titran
 
-   Iodometri (Tak langsung)
+    Iodometri (Tak langsung)
    
 4.	I2 sebagai Titran
 
-   Iodometri (langsung)
+    Iodometri (langsung)
 
 **Oksidator kuat sebagai Titran**
 1. KMnO4 (Permanganometri)
