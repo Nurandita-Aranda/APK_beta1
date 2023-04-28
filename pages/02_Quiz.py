@@ -1074,13 +1074,13 @@ if option == "Fisika Dasar":
             opsi3 = st. button("98 J")
             opsi4 = st. button("20 J")
         if opsi1:
-            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.markdown("<h2 style='text-align: center; color: red;'>salah!!</h2>", unsafe_allow_html=True)
             st.success("Coba lagi!")
         elif opsi2:
             st.markdown("<h2 style='text-align: center; color: red;'>salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
         elif opsi3:
-            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.markdown("<h2 style='text-align: center; color: green;'>benar!!</h2>", unsafe_allow_html=True)
             st.error('Soal Selanjutnya!')
             st.balloons()
         elif opsi4:
@@ -1100,13 +1100,13 @@ if option == "Fisika Dasar":
             opsi3 = st. button("98 J")
             opsi4 = st. button("20 J")
         if opsi1:
-            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.markdown("<h2 style='text-align: center; color: red;'>salah!!</h2>", unsafe_allow_html=True)
             st.success("Coba lagi!")
         elif opsi2:
             st.markdown("<h2 style='text-align: center; color: red;'>salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
         elif opsi3:
-            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.markdown("<h2 style='text-align: center; color: green;'>benar!!</h2>", unsafe_allow_html=True)
             st.error('Soal Selanjutnya!')
             st.balloons()
         elif opsi4:
@@ -1125,13 +1125,13 @@ if option == "Fisika Dasar":
             opsi3 = st. button("20 V")
             opsi4 = st. button("2 V")
         if opsi1:
-            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.markdown("<h2 style='text-align: center; color: red;'>salah!!</h2>", unsafe_allow_html=True)
             st.success("Coba lagi!")
         elif opsi2:
             st.markdown("<h2 style='text-align: center; color: red;'>salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
         elif opsi3:
-            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.markdown("<h2 style='text-align: center; color: green;'>benar!</h2>", unsafe_allow_html=True)
             st.error('Soal Selanjutnya!')
             st.balloons()
         elif opsi4:
@@ -1150,7 +1150,7 @@ if option == "Fisika Dasar":
             opsi3 = st. button("18 Watt")
             opsi4 = st. button("6 Watt")
         if opsi1:
-            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.markdown("<h2 style='text-align: center; color: red;'>salah!!</h2>", unsafe_allow_html=True)
             st.success("Coba lagi!")
         elif opsi2:
             st.markdown("<h2 style='text-align: center; color: red;'>salah!!</h2>", unsafe_allow_html=True)
@@ -1159,7 +1159,7 @@ if option == "Fisika Dasar":
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
         elif opsi4:
-            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.markdown("<h2 style='text-align: center; color: green;'>benar!!</h2>", unsafe_allow_html=True)
             st.error('Soal Selanjutnya!') 
             st.ballons()
 	
