@@ -2356,3 +2356,4 @@ dengan:
 P = daya listrik (dalam satuan watt)
 V = beda potensial listrik (dalam satuan volt)
 I = arus listrik (dalam satuan ampere)
+       """)
