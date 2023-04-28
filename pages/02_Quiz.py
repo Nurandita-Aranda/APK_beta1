@@ -1075,7 +1075,7 @@ if option == "Fisika Dasar":
             opsi4 = st. button("20 J")
         if opsi1:
             st.markdown("<h2 style='text-align: center; color: red;'>salah!!</h2>", unsafe_allow_html=True)
-            st.success("Coba lagi!")
+            st.error('Coba lagi!')
         elif opsi2:
             st.markdown("<h2 style='text-align: center; color: red;'>salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
@@ -1106,7 +1106,7 @@ if option == "Fisika Dasar":
             st.error('Coba lagi!')
         elif opsi3:
             st.markdown("<h2 style='text-align: center; color: green;'>benar!</h2>", unsafe_allow_html=True)
-            st.succes('Soal Selanjutnya!')
+            st.succes("Soal Selanjutnya!")
             st.balloons()
         elif opsi4:
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
@@ -1134,7 +1134,7 @@ if option == "Fisika Dasar":
             st.error('Coba lagi!')
         elif opsi4:
             st.markdown("<h2 style='text-align: center; color: green;'>benar!!</h2>", unsafe_allow_html=True)
-            st.succes('Soal Selanjutnya!') 
+            st.succes("Soal Selanjutnya!") 
             st.ballons()
     if result == "soal 7":
         st.write(
@@ -1150,7 +1150,7 @@ if option == "Fisika Dasar":
             opsi4 = st. button("10 derajat celcius")
         if opsi1:
             st.markdown("<h2 style='text-align: center; color: red;'>salah!!</h2>", unsafe_allow_html=True)
-            st.error("Coba lagi!")
+            st.error('Coba lagi!')
         elif opsi2:
             st.markdown("<h2 style='text-align: center; color: red;'>salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
