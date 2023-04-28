@@ -2105,7 +2105,7 @@ dasar teoritis dan teknis bagi banyak teknik dan metode analitik.
             """)
     
     if optionfisdas == "Kinematika":
-        st.markdown("<h2 style='text-align: center; color: raisin black;'>Alkena</h2>", unsafe_allow_html=True)
+        st.markdown("<h2 style='text-align: center; color: raisin black;'>Kinematika</h2>", unsafe_allow_html=True)
         st.write(
             """
     Kinematika merupakan cabang Ilmu fisika yang membahas mengenai bagaimana ben
