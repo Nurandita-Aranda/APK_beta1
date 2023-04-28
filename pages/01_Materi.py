@@ -2060,7 +2060,44 @@ Sifat Fisika:
         
 #Materi Fisika Dasar
 with tab_5:
-    st.caption('Pilih materi yang kamu mau')
+    optionfisdas = st.selectbox(
+                "Pilih materi yang kamu mau"
+                ("--- Pilih Materi ---", "Pendahuluan", "Kinematika", "Usaha dan Energi", "Arus Listrik", "Kalor da Termodinamika"))
+    if optionfisdas == "Pendahuluan":
+        st.markdown("<h2 style='text-align: center; color: raisin black;'>Pendahuluan</h2>", unsafe_allow_html=True)
+        st.write(
+           """
+           Fisika adalah sains atau ilmu alam yang mempelajari materi beserta gerak dan
+perilakunya dalam lingkup ruang dan waktu, bersamaan dengan konsep yang berkaitan
+seperti energi dan gaya. Sebagai salah satu ilmu sains paling dasar, tujuan utama fisika adalah
+memahami bagaimana alam semesta berkerja.
+Ilmu fisika memiliki peran yang sangat penting dalam kimia analitik karena banyak
+teknik dan metode analitik didasarkan pada prinsip-prinsip fisika. Beberapa contoh peran ilmu
+fisika dalam kimia analitik adalah:
+1. Spektroskopi: Teknik spektroskopi memanfaatkan prinsip-prinsip fisika seperti
+spektroskopi atom, spektroskopi molekul, dan spektroskopi sinar-X. Teknik ini
+digunakan untuk mengidentifikasi dan memisahkan zat kimia berdasarkan karakteristik
+spektrum yang dihasilkan oleh zat tersebut.
+2. Kromatografi: Teknik kromatografi memanfaatkan prinsip fisika seperti diferensial
+affinitas, partisi, dan adsorpsi untuk memisahkan campuran zat kimia menjadi
+komponen-komponen yang lebih murni. Teknik ini termasuk kromatografi gas,
+kromatografi cair, dan kromatografi kolom.
+3. Elektrokimia: Elektrokimia memanfaatkan prinsip fisika elektrokimia untuk
+menganalisis dan memisahkan zat kimia dalam larutan. Teknik ini melibatkan
+elektrolisis, elektrogravimetri, potensiometri, dan voltametri.
+4. Termal: Teknik termal memanfaatkan prinsip fisika termal untuk menganalisis dan
+memisahkan zat kimia berdasarkan karakteristik termal mereka. Contohnya, teknik
+difraksi sinar-X dapat digunakan untuk menganalisis struktur kristal dari zat kimia, dan
+teknik analisis termal dapat digunakan untuk menentukan perubahan termal yang
+terjadi dalam suatu sampel.
+5. Mikroskopi: Teknik mikroskopi memanfaatkan prinsip-prinsip fisika seperti
+pembiasan cahaya, interferensi, difraksi, dan polarisasi untuk mengamati dan
+menganalisis struktur zat kimia pada skala mikroskopik. Contohnya, mikroskop
+elektron dapat digunakan untuk mempelajari struktur atom dan molekul, sementara
+mikroskop fluoresensi dapat digunakan untuk melihat reaksi kimia dalam sel hidup
+Dengan demikian, ilmu fisika sangat penting dalam kimia analitik karena memberikan
+dasar teoritis dan teknis bagi banyak teknik dan metode analitik.
+            """)
     
 
 
