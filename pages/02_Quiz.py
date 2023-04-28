@@ -1013,7 +1013,7 @@ if option == "Fisika Dasar":
             """
 	    Sebuah benda dilempar ke atas dengan kecepatan awal 15 m/s. Berapa waktu yang dibutuhkan benda tersebut untuk mencapai ketinggian maksimumnya?
 	    
-	    9 = (9,8m/s)
+	    9 = (9,8m/s^2)
 	    """)
         col1, col2 = st.columns(2)
         with col1:
@@ -1035,18 +1035,18 @@ if option == "Fisika Dasar":
         elif opsi4:
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
-    if result == "soal 2":
+    if result == "soal 3":
         st.write(
             """
 	    Sebuah gaya sebesar 50 N bekerja pada benda dan memindahkannya sejauh 10 meter searah dengan arah gaya. Berapa usaha yang dilakukan pada benda tersebut?
 	    """)
         col1, col2 = st.columns(2)
         with col1:
-            opsi1 = st. button("9,51")
-            opsi2 = st. button("9,50")
+            opsi1 = st. button("500 J")
+            opsi2 = st. button("50 j")
         with col2:
-            opsi3 = st. button("9,49")
-            opsi4 = st. button("9,48")
+            opsi3 = st. button("250 J")
+            opsi4 = st. button("25 J")
         if opsi1:
             st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
             st.success("soal selanjutnya!")
@@ -1060,3 +1060,109 @@ if option == "Fisika Dasar":
         elif opsi4:
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
+    if result == "soal 4":
+        st.write(
+            """
+	    Sebuah bola dengan massa 0,5 kg jatuh bebas dari ketinggian 20 meter. Berapa energi potensial gravitasi bola saat berada di atas tanah?
+	    g=(9,8m/s^2)
+	    """)
+        col1, col2 = st.columns(2)
+        with col1:
+            opsi1 = st. button("9,8 j")
+            opsi2 = st. button("2,0 J")
+        with col2:
+            opsi3 = st. button("98 J")
+            opsi4 = st. button("20 J")
+        if opsi1:
+            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.success("Coba lagi!")
+        elif opsi2:
+            st.markdown("<h2 style='text-align: center; color: red;'>salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi3:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Soal Selanjutnya!')
+	    st.balloons()
+        elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+    if result == "soal 4":
+        st.write(
+            """
+	    Sebuah bola dengan massa 0,5 kg jatuh bebas dari ketinggian 20 meter. Berapa energi potensial gravitasi bola saat berada di atas tanah?
+	    g=(9,8m/s^2)
+	    """)
+        col1, col2 = st.columns(2)
+        with col1:
+            opsi1 = st. button("9,8 j")
+            opsi2 = st. button("2,0 J")
+        with col2:
+            opsi3 = st. button("98 J")
+            opsi4 = st. button("20 J")
+        if opsi1:
+            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.success("Coba lagi!")
+        elif opsi2:
+            st.markdown("<h2 style='text-align: center; color: red;'>salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi3:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Soal Selanjutnya!')
+	    st.balloons()
+        elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+    if result == "soal 5":
+        st.write(
+            """
+	    Sebuah resistor memiliki resistansi sebesar 10 ohm dan dialiri arus sebesar 2 ampere. Berapakah tegangan yang jatuh pada resistor tersebut?
+	    """)
+        col1, col2 = st.columns(2)
+        with col1:
+            opsi1 = st. button("10 V")
+            opsi2 = st. button("100 V")
+        with col2:
+            opsi3 = st. button("20 V")
+            opsi4 = st. button("2 V")
+        if opsi1:
+            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.success("Coba lagi!")
+        elif opsi2:
+            st.markdown("<h2 style='text-align: center; color: red;'>salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi3:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Soal Selanjutnya!')
+	    st.balloons()
+        elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!') 
+    if result == "soal 6":
+        st.write(
+            """
+	    Sebuah baterai memiliki tegangan sebesar 12 volt dan mengalirkan arus sebesar 0,5 ampere. Berapakah daya yang dihasilkan oleh baterai tersebut?
+	    """)
+        col1, col2 = st.columns(2)
+        with col1:
+            opsi1 = st. button("24 Watt")
+            opsi2 = st. button("12 Watt")
+        with col2:
+            opsi3 = st. button("18 Watt")
+            opsi4 = st. button("6 Watt")
+        if opsi1:
+            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.success("Coba lagi!")
+        elif opsi2:
+            st.markdown("<h2 style='text-align: center; color: red;'>salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi3:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Soal Selanjutnya!') 
+	    st.ballons()
+	
+
+		
+		
