@@ -2381,6 +2381,7 @@ dapat berubah bentuk dari satu bentuk ke bentuk yang lain.
 2. Hukum Kedua Termodinamika: entropi alam semakin meningkat, yaitu keadaan alam
 semakin acak dan tidak teratur.
 
+
    Dalam termodinamika, suatu sistem dapat berupa sistem terbuka, sistem tertutup, atau
 sistem terisolasi. Sistem terbuka dapat bertukar energi dan materi dengan lingkungannya,
 sistem tertutup dapat bertukar energi tetapi tidak materi dengan lingkungannya, sedangkan
