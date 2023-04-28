@@ -1229,7 +1229,7 @@ if option == "Fisika Dasar":
         elif opsi2:
             st.markdown("<h2 style='text-align: center; color: green;'>benar!!</h2>", unsafe_allow_html=True)
             st.success("Soal selanjutnya!")
-	    st.balloons()
+            st.balloons()
         elif opsi3:
             st.markdown("<h2 style='text-align: center; color: red;'>salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
