@@ -394,7 +394,7 @@ i : jumlah partikel sebenarnya dalam larutan setelah penguraian/jumlah satuan ru
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/18k2U9tA8Ll8BiGVaDnlz2r8tUvDf7yOA/view?usp=sharing)")
         
-        if optionkimdas == "Kinetika Kimia":
+    if optionkimdas == "Kinetika Kimia":
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Kinetika Kimia</h2>", unsafe_allow_html=True)
         st.write(
             """
