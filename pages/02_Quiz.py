@@ -1100,13 +1100,13 @@ if option == "Fisika Dasar":
             opsi4 = st. button("2 V")
         if opsi1:
             st.markdown("<h2 style='text-align: center; color: red;'>salah!!</h2>", unsafe_allow_html=True)
-            st.success("Coba lagi!")
+            st.error("Coba lagi!")
         elif opsi2:
             st.markdown("<h2 style='text-align: center; color: red;'>salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
         elif opsi3:
             st.markdown("<h2 style='text-align: center; color: green;'>benar!</h2>", unsafe_allow_html=True)
-            st.error('Soal Selanjutnya!')
+            st.succes('Soal Selanjutnya!')
             st.balloons()
         elif opsi4:
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
@@ -1125,7 +1125,7 @@ if option == "Fisika Dasar":
             opsi4 = st. button("6 Watt")
         if opsi1:
             st.markdown("<h2 style='text-align: center; color: red;'>salah!!</h2>", unsafe_allow_html=True)
-            st.success("Coba lagi!")
+            st.error("Coba lagi!")
         elif opsi2:
             st.markdown("<h2 style='text-align: center; color: red;'>salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
@@ -1134,8 +1134,34 @@ if option == "Fisika Dasar":
             st.error('Coba lagi!')
         elif opsi4:
             st.markdown("<h2 style='text-align: center; color: green;'>benar!!</h2>", unsafe_allow_html=True)
-            st.error('Soal Selanjutnya!') 
+            st.succes('Soal Selanjutnya!') 
             st.ballons()
+    if result == "soal 7":
+        st.write(
+            """
+	    Sebuah blok logam dengan massa 0,5 kg awalnya memiliki suhu 20°C. Jika blok tersebut menerima 2000 Joule energi panas, tentukan kenaikan suhu blok logam tersebut. (Koefisien kalor jenis logam = 400 J/kg°C)
+	    """)
+        col1, col2 = st.columns(2)
+        with col1:
+            opsi1 = st. button("20 derajat celcius")
+            opsi2 = st. button("200 derajat celcius")
+        with col2:
+            opsi3 = st. button("100 derajat celcius")
+            opsi4 = st. button("10 derajat celcius")
+        if opsi1:
+            st.markdown("<h2 style='text-align: center; color: red;'>salah!!</h2>", unsafe_allow_html=True)
+            st.error("Coba lagi!")
+        elif opsi2:
+            st.markdown("<h2 style='text-align: center; color: red;'>salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi3:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: green;'>benar!!</h2>", unsafe_allow_html=True)
+            st.succes('Soal Selanjutnya!') 
+            st.ballons()
+   
 	
 
 		
