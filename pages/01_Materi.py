@@ -2237,3 +2237,60 @@ dilempar, benda mengalami percepatan gravitasi yang konstan sehingga kecepatanny
 bertambah secara bertahap. Pada titik tertinggi, kecepatan benda kembali menjadi nol,
 kemudian benda jatuh kembali ke bumi dengan percepatan gravitasi yang sama.
             """)
+    if optionfisdas == "Usaha dan Energi":
+        st.markdown("<h2 style='text-align: center; color: raisin black;'>Usaha dan Energi</h2>", unsafe_allow_html=True)
+        st.write(
+           """
+           Usaha dan energi adalah konsep penting dalam fisika yang berkaitan dengan perubahan
+keadaan benda dan perpindahan energi dalam sistem fisika.
+
+Usaha
+
+Usaha didefinisikan sebagai jumlah energi yang diperlukan untuk memindahkan benda dari
+satu titik ke titik lain dengan gaya konstan. Secara matematis, usaha dapat dihitung dengan
+rumus:
+W = F × d × cos(θ)
+di mana:
+W = usaha (dalam satuan Joule)
+F = gaya yang bekerja pada benda (dalam satuan Newton)
+d = jarak perpindahan benda (dalam satuan meter)
+θ = sudut antara arah gaya dan arah perpindahan benda (dalam satuan derajat)
+Energi Potensial
+Energi potensial adalah energi yang dimiliki oleh benda sebagai akibat dari posisi atau
+ketinggiannya dalam suatu medan gravitasi atau medan gaya lainnya. Energi potensial dapat
+dihitung dengan rumus:
+Ep = m × g × h
+
+di mana:
+Ep = energi potensial (dalam satuan Joule)
+m = massa benda (dalam satuan kilogram)
+g = percepatan gravitasi bumi (sekitar 9,8 m/s^2)
+h = ketinggian benda dalam medan gravitasi (dalam satuan meter)
+Energi Kinetik
+
+Energi kinetik adalah energi yang dimiliki oleh benda sebagai akibat dari gerakannya. Energi
+kinetik dapat dihitung dengan rumus:
+Ek = 1/2 × m × v^2
+
+di mana:
+Ek = energi kinetik (dalam satuan Joule)
+m = massa benda (dalam satuan kilogram)
+v = kecepatan benda (dalam satuan meter per detik)
+
+Prinsip Konservasi Energi Mekanik
+
+Prinsip konservasi energi mekanik menyatakan bahwa total energi mekanik dalam suatu sistem
+terjaga atau konstan, walaupun terdapat perubahan bentuk energi dari potensial ke kinetik dan
+sebaliknya. Dengan menggunakan prinsip ini, dapat dihitung energi mekanik awal (Em1) dan
+akhir (Em2) suatu benda dalam suatu sistem yang mengalami perubahan energi. Persamaan
+prinsip konservasi energi mekanik adalah sebagai berikut:
+Em1 = Em2
+Ep1 + Ek1 = Ep2 + Ek2
+di mana:
+Em1 = energi mekanik awal (dalam satuan Joule)
+Em2 = energi mekanik akhir (dalam satuan Joule)
+Ep1 = energi potensial awal (dalam satuan Joule)
+Ep2 = energi potensial akhir (dalam satuan Joule)
+Ek1 = energi kinetik awal (dalam satuan Joule)
+Ek2 = energi kinetik akhir (dalam satuan Joule)
+           
