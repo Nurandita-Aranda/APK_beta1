@@ -1040,23 +1040,23 @@ if option == "Fisika Dasar":
             """
 	    Sebuah gaya sebesar 50 N bekerja pada benda dan memindahkannya sejauh 10 meter searah dengan arah gaya. Berapa usaha yang dilakukan pada benda tersebut?
 	    """)
-	 col1, col2 = st.columns(2)
-         with col1:
+        col1, col2 = st.columns(2)
+        with col1:
             opsi1 = st. button("9,51")
             opsi2 = st. button("9,50")
-         with col2:
+        with col2:
             opsi3 = st. button("9,49")
             opsi4 = st. button("9,48")
-         if opsi1:
+        if opsi1:
             st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
             st.success("soal selanjutnya!")
             st.balloons()
-         elif opsi2:
+        elif opsi2:
             st.markdown("<h2 style='text-align: center; color: red;'>salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
-         elif opsi3:
+        elif opsi3:
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
-         elif opsi4:
+        elif opsi4:
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
