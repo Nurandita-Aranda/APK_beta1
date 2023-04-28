@@ -2399,39 +2399,39 @@ Berikut ini adalah rumus untuk tiga jenis pemuaian yang umum terjadi:
 
 1. Pemuaian linier:
 
- ΔL = αL₀ΔT
+     ΔL = αL₀ΔT
  
- ΔL = perubahan panjang (dalam satuan meter)
+     ΔL = perubahan panjang (dalam satuan meter)
  
- α = koefisien muai panjang
+     α = koefisien muai panjang
  
- L₀ = panjang awal (dalam satuan meter)
+    L₀ = panjang awal (dalam satuan meter)
  
- ΔT = perubahan suhu (dalam satuan derajat Celsius)
+    ΔT = perubahan suhu (dalam satuan derajat Celsius)
  
 2. Pemuaian luas:
 
- ΔA = βA₀ΔT
+    ΔA = βA₀ΔT
  
- ΔA = perubahan luas (dalam satuan meter persegi)
+    ΔA = perubahan luas (dalam satuan meter persegi)
  
- β = koefisien muai luas
+    β = koefisien muai luas
+    
+    A₀ = luas awal (dalam satuan meter persegi)
  
- A₀ = luas awal (dalam satuan meter persegi)
- 
- ΔT = perubahan suhu (dalam satuan derajat Celsius)
+    ΔT = perubahan suhu (dalam satuan derajat Celsius)
  
 3. Pemuaian volume:
 
- ΔV = γV₀ΔT
+    ΔV = γV₀ΔT
  
- ΔV = perubahan volume (dalam satuan meter kubik)
+    ΔV = perubahan volume (dalam satuan meter kubik)
  
- γ = koefisien muai volume
+    γ = koefisien muai volume
  
- V₀ = volume awal (dalam satuan meter kubik)
+    V₀ = volume awal (dalam satuan meter kubik)
  
- ΔT = perubahan suhu (dalam satuan derajat Celsius)
+    ΔT = perubahan suhu (dalam satuan derajat Celsius)
  
    Koefisien muai panjang, muai luas, dan muai volume merupakan konstanta yang
 tergantung pada jenis material dan suhu.
@@ -2444,7 +2444,7 @@ singkat tentang ketiga mode transfer panas tersebut:
 
 1. Konduksi:
 
-   Konduksi adalah mode transfer panas melalui perpindahan energi panas dari molekul
+    Konduksi adalah mode transfer panas melalui perpindahan energi panas dari molekul
 ke molekul dalam suatu benda atau antara dua benda yang saling bersentuhan. Panas ditransfer
 dari daerah yang lebih panas ke daerah yang lebih dingin, sampai tercapai kesetimbangan
 termal. Konduksi terjadi karena perbedaan suhu antara dua objek atau antara bagian-bagian
@@ -2452,14 +2452,14 @@ objek yang berbeda. Konduksi terutama terjadi pada benda padat.
 
 2. Konveksi:
 
-   Konveksi adalah mode transfer panas melalui pergerakan massa dari satu tempat ke
+    Konveksi adalah mode transfer panas melalui pergerakan massa dari satu tempat ke
 tempat lain yang mengalirkan energi panas bersama-sama. Konveksi terjadi karena adanya
 perbedaan suhu dan densitas dari benda yang mengalir. Udara, air, dan gas lainnya biasanya
 terlibat dalam proses konveksi. Konveksi dapat terjadi baik pada benda padat maupun fluida.
 
 3. Radiasi:
 
-   Radiasi adalah mode transfer panas melalui pancaran gelombang elektromagnetik yang
+    Radiasi adalah mode transfer panas melalui pancaran gelombang elektromagnetik yang
 membawa energi panas dari sumber panas ke benda lainnya. Radiasi terjadi karena semua
 benda yang memiliki suhu di atas nol mutlak akan memancarkan energi dalam bentuk
 gelombang elektromagnetik. Radiasi dapat terjadi dalam hampa udara, sehingga dapat terjadi
