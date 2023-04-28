@@ -171,6 +171,8 @@ M = n/V
         st.write(" ")
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/17M05OfuolzThRbny0_0BwD1OPp8EfEto/view?usp=sharing)")
+        
+        
     if optionkimdas == "Ikatan Kimia":
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Ikatan Kimia</h2>", unsafe_allow_html=True)
         st.write(
@@ -197,23 +199,22 @@ D. Struktur Lewis
 
 Pembentukan ikatan kimia menyangkut pada perubahan konfigurasi elektron, khusunya pada kulit valensi. Oleh karena itu, untuk penyederhanaan, atom atom cukup digambarkan valensinya. Lambang atom yang disertai elektron valensi disebut lambang lewis. Contoh :
 Be dengan nomor atom 4 memiliki konfigurasi elektron yaitu 1s2 2s2. Sehingga Be memiliki
-elektron valensi 2, sehinga rumus lewis : 
-            """)
-        st.image("https://photos.google.com/u/2/album/AF1QipMK4HoKNipSDAoodvhXAuspTfcZW_wdLzKAgFzs/photo/AF1QipPRNObcGhl0Yzhyd5UjYhVbCkRSQUtZuHout0y8")
-        st.write(
-            """
-            Ikatan Ion
+elektron valensi 2, sehinga rumus lewis : •BE•
+
+Ikatan Ion
+
 Pada ikatan ion, terjadi transfer elektron dari satu atom ke atom lain. Karena Perpindahan elektron ini maka atom yang mendapatkan elektron yakan bermuatan negatif (Anion) dan yang kehilangan elektron akan bermuatan positif (Kation). Karena adanya perbedaan muatan antar ion, maka ion positif dan ion negative akan saling tarik menarik oleh gaya elektrostatik. Kejadian ini merupakan dasar ikatan ionic.
 Contoh :
             """)
-        st.image("https://photos.google.com/u/2/album/AF1QipMK4HoKNipSDAoodvhXAuspTfcZW_wdLzKAgFzs/photo/AF1QipO6C_N8IheyMyqGyvISbv5rP44dxwq3qus_dYvy")
+        imageKimdas1 = Image.open('Resource/image/Kimdas/Picture2.jpg')
+        st.image(imageKimdas1)
         st.write(
             """
 Sifat senyawa ion yaitu :
 1. Memiliki titik didih dan titik leleh yang tinggi.
 2. Keras tetapi rapuh.
 3. Berupa padatan pada suhu ruang.
-4. Larut dalam pelarut air, tetapi umumnya tidak larut dalam pelarut organic.
+4. Larut dalam pelarut air, tetapi umumnya tidak larut dalam pelarut organik.
 5. Tidak meghantarkan listrik pada fasa padatan. Tetapi, menghantarkan listrik pada fasa cairan.
             """)
         st.write(
@@ -271,6 +272,8 @@ Sifat Senyawa Logam :
             """)
         st.write(" ")
         st.caption("Download Materi")
+        st.write("Google Drive: [link](https://drive.google.com/file/d/1sYRNmfqYGGh6gZio8N5-I-Wo_14qt55w/view?usp=sharing)")        
+        
     if optionkimdas == "Sifat Fisis Larutan":
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Sifat Fisis Larutan</h2>", unsafe_allow_html=True)
         st.write(
