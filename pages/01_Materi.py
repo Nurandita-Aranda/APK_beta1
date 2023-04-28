@@ -2293,4 +2293,4 @@ Ep1 = energi potensial awal (dalam satuan Joule)
 Ep2 = energi potensial akhir (dalam satuan Joule)
 Ek1 = energi kinetik awal (dalam satuan Joule)
 Ek2 = energi kinetik akhir (dalam satuan Joule)
-           
+           """)
