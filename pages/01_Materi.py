@@ -2331,6 +2331,7 @@ penghantar. Persamaannya adalah:
 V = I * R
 
 dengan:
+
 V = beda potensial listrik (dalam satuan volt)
 I = arus listrik (dalam satuan ampere)
 R = hambatan listrik (dalam satuan ohm)
@@ -2353,6 +2354,7 @@ menggunakan persamaan:
 P = V * I
 
 dengan:
+
 P = daya listrik (dalam satuan watt)
 V = beda potensial listrik (dalam satuan volt)
 I = arus listrik (dalam satuan ampere)
