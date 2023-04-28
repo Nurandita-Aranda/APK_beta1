@@ -2104,7 +2104,7 @@ Dengan demikian, ilmu fisika sangat penting dalam kimia analitik karena memberik
 dasar teoritis dan teknis bagi banyak teknik dan metode analitik.
             """)
     
-     if optionfisdas == "Kinematika":
+    if optionfisdas == "Kinematika":
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Alkena</h2>", unsafe_allow_html=True)
         st.write(
             """
