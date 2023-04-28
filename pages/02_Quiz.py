@@ -1180,12 +1180,12 @@ if option == "Fisika Dasar":
             st.markdown("<h2 style='text-align: center; color: red;'>salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
         elif opsi3:
-            st.markdown("<h2 style='text-align: center; color: red;'>salah!!</h2>", unsafe_allow_html=True)
-            st.error('Coba lagi!')
-        elif opsi4:
             st.markdown("<h2 style='text-align: center; color: green;'>benar!!</h2>", unsafe_allow_html=True)
             st.success("Soal Selanjutnya!") 
             st.balloons()
+        elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: red;'>salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi') 
     if result == "soal 9":
         st.write(
             """
