@@ -1086,32 +1086,6 @@ if option == "Fisika Dasar":
         elif opsi4:
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
-    if result == "soal 4":
-        st.write(
-            """
-	    Sebuah bola dengan massa 0,5 kg jatuh bebas dari ketinggian 20 meter. Berapa energi potensial gravitasi bola saat berada di atas tanah?
-	    g=(9,8m/s^2)
-	    """)
-        col1, col2 = st.columns(2)
-        with col1:
-            opsi1 = st. button("9,8 j")
-            opsi2 = st. button("2,0 J")
-        with col2:
-            opsi3 = st. button("98 J")
-            opsi4 = st. button("20 J")
-        if opsi1:
-            st.markdown("<h2 style='text-align: center; color: red;'>salah!!</h2>", unsafe_allow_html=True)
-            st.success("Coba lagi!")
-        elif opsi2:
-            st.markdown("<h2 style='text-align: center; color: red;'>salah!!</h2>", unsafe_allow_html=True)
-            st.error('Coba lagi!')
-        elif opsi3:
-            st.markdown("<h2 style='text-align: center; color: green;'>benar!!</h2>", unsafe_allow_html=True)
-            st.error('Soal Selanjutnya!')
-            st.balloons()
-        elif opsi4:
-            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
-            st.error('Coba lagi!')
     if result == "soal 5":
         st.write(
             """
