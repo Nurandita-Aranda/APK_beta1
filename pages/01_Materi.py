@@ -2111,6 +2111,9 @@ mikroskop fluoresensi dapat digunakan untuk melihat reaksi kimia dalam sel hidup
 Dengan demikian, ilmu fisika sangat penting dalam kimia analitik karena memberikan
 dasar teoritis dan teknis bagi banyak teknik dan metode analitik.
             """)
+        st.write(" ")
+        st.caption("Download Materi")
+        st.write("Google Drive: [link](https://drive.google.com/file/d/17XoRu0y5Y6ZHuz2M8eB7ZVdY-pgw0dCu/view?usp=sharing)")
     
     if optionfisdas == "Kinematika":
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Kinematika</h2>", unsafe_allow_html=True)
@@ -2245,6 +2248,10 @@ dilempar, benda mengalami percepatan gravitasi yang konstan sehingga kecepatanny
 bertambah secara bertahap. Pada titik tertinggi, kecepatan benda kembali menjadi nol,
 kemudian benda jatuh kembali ke bumi dengan percepatan gravitasi yang sama.
             """)
+                st.write(" ")
+        st.caption("Download Materi")
+        st.write("Google Drive: [link](https://drive.google.com/file/d/11tbMk4wxWioI_p1aF2ij5TtV32Mph1tp/view?usp=sharing)")  
+        
     if optionfisdas == "Usaha dan Energi":
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Usaha dan Energi</h2>", unsafe_allow_html=True)
         st.write(
