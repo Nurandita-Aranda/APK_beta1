@@ -748,11 +748,9 @@ FeCl3 = Ferri klorida atau besi (III) klorida
     if optionanjen == "Satuan Konsentrasi":
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Satuan Konsentrasi</h2>", unsafe_allow_html=True)
         imageAnjen1 = Image.open('Resource/image/Anjen/images.jpeg')
-        st.image(imageAnjen1)
+        st.image(imageAnjen1, caption = "Gambar 1. Konsep Mol (Sumber : temukanpengertian.com )")
         st.write(
-            """
-      Gambar 1. Konsep Mol (Sumber : temukanpengertian.com )
-            
+            """ 
             Mol = g/BM = g/Mr = g/Ar    
             
 g = massa (gram)
