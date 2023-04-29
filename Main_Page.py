@@ -8,7 +8,7 @@ st.set_page_config(
 st.markdown("<h1 style='text-align: center; color: raisin black;'>Easy Chemistry</h1>", unsafe_allow_html=True)
 st.subheader("Tanya apa saja ke Pollo")
 
-Opsi1 = st.button("Curhat boleh?")
+opsi1 = st.button("Curhat boleh?")
 if opsi1:
     st.write(
         """
