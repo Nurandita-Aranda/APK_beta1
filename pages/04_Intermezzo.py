@@ -17,12 +17,27 @@ if optiongolongan == "Golongan I":
   col1, col2, col3, col4 = st.columns(4)
   with col1:
     opsi1 = st.button("Hidrogen")
-    opsi2 = st.button("Rubidium")
+    opsi5 = st.button("Rubidium")
   with col2:
-    opsi3 = st.button("Litium")
-    opsi4 = st.button("Sesium")
+    opsi2 = st.button("Litium")
+    opsi6 = st.button("Sesium")
   with col3:
-    opsi1 = st.button("Natrium")
-    opsi2 = st.button("Fransium")
+    opsi3 = st.button("Natrium")
+    opsi7 = st.button("Fransium")
   with col4:
-    opsi3 = st.button("Kalium")
+    opsi4 = st.button("Kalium")
+
+    
+#Golongan II
+if optiongolongan == "Golongan II":
+  col1, col2, col3, col4 = st.columns(4)
+  with col1:
+    opsi1 = st.button("Berilium")
+  with col2:
+    opsi2 = st.button("Magnesium")
+    opsi5 = st.button("Barium")
+  with col3:
+    opsi3 = st.button("Kalsium")
+    opsi6 = st.button("Radium")
+  with col4:
+    opsi4 = st.button("Stronsium")
