@@ -11,7 +11,7 @@ col1, col2, col3 = st.columns(3)
 with col1:
   st.write(" ")
 with col2:
-  image1 = Image.open('Resource/image/Profile/Nurand.jpg')
+  image1 = Image.open('Resource/image/Profile/Nurandita.jpg')
   st.image(image1)
 with col3:
   st.write(" ")  
@@ -21,6 +21,14 @@ st.write("instagram: [@nurandita_a.p](https://www.instagram.com/nurandita_a.p/)"
 
 #Era
 st.markdown("<h2 style='text-align: center; color: raisin black;'>Puspita Erawati</h2>", unsafe_allow_html=True)
+col1, col2, col3 = st.columns(3)
+with col1:
+  st.write(" ")
+with col2:
+  image2 = Image.open('Resource/image/Profile/Era.jpg')
+  st.image(image2)
+with col3:
+  st.write(" ")
 st.write("Sujud syukur proyek ini kelar juga")
 st.write("email: puspita.e.s030304@gmail.com")
 st.write("Instagram: [@k.p.era](https://www.instagram.com/k.p.era/)")
@@ -31,8 +39,8 @@ col1, col2, col3 = st.columns(3)
 with col1:
   st.write(" ")
 with col2:
-  image2 = Image.open('Resource/image/Profile/Nabila.jpg')
-  st.image(image2)
+  image3 = Image.open('Resource/image/Profile/Nabila.jpg')
+  st.image(image3)
 with col3:
   st.write(" ")
 st.write("Tiada hari tanpa musik")
@@ -45,7 +53,7 @@ col1, col2, col3 = st.columns(3)
 with col1:
   st.write(" ")
 with col2:
-  image4 = Image.open('Resource/image/Profile/Uswa.png')
+  image4 = Image.open('Resource/image/Profile/Uswa.jpg')
   st.image(image4)
 with col3:
   st.write(" ")
