@@ -14,7 +14,7 @@ optiongolongan = st.selectbox(
 
 #Golongan I
 if result == "soal 1":
-  col1, col2, col3, col 4 = st.columns(4)
+  col1, col2, col3, col4 = st.columns(4)
   with col1:
     opsi1 = st.button("Hidrogen")
     opsi2 = st.button("Rubidium")
