@@ -224,21 +224,24 @@ Sifat senyawa ion yaitu :
 
 Ikatan terjadi karena pemakaian Bersama elektron oleh atom atom yang berikatan. Pasangan elektron yang dipakai Bersama disebut pasangan elektron ikatan dan pasangan elektron valensi yang tidak terlibat dalam pembentukan ikatan kovalen disebut pasangan elektron bebas. Ikatan kovalen umumnya terjadi antara atom atom unsur nonlogam. Senyawa yang hanya mengandung ikatan kovalen disebut senyawa kovalen. Struktur Lewis adalah penggambaran ikatan kovalen yang menggunakan lambang titik lewis dimana Pasangan elektron ikatan dinyatakan dengan garis atau sepasang titik yang diletakkan di antara kedua atom dan Pasangan elektron bebas dinyatakan titik titik pada masing masing atom.
             """)
-        st.image("https://photos.google.com/u/2/album/AF1QipMK4HoKNipSDAoodvhXAuspTfcZW_wdLzKAgFzs/photo/AF1QipPudcRnEanr4Dym72C2QeWM16T56R1eswBb-7GY")
+        imageKimdas2 = Image.open('Resource/image/Kimdas/Picture3.jpg')
+        st.image(imageKimdas2)
         st.write(
             """
 2. Proses Pembentukan Ikatan Kovalen Rangkap 2
 
 Ikatan kovalen rangkap 2 adalah ikatan kovalen yang melibatkan dua pasang elektron bersama. Ikatan kovalen rangkap 2 dinyatakan dengan dua garis. Contohnya :
             """)
-        st.image("https://photos.google.com/u/2/album/AF1QipMK4HoKNipSDAoodvhXAuspTfcZW_wdLzKAgFzs/photo/AF1QipNL5I8ePdpntlqOscIFDbOubktWgE8Nn9uR6IsZ")
+        imageKimdas3 = Image.open('Resource/image/Kimdas/Picture6.jpg')
+        st.image(imageKimdas3)
         st.write(
             """
 3. Proses Pembentukan Ikatan Kovalen Rangkap 3
 
 Ikatan kovalen rangkap 3 adalah ikatan kovalen yang melibatkan dua pasang elektron bersama. Ikatan kovalen rangkap 3 dinyatakan dengan tiga garis. Contohnya :
             """)
-        st.image("https://photos.google.com/u/2/album/AF1QipMK4HoKNipSDAoodvhXAuspTfcZW_wdLzKAgFzs/photo/AF1QipPQ7ZkJAD62tIYeTI6UgeRZzMKiF7Wkaq8PzQkB")
+        imageKimdas4 = Image.open('Resource/image/Kimdas/Picture5.jpg')
+        st.image(imageKimdas4)
         st.write(
             """
             Sifat senyawa kovalen :
@@ -461,6 +464,7 @@ Namun demikian, dengan kehadiran katalis, konstanta laju disebut konstanta laju 
 
    Lajuberkatalis>lajutakberkatalis
            """)
+        
     if optionkimdas == "Kesetimbangan Kimia":
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Kesetimbangan Kimia</h2>", unsafe_allow_html=True)
         st.write(
