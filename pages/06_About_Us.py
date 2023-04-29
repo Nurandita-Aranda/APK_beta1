@@ -43,7 +43,7 @@ col1, col2, col3 = st.columns(3)
 with col1:
   st.write(" ")
 with col2:
-  image1 = Image.open('Resource/image/Profile/Nabila.jpg')
+  image1 = Image.open('Resource/image/Profile/Uswa.png')
   st.image(image1)
 with col3:
   st.write(" ")
