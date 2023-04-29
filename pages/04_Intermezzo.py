@@ -13,7 +13,7 @@ optiongolongan = st.selectbox(
   ("--- Pilih Golongan ---", "Golongan I", "Golongan II","Golongan III","Golongan IV","Golongan V","Golongan VI","Golongan VII", "Golongan VIII"))
 
 #Golongan I
-if result == "soal 1":
+if result == "Golongan I":
   col1, col2, col3, col4 = st.columns(4)
   with col1:
     opsi1 = st.button("Hidrogen")
