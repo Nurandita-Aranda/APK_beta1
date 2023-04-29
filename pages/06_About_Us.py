@@ -20,7 +20,7 @@ st.write("email: nuranditaap6@gmail.com")
 st.write("instagram: [@nurandita_a.p](https://www.instagram.com/nurandita_a.p/)")
 
 #Era
-st.markdown("<h2 style='text-align: center; color: raisin black;'>Puspita Erawati Surbakti	</h2>", unsafe_allow_html=True)
+st.markdown("<h2 style='text-align: center; color: raisin black;'>Puspita Erawati</h2>", unsafe_allow_html=True)
 st.write("Sujud syukur proyek ini kelar juga")
 st.write("email: puspita.e.s030304@gmail.com")
 st.write("Instagram: [@k.p.era](https://www.instagram.com/k.p.era/)")
