@@ -2248,7 +2248,7 @@ dilempar, benda mengalami percepatan gravitasi yang konstan sehingga kecepatanny
 bertambah secara bertahap. Pada titik tertinggi, kecepatan benda kembali menjadi nol,
 kemudian benda jatuh kembali ke bumi dengan percepatan gravitasi yang sama.
             """)
-                st.write(" ")
+        st.write(" ")
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/11tbMk4wxWioI_p1aF2ij5TtV32Mph1tp/view?usp=sharing)")  
         
@@ -2309,6 +2309,10 @@ Ep2 = energi potensial akhir (dalam satuan Joule)
 Ek1 = energi kinetik awal (dalam satuan Joule)
 Ek2 = energi kinetik akhir (dalam satuan Joule)
            """)
+        st.write(" ")
+        st.caption("Download Materi")
+        st.write("Google Drive: [link](https://drive.google.com/file/d/19TwtmnRsHhn8bifjGkxOjqw5Zh7z784z/view?usp=sharing)") 
+        
     if optionfisdas == "Arus Listrik":
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Arus Listrik</h2>", unsafe_allow_html=True)
         st.write(
@@ -2378,6 +2382,10 @@ V = beda potensial listrik (dalam satuan volt)
 
 I = arus listrik (dalam satuan ampere)
        """)
+        st.write(" ")
+        st.caption("Download Materi")
+        st.write("Google Drive: [link](https://drive.google.com/file/d/1r3e1OAf1KwQy-4gt__HA8BmamnZ4DUZQ/view?usp=sharing)")
+               
 if optionfisdas == "Kalor dan Termodinamika":
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Kalor dan Termodinamika</h2>", unsafe_allow_html=True)
         st.write(
@@ -2485,3 +2493,6 @@ saling mempengaruhi. Penting untuk memahami prinsip-prinsip dasar ketiga mode tr
 panas ini untuk dapat menerapkan teknik-teknik pengaturan suhu yang efektif pada berbagai
 aplikasi teknik dan industri.
            """)
+        st.write(" ")
+        st.caption("Download Materi")
+        st.write("Google Drive: [link](https://drive.google.com/file/d/1Rkn5h8GRh9y2uD93MNEURd3rTxDxl3EU/view?usp=sharing)")
