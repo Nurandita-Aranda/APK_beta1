@@ -1750,10 +1750,6 @@ Menghitung kadar analit:
 
    
 
-     
-          
-
-    
 
    
                                     
@@ -1975,6 +1971,30 @@ b. Stereoisomer
             """)
         imageKO1 = Image.open('Resource/image/Kimor/Cis_trans.png')
         st.image(imageKO1,caption = "Sumber: roboguru.ruangguru.com")
+        st.write(
+            """
+            Kiralitas
+1.	Objek yang tidak bisa diimpitkan pada bayangan cerminnya dikatakan kiral, sebaliknya obyek yang dapat diimpitkan pada bayangan cerminnya disebut akiral. 
+2.	Sebuah molekul kiral yang tidak dapat diimpitkan pada bayangannya cerminnya, merupakan dua senyawa berlainan yang disebut enantiomer.
+3.	Atom karbon kiral/ asimetrik : atom karbon yang mengikat empat gugus yang berlainan.
+            """)
+        imageKO2 = Image.open('Resource/image/Kimor/Kiral1.jpg')
+        st.image(imageKO2,caption = "Sumber: http://sheirafirdarumanda.blogspot.com/")
+        st.write(
+            """
+            Penetapan Konfigurasi : Sistem (R) dan (S)
+            
+Sepasang enantiomer mempunyai konfigurasi yang berlawanan. R = rectus = kanan, S = sinister = kiri. Cara menentukan konfigurasi R atau S:
+1.	Urutkan ke empat gugus atau atom yang terikat pada atom C kiral, sesuai urutan prioritas aturan deret Chan-Ingold-Prelog
+2.	Proyeksikan molekul hingga gugus yang berprioritas rendah berarah ke belakang
+3.	Pilih gugus dengan prioritas tertinggi dan buat panah ke gugus dengan prioritas tertinggi berikutnya
+4.	Jika panah searah jarum jam, maka konfigurasinya adalah R, sedangkan jika berlawanan arah konfigurasinya adalah S.
+            """)
+        imageKO3 = Image.open('Resource/image/Kimor/Kiral2.jpg')
+        st.image(imageKO3,caption = "Sumber: http://sheirafirdarumanda.blogspot.com/")
+        st.write(" ")
+        st.caption("Download Materi")
+        st.write("Google Drive: [link](https://drive.google.com/file/d/1DHyKfG6cJtlf0dWUCjw7rdpX8TVVWEXr/view?usp=sharing)")
         
     if optionKO == "Senyawa Aromatik":
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Senyawa Aromatik</h2>", unsafe_allow_html=True)
