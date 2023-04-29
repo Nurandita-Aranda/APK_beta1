@@ -6,6 +6,7 @@ st.markdown("<h1 style='text-align: center; color: raisin black;'>About Us</h1>"
 st.write(" ")
 
 #Nurandita
+st.markdown("<h2 style='text-align: center; color: raisin black;'>Nurandita Aranda Putri</h2>", unsafe_allow_html=True)
 col1, col2, col3 = st.columns(3)
 with col1:
   st.write(" ")
