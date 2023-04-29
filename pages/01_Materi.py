@@ -256,7 +256,8 @@ Ikatan kovalen rangkap 3 adalah ikatan kovalen yang melibatkan dua pasang elektr
             Ikatan Kovalen Koordinasi
 Ikatan Kovalen koordinasi adalah ikatan yang terbentuk dari pemakaian pasangan elektron bersama yang berasal dari salah satu atom yang memiliki pasangan elektron bebas. Ciri ikatan kovalen koordinasi adalah pasangan elektron bebas dari salah satu atom yang dipakai secara bersama-sama. Contoh : 
             """)
-        st.image("https://photos.google.com/u/2/album/AF1QipMK4HoKNipSDAoodvhXAuspTfcZW_wdLzKAgFzs/photo/AF1QipMYW5lYI96F_r6fa3AgNha_QnBGc_HubVqkTCQy")
+        imageKimdas5 = Image.open('Resource/image/Kimdas/Picture4.jpg')
+        st.image(imageKimdas5)
         st.write(
             """
             Jadi, senyawa HNO3 memiliki satu ikatan kovalen koodinasi dan 2 ikatan kovalen.
@@ -293,7 +294,8 @@ Gaya tarik menarik memainkan peran penting dalam pembentukan larutan. Bila zat t
 3. Interaksi pelarut-zat terlarut.
 Proses pelarutan dibagi menjadi tiga tahap :
             """)
-        st.image("https://photos.google.com/u/2/album/AF1QipMK4HoKNipSDAoodvhXAuspTfcZW_wdLzKAgFzs/photo/AF1QipPofJTjGRK6KkFFPNUrmwpt_JTtcW0WllqSdEwl")
+        imageKimdas1 = Image.open('Resource/image/Kimdas/fisis1.jpg')
+        st.image(imageKimdas1)
         st.write(
             """
             Proses pelarutan dipengaruhi oleh dua faktor. Faktor pertama adalah energi, yang menentukan apakah proses berlangsung eksotermik atau endotermik. Faktor kedua adalah kecenderungan hakiki menuju ketidakteraturan dalam semua kejadian dialam. 
