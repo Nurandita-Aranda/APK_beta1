@@ -6,11 +6,11 @@ st.set_page_config(
 )
 
 st.markdown("<h1 style='text-align: center; color: raisin black;'>Easy Chemistry</h1>", unsafe_allow_html=True)
-st.subheader("Tanya apa saja ke Pollo")
+st.subheader("Tanya apa saja ke Fayans")
 
 opsi1 = st.button("Curhat boleh?")
-
 opsi2 = st.button("Kayaknya ada yang nge-bug deh, Fayans")
+opsi3 = st.button("Disini ada fitur apa aja, Fayans?")
 if opsi1:
     st.write(
         """
@@ -24,6 +24,12 @@ elif opsi2:
         Wah, kakak bisa langsung kirim saja keluhan kakak di halaman "Report" yang ada di sidebar.
         
         Sini kak, Fayans arahin biar nggak kesasar
+        """)
+    
+elif opsi3:
+    st.write(
+        """
+        Kakak punya mata, kan? Usaha dikit napa, cari! Bocah-bocah kelompok 4nya udah capek nih //nggak2 canda, nanti ini gw ketik besok
         """)
 
 st.sidebar.success("Select a page above")
