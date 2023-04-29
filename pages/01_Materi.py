@@ -292,6 +292,7 @@ Gaya tarik menarik memainkan peran penting dalam pembentukan larutan. Bila zat t
 1. Interaksi pelarut-pelarut.
 2. Interaksi zat pelarut-zat terlarut.
 3. Interaksi pelarut-zat terlarut.
+
 Proses pelarutan dibagi menjadi tiga tahap :
             """)
         imageKimdas1 = Image.open('Resource/image/Kimdas/fisis1.jpg')
@@ -746,7 +747,8 @@ FeCl3 = Ferri klorida atau besi (III) klorida
         
     if optionanjen == "Satuan Konsentrasi":
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Satuan Konsentrasi</h2>", unsafe_allow_html=True)
-        st.image("https://lh3.googleusercontent.com/eOpuDrN1ooOt6QSapIlw3ZievbUDwE0azDWkjEdp1B_VDOwsLbpmFne72Y4QwJtJjLzXH47tsmpJwlog4qlPE-CYz6vqB3iybF3c2A-8RnjvTulRRXAjXStAhiVBNTJzsYrQH0n-pxEUCFiZR-IaZePhxx9voqLhiV9afy3DQrlAVVqwL2ynTy8iSR-2OI5CKO3g2l4ZeSv9lzeiDgL96FO4TQL_iyApywFNviJINX5PkdBjJLpVfxlb1-Fg1oU3soJlOc_gjavLRNoWv85biE_lIYmMYgAyvAyDIjj_FyDf2XghgFoSZF8S-h9zgtdhoku8rb1O-1M3nk1wFfwnxNG4RacQ_pvQwdrn-vb1ANtBx8e5YrhwIvX7J98SMeMeY9cglwFxOByAxLM8rE3B6yLaKQr8TvWocR8rcDn_m1MrF7A2sUDVtOefMyKT9moNMgYS18dsBn33A8pFVr7NYYOkuHxyD3dPZiSUjCEn755sOvafEXxBJYgUEJE8qoea-dWCyZOMW7-NKhBPP16m1D_b9Byzn0d7ZoAjtGQJTcBNwVMVMdPkJs_boZXlcNjrkBfYCyZNxHtfcI0W6sURZ7OyUAB6LyR4WHiRDjv8fCDXEmmU-obSI8tyaJi_BZTDDOiUXOfiuIG7sevnCN_6qCqJcy105YlMrMTSzPjvII6tc3tWPHnP2aG6qfcyslvLExq1QH25itHdjZc291gft6YqfkduaoKhqudQP0PAod07OG-TUGH2mTMav0Fg1mp2YF8xMvQiUD-PZPKtuRiVoeP4ep_CRYHQI1yS8qTnyljITtyw-TbC9O445QJUvfBGksg2g6Z_iOVBLFI1-LuyKWoA8bhRC2ULA2CnOZAJikotYlngi45VQ3TIxYH9qKJxPBkIBRw7z_7dasfgaH7uWGk7TFTnJ5dTWlS1meQKhtAVV0g=w256-h173-s-no?authuser=0")    
+        imageAnjen1 = Image.open('Resource/image/Anjen/images.jpeg')
+        st.image(imageAnjen1)
         st.write(
             """
       Gambar 1. Konsep Mol (Sumber : temukanpengertian.com )
@@ -766,7 +768,8 @@ Mol = 10/180  = 0,05
 """)
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Hukum proust</h2>", unsafe_allow_html=True)
         st.write("Bunyi hukum Proust  “perbandingan massa unsur-unsur penyusun suatu senyawa selalu tetap”")
-        st.image("https://lh3.googleusercontent.com/Yki-PivXC7_1r-jpieqJWwfrSQpZf5TQcMon-z2Ku5sp8g2qBCIHdXtTv6hOXKQ3FPgW_O80b9ooQpdcXH6753_sEtm5IQFHmILjjTHdu_-0Bn5GS4aMGoCedweRUPCSKGRvbpK4FEt0qgaoVbJYVf90jxtjN66iG7VpDVKxgmmEsWxhQYOKt_1-g-saUBlC1mxGarZAAJuC4qlrzG8CfsX8btvhB1UNm8Or7gUPZLXerzgZ_2MwlUcDYG-E-cLgLIED6DgoXLGNuZ_yBUDRg-EvywWffzWHkaVqVpVpUohxxXi5miIBhl5sd8AQtd3dBJgNoen9lz62QAHRG6_qYVwhzO7hWP00CFo06ZSZxGTi5Gl6CEOhA5EnQDA1PaUbp-1yt--lnDlQU8GKLlYjLvoM2i4tWRc7-ZkI3YkR0GSXmWe2_N6bvJIxW9E6WQwPnnrEeGeMY10zQThR9jAuTHXY6tjo26deEXFC1hsX5eUpLJuoiP67GFBQcbqO-CwkWAfCxQCpTYZdMyzxLTm-xhN3TVVGz2SfFh_5iLb1jVFh3r5LCOEkYvkJeV0UDdEVYSDqoVdxWhBQq1n4hObtwYgjlg18Gv8-5-naO3DeUjpIaTOq4NHly1-GwqdW1SIjXBZFHfZgk2UNg0H2kU7Ole1m8PRWjquAlab0MrMwTMLrteiKwSsBE1aasrEKLuieUk200SmOnY9RH9P2p3i-qsut7cBTnvqbps2_SIQ66JJ5zDuHTDXoXP8F_aPAl3Zexs_15ATlbNnDZ33vBykouJ0-s9vFVQeF51sKCHxf_eD_-31eEuEJKHZ9Wi03P_zCuPscN5sqmJkbZiSjOx_8flRnqZBjkj7zeZlg34fmHmTI_vJ5aSfZExDHG2sXTQYxv8ks3-C04r2uYFlLD7_7Xg2zUi5pTAHA2MfKBQHKalINLlE=w959-h432-s-no?authuser=0")
+        imageAnjen2 = Image.open('Resource/image/Anjen/images1.jpg')
+        st.image(imageAnjen2)
         st.write(
             """
       Contoh :
