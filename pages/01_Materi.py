@@ -2044,6 +2044,15 @@ Jika ada 2 gugus substituen, penamaan diberikan dengan nomor atau awalan orto (o
         st.write("2.	Sulfonasi")
         imageKO5 = Image.open('Resource/image/Kimor/Sulfonasi_benzena.png')
         st.image(imageKO5)
+        st.markdown(
+            """
+            Pembuatan:
+            
+Distilasi tar batu bara (_coal-tar_): distilasi fraksi _light oil_ yang mengandung benzena dan toluena 
+            """)
+        st.write(" ")
+        st.caption("Download Materi")
+        st.write("Google Drive: [link](https://drive.google.com/file/d/1ZdXOtY3lRtCsXLTEcNpiVvuiyGmea_Ct/view?usp=sharing)")
         
     if optionKO == "Alkohol dan Fenol":
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Alkohol</h2>", unsafe_allow_html=True)
