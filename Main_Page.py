@@ -9,19 +9,19 @@ st.markdown("<h1 style='text-align: center; color: raisin black;'>Easy Chemistry
 st.subheader("Tanya apa saja ke Pollo")
 
 opsi1 = st.button("Curhat boleh?")
+
+opsi2 = st.button("Kayaknya ada yang nge-bug deh, Fayans")
 if opsi1:
     st.write(
         """
         Wah, boleh banget kak!
         
-        kakak bisa langsung chat aja akun Fayans [>disini<](https://wa.me/message/TULJ2JKFOI4HN1). Fayans selalu siap dengerin keluh kesah kakak.
+        kakak bisa langsung chat aja akun Fayans [disini](https://wa.me/message/TULJ2JKFOI4HN1). Fayans selalu siap dengerin keluh kesah kakak.
         """)
-
-opsi2 = st.button("Kayaknya ada yang nge-bug deh, Fayans")
-if opsi2:
+elif opsi2:
     st.write(
         """
-        Wah, kakak bisa langsung kirim saja keluhan kakak di halaman "report" yang ada di sidebar.
+        Wah, kakak bisa langsung kirim saja keluhan kakak di halaman "Report" yang ada di sidebar.
         
         Sini kak, Fayans arahin biar nggak kesasar
         """)
