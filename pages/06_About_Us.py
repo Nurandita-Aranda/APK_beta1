@@ -23,7 +23,7 @@ st.write("instagram: [@nurandita_a.p](https://www.instagram.com/nurandita_a.p/)"
 st.markdown("<h2 style='text-align: center; color: raisin black;'>Puspita Erawati Surbakti	</h2>", unsafe_allow_html=True)
 st.write("Sujud syukur proyek ini kelar juga")
 st.write("email: puspita.e.s030304@gmail.com")
-st.write("Instagram: [@P.era](https://www.instagram.com/P.era/)")
+st.write("Instagram: [@k.p.era](https://www.instagram.com/k.p.era/)")
 
 #Firli
 st.markdown("<h2 style='text-align: center; color: raisin black;'>Nabila Firliana Maudy</h2>", unsafe_allow_html=True)
