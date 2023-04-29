@@ -17,7 +17,7 @@ if opsi1:
         kakak bisa langsung chat aja akun Fayans [>disini<](https://wa.me/message/TULJ2JKFOI4HN1). Fayans selalu siap dengerin keluh kesah kakak.
         """)
 
-opsi2 = st.button("Kayaknya ada yang nge-bug deh, Fayans"):
+opsi2 = st.button("Kayaknya ada yang nge-bug deh, Fayans")
 if opsi2:
     st.write(
         """
