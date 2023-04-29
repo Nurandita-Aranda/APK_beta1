@@ -976,7 +976,50 @@ if option == "Kimia Organik":
         elif opsi4:
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
-
+    if result == "soal 9":
+        st.markdown("Alkohol memiliki titik didih lebih tinggi dibanding aldehida dan keton dengan bobot molekul yang sama dikarenakan adanya ...")
+        col1, col2 = st.columns(2)
+        with col1:
+            opsi1 = st.button("Ikatan hidrogen")
+            opsi2 = st.button("Ikatan karbon")
+        with col2:
+            opsi3 = st.button("Gaya Van Der Waals")
+            opsi4 = st.button("Gaya London")
+        if opsi1:
+            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.success("soal selanjutnya!")
+            st.balloons()
+        elif opsi2:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi3:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+    if result == "soal 10":
+        st.markdown("Senyawa karbon berikut ini yang merupakan senyawa hidrokarbon adalah ...")
+        col1, col2 = st.columns(2)
+        with col1:
+            opsi1 = st.button("Asetilkolin")
+            opsi2 = st.button("Asetilena")
+        with col2:
+            opsi3 = st.button("Aseton")
+            opsi4 = st.button("t-butil alkohol")
+        if opsi1:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi2:
+            st.markdown("<h2 style='text-align: center; color: green;'>Benar!!</h2>", unsafe_allow_html=True)
+            st.success("soal selanjutnya!")
+            st.balloons()
+        elif opsi3:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
+        elif opsi4:
+            st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
+            st.error('Coba lagi!')
 		
 
 if option == "Fisika Dasar":
@@ -984,10 +1027,7 @@ if option == "Fisika Dasar":
         'pilih soal',
         options=['soal 1', 'soal 2', 'soal 3', 'soal 4', 'soal 5', 'soal 6', 'soal 7', "soal 8", "soal 9", "soal 10"])
     if result == "soal 1":
-        st.write(
-            """
-	    Sebuah mobil bergerak dengan kecepatan konstan 20 m/s selama 10 detik. Berapa jarak yang ditempuh mobil tersebut?
-	    """)
+        st.write("Sebuah mobil bergerak dengan kecepatan konstan 20 m/s selama 10 detik. Berapa jarak yang ditempuh mobil tersebut?")
         col1, col2 = st.columns(2)
         with col1:
             opsi1 = st. button("20 meter")
