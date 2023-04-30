@@ -460,6 +460,30 @@ Kegunaan BISMUT
 
 •      Bismut sedang dikembangkan sebagai katalis dalam pembuatan acrilic fiber 29
 """)
+  elif opsi6:
+       st.markdown("<h2 style='text-align: center; color: black;'>Ununpentium(Uup)</h2>", unsafe_allow_html=True)
+       st.write(
+           """
+Ar : 288
+
+Nomor Atom: 115
+
+Konfigurasi Atom: [Rn] 5f14 6d10 7s2 7p3
+
+Banyak ditemukan: -
+
+Golongan: -
+
+Wujud: -
+
+Ununpentium atau sekarang ini disebut dengan Moscovium adalah unsur sintetis radioaktif yang sedikit diketahui. Ini diklasifikasikan sebagai logam dan diharapkan padat pada suhu kamar. Ini meluruh dengan cepat ke elemen lain, termasuk nihonium.
+
+Elemen itu sebelumnya telah diberi nama ununpentium, sebuah nama pengganti yang berarti satu-satu-lima dalam bahasa Latin. Pada bulan November 2016, The International Union of Pure and Applied Chemistry (IUPAC) menyetujui nama moscovium untuk elemen 115.
+
+Untuk membuat Ununpentium, para ilmuwan di Rusia dan Amerika Serikat membombardir atom americium dengan ion kalsium dalam sebuah siklotron. Ini menghasilkan empat atom Ununpentium.
+""")
+
+           
 
     
 #Golongan VI
