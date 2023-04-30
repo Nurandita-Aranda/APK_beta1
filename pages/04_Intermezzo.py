@@ -99,7 +99,63 @@ Wujud: logam lunak berwarna putih keperakan
 
 unsur K  teroksidasi dengan cepat di udara dan bereaksi hebat dengan air, menghasilkan panas yang cukup untuk menyalakan hidrogen yang dipancarkan dalam reaksi dan terbakar dengan api berwarna ungu. Ia ditemukan terlarut dalam air laut
 """)
-        
+  elif opsi5:
+         st.markdown("<h2 style='text-align: center; color: black;'>Rubidium (Rb)</h2>", unsafe_allow_html=True)
+         st.write(
+           """
+Ar : 85
+
+Nomor Atom: 37
+
+Konfigurasi Atom:5s1
+
+Banyak ditemukan: rubidium hadir dalam jumlah signifikan pada mineral lain seperti lepodite (1,5%), pollucite, dan carnallite
+
+Golongan: Logam Alkali
+
+Wujud: logam abu-abu keputihan yang sangat lunak
+
+Cara pembuatan: memperoleh Rubidium di lakukan melalui metode reduksi
+
+Rubidium tidak dapat disimpan di bawah oksigen atmosfer, karena reaksi eksoterm yang sangat tinggi akan terjadi, kadang-kadang bahkan mengakibatkan logam ini terbakar.
+""")
+  elif opsi6:
+         st.markdown("<h2 style='text-align: center; color: black;'>Cesium (Cs)</h2>", unsafe_allow_html=True)
+         st.write(
+           """
+Ar: 133
+
+Nomor Atom: 55
+
+Konfigurasi Elaktron:[Xe] 6s1
+
+Banyak ditemukan: cesium sendiri merupakan elemen yang secara alami ditemukan dalam jumlah kecil di dalam batu, tanah, dan debu.(1,5%), pollucite, dan carnallite
+
+Golongan: Logam Alkali
+
+Wujud: cesium sendiri merupakan elemen yang secara alami ditemukan dalam jumlah kecil di dalam batu, tanah, dan debu.
+
+cesium sendiri merupakan elemen yang secara alami ditemukan dalam jumlah kecil di dalam batu, tanah, dan debu.
+""")
+  elif opsi7:
+       st.markdown("<h2 style='text-align: center; color: black;'>Fransium (Fr)</h2>", unsafe_allow_html=True)
+       st.write(
+         """
+Ar: 223
+
+Nomor Atom: 87
+
+Konfigurasi Elektron:[Rn] 7s1
+
+Banyak ditemukan: Fr adalah hasil peluruhan alfa dariAc dan dapat ditemukan dalam jumlah kecil dalam mineral uranium
+
+Golongan: Logam Alkali
+
+Wujud: Logam berwarna merah bata
+
+Cara pembuatan: Fransium dapat disintesis melalui reaksi fusi ketika target emas-197 dibombardir dengan seberkas atom oksigen-18 dari akselerator linear dalam proses yang awalnya dikembangkan di departemen fisika Universitas Negeri New York di Stony Brook pada tahun 1995.
+""")
+  
   
 
       
