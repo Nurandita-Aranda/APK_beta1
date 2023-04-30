@@ -250,7 +250,7 @@ Ar: 19
 
 Nomor Atom: 9
 
-Konfigurasi Elaktron: [He] 2s²2p⁵
+Konfigurasi Elektron: [He] 2s²2p⁵
 
 Banyak ditemukan: Unsur ini ditemukan dalam air, batuan, tumbuhan, dan tanah sebagai Fluorida.
       
@@ -268,7 +268,7 @@ Ar: 35,5
 
 Nomor Atom: 17
 
-Konfigurasi Elaktron:[Ne] 3s²3p⁵
+Konfigurasi Elektron:[Ne] 3s²3p⁵
 
 Banyak ditemukan: Klorin banyak ditemukan bersenyawa dengan unsur natrium membentuk garam dapur, serta ditemukan dalam karnalit dan silvit.
       
@@ -282,65 +282,71 @@ Unsur ini merupakan elemen sangat reaktif dan oksidator kuat, klorin mempunyai a
     st.markdown("<h2 style='text-align: center; color: raisin black;'>Bromin (Br)</h2>", unsafe_allow_html=True)
     st.write(
       """
-Ar: 
+Ar: 80
 
-Nomor Atom: 
+Nomor Atom: 35
 
-Konfigurasi Elaktron:
+Konfigurasi Elektron: [Ar] 4s²3d¹⁰4p⁵
 
-Banyak ditemukan: 
+Banyak ditemukan: bromin dalam bentuk bromida banyak ditemukan di alam pada batuan mineral dan air laut. 
       
-Golongan: 
+Golongan: Halogen
       
-Wujud:
+Wujud: Cairan
+
+Unsur dari deret kimia halogen ini berbentuk cairan berwarna merah pada suhu kamar dan memiliki reaktivitas di antara klor dan yodium. Dalam bentuk cairan, zat ini bersifat korosif terhadap jaringan sel manusia dan uapnya menyebabkan iritasi pada mata dan tenggorokan. Dalam bentuk gas, bromin bersifat toksik.
       """)
   elif opsi4:
     st.markdown("<h2 style='text-align: center; color: raisin black;'>Iodin (I)</h2>", unsafe_allow_html=True)
     st.write(
       """
-Ar: 
+Ar: 127
 
-Nomor Atom: 
+Nomor Atom: 53
 
-Konfigurasi Elaktron:
+Konfigurasi Elektron:[Kr] 4d¹⁰ 5s² 5p⁵
 
-Banyak ditemukan: 
+Banyak ditemukan: Iodin dapat ditemukan di makanan yang bersumber dari tanah atau laut. Iodin juga dapat ditemukan terutama pada makanan protein hewani dan sayuran laut. Selain itu, mineral ini juga terdapat pada makanan seperti roti, sereal, dan susu
       
-Golongan: 
+Golongan: Halogen
       
-Wujud:
+Wujud: iodin adalah benda padat abu-abu yang menyublim menjadi uap warna ungu. 
       """)
   elif opsi5:
     st.markdown("<h2 style='text-align: center; color: raisin black;'>Astatin (At)</h2>", unsafe_allow_html=True)
     st.write(
       """
-Ar: 
+Ar: -
 
-Nomor Atom: 
+Nomor Atom: 85
 
-Konfigurasi Elaktron:
+Konfigurasi Elektron: [Xe] 4f¹⁴5d¹⁰6s²6p⁵
 
-Banyak ditemukan: 
+Banyak ditemukan: Astatin merupakan unsur alami yang paling langka di kerak bumi, hanya terjadi sebagai produk peluruhan dari berbagai unsur yang lebih berat.
       
-Golongan: 
+Golongan: Halogen
       
-Wujud:
+Wujud: Padatan
+
+Astatin adalah sebuah unsur yang sangat radioaktif; semua isotopnya memiliki waktu paruh 8,1 jam atau kurang, meluruh menjadi isotop astatin lainnya, bismut, polonium, atau radon. Sebagian besar isotopnya sangat tidak stabil, dengan waktu paruh satu detik atau kurang.
       """)
   elif opsi6:
     st.markdown("<h2 style='text-align: center; color: raisin black;'>Ununseptium (Uus)</h2>", unsafe_allow_html=True)
     st.write(
       """
-Ar: 
+Ar: _
 
-Nomor Atom: 
+Nomor Atom: 117
 
-Konfigurasi Elaktron:
+Konfigurasi Elektron: 5f14 6d10 7s2 7p5 (diprediksi)
 
-Banyak ditemukan: 
+Banyak ditemukan: Ununseptium adalah unsur super berat yang dibuat secara artifisial dan tidak ditemukan secara bebas di bumi.
       
-Golongan: 
+Golongan: Halogen
       
-Wujud :
+Wujud : -
+
+Meskipun saat ini ditempatkan sebagai anggota terberat dari keluarga halogen, tidak ada bukti eksperimental yang sifat kimia dari ununseptium cocok dengan anggota ringan seperti yodium atau astatin dan analisis teoretis menunjukkan mungkin ada beberapa perbedaan penting. Ununseptium secara resmi dikenal sebagai Tennessine
      """)
 
     
