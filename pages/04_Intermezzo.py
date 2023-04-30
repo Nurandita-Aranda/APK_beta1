@@ -47,7 +47,7 @@ Pada suhu dan tekanan standar, hidrogen tidak berwarna, tidak berbau, bersifat n
   elif opsi2:
         st.markdown("<h2 style='text-align: center; color: black;'>Lithium (LI)</h2>", unsafe_allow_html=True)
         st. write (
-            """"
+            """
 Ar : 7
 
 Nomor Atom: 3
