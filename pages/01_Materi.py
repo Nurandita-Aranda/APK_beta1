@@ -2471,42 +2471,29 @@ Berikut ini adalah rumus untuk tiga jenis pemuaian yang umum terjadi:
  
     ΔT = perubahan suhu (dalam satuan derajat Celsius)
  
-   Koefisien muai panjang, muai luas, dan muai volume merupakan konstanta yang
-tergantung pada jenis material dan suhu.
+   Koefisien muai panjang, muai luas, dan muai volume merupakan konstanta yang tergantung pada jenis material dan suhu.
 
-   Jika membicarakan kalor dan termodinamika, maka kita juga berbicara tentang
-‘transfer’nya. Metode transfer panas ada tiga yaitu konduksi, konveksi, dan radiasi. Konduksi,
-konveksi, dan radiasi adalah tiga mode transfer panas yang berbeda. Ketiganya berperan
-penting dalam mengatur suhu benda dan lingkungan sekitarnya. Berikut adalah penjelasan
+   Jika membicarakan kalor dan termodinamika, maka kita juga berbicara tentang ‘transfer’nya. Metode transfer panas ada tiga yaitu konduksi, konveksi, dan radiasi. Konduksi,
+konveksi, dan radiasi adalah tiga mode transfer panas yang berbeda. Ketiganya berperan penting dalam mengatur suhu benda dan lingkungan sekitarnya. Berikut adalah penjelasan
 singkat tentang ketiga mode transfer panas tersebut:
 
 1. Konduksi:
 
-    Konduksi adalah mode transfer panas melalui perpindahan energi panas dari molekul
-ke molekul dalam suatu benda atau antara dua benda yang saling bersentuhan. Panas ditransfer
-dari daerah yang lebih panas ke daerah yang lebih dingin, sampai tercapai kesetimbangan
-termal. Konduksi terjadi karena perbedaan suhu antara dua objek atau antara bagian-bagian
+    Konduksi adalah mode transfer panas melalui perpindahan energi panas dari molekul ke molekul dalam suatu benda atau antara dua benda yang saling bersentuhan. Panas ditransfer
+dari daerah yang lebih panas ke daerah yang lebih dingin, sampai tercapai kesetimbangan termal. Konduksi terjadi karena perbedaan suhu antara dua objek atau antara bagian-bagian
 objek yang berbeda. Konduksi terutama terjadi pada benda padat.
 
 2. Konveksi:
 
-    Konveksi adalah mode transfer panas melalui pergerakan massa dari satu tempat ke
-tempat lain yang mengalirkan energi panas bersama-sama. Konveksi terjadi karena adanya
-perbedaan suhu dan densitas dari benda yang mengalir. Udara, air, dan gas lainnya biasanya
-terlibat dalam proses konveksi. Konveksi dapat terjadi baik pada benda padat maupun fluida.
+    Konveksi adalah mode transfer panas melalui pergerakan massa dari satu tempat ke tempat lain yang mengalirkan energi panas bersama-sama. Konveksi terjadi karena adanya
+perbedaan suhu dan densitas dari benda yang mengalir. Udara, air, dan gas lainnya biasanya terlibat dalam proses konveksi. Konveksi dapat terjadi baik pada benda padat maupun fluida.
 
 3. Radiasi:
 
-    Radiasi adalah mode transfer panas melalui pancaran gelombang elektromagnetik yang
-membawa energi panas dari sumber panas ke benda lainnya. Radiasi terjadi karena semua
-benda yang memiliki suhu di atas nol mutlak akan memancarkan energi dalam bentuk
-gelombang elektromagnetik. Radiasi dapat terjadi dalam hampa udara, sehingga dapat terjadi
-pada benda padat, cair, atau gas.
+    Radiasi adalah mode transfer panas melalui pancaran gelombang elektromagnetik yang membawa energi panas dari sumber panas ke benda lainnya. Radiasi terjadi karena semua
+benda yang memiliki suhu di atas nol mutlak akan memancarkan energi dalam bentuk gelombang elektromagnetik. Radiasi dapat terjadi dalam hampa udara, sehingga dapat terjadi pada benda padat, cair, atau gas.
 
-   Ketiga mode transfer panas ini sering kali terjadi bersamaan dalam suatu sistem dan
-saling mempengaruhi. Penting untuk memahami prinsip-prinsip dasar ketiga mode transfer
-panas ini untuk dapat menerapkan teknik-teknik pengaturan suhu yang efektif pada berbagai
-aplikasi teknik dan industri.
+   Ketiga mode transfer panas ini sering kali terjadi bersamaan dalam suatu sistem dan saling mempengaruhi. Penting untuk memahami prinsip-prinsip dasar ketiga mode transfer panas ini untuk dapat menerapkan teknik-teknik pengaturan suhu yang efektif pada berbagai aplikasi teknik dan industri.
            """)
         st.write(" ")
         st.caption("Download Materi")
