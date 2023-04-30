@@ -34,7 +34,7 @@ Ar : 1
 
 Nomor Atom: 1
 
-Konfigurasi Atom: 1S^1
+Konfigurasi elektron: 1S^1
 
 Banyak ditemukan: Hidrogen ada dimana saja, dan merupakan unsur yang paling banyak ditemukan di alam semesta
 
@@ -52,9 +52,10 @@ Ar : 7
 
 Nomor Atom: 3
 
-Konfigurasi Atom: 1S^2 2s^1
+Konfigurasi elektron: 1S^2 2s^1
 
 Banyak ditemukan: Litium tidak pernah terdapat sebagai unsur bebas di alam, tapi hanya sebagai senyawa (biasanya ionik)
+
 Golongan: Logam Alkali
 
 Wujud: Logam lunak berawarna keperakan
@@ -71,7 +72,7 @@ Ar : 23
 
 Nomor Atom:11
 
-Konfigurasi Atom: 1S^2 2s^2 2P^6 3S^1
+Konfigurasi elektron: 1S^2 2s^2 2P^6 3S^1
 
 Banyak ditemukan: Natrium adalah unsur keenam paling melimpah dalam kerak bumi, dan terdapat di banyak mineral seperti feldspar, sodalit dan halit
 
@@ -89,7 +90,7 @@ Ar : 39
 
 Nomor Atom: 19
 
-Konfigurasi Atom: 1S^2 2s^2 2P^6 3S^2 3P^6 4S^1
+Konfigurasi elektron: 1S^2 2s^2 2P^6 3S^2 3P^6 4S^1
 
 Banyak ditemukan: Kalium di alam hanya terdapat pada garam ionik.
 
@@ -107,7 +108,7 @@ Ar : 85
 
 Nomor Atom: 37
 
-Konfigurasi Atom:5s1
+Konfigurasi elektron:5s1
 
 Banyak ditemukan: rubidium hadir dalam jumlah signifikan pada mineral lain seperti lepodite (1,5%), pollucite, dan carnallite
 
@@ -127,7 +128,7 @@ Ar: 133
 
 Nomor Atom: 55
 
-Konfigurasi Elaktron:[Xe] 6s1
+Konfigurasi Elaktron:[Xe] 6s^1
 
 Banyak ditemukan: cesium sendiri merupakan elemen yang secara alami ditemukan dalam jumlah kecil di dalam batu, tanah, dan debu.(1,5%), pollucite, dan carnallite
 
@@ -145,7 +146,7 @@ Ar: 223
 
 Nomor Atom: 87
 
-Konfigurasi Elektron:[Rn] 7s1
+Konfigurasi Elektron:[Rn] 7s^1
 
 Banyak ditemukan: Fr adalah hasil peluruhan alfa dariAc dan dapat ditemukan dalam jumlah kecil dalam mineral uranium
 
