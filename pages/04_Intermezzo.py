@@ -325,6 +325,142 @@ if optiongolongan == "Golongan V":
     opsi3 = st.button("Arsenik (As)")
   with col4:
     opsi4 = st.button("Antimon (Sb)")
+  if opsi1:
+     st.markdown("<h2 style='text-align: center; color: raisin black;'>Nitrogen(N)</h2>", unsafe_allow_html=True)
+     st.write(
+        """
+Ar : 14
+
+Nomor Atom: 7
+
+Konfigurasi Atom: [He] 2s^2 2p^3
+
+Banyak ditemukan:  Nitrogen mengisi 78,08 persen atmosfir Bumi dan terdapat dalam banyak jaringan hidup.
+
+Golongan: non-logam
+
+Wujud: Gas tanpa warna,tidak berbau dan tidakberasa.
+
+Nitrogen adalah zat non yang logam tidak berwarna dan tidak berbau, dengan elektronegatifitas 3.0. Mempunyai 5 elektron di kulit terluarnya. Ikatan rangkap tiga dalam molekul gas nitrogen (N2) adalah yang terkuat. Nitrogen mengembun pada suhu 77K (-196oC) pada tekanan atmosfer dan membeku pada suhu 63K (-210oC)
+""")
+  elif opsi2:
+       st.markdown("<h2 style='text-align: center; color: black;'>Fosfor(P)</h2>", unsafe_allow_html=True)
+       st.write(
+           """
+Ar : 30,97
+
+Nomor Atom: 15
+
+Konfigurasi Atom: : 1s2 2s2 2p6 3s2 3p3.
+
+Banyak ditemukan: tidak terdapat bebas, banyak sekali di kerak bumi dalam kombinasi dengan unsur lain dan juga terdapat dalam mineral. 
+
+Golongan: non-logam
+
+Wujud: padatan lunak, lembut, berwarna putih, serbuk merah kecoklatan, atau padatan coklat
+
+Kegunaan
+
+• Membentu pertumbuhan protein dan miniral yg sangat tinggi bagi tanaman. Bertugas mengedarkan energi keseluruh bagian tanaman.
+
+• Merangsang pertumbuhan dan perkembangan akar.
+
+• Mempercepat membungaan dan pembuahan tanaman.
+
+• Mempercepat pemasakan biji dan buah.
+
+Pembuatan
+
+• Dalam prosesnya, Ca3(PO4)2 dicampur dengan karbon dan silika (SiO2) pada temperature 1400⁰C - 1500⁰C (dengan bunga api listrik). SiO2 bereaksi dengan Ca3(PO4)2 pada temperature tersebut mengahasilkan P4O10 (g).
+  Reaksinya sebagai berikut :
+    
+                             2 Ca3(PO4)2 (l)  + 6 SiO2 (l) → 6 CaSiO3 (l)  + P­4O10 (g)
+
+• Kemudian , P­4O10 (g) direduksi dengan karbon , reaksinya sebagai berikut :
+                             
+                             P­4O10 (g)  + C (s) → P4 (g)  + 10 CO2 (g)
+
+• P4­ (g) yang terjadi dikristalkan dan disimpan di dalam CS2 cair atau di dalam air. Hal itu guna menghindari terjadinya oksidasi dengan oksigen  dari udara yang cepat terjadi pada temperatur 30⁰C berupa nyala fosfor. P4 hasil pengolahan merupakan salah satu bentuk alotropi fosfor, yaitu fosfor putih.
+""")
+  elif opsi3:
+       st.markdown("<h2 style='text-align: center; color: black;'>Arsen (As)</h2>", unsafe_allow_html=True)
+       st.write(
+           """
+Ar : 208,98
+
+Nomor Atom: 83
+
+Konfigurasi Atom: [Ar] 3d¹⁰ 4s² 4p²
+
+Banyak ditemukan: 
+
+Golongan: non-logam
+
+Wujud: -Non-logam yang berlapis berwarna abu-abu, rapuh
+
+Logam ini bewarna abu-abu, sangat rapuh, kristal dan semi-metal benda padat. Ia berubah warna dalam udara,dan ketika dipanaskan teroksida sangat cepat menjadi arsen oksida dengan baubawang. Arsen dan senyawa-senyawanya sangat beracun.
+
+Kegunaan (As)
+
+• Berbagai macam insektisida dan racun
+
+• material semikonduktor penting dalam sirkuit terpadu. Sirkuit dibuat menggunakan komponen ini lebih cepat tapi juga lebih mahal daripada terbuat dari silikon.
+""")
+  elif opsi4:
+       st.markdown("<h2 style='text-align: center; color: black;'>Antimon (Sb)</h2>", unsafe_allow_html=True)
+       st.write(
+           """
+Ar : 121,76
+
+Nomor Atom: 51
+
+Konfigurasi Atom: [Kr] 4d^10 5s^2 5p^3
+
+Banyak ditemukan: Timah(IV) oksida sering dijumpai di tanah dengan konsentrasi 0,1 hinggga 300 ppm.
+
+Golongan: non-logam
+
+Wujud: kristal padat yang rapuh.
+
+Antimon merupakan unsur dengan warna putih keperakan, berbentuk kristal padat yang rapuh. Daya hantar listrik (konduktivitas) dan panasnya lemah. Zat ini menyublim (menguap dari fase padat) pada suhu rendah. Sebagai sebuah metaloid, antimon menyerupai logam dari penampilan fisiknya tetapi secara kimia ia bereaksi berbeda dari logam sejati. Termasuk racun .
+
+Kegunaan Antimon (Sb)
+
+• produksi industri semikonduktor dalam produksi diode dan detektor infra merah.
+
+• sebagai sebuah campuran, logam semu ini meningkatkan kekuatan mekanik bahan.
+
+• sebagai penguat timbal untuk batere. Kegunaan-kegunaan lain adalah campuran antigores, korek api, obat-obatan, dan pipa. 
+""")
+  elif opsi5:
+       st.markdown("<h2 style='text-align: center; color: black;'>Bismut(Bi)</h2>", unsafe_allow_html=True)
+       st.write(
+           """
+Ar : 208,98
+
+Nomor Atom: 83
+
+Konfigurasi Atom:  [Xe] 4f14 5d10 6s2 6p3
+
+Banyak ditemukan: Ia muncul di alam tersendiri.
+
+Golongan: non-logam
+
+Wujud: kristal putih
+
+Unsur ini merupakan kristal putih, logam yang rapuh dengan campuran sedikit bewarna merah jambu. Ia muncul di alam tersendiri. Bismut merupakan logam paling diamagnetik, dan konduktor panas yang paling rendah di antara logam, kecuali raksa. Ia memiliki resitansi listrik yang tinggi dan memiliki efek Hall yang tertinggi di antara logam (kenaikan yang paling tajam untuk resistansi listrik jika diletakkan di medan magnet).
+
+Kegunaan BISMUT
+
+•      Bismut oxychloride digunakan dalam bidang kosmetik dan bismut subnitratedan subcarbonate digunakan dalam bidang obat-obatan.
+
+•      Magnet permanen yang kuat bisa dibuat dari campuran bismanol (MnBi)
+
+•      Bismut digunakan dalam produksi besi lunak 
+
+•      Bismut sedang dikembangkan sebagai katalis dalam pembuatan acrilic fiber 29
+""")
+
     
 #Golongan VI
 if optiongolongan == "Golongan VI":
