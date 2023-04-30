@@ -465,33 +465,37 @@ Xenon diperoleh dari udara yang dicairkan. Xenon dipergunakan untuk mengisi lamp
     st.markdown("<h2 style='text-align: center; color: raisin black;'>Radon (Rn)</h2>", unsafe_allow_html=True)
     st.write(
       """
-Ar: 
+Ar: -
 
-Nomor Atom: 
+Nomor Atom: 86
 
-Konfigurasi Elaktron:
+Konfigurasi Elaktron: [Xe] 4f145d106s26p6
 
-Banyak ditemukan: 
+Banyak ditemukan: Konsentrasi radon yang tinggi dapat ditemukan di beberapa mata air dan mata air panas. 
       
-Golongan: 
+Golongan: Gas Mulia
       
-Wujud :
+Wujud : Gas
+
+Radon adalah sebuah gas mulia yang bersifat radioaktif, tak berwarna, tak berbau, dan tak berasa. Ia terjadi secara alami dalam jumlah kecil sebagai perantara dalam rantai peluruhan radioaktif normal di mana torium dan uranium perlahan-lahan meluruh menjadi berbagai unsur radioaktif berumur pendek dan timbal. Radon sendiri merupakan produk peluruhan langsung dari radium. 
      """)
   elif opsi7:
     st.markdown("<h2 style='text-align: center; color: raisin black;'>Ununoktium (UuO)</h2>", unsafe_allow_html=True)
     st.write(
       """
-Ar: 
+Ar: -
 
-Nomor Atom: 
+Nomor Atom: 118
 
-Konfigurasi Elaktron:
+Konfigurasi Elaktron:  5f14 6d10 7s2 7p6 (diprediksi)
 
-Banyak ditemukan: 
+Banyak ditemukan: -
       
-Golongan: 
+Golongan: Gas Mulia
       
-Wujud :
+Wujud : Gas
+
+Ununoktium (dikenal juga dengan nama eka-radon) merupakan nama sementara untuk unsur kimia sintetik super berat yang dalam tabel periodik bersimbolkan Uuo dan bernomor atom 118. Unsur ini diperkirakan memiliki sifat yang sama dengan unsur-unsur segolongannya, yaitu gas luhur.
      """)
   
 
