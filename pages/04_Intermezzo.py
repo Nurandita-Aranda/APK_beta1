@@ -81,7 +81,7 @@ Wujud: logam lunak, putih keperakan
 
 Na sangat reaktif, apinya berwarna kuning, beroksidasi dalam udara, dan bereaksi kuat dengan cairan, sehingga wajib disimpan dalam minyak. Sebab sangat reaktif, natrium hampir tidak pernah ditemukan dalam bentuk unsur murni
 """)
-   elif opsi4:
+  elif opsi4:
          st.markdown("<h2 style='text-align: center; color: black;'>Kalium (K)</h2>", unsafe_allow_html=True)
          st.write(
            """
