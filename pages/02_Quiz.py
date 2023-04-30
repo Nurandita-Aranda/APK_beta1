@@ -242,11 +242,11 @@ Berdasarkan keempat pernyataan tersebut, pernyataan manakah yang termasuk faktor
         st.write("Diketahui sebuah larutan mengandung 5 gram 0,5N H2SO4 dalam 100 mL, Hitunglah Molaritas dari larutan tersebut?")
         col1, col2 = st.columns(2)
         with col1:
-            opsi1 = st.button("1M")
-            opsi2 = st.button("0,25M")
+            opsi1 = st.button("1 M")
+            opsi2 = st.button("0,25 M")
         with col2:
-            opsi3 = st.button("1,25")
-            opsi4 = st.button("0,5M")
+            opsi3 = st.button("1,25 M")
+            opsi4 = st.button("0,5 M")
         if opsi1:
             st.markdown("<h2 style='text-align: center; color: red;'>Salah!!</h2>", unsafe_allow_html=True)
             st.error('Coba lagi!')
