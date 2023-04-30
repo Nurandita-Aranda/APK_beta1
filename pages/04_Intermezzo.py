@@ -26,8 +26,24 @@ if optiongolongan == "Golongan I":
     opsi7 = st.button("Fransium (Fr)")
   with col4:
     opsi4 = st.button("Kalium (K)")
+  if opsi1:
+      st.markdown("<h2 style='text-align: center; color: raisin black;'>Hidrogen (H)</h2>", unsafe_allow_html=True)
+      st.write(
+        """
+Ar : 1
 
-    
+Nomor Atom: 1
+
+Konfigurasi Atom: 1S^1
+
+Banyak ditemukan: Hidrogen ada dimana saja, dan merupakan unsur yang paling banyak ditemukan di alam semesta
+
+Golongan: alkali
+
+Wujud: Gas
+
+Pada suhu dan tekanan standar, hidrogen tidak berwarna, tidak berbau, bersifat non-logam, bervalensi tunggal, dan merupakan gas diatomik yang paling gampang terbakar
+""")    
 #Golongan II
 if optiongolongan == "Golongan II":
   col1, col2, col3, col4 = st.columns(4)
