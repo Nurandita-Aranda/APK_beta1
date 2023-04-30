@@ -355,3 +355,128 @@ if optiongolongan == "Golongan VIII":
     opsi7 = st.button("Ununoktium (UuO)")
   with col4:
     opsi4 = st.button("Kripton (Kr)")
+  if opsi1:
+    st.markdown("<h2 style='text-align: center; color: raisin black;'>Helium (He)</h2>", unsafe_allow_html=True)
+    st.write(
+      """
+Ar: 
+
+Nomor Atom: 
+
+Konfigurasi Elaktron:
+
+Banyak ditemukan: 
+      
+Golongan: 
+      
+Wujud :
+     """)
+  elif opsi2:
+    st.markdown("<h2 style='text-align: center; color: raisin black;'>Neon (Ne)</h2>", unsafe_allow_html=True)
+    st.write(
+      """
+Ar: 
+
+Nomor Atom: 
+
+Konfigurasi Elaktron:
+
+Banyak ditemukan: 
+      
+Golongan: 
+      
+Wujud :
+     """)
+  elif opsi3:
+    st.markdown("<h2 style='text-align: center; color: raisin black;'>Argon (Ar)</h2>", unsafe_allow_html=True)
+    st.write(
+      """
+Ar: 
+
+Nomor Atom: 
+
+Konfigurasi Elaktron:
+
+Banyak ditemukan: 
+      
+Golongan: 
+      
+Wujud :
+     """)
+  elif opsi4:
+    st.markdown("<h2 style='text-align: center; color: raisin black;'>Kripton (Kr)</h2>", unsafe_allow_html=True)
+    st.write(
+      """
+Ar: 
+
+Nomor Atom: 
+
+Konfigurasi Elaktron:
+
+Banyak ditemukan: 
+      
+Golongan: 
+      
+Wujud :
+     """)
+  elif opsi5:
+    st.markdown("<h2 style='text-align: center; color: raisin black;'>Xenon (Xe)</h2>", unsafe_allow_html=True)
+    st.write(
+      """
+Ar: 
+
+Nomor Atom: 
+
+Konfigurasi Elaktron:
+
+Banyak ditemukan: 
+      
+Golongan: 
+      
+Wujud :
+     """)
+  elif opsi6:
+    st.markdown("<h2 style='text-align: center; color: raisin black;'>Radon (Rn)</h2>", unsafe_allow_html=True)
+    st.write(
+      """
+Ar: 
+
+Nomor Atom: 
+
+Konfigurasi Elaktron:
+
+Banyak ditemukan: 
+      
+Golongan: 
+      
+Wujud :
+     """)
+  elif opsi7:
+    st.markdown("<h2 style='text-align: center; color: raisin black;'>Ununoktium (UuO)</h2>", unsafe_allow_html=True)
+    st.write(
+      """
+Ar: 
+
+Nomor Atom: 
+
+Konfigurasi Elaktron:
+
+Banyak ditemukan: 
+      
+Golongan: 
+      
+Wujud :
+     """)
+  
+
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
