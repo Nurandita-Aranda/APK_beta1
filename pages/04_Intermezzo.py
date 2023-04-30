@@ -246,33 +246,37 @@ if optiongolongan == "Golongan VII":
     st.markdown("<h2 style='text-align: center; color: raisin black;'>Fluorin (F)</h2>", unsafe_allow_html=True)
     st.write(
       """
-Ar: 
+Ar: 19
 
-Nomor Atom: 
+Nomor Atom: 9
 
-Konfigurasi Elaktron:
+Konfigurasi Elaktron: [He] 2s²2p⁵
 
-Banyak ditemukan: 
+Banyak ditemukan: Unsur ini ditemukan dalam air, batuan, tumbuhan, dan tanah sebagai Fluorida.
       
-Golongan: 
+Golongan: Halogen
 
-Wujud: 
+Wujud: Gas
+
+Fluorin merupakan Halogen yang paling ringan dan muncul pada kondisi standar sebagai gas diatomik kuning pucat yang sangat beracun
        """)
   elif opsi2:
     st.markdown("<h2 style='text-align: center; color: raisin black;'>Klorin (Cl)</h2>", unsafe_allow_html=True)
     st.write(
       """
-Ar: 
+Ar: 35,5
 
-Nomor Atom: 
+Nomor Atom: 17
 
-Konfigurasi Elaktron:
+Konfigurasi Elaktron:[Ne] 3s²3p⁵
 
-Banyak ditemukan: 
+Banyak ditemukan: Klorin banyak ditemukan bersenyawa dengan unsur natrium membentuk garam dapur, serta ditemukan dalam karnalit dan silvit.
       
-Golongan: 
+Golongan: Halogen
       
-Wujud: 
+Wujud: Gas
+
+Unsur ini merupakan elemen sangat reaktif dan oksidator kuat, klorin mempunyai afinitas elektron tertinggi dan elektronegativitas ketiga tertinggi di belakang oksigen dan fluor
       """)
   elif opsi3:
     st.markdown("<h2 style='text-align: center; color: raisin black;'>Bromin (Br)</h2>", unsafe_allow_html=True)
