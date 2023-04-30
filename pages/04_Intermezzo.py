@@ -43,7 +43,66 @@ Golongan: alkali
 Wujud: Gas
 
 Pada suhu dan tekanan standar, hidrogen tidak berwarna, tidak berbau, bersifat non-logam, bervalensi tunggal, dan merupakan gas diatomik yang paling gampang terbakar
-""")    
+""")
+  elif opsi2:
+        st.markdown("<h2 style='text-align: center; color: black;'>Lithium (LI)</h2>", unsafe_allow_html=True)
+        st. write (
+            """"
+Ar : 7
+
+Nomor Atom: 3
+
+Konfigurasi Atom: 1S^2 2s^1
+
+Banyak ditemukan: Litium tidak pernah terdapat sebagai unsur bebas di alam, tapi hanya sebagai senyawa (biasanya ionik)
+Golongan: Logam Alkali
+
+Wujud: Logam lunak berawarna keperakan
+
+Cara Pembuatan: Logam litium dihasilkan melalui elektrolisis dari campuran leburan 55% litium klorida dan 45% kalium klorida pada suhu sekitar 450 °C
+
+litium sangat reaktif dan terkorosi dengan cepat dan menjadi hitam di udara yang lembap.
+""")
+  elif opsi3:
+        st.markdown("<h2 style='text-align: center; color: black;'>Natrium (Na)</h2>", unsafe_allow_html=True)
+        st.write(
+          """
+Ar : 23
+
+Nomor Atom:11
+
+Konfigurasi Atom: 1S^2 2s^2 2P^6 3S^1
+
+Banyak ditemukan: Natrium adalah unsur keenam paling melimpah dalam kerak bumi, dan terdapat di banyak mineral seperti feldspar, sodalit dan halit
+
+Golongan: Logam Alkali
+
+Wujud: logam lunak, putih keperakan
+
+Na sangat reaktif, apinya berwarna kuning, beroksidasi dalam udara, dan bereaksi kuat dengan cairan, sehingga wajib disimpan dalam minyak. Sebab sangat reaktif, natrium hampir tidak pernah ditemukan dalam bentuk unsur murni
+""")
+   elif opsi4:
+         st.markdown("<h2 style='text-align: center; color: black;'>Kalium (K)</h2>", unsafe_allow_html=True)
+         st.write(
+           """
+Ar : 39
+
+Nomor Atom: 19
+
+Konfigurasi Atom: 1S^2 2s^2 2P^6 3S^2 3P^6 4S^1
+
+Banyak ditemukan: Kalium di alam hanya terdapat pada garam ionik.
+
+Golongan: Logam Alkali
+
+Wujud: logam lunak berwarna putih keperakan
+
+unsur K  teroksidasi dengan cepat di udara dan bereaksi hebat dengan air, menghasilkan panas yang cukup untuk menyalakan hidrogen yang dipancarkan dalam reaksi dan terbakar dengan api berwarna ungu. Ia ditemukan terlarut dalam air laut
+""")
+        
+  
+
+      
 #Golongan II
 if optiongolongan == "Golongan II":
   col1, col2, col3, col4 = st.columns(4)
