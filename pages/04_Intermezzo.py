@@ -218,9 +218,9 @@ Wujud: Karbon di atmosfer berbentuk karbon monoksida,karbon dioksida, dan metana
 
 Karbon merupakan konstituen kunci dari mineral karbonat dan hidrogen karbonat yang mana ditemukan di laut. Info mengejutkan bahwa 22,8% tubuh manusia terdiri dari karbon. Karbon biasa juga disebut arang.
 """)
-    elif opsi2:
-         st.markdown("<h2 style='text-align: center; color: black;'>Silikon(Si)</h2>", unsafe_allow_html=True)
-         st.write(
+  elif opsi2:
+       st.markdown("<h2 style='text-align: center; color: black;'>Silikon(Si)</h2>", unsafe_allow_html=True)
+       st.write(
            """
 Ar : 28
 
