@@ -186,7 +186,7 @@ if optiongolongan == "Golongan III":
     opsi3 = st.button("Galium (Ga)")
   with col4:
     opsi4 = st.button("Indium (In)")
-    
+        
 #Golongan IV
 if optiongolongan == "Golongan IV":
   col1, col2, col3, col4 = st.columns(4)
@@ -200,6 +200,117 @@ if optiongolongan == "Golongan IV":
     opsi3 = st.button("Germanium (Ge)")
   with col4:
     opsi4 = st.button("Timah (Sn)")
+  if opsi1:
+     st.markdown("<h2 style='text-align: center; color: raisin black;'>Karbon(C)</h2>", unsafe_allow_html=True)
+     st.write(
+        """
+Ar : 12
+
+Nomor Atom: 6
+
+Konfigurasi Atom: 1s^2 2s^2 2p^2
+
+Banyak ditemukan: Hidrogen ada dimana saja, dan merupakan unsur yang paling banyak ditemukan di alam semesta
+
+Golongan: non-logam
+
+Wujud: Karbon di atmosfer berbentuk karbon monoksida,karbon dioksida, dan metana.
+
+Karbon merupakan konstituen kunci dari mineral karbonat dan hidrogen karbonat yang mana ditemukan di laut. Info mengejutkan bahwa 22,8% tubuh manusia terdiri dari karbon. Karbon biasa juga disebut arang.
+""")
+    elif opsi2:
+         st.markdown("<h2 style='text-align: center; color: black;'>Silikon(Si)</h2>", unsafe_allow_html=True)
+         st.write(
+           """
+Ar : 28
+
+Nomor Atom: 14
+
+Konfigurasi Atom: [Ne] 3s² 3p²
+
+Banyak ditemukan: Silikon dapat dijumpai di kerak bumi dengan konsentrasi 28%. 
+
+Golongan: non-logam
+
+Wujud: -
+
+Konsentrasi silicon pada air laut bervariasi antara 30 ppb (part per billion) di permukaan air laut hingga 2000 ppb di kedalaman. Debu silikon sering terjadi di atmosfer bumi. Mineral silikat merupakan mineral yang paling banyak ditemukan di alam. Di tubuh manusia, silikon ada sekitar 14,3%.
+""")
+  elif opsi3:
+       st.markdown("<h2 style='text-align: center; color: black;'>Germanium(Ge)</h2>", unsafe_allow_html=True)
+       st.write(
+           """
+Ar : 72,61
+
+Nomor Atom: 32
+
+Konfigurasi Atom: [Ar] 3d¹⁰ 4s² 4p²
+
+Banyak ditemukan: Germanium ditemukan di tanah dengan rata-rata konsentrasi 1 ppm. Di air laut, germanium ada sekitar 0,5 ppt. Germanium dijumpai di tubuh manusia dengan konsentrasi 72,44 ppb.
+
+Golongan: non-logam
+
+Wujud: -
+
+Germanium menyusun sekkitar 2 ppm kerak bumi. Germanium merupakan unsur paling melimpah urutan ke 52.
+""")
+  elif opsi4:
+       st.markdown("<h2 style='text-align: center; color: black;'>Timah(Sn)</h2>", unsafe_allow_html=True)
+       st.write(
+           """
+Ar : 118,71
+
+Nomor Atom: 50
+
+Konfigurasi Atom: [Ar] 3d¹⁰ 4s² 4p²
+
+Banyak ditemukan: Timah(IV) oksida sering dijumpai di tanah dengan konsentrasi 0,1 hinggga 300 ppm.
+
+Golongan: non-logam
+
+Wujud: -
+
+Timah ada di kerak bumi dengan kelimpahan sekitar 2 ppm. Timah merupakan unsur paling melimpah nomor 49. Rata-rata timah ditemukan dengan konsentrasi 1 ppm. 
+""")
+  elif opsi5:
+       st.markdown("<h2 style='text-align: center; color: black;'>Timbal(Pb)</h2>", unsafe_allow_html=True)
+       st.write(
+           """
+Ar : 207,2
+
+Nomor Atom: 82
+
+Konfigurasi Atom: [Xe] 6s² 4f¹⁴ 5d¹⁰ 6p²
+
+Banyak ditemukan: Timbal dijumpai di air laut dengan konsentrasi sekitar 2 ppt. Timbal menyusun 0,17% di tubuh manusia.
+
+Golongan: non-logam
+
+Wujud: -
+
+keberadaan timbal di bumi adalah sekitar 14 ppm. Timbal merupakan unsur paling melimpah ke-36. Di tanah rata-rata timbal ada sekitar 23 ppm. Tetapi jumlah tersebut dapat meningkat hingga 2000 ppm (2%) di drkat pertambangan timbal. 
+""")
+  elif opsi6:
+       st.markdown("<h2 style='text-align: center; color: black;'>Flerofium( FI)</h2>", unsafe_allow_html=True)
+       st.write(
+           """
+Ar : 289
+
+Nomor Atom: 114
+
+Konfigurasi Atom: [Rn] 5f^14 6d^10 7s^2 7p^2
+
+Banyak ditemukan: -
+
+Golongan: non-logam
+
+Wujud: -
+
+Flerofium hanya terdapat di akselerator partikel. sebelumnya bernama Ununquadium adalah unsur kimia buatan dalam sistem periodik unsur yang memiliki lambang Fl (sebelumnya Uuq) dan nomor atom 114. Flevorium diduga memiliki sifat-sifat gas mulia ketimbang sifat-sifat logam. Pada tanggal 29 Mei 2012 nama Flerovium telah disetujui oleh IUPAC setelah sebelumnya menggunakan nama Ununquadium. Nama diambil dari Flerov Laboratory of Nuclear Reactions di Dubna, Rusia, tempat di mana unsur ini dibuat.Oleh karena itu unsur tersebut tidak dapat digambarkan ataupun hanya berbentuk sebuah jumlah kandungan dari unsur tersebut.
+""")
+           
+            
+          
     
 #Golongan V
 if optiongolongan == "Golongan V":
