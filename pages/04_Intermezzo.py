@@ -334,7 +334,7 @@ Astatin adalah sebuah unsur yang sangat radioaktif; semua isotopnya memiliki wak
     st.markdown("<h2 style='text-align: center; color: raisin black;'>Ununseptium (Uus)</h2>", unsafe_allow_html=True)
     st.write(
       """
-Ar: _
+Ar:-
 
 Nomor Atom: 117
 
@@ -369,81 +369,97 @@ if optiongolongan == "Golongan VIII":
     st.markdown("<h2 style='text-align: center; color: raisin black;'>Helium (He)</h2>", unsafe_allow_html=True)
     st.write(
       """
-Ar: 
+Ar: 2
 
-Nomor Atom: 
+Nomor Atom: 2
 
-Konfigurasi Elaktron:
+Konfigurasi Elektron: 1s2
 
-Banyak ditemukan: 
+Banyak ditemukan: Helium ditemukan dalam jumlah besar dalam mineral uranium dan torium, termasuk kleveit, uraninit. karnotit, dan monazit, karena mineral-mineral ini mengemisi partikel alfa (inti helium He2+).
       
-Golongan: 
+Golongan: Gas Mulia
       
-Wujud :
+Wujud : gas terkecuali pada kondisi yang sangat ekstrem.
+
+Helium tak berwarna, tak berbau, tak berasa, tak beracun, hampir inert, berupa gas monatomik, dan merupakan unsur pertama pada golongan gas mulia dalam tabel periodik. Titik didih dan titik lebur gas ini merupakan yang terendah di antara semua unsur. 
      """)
   elif opsi2:
     st.markdown("<h2 style='text-align: center; color: raisin black;'>Neon (Ne)</h2>", unsafe_allow_html=True)
     st.write(
       """
-Ar: 
+Ar: 20,2
 
-Nomor Atom: 
+Nomor Atom: 10
 
-Konfigurasi Elaktron:
+Konfigurasi Elaktron: [He] 2s²2p⁶
 
-Banyak ditemukan: 
+Banyak ditemukan: Di bumi, satu-satunya sumber neon adalah dari ekstraksi udara cair. Neon juga ditemukan di berlian dan beberapa rongga vulkanik. 
       
-Golongan: 
+Golongan: Gas Mulia
       
-Wujud :
+Wujud : Gas
+
+Neon adalah gas monoatomik lengai yang nirwarna dan nirbau pada kondisi standar, dengan massa jenis sekitar dua pertiga udara. Neon memberikan pancaran oranye kemerahan yang berbeda saat digunakan pada lampu pijar neon bertegangan rendah, tabung lucutan, dan tanda iklan neon.[13][14] Garis emisi merah dari neon juga menyebabkan lampu merah dari laser helium–neon. Neon digunakan dalam beberapa tabung plasma dan aplikasi pendingin tetapi memiliki beberapa kegunaan komersial lainnya.
      """)
   elif opsi3:
     st.markdown("<h2 style='text-align: center; color: raisin black;'>Argon (Ar)</h2>", unsafe_allow_html=True)
     st.write(
       """
-Ar: 
+Ar: -
 
-Nomor Atom: 
+Nomor Atom: 18
 
-Konfigurasi Elaktron:
+Konfigurasi Elektron: [Ne] 3s²3p⁶
 
-Banyak ditemukan: 
+Banyak ditemukan: Argon adalah gas mulia yang paling melimpah dan menyumbang sekitar 0,94% dari atmosfer bumi dan sekitar 1,6% dari atmosfer Mars. Atmosfer tipis planet Merkurius terdiri dari sekitar 70% argon.
       
-Golongan: 
+Golongan: Gas Mulia
       
-Wujud :
+Wujud : Gas
+
+Argon memiliki kelarutan mirip oksigen dan sekitar 2,5 kali lebih mudah larut dalam air dari nitrogen.
+
+Unsur kimia inert ini tidak berwarna dan tidak berbau baik dalam bentuk cair dan gas.
+
+Argon diisolasi dari udara dengan fraksinasi, paling sering dengan distilasi fraksional kriogenik, suatu proses yang juga menghasilkan nitrogen murni, oksigen, neon, kripton dan xenon
      """)
   elif opsi4:
     st.markdown("<h2 style='text-align: center; color: raisin black;'>Kripton (Kr)</h2>", unsafe_allow_html=True)
     st.write(
       """
-Ar: 
+Ar: -
 
-Nomor Atom: 
+Nomor Atom: 36
 
-Konfigurasi Elaktron:
+Konfigurasi Elaktron: [Ar] 3d¹⁰4s²4p⁶
 
-Banyak ditemukan: 
+Banyak ditemukan: Kripton terdapat di udara dengan konsentrasi sekitar 1 ppm. Gas ini ditandai dengan spektrum garis-garis cerah hijau dan oranye.
       
-Golongan: 
+Golongan: Gas Mulia
       
-Wujud :
+Wujud : Gas
+
+Pada kondisi normal, kripton bersifat tidak berwarna dan tidak berbau. Namun, apabila diletakkan pada medan listrik bertegangan tinggi, kripton akan memancarkan cahaya berwarna putih.
      """)
   elif opsi5:
     st.markdown("<h2 style='text-align: center; color: raisin black;'>Xenon (Xe)</h2>", unsafe_allow_html=True)
     st.write(
       """
-Ar: 
+Ar: -
 
-Nomor Atom: 
+Nomor Atom: 54
 
-Konfigurasi Elaktron:
+Konfigurasi Elaktron:  [Kr] 4d¹⁰5s²5p⁶
 
-Banyak ditemukan: 
+Banyak ditemukan: Xenon adalah anggota gas mulia atau gas inert. Terdapat di atmosfer kta dengan kandungan satu bagian per dua puluh juta bagian atmosfer. Unsur ini ditemukan dalam bentuk gas, yang dilepaskan dari mineral mata air tertentu, dan dihasilkan secara komersial dengan ekstraksi udara cair. 
       
-Golongan: 
+Golongan: Gas Mulia
       
-Wujud :
+Wujud : Gas
+
+Xenon berupa gas mulia, tak berwarna, tak berbau dan tidak ada rasanya.
+
+Xenon diperoleh dari udara yang dicairkan. Xenon dipergunakan untuk mengisi lampu sorot, dan lampu berintensitas tinggi lainnya, mengisi bilik gelembung yang dipergunakan oleh ahli fisika untuk mempelajari partikel sub-atom.
      """)
   elif opsi6:
     st.markdown("<h2 style='text-align: center; color: raisin black;'>Radon (Rn)</h2>", unsafe_allow_html=True)
