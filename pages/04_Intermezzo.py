@@ -155,10 +155,7 @@ Wujud: Logam berwarna merah bata
 
 Cara pembuatan: Fransium dapat disintesis melalui reaksi fusi ketika target emas-197 dibombardir dengan seberkas atom oksigen-18 dari akselerator linear dalam proses yang awalnya dikembangkan di departemen fisika Universitas Negeri New York di Stony Brook pada tahun 1995.
 """)
-  
-  
-
-      
+   
 #Golongan II
 if optiongolongan == "Golongan II":
   col1, col2, col3, col4 = st.columns(4)
@@ -172,6 +169,117 @@ if optiongolongan == "Golongan II":
     opsi3 = st.button("Kalsium (Ca)")
   with col4:
     opsi4 = st.button("Stronsium (Sr)")
+  if opsi1:
+      st.markdown("<h2 style='text-align: center; color: raisin black;'>Berylium (Be)</h2>", unsafe_allow_html=True)
+      st.write(
+        """
+Ar: 9
+
+Nomor Atom: 4
+
+Konfigurasi Elektron:[He] 2s²
+
+Banyak ditemukan:Beryllium dapat ditemukan dalam beberapa mineral, seperti beryl, kriptoklas, dan epidot
+
+Golongan: Logam Alkali
+
+Wujud: logam alkali tanah berwarna abu-abu-baja yang kuat
+
+Batu permata terkenal yang mengandung berilium tinggi adalah beril (akuamarin, zamrud) dan krisoberil.
+""")
+  elif opsi2:
+        st.markdown("<h2 style='text-align: center; color: black;'>Magnesium (Mg)</h2>", unsafe_allow_html=True)
+        st.write(
+          """
+Ar: 24
+
+Nomor Atom: 12
+
+Konfigurasi Elektron:[Ne] 3s^2
+
+Banyak ditemukan:paling melimpah di alam semesta, biasanya banyak terakumulasi pada batuan beku
+
+Golongan: Logam alkali tanah
+
+Wujud: padatan abu-abu mengkilap 
+
+Magnesium diproduksi dalam penuaan bintang besar dari penambahan sekuensial tiga inti helium ke inti karbon.
+""")
+  elif opsi3:
+        st.markdown("<h2 style='text-align: center; color: black;'>Kalsium (Ca)</h2>", unsafe_allow_html=True)
+        st.write(
+          """
+Ar: 40
+
+Nomor Atom: 20
+
+Konfigurasi Elektron:[Ar] 4s^2
+
+Banyak ditemukan: Kalsium paling banyak ditemukan di batu kapur
+
+Golongan: Logam alkali tanah
+
+Wujud: Dalam bentuk logam, kalsium berwarna perak hingga abu-abu yang seiring waktu bisa berubah warna menjadi kuning pucat
+
+Sifat fisik dan kimianya paling mirip dengan homolognya yang lebih berat, stronsium dan barium. Ia adalah unsur paling melimpah kelima di kerak Bumi, dan logam paling melimpah ketiga, setelah besi dan aluminium
+""")
+  elif opsi4:
+        st.markdown("<h2 style='text-align: center; color: black;'>Stronsium (Sr)</h2>", unsafe_allow_html=True)
+        st.write(
+          """
+Ar: 87
+
+Nomor Atom: 38
+
+Konfigurasi Elektron:[Kr] 5s^2
+
+Banyak ditemukan: Stronsium banyak terdapat di alam sebagai mineral Celestite (SrSO4) dan Strontianite (SrCO3)
+
+Golongan: Logam alkali tanah
+
+Wujud: Logam yang tekstur yang lembut dan berwarna putih
+
+Logam stronsium membentuk lapisan oksida gelap ketika terkena udara, Titik lebur (777 °C) dan didihnya (1377 °C) lebih rendah daripada kalsium (masing-masing 842 °C dan 1484 °C)
+""")
+  elif opsi5:
+        st.markdown("<h2 style='text-align: center; color: black;'>Stronsium (Sr)<Barium (Ba)</h2>", unsafe_allow_html=True)
+        st.write(
+          """
+Ar: 137
+
+Nomor Atom: 56
+
+Konfigurasi Elektron: [Xe] 6s2
+
+Banyak ditemukan: Barium tidak pernah ditemukan di alam sebagai unsur bebas karena reaktivitas kimianya yang tinggi.
+
+Golongan: Logam alkali tanah
+
+Wujud: logam lunak putih keperakan, dengan sedikit nuansa emas saat ultra murni
+
+logam lunak putih keperakan, dengan sedikit nuansa emas saat ultra murni
+""")
+   elif opsi6:
+        st.markdown("<h2 style='text-align: center; color: black;'>Radium (Ra))<Barium (Ba)</h2>", unsafe_allow_html=True)
+        st.write(
+          """
+Ar: 226
+
+Nomor Atom: 88
+
+Konfigurasi Elektron:[Rn] 7s2
+
+ditemukan: Radium, dalam bentuk radium klorida, ditemukan oleh Marie dan Pierre Curie pada tahun 1898 dari bijih yang ditambang di Jáchymov. Mereka mengekstraksi senyawa radium dari uraninit dan menerbitkan penemuan tersebut di Akademi Sains Prancis lima hari kemudia
+
+Golongan: Logam alkali tanah
+
+Wujud:Radium murni berwarna putih keperakan
+
+Radium mudah bereaksi dengan nitrogen (daripada oksigen) saat terpapar udara, membentuk radium nitrida (Ra3N2) dengan lapisan permukaan hitam
+""")
+
+
+
 
 #Golongan III
 if optiongolongan == "Golongan III":
