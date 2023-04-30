@@ -704,6 +704,155 @@ if optiongolongan == "Golongan VI":
     opsi3 = st.button("Selenium (Se)")
   with col4:
     opsi4 = st.button("Telurium (Te)")
+  if opsi1:
+     st.markdown("<h2 style='text-align: center; color: raisin black;'>Oksigen (O)</h2>", unsafe_allow_html=True)
+     st.write(
+        """
+Ar : 16
+
+Nomor Atom: 8
+
+Konfigurasi Atom: [He] 2s²2p⁴
+
+Banyak ditemukan: Oksigen adalah unsur ketiga terbanyak yang ditemukan berlimpah di matahari
+
+Golongan: non-logam
+
+Wujud: gas 
+
+Oksigen merupakan unsur paling melimpah ketiga di alam semesta berdasarkan masa dan unsur paling melimpah di kerak bumi. Merupakan komponen paling umum ke-2 dalam atmosfir bumi.
+
+Setiap makhluk hidup pasti membutuhkan gas ini, rata - rata setiap kali kita bernafas membutuhkan sekitar 2 liter oksigen. Di bidang Industri oksigen digunakan pada pengolahan besi menjadi baja di tanur terbuka  (tanur oksigen); saat dicampur dengan bahan bakar, digunakan untuk pengelasan, pemotongan, pemanasan dan penyepuhan; untuk membuat methanol, etilin oksida, titanium dioksida dan untuk memperkaya udara tungku untuk pencairan tembaga, seng, dan sebagainya; di pabrik kertas oksigen digunakan untuk memutihkan pulp, oksidasi dari cairan limbah pekat dan pemurnian limbah.
+
+Pembuatan:
+Setiap makhluk hidup pasti membutuhkan gas ini, rata - rata setiap kali kita bernafas membutuhkan sekitar 2 liter oksigen. Di bidang Industri oksigen digunakan pada pengolahan besi menjadi baja di tanur terbuka  (tanur oksigen); saat dicampur dengan bahan bakar, digunakan untuk pengelasan, pemotongan, pemanasan dan penyepuhan; untuk membuat methanol, etilin oksida, titanium dioksida dan untuk memperkaya udara tungku untuk pencairan tembaga, seng, dan sebagainya; di pabrik kertas oksigen digunakan untuk memutihkan pulp, oksidasi dari cairan limbah pekat dan pemurnian limbah.
+""")
+  elif opsi2:
+       st.markdown("<h2 style='text-align: center; color: black;'>Sulfur atau belerang (S)</h2>", unsafe_allow_html=True)
+       st.write(
+           """
+Ar : 32
+
+Nomor Atom: 16
+
+Konfigurasi Atom: [Ne] 3s2 3p4
+
+Banyak ditemukan: Belerang terjadi secara alamiah di sekitar daerah pegunungan dan hutantropis. Sulfir tersebar di alam sebagai pirit, galena, sinabar, stibnite, gipsum, garamepsom, selestit, barit dan lain-lain
+
+Golongan: non-logam
+
+Wujud: padat
+
+Sebagian besar belerang didunia digunakan untuk membuat asam sulfat. Belerang tersebar luas di alam. Bisa didapatkan langsung berupa belerang atau berbentuk senyawa.Belerang berwarna kuning pucat, padatan yang rapuh, yang tidak larut dalam air tapi mudah larut dalam CS2 (karbon disulfida).  Dalam berbagai bentuk, baik gas, cair maupun padat, unsur belerang terjadi dengan bentuk alotrop yang lebih dari satu atau campuran
+
+pembuatan:
+
+1.     Proses Frasch, cadangan bawah tanah belerang biasanya terdapat pada kedalaman antara 150-750 m dan tebalnya kira-kira 30 m. Pipa berdiameter 20 cm dimasukkan hingga ke dasar endapan belerang. Pipa lain yang lebih kecil, berdiameter 10 cm dan lebih pendek dimasukkan dalam pipa pertama. Pipa terakhir, bediameter 2,5 cm dimasukkan ke dalam pipa kedua. Pipa terakhir mempunyai panjang setengah dari pipa pertama (lihat gambar di bawah ini).Mula-mula air bersuhu 165oC dialirkan ke bawah melalui pipa pertama. Air panas ini akan melelehkan belerang di sekitarnya dan mendorong cairan belerang naik melalui pipa. Air bertekanan tinggi dipompa melalui pipa yang paling kecil, menghasilkan buih bermassa jenis kecil yang akan naik ke permukaan tanah melewati pipa berukuran sedang. Buih ini mengandung belerang, udara, dan air. Di permukaan tanah, campuran ini didinginkan dan menghasilkan kristal belerang berwarna kuning dari cairannya yang berwarna ungu. Kristal belerang dihancurkan dengan dinamit menjadi pecahan yang berukuran lebih kecil sehingga mudah diangkut ke tempat lain.
+
+2.    Proses Claus, pada proses Claus, mula-mula gas alam dialirkan dalam etanol amin, HOCH2CH2NH2 dan terjadi reaksi: HOCH2CH2NH2(l) + H2S(g) ⇆ HOCH2CH2NH3+ + HS- Setelah dipisahkan, campuran kemudian dipanaskan sehingga H2S dilepaskan sebagai gas. Gas ini kemudian dicampur dengan gas oksigen untuk membakar sepertiga H2S menjadi gas SO2 dan air. Gas SO2 bereaksi dengan H2S sisa membentuk belerang dan air.
+
+3.    Pemanasan Pirit, pirit dipanaskan tanpa udara akan menyebabkan dekomposisi S22- menjadi belerang dan FeS.
+""")
+  elif opsi3:
+       st.markdown("<h2 style='text-align: center; color: black;'>Selenium (Se)</h2>", unsafe_allow_html=True)
+       st.write(
+           """
+Ar : 78,96
+
+Nomor Atom: 34
+
+Konfigurasi Atom: [Ar]3d10 4s2 1p4
+
+Banyak ditemukan:-
+
+Golongan: non-logam
+
+Wujud: padat
+
+Selenium ini paling sering dihasilkan dari bijih sulfida selenide di banyak, seperti tembaga, perak, atau timah. Hal ini diperoleh sebagai hasil sampingan dari pengolahan bijih ini, dari lumpur anoda kilang tembaga dan lumpur dari ruang utama tanaman asam sulfat. Lumpur tersebut dapat diproses oleh sejumlah sarana untuk memperoleh selenium gratis.
+
+pembuatan:
+
+Selenium diperoleh dari memanggang endapan hasil elektrolisis dengan soda atau asam sulfat. Atau dengan meleburkan endapan tersebut dengan soda dan niter (mineral yang mengandung kalium nitrat). Namun, dari sumber lainnya dikatakan bahwa selenium terjadi secara alami di lingkungan. Sebagai salah satu elemen, selenium tidak dapat diciptakan ataupun dihancurkan, meskipun selenium dapat berubah bentuk dalam lingkungan. 
+""")
+  elif opsi4:
+       st.markdown("<h2 style='text-align: center; color: black;'>Telurium (Te)</h2>", unsafe_allow_html=True)
+       st.write(
+           """
+Ar : 127,6
+
+Nomor Atom: 52
+
+Konfigurasi Atom: [Kr] 4d10 5s2 5p4
+
+Banyak ditemukan: -
+
+Golongan: logam
+
+Wujud: kristal
+
+Telurium kadang-kadang dapat ditemukan di alam, tapi lebih sering sebagai senyawa tellurida dari emas (kalaverit), dan bergabung dengan logam lainnya. Telurium didapatkan secara komersil dari lumpur anoda yang dihasilkan selama proses pemurnian elektrolisis tembaga panas.
+
+pembuatan:
+
+Deposisi anoda berisi selenides dan tellurides dari logam mulia dalam senyawa dengan rumus M2Se atau M2Te (M = Cu, Ag, Au). Pada suhu 500 ° C anoda lumpur dipanggang dengan karbonat natrium di bawah udara. Ion logam direduksi menjadi logam, sementara Telluride diubah menjadi tellurite natrium.
+
+kegunaan:
+
+Telurium digunakan dalam tellurida kadmium (CdTe) sebagai panel surya. Panel surya CdTe ini digunakan untuk mencapai beberapa efisiensi sel tertinggi dalam pembangkit listrik tenaga surya. Produksi panel surya CdTe untuk komersial dilakukan oleh Perusahaan First Solar.
+""")
+  elif opsi5:
+       st.markdown("<h2 style='text-align: center; color: black;'>Polonium (Po)</h2>", unsafe_allow_html=True)
+       st.write(
+           """
+Ar : 209
+
+Nomor Atom: 8
+
+Konfigurasi Atom: [Xe] 6s2 4f14 5d10 6p4
+
+Banyak ditemukan: -
+
+Golongan: logam
+
+Wujud: padat
+
+Polonium adalah unsur alam yang sangat jarang. Dalam bijih uranium hanya mengandung sekitar 100 mikrogram unsur polonium per tonnya. Ketersediaan polonium hanya sekitar 0.2% dari radium. Para ahli menemukan bahwa ketika menembak bismut alam (209bi) dengan neutron, diperoleh 210bi yang merupakan induk polonium.
+
+pembuatan:
+
+Sejumlah milligram polonium kini didapatkan dengan cara seperti ini, dengan menggunakan tembakan neutron berintensitas tinggi dalam reaktor nuklir. Polonium-210 adalah yang paling banyak tersedia. Isotop dengan massa 209 (masa paruh waktu 103 tahun) dan massa 208(masa paruh waktu 2.9 tahun) bisa didapatkan dengan menembakkan alfa, proton, atau deutron pada timbal atau bismut dalam siklotron, tapi proses ini terlalu mahal. Logam polonium telah dibuat dari polonium hidroksida dan senyawa polonium dengan adanya ammonia cair anhidrat atau ammonia cair pekat.
+
+kegunaan:
+
+Ø  Digunakan untuk menghasilkan radiasi sinar alfa.
+
+Ø  Digunakan pada peralatan mesin cetak dan fotografi.
+
+Ø  Digunakan pada alat yang dapat mengionisasi udara untuk menghilangkan akumulasi muatan -muatan listrik .
+
+Ø  Digunakan sebagai sumber panas yang ringan sebagai sumber energi termoelektrik pada satelit angkasa.
+""")
+elif opsi6:
+       st.markdown("<h2 style='text-align: center; color: black;'>Livemorium(Lv)</h2>", unsafe_allow_html=True)
+       st.write(
+           """
+Ar : 293
+
+Nomor Atom: 116
+
+Konfigurasi Atom:  5f14 6d10 7s2 7p4
+
+Banyak ditemukan: -
+
+Golongan: logam
+
+Wujud: padat
+
+Livermorium adalah logam radioaktif sintetis, dibuat melalui pemboman nuklir, dan hanya diproduksi dalam jumlah kecil. Livermorium diproduksi dengan cara membombardir 248Cm dengan 48Ca.
+""")
+
+  
     
 #Golongan VII
 if optiongolongan == "Golongan VII":
