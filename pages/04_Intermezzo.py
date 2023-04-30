@@ -155,9 +155,6 @@ Wujud: Logam berwarna merah bata
 
 Cara pembuatan: Fransium dapat disintesis melalui reaksi fusi ketika target emas-197 dibombardir dengan seberkas atom oksigen-18 dari akselerator linear dalam proses yang awalnya dikembangkan di departemen fisika Universitas Negeri New York di Stony Brook pada tahun 1995.
 """)
-  
-  
-
       
 #Golongan II
 if optiongolongan == "Golongan II":
@@ -172,6 +169,116 @@ if optiongolongan == "Golongan II":
     opsi3 = st.button("Kalsium (Ca)")
   with col4:
     opsi4 = st.button("Stronsium (Sr)")
+  if opsi1:
+      st.markdown("<h2 style='text-align: center; color: raisin black;'>Berylium (Be)</h2>", unsafe_allow_html=True)
+      st.write(
+        """
+Ar: 9
+
+Nomor Atom: 4
+
+Konfigurasi Elektron:[He] 2s²
+
+Banyak ditemukan:Beryllium dapat ditemukan dalam beberapa mineral, seperti beryl, kriptoklas, dan epidot
+
+Golongan: Logam Alkali
+
+Wujud: logam alkali tanah berwarna abu-abu-baja yang kuat
+
+Batu permata terkenal yang mengandung berilium tinggi adalah beril (akuamarin, zamrud) dan krisoberil.
+""")
+  elif opsi2:
+       st.markdown("<h2 style='text-align: center; color: black;'>Magnesium (Mg)</h2>", unsafe_allow_html=True)
+       st.write(
+        """
+Ar: 24
+
+Nomor Atom: 12
+
+Konfigurasi Elektron:[Ne] 3s^2
+
+Banyak ditemukan:paling melimpah di alam semesta, biasanya banyak terakumulasi pada batuan beku
+
+Golongan: Logam alkali tanah
+
+Wujud: padatan abu-abu mengkilap 
+
+Magnesium diproduksi dalam penuaan bintang besar dari penambahan sekuensial tiga inti helium ke inti karbon. 
+""")
+  elif opsi3:
+       st.markdown("<h2 style='text-align: center; color: black;'>Kalsium (Ca)</h2>", unsafe_allow_html=True)
+       st.write(
+         """
+Ar: 40
+
+Nomor Atom: 20
+
+Konfigurasi Elektron:[Ar] 4s^2
+
+Banyak ditemukan: Kalsium paling banyak ditemukan di batu kapur
+
+Golongan: Logam alkali tanah
+
+Wujud: Dalam bentuk logam, kalsium berwarna perak hingga abu-abu yang seiring waktu bisa berubah warna menjadi kuning pucat
+
+Sifat fisik dan kimianya paling mirip dengan homolognya yang lebih berat, stronsium dan barium. Ia adalah unsur paling melimpah kelima di kerak Bumi, dan logam paling melimpah ketiga, setelah besi dan aluminium
+""")
+         
+  elif opsi4:
+       st.markdown("<h2 style='text-align: center; color: black;'>Stronsium (Sr)</h2>", unsafe_allow_html=True)
+       st.write(
+         """
+Ar: 87
+
+Nomor Atom: 38
+
+Konfigurasi Elektron:[Kr] 5s^2
+
+Banyak ditemukan: Stronsium banyak terdapat di alam sebagai mineral Celestite (SrSO4) dan Strontianite (SrCO3)
+
+Golongan: Logam alkali tanah
+
+Wujud: Logam yang tekstur yang lembut dan berwarna putih
+
+Logam stronsium membentuk lapisan oksida gelap ketika terkena udara, Titik lebur (777 °C) dan didihnya (1377 °C) lebih rendah daripada kalsium (masing-masing 842 °C dan 1484 °C)
+""")
+  elif opsi5:
+       st.markdown("<h2 style='text-align: center; color: black;'>Barium (Ba)</h2>", unsafe_allow_html=True)
+       st.write(
+         """
+Ar: 137
+
+Nomor Atom: 56
+
+Konfigurasi Elektron: [Xe] 6s^2
+
+Banyak ditemukan: Barium tidak pernah ditemukan di alam sebagai unsur bebas karena reaktivitas kimianya yang tinggi.
+
+Golongan: Logam alkali tanah
+
+Wujud: logam lunak putih keperakan, dengan sedikit nuansa emas saat ultra m
+""")
+
+         
+  elif opsi6:
+       st.markdown("<h2 style='text-align: center; color: black;'>Radium (Ra)</h2>", unsafe_allow_html=True)
+       st.write(
+         """
+Ar: 226
+
+Nomor Atom: 88
+
+Konfigurasi Elektron:[Rn] 7s2
+
+ditemukan: Radium, dalam bentuk radium klorida, ditemukan oleh Marie dan Pierre Curie pada tahun 1898 dari bijih yang ditambang di Jáchymov. Mereka mengekstraksi senyawa radium dari uraninit dan menerbitkan penemuan tersebut di Akademi Sains Prancis lima hari kemudian
+
+Golongan: Logam alkali tanah
+
+Wujud:Radium murni berwarna putih keperakan
+
+Radium mudah bereaksi dengan nitrogen (daripada oksigen) saat terpapar udara, membentuk radium nitrida (Ra3N2) dengan lapisan permukaan hitam
+""")
+  
 
 #Golongan III
 if optiongolongan == "Golongan III":
@@ -186,6 +293,104 @@ if optiongolongan == "Golongan III":
     opsi3 = st.button("Galium (Ga)")
   with col4:
     opsi4 = st.button("Indium (In)")
+  if opsi1:
+      st.markdown("<h2 style='text-align: center; color: raisin black;'>Boron (B)</h2>", unsafe_allow_html=True)
+      st.write(
+         """
+Ar: 10
+
+Nomor Atom: 5
+
+Konfigurasi Elektron:[He] 2s²2p¹
+
+ditemukan: Mineral boron secara alami terdapat di dalam sayuran, buah, atau kacang.
+
+Golongan: non Logam 
+
+Wujud:bubuk kecoklatan
+""")
+  elif opsi2:
+       st.markdown("<h2 style='text-align: center; color: black;'>Alumunium (Al)</h2>", unsafe_allow_html=True)
+       st.write(
+         """
+Ar: 27
+
+Nomor Atom: 13
+
+Konfigurasi Elektron:[Ne] 3s^ 3p^1
+
+ditemukan: banyak ditemukan di perut bumi
+
+Golongan: Logam berat
+
+Wujud: padatan metalik abu-abu keperakan
+""")
+      
+  elif opsi3:
+       st.markdown("<h2 style='text-align: center; color: black;'>Galium (Ga))</h2>", unsafe_allow_html=True)
+       st.write(
+         """
+Ar: 69
+
+Nomor Atom: 31
+
+Konfigurasi Elektron:[Ar] 4s^2 3d^10 4p^1
+
+ditemukan: banyak ditemukan di perut bumi
+
+Golongan: Logam miskin
+
+Wujud: padatan biru keperakan
+""")
+  elif opsi4:
+       st.markdown("<h2 style='text-align: center; color: black;'>Indium (In)</h2>", unsafe_allow_html=True)
+       st.write(
+         """
+Ar: 204
+
+Nomor Atom: 81
+
+Konfigurasi Elektron:[Xe] 4f^14 5d^10 6s^2 6p^1
+
+ditemukan: banyak ditemukan di perut bumi
+
+Golongan: Logam 
+
+Wujud: padatan abu-abu berkilau keperakan
+""")
+  elif opsi5:
+       st.markdown("<h2 style='text-align: center; color: black;'>Talium (Tl)</h2>", unsafe_allow_html=True)
+       st.write(
+         """
+Ar: 114
+
+Nomor Atom: 49
+
+Konfigurasi Elektron:[Kr] 4d^10 5s^2 5p^1
+
+ditemukan: banyak ditemukan di perut bumi
+
+Golongan: Logam 
+
+Wujud: padatan putih keperakan
+""")
+  elif opsi6:
+       st.markdown("<h2 style='text-align: center; color: black;'>ununtrium (Uut)</h2>", unsafe_allow_html=True)
+       st.write(
+         """
+Ar: 286
+
+Nomor Atom: 113
+
+Konfigurasi Elektron:[Rn] 5f^14 6d^10 7s^2 7p^1
+
+ditemukan: banyak ditemukan di perut bumi
+
+Golongan: Logam 
+
+Wujud: 
+unsur ini jarang ditemukan karena hanya dibuat dalam jumlah sangat kecil dan dapat membusuk dalam hitungan detik
+""")
         
 #Golongan IV
 if optiongolongan == "Golongan IV":
