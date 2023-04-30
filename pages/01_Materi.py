@@ -2091,8 +2091,27 @@ Sifat Fisika:
 2.	Tidak larut dalam n-heksana.
 3.	Fenol bereaksi dengan FeCl3 dan memberikan warna merah-ungu.
 4.	Keasaman fenol lebih tinggi dari alkohol.
-                 """)
 
+Penamaan Fenol
+1.	Apabila gugus OH merupakan substituen yang memiliki prioritas paling tinggi yang terikat pada benzena maka nama pokok senyawa tersebut adalah fenol dan gugus OH diberi nomor-1 
+2.	Jika ada gugus yag prioritasnya lebih tinggi dari OH, misalnya –COOH, CHO, -CO- maka gugus OH berstatus sebagai gugus cabang dan diberi nama “hidroksil”
+                 """)
+        imageKO2 = Image.open('Resource/image/Kimor/Fenol1.png')
+        st.image(imageKO2)
+        st.write(
+            """
+            Pembuatan
+1.	Reaksi Hidrolisis Klorobenzena
+            """)
+        imageKO3 = Image.open('Resource/image/Kimor/Fenol2.jpg')
+        st.image(imageKO3)
+        st.write("2.	Reaksi Asam Benzena Sulfonat dengan NaOH")
+        imageKO4 = Image.open('Resource/image/Kimor/Fenol3.png')
+        st.image(imageKO4)
+        st.write(" ")
+        st.caption("Download Materi")
+        st.write("Google Drive: [link](https://drive.google.com/file/d/1mK9VBN1iuqjvNX6haqzDzf1z1wcbC5kg/view?usp=sharing)")
+        
         
         
 #Materi Fisika Dasar
@@ -2104,41 +2123,25 @@ with tab_5:
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Pendahuluan</h2>", unsafe_allow_html=True)
         st.write(
            """
-           Fisika adalah sains atau ilmu alam yang mempelajari materi beserta gerak dan
-perilakunya dalam lingkup ruang dan waktu, bersamaan dengan konsep yang berkaitan
-seperti energi dan gaya. Sebagai salah satu ilmu sains paling dasar, tujuan utama fisika adalah
-memahami bagaimana alam semesta berkerja.
-Ilmu fisika memiliki peran yang sangat penting dalam kimia analitik karena banyak
-teknik dan metode analitik didasarkan pada prinsip-prinsip fisika. Beberapa contoh peran ilmu
-fisika dalam kimia analitik adalah:
+           Fisika adalah sains atau ilmu alam yang mempelajari materi beserta gerak dan perilakunya dalam lingkup ruang dan waktu, bersamaan dengan konsep yang berkaitan
+seperti energi dan gaya. Sebagai salah satu ilmu sains paling dasar, tujuan utama fisika adalah memahami bagaimana alam semesta berkerja. Ilmu fisika memiliki peran yang sangat penting dalam kimia analitik karena banyak
+teknik dan metode analitik didasarkan pada prinsip-prinsip fisika. Beberapa contoh peran ilmu fisika dalam kimia analitik adalah:
 
-1. Spektroskopi: Teknik spektroskopi memanfaatkan prinsip-prinsip fisika seperti
-spektroskopi atom, spektroskopi molekul, dan spektroskopi sinar-X. Teknik ini
-digunakan untuk mengidentifikasi dan memisahkan zat kimia berdasarkan karakteristik
-spektrum yang dihasilkan oleh zat tersebut.
+1. Spektroskopi: Teknik spektroskopi memanfaatkan prinsip-prinsip fisika seperti spektroskopi atom, spektroskopi molekul, dan spektroskopi sinar-X. Teknik ini
+digunakan untuk mengidentifikasi dan memisahkan zat kimia berdasarkan karakteristik spektrum yang dihasilkan oleh zat tersebut.
 
-2. Kromatografi: Teknik kromatografi memanfaatkan prinsip fisika seperti diferensial
-affinitas, partisi, dan adsorpsi untuk memisahkan campuran zat kimia menjadi
-komponen-komponen yang lebih murni. Teknik ini termasuk kromatografi gas,
-kromatografi cair, dan kromatografi kolom.
+2. Kromatografi: Teknik kromatografi memanfaatkan prinsip fisika seperti diferensial affinitas, partisi, dan adsorpsi untuk memisahkan campuran zat kimia menjadi
+komponen-komponen yang lebih murni. Teknik ini termasuk kromatografi gas, kromatografi cair, dan kromatografi kolom.
 
-3. Elektrokimia: Elektrokimia memanfaatkan prinsip fisika elektrokimia untuk
-menganalisis dan memisahkan zat kimia dalam larutan. Teknik ini melibatkan
-elektrolisis, elektrogravimetri, potensiometri, dan voltametri.
+3. Elektrokimia: Elektrokimia memanfaatkan prinsip fisika elektrokimia untuk menganalisis dan memisahkan zat kimia dalam larutan. Teknik ini melibatkan elektrolisis, elektrogravimetri, potensiometri, dan voltametri.
 
-4. Termal: Teknik termal memanfaatkan prinsip fisika termal untuk menganalisis dan
-memisahkan zat kimia berdasarkan karakteristik termal mereka. Contohnya, teknik
-difraksi sinar-X dapat digunakan untuk menganalisis struktur kristal dari zat kimia, dan
-teknik analisis termal dapat digunakan untuk menentukan perubahan termal yang
-terjadi dalam suatu sampel.
+4. Termal: Teknik termal memanfaatkan prinsip fisika termal untuk menganalisis dan memisahkan zat kimia berdasarkan karakteristik termal mereka. Contohnya, teknik
+difraksi sinar-X dapat digunakan untuk menganalisis struktur kristal dari zat kimia, dan teknik analisis termal dapat digunakan untuk menentukan perubahan termal yang terjadi dalam suatu sampel.
 
-5. Mikroskopi: Teknik mikroskopi memanfaatkan prinsip-prinsip fisika seperti
-pembiasan cahaya, interferensi, difraksi, dan polarisasi untuk mengamati dan
-menganalisis struktur zat kimia pada skala mikroskopik. Contohnya, mikroskop
-elektron dapat digunakan untuk mempelajari struktur atom dan molekul, sementara
+5. Mikroskopi: Teknik mikroskopi memanfaatkan prinsip-prinsip fisika seperti pembiasan cahaya, interferensi, difraksi, dan polarisasi untuk mengamati dan
+menganalisis struktur zat kimia pada skala mikroskopik. Contohnya, mikroskop elektron dapat digunakan untuk mempelajari struktur atom dan molekul, sementara
 mikroskop fluoresensi dapat digunakan untuk melihat reaksi kimia dalam sel hidup
-Dengan demikian, ilmu fisika sangat penting dalam kimia analitik karena memberikan
-dasar teoritis dan teknis bagi banyak teknik dan metode analitik.
+Dengan demikian, ilmu fisika sangat penting dalam kimia analitik karena memberikan dasar teoritis dan teknis bagi banyak teknik dan metode analitik.
             """)
         st.write(" ")
         st.caption("Download Materi")
@@ -2148,15 +2151,12 @@ dasar teoritis dan teknis bagi banyak teknik dan metode analitik.
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Kinematika</h2>", unsafe_allow_html=True)
         st.write(
             """
-    Kinematika merupakan cabang Ilmu fisika yang membahas mengenai bagaimana ben
-da bergerak. Kinematika membahas gerak benda tanpa mempelajari penyebab gerak tersebut.
-Kinematika merupakan dasar bagi banyak cabang fisika lainnya, seperti fluida, kalor, gelomb
-ang, cahaya, dsb.
-Dalam Analisis Kimia, Kinematika dapat diaplikasikan secara tidak langsung melalui
-cabang Fisika lainnya. Misalnya, gerak gelombang cahaya merupakan dasar dari spektrofot
-ometri.
+    Kinematika merupakan cabang Ilmu fisika yang membahas mengenai bagaimana benda bergerak. Kinematika membahas gerak benda tanpa mempelajari penyebab gerak tersebut.
+Kinematika merupakan dasar bagi banyak cabang fisika lainnya, seperti fluida, kalor, gelombang, cahaya, dsb.
+Dalam Analisis Kimia, Kinematika dapat diaplikasikan secara tidak langsung melalui cabang Fisika lainnya. Misalnya, gerak gelombang cahaya merupakan dasar dari spektrofotometri.
 Gerak adalah perubahan kedudukan atau tempat suatu benda terhadap titik acuan
 tertentu.
+
 Besaran‐besaran yang terkait dengan kinematika :
 - Perpindahan
 
@@ -2165,41 +2165,30 @@ n. Perpindahan merupakan besaran vector, berbeda dengan jarak yang merupakan
 besaran skalar.
 - Waktu
 
-Waktu dalam kinematika adalah salah satu variabel yang digunakan untuk
-mengukur pergerakan benda. Dalam kinematika, waktu dianggap sebagai variabel
-independen yang mengukur durasi dari suatu peristiwa atau gerakan.
-Waktu dalam kinematika diukur dalam satuan detik (s), dan sering
-digunakan bersamaan dengan variabel lain seperti posisi, kecepatan, dan percepatan
-untuk menggambarkan gerakan benda. Dalam persamaan kinematika, waktu
+Waktu dalam kinematika adalah salah satu variabel yang digunakan untuk mengukur pergerakan benda. Dalam kinematika, waktu dianggap sebagai variabel
+independen yang mengukur durasi dari suatu peristiwa atau gerakan. Waktu dalam kinematika diukur dalam satuan detik (s), dan sering
+digunakan bersamaan dengan variabel lain seperti posisi, kecepatan, dan percepatan untuk menggambarkan gerakan benda. Dalam persamaan kinematika, waktu
 biasanya dinyatakan sebagai t.
-Beberapa konsep penting yang berkaitan dengan waktu dalam kinematika
-antara lain:
+Beberapa konsep penting yang berkaitan dengan waktu dalam kinematika antara lain:
 1. Waktu awal (t₀): Waktu ketika gerakan dimulai.
 2. Waktu akhir (t): Waktu ketika gerakan berakhir.
-3. Waktu tempuh (Δt): Selisih waktu antara waktu akhir dan waktu awal. Waktu
-tempuh dapat digunakan untuk menghitung kecepatan rata-rata suatu benda.
-4. Waktu paruh (t₁/₂): Waktu yang diperlukan untuk setengah dari suatu populasi
-radioaktif terurai.
+3. Waktu tempuh (Δt): Selisih waktu antara waktu akhir dan waktu awal. Waktu tempuh dapat digunakan untuk menghitung kecepatan rata-rata suatu benda.
+4. Waktu paruh (t₁/₂): Waktu yang diperlukan untuk setengah dari suatu populasi radioaktif terurai.
 
-Dalam analisis kinematika, waktu digunakan untuk mengukur perubahan
-posisi, kecepatan, dan percepatan suatu benda seiring berjalannya waktu. Sebagai
-contoh, jika diketahui posisi awal dan posisi akhir suatu benda, serta waktu yang
-diperlukan untuk benda tersebut bergerak dari posisi awal ke posisi akhir, maka
-kecepatan rata-rata dan percepatan rata-rata benda tersebut dapat dihitung
-menggunakan waktu sebagai salah satu variabelnya.
+Dalam analisis kinematika, waktu digunakan untuk mengukur perubahan posisi, kecepatan, dan percepatan suatu benda seiring berjalannya waktu. Sebagai contoh, jika diketahui posisi awal dan posisi akhir suatu benda, serta waktu yang
+diperlukan untuk benda tersebut bergerak dari posisi awal ke posisi akhir, maka kecepatan rata-rata dan percepatan rata-rata benda tersebut dapat dihitung menggunakan waktu sebagai salah satu variabelnya.
 - Kecepatan
 
-Kecepatan dalam kinematika adalah ukuran seberapa cepat suatu benda
-bergerak dan arah gerakannya. Kecepatan didefinisikan sebagai perubahan jarak
-yang ditempuh oleh suatu benda dalam satu satuan waktu, atau dapat juga
-didefinisikan sebagai turunan dari perpindahan benda terhadap waktu. Kecepatan
-dapat diukur dalam satuan meter per detik (m/s) atau kilometer per jam (km/jam).
+Kecepatan dalam kinematika adalah ukuran seberapa cepat suatu benda bergerak dan arah gerakannya. Kecepatan didefinisikan sebagai perubahan jarak yang ditempuh oleh suatu benda dalam satu satuan waktu, atau dapat juga
+didefinisikan sebagai turunan dari perpindahan benda terhadap waktu. Kecepatan dapat diukur dalam satuan meter per detik (m/s) atau kilometer per jam (km/jam).
 Rumus umum untuk kecepatan (v) adalah:
+
 v = Δs/Δt
 
 di mana Δs adalah perpindahan atau jarak yang ditempuh oleh benda selama
 interval waktu tertentu Δt. Dalam kasus pergerakan benda dengan kecepatan yang
 konstan, rumus ini dapat disederhanakan menjadi:
+
 v = s/t
 
 di mana s adalah jarak yang ditempuh oleh benda dalam waktu t.
@@ -2209,31 +2198,29 @@ terhadap waktu ketika interval waktu mendekati nol. Kecepatan instan adalah
 kecepatan benda pada suatu titik dalam gerakan, dan dapat dihitung dengan
 mengambil turunan dari persamaan perpindahan benda terhadap waktu.
 Rumus untuk kecepatan instan dapat dinyatakan sebagai berikut:
+
 v = ds/dt
 
 di mana ds adalah perpindahan yang sangat kecil dan dt adalah waktu yang
 sangat kecil yang dibutuhkan oleh benda untuk melakukan perpindahan tersebut.
 - Percepatan
 
-Percepatan dalam kinematika adalah ukuran seberapa cepat kecepatan suatu
-benda berubah seiring waktu. Secara matematis, percepatan didefinisikan sebagai
-perubahan kecepatan suatu benda selama interval waktu tertentu. Percepatan dapat
-berupa percepatan rata-rata atau percepatan instan.
-Percepatan rata-rata (a) diukur dalam satuan meter per detik kuadrat (m/s²) dan
-didefinisikan sebagai perubahan kecepatan (Δv) dibagi dengan interval waktu (Δt):
+Percepatan dalam kinematika adalah ukuran seberapa cepat kecepatan suatu benda berubah seiring waktu. Secara matematis, percepatan didefinisikan sebagai
+perubahan kecepatan suatu benda selama interval waktu tertentu. Percepatan dapat berupa percepatan rata-rata atau percepatan instan.
+Percepatan rata-rata (a) diukur dalam satuan meter per detik kuadrat (m/s²) dan didefinisikan sebagai perubahan kecepatan (Δv) dibagi dengan interval waktu (Δt):
+
 a = Δv/Δt
 
-Percepatan instan adalah percepatan pada suatu titik dalam gerakan dan
-didefinisikan sebagai limit dari perubahan kecepatan terhadap waktu ketika interval
-waktu mendekati nol. Dalam notasi turunan, percepatan instan dinyatakan sebagai
-turunan dari kecepatan terhadap waktu:
+Percepatan instan adalah percepatan pada suatu titik dalam gerakan dan didefinisikan sebagai limit dari perubahan kecepatan terhadap waktu ketika interval
+waktu mendekati nol. Dalam notasi turunan, percepatan instan dinyatakan sebagai turunan dari kecepatan terhadap waktu:
+
 a = dv/dt
 
 Rumus kinematika yang melibatkan percepatan adalah:
+
 v = v₀ + at
 
-di mana v adalah kecepatan akhir benda, v₀ adalah kecepatan awal benda, a
-adalah percepatan benda, dan t adalah waktu yang diperlukan untuk mencapai
+di mana v adalah kecepatan akhir benda, v₀ adalah kecepatan awal benda, a adalah percepatan benda, dan t adalah waktu yang diperlukan untuk mencapai
 kecepatan akhir. Rumus ini digunakan untuk menghitung kecepatan benda pada
 titik tertentu dalam gerakan jika diketahui percepatan, kecepatan awal, dan waktu
 yang dibutuhkan untuk mencapai kecepatan tersebut.
@@ -2272,10 +2259,8 @@ s = v₀t + (1/2)at²
 di mana s adalah jarak yang ditempuh oleh benda, v₀ adalah kecepatan awal benda, a
 adalah percepatan benda, dan t adalah waktu yang diperlukan untuk menempuh jarak tersebut.
 Contoh GLBB yang umum adalah gerakan benda yang dilempar ke atas dan kemudian
-jatuh kembali ke bumi. Pada awal gerakan, kecepatan benda adalah nol. Namun, setelah
-dilempar, benda mengalami percepatan gravitasi yang konstan sehingga kecepatannya
-bertambah secara bertahap. Pada titik tertinggi, kecepatan benda kembali menjadi nol,
-kemudian benda jatuh kembali ke bumi dengan percepatan gravitasi yang sama.
+jatuh kembali ke bumi. Pada awal gerakan, kecepatan benda adalah nol. Namun, setelah dilempar, benda mengalami percepatan gravitasi yang konstan sehingga kecepatannya
+bertambah secara bertahap. Pada titik tertinggi, kecepatan benda kembali menjadi nol, kemudian benda jatuh kembali ke bumi dengan percepatan gravitasi yang sama.
             """)
         st.write(" ")
         st.caption("Download Materi")
@@ -2323,19 +2308,26 @@ v = kecepatan benda (dalam satuan meter per detik)
 
 Prinsip Konservasi Energi Mekanik
 
-Prinsip konservasi energi mekanik menyatakan bahwa total energi mekanik dalam suatu sistem
-terjaga atau konstan, walaupun terdapat perubahan bentuk energi dari potensial ke kinetik dan
-sebaliknya. Dengan menggunakan prinsip ini, dapat dihitung energi mekanik awal (Em1) dan
-akhir (Em2) suatu benda dalam suatu sistem yang mengalami perubahan energi. Persamaan
+Prinsip konservasi energi mekanik menyatakan bahwa total energi mekanik dalam suatu sistem terjaga atau konstan, walaupun terdapat perubahan bentuk energi dari potensial ke kinetik dan
+sebaliknya. Dengan menggunakan prinsip ini, dapat dihitung energi mekanik awal (Em1) dan akhir (Em2) suatu benda dalam suatu sistem yang mengalami perubahan energi. Persamaan
 prinsip konservasi energi mekanik adalah sebagai berikut:
+
 Em1 = Em2
+
 Ep1 + Ek1 = Ep2 + Ek2
+
 di mana:
+
 Em1 = energi mekanik awal (dalam satuan Joule)
+
 Em2 = energi mekanik akhir (dalam satuan Joule)
+
 Ep1 = energi potensial awal (dalam satuan Joule)
+
 Ep2 = energi potensial akhir (dalam satuan Joule)
+
 Ek1 = energi kinetik awal (dalam satuan Joule)
+
 Ek2 = energi kinetik akhir (dalam satuan Joule)
            """)
         st.write(" ")
@@ -2434,18 +2426,12 @@ dapat berubah bentuk dari satu bentuk ke bentuk yang lain.
 semakin acak dan tidak teratur.
 
 
-   Dalam termodinamika, suatu sistem dapat berupa sistem terbuka, sistem tertutup, atau
-sistem terisolasi. Sistem terbuka dapat bertukar energi dan materi dengan lingkungannya,
-sistem tertutup dapat bertukar energi tetapi tidak materi dengan lingkungannya, sedangkan
-sistem terisolasi tidak bertukar energi atau materi dengan lingkungannya.
-Beberapa konsep penting dalam termodinamika adalah panas jenis, kapasitas kalor,
-kerja, entropi, dan efisiensi termodinamika. Panas jenis adalah jumlah kalor yang diperlukan
-untuk meningkatkan suhu satu kilogram bahan satu derajat Celsius. Kapasitas kalor adalah
-jumlah kalor yang diperlukan untuk meningkatkan suhu suatu benda. Kerja adalah energi yang
-dibutuhkan untuk melakukan perpindahan, misalnya perpindahan benda atau gas. Entropi
-adalah ukuran dari ketidakteraturan dan keteraturan dari suatu sistem, sedangkan efisiensi
-termodinamika adalah rasio antara energi yang dihasilkan dengan energi yang digunakan.
-Pada umumnya jika suatu zat diberi kalor, maka zat tersebut akan mengalami pemuaian.
+   Dalam termodinamika, suatu sistem dapat berupa sistem terbuka, sistem tertutup, atau sistem terisolasi. Sistem terbuka dapat bertukar energi dan materi dengan lingkungannya,
+sistem tertutup dapat bertukar energi tetapi tidak materi dengan lingkungannya, sedangkan sistem terisolasi tidak bertukar energi atau materi dengan lingkungannya.
+Beberapa konsep penting dalam termodinamika adalah panas jenis, kapasitas kalor, kerja, entropi, dan efisiensi termodinamika. Panas jenis adalah jumlah kalor yang diperlukan
+untuk meningkatkan suhu satu kilogram bahan satu derajat Celsius. Kapasitas kalor adalah jumlah kalor yang diperlukan untuk meningkatkan suhu suatu benda. Kerja adalah energi yang
+dibutuhkan untuk melakukan perpindahan, misalnya perpindahan benda atau gas. Entropi adalah ukuran dari ketidakteraturan dan keteraturan dari suatu sistem, sedangkan efisiensi
+termodinamika adalah rasio antara energi yang dihasilkan dengan energi yang digunakan. Pada umumnya jika suatu zat diberi kalor, maka zat tersebut akan mengalami pemuaian.
 Pemuaian yang terjadi pada zat padat dapat berupa pemuaian panjang, luas, dan volume.
 Berikut ini adalah rumus untuk tiga jenis pemuaian yang umum terjadi:
 
