@@ -833,7 +833,7 @@ kegunaan:
 
 Ø  Digunakan sebagai sumber panas yang ringan sebagai sumber energi termoelektrik pada satelit angkasa.
 """)
-elif opsi6:
+  elif opsi6:
        st.markdown("<h2 style='text-align: center; color: black;'>Livemorium(Lv)</h2>", unsafe_allow_html=True)
        st.write(
            """
