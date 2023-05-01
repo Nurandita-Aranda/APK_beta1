@@ -726,6 +726,9 @@ Setiap makhluk hidup pasti membutuhkan gas ini, rata - rata setiap kali kita ber
 
 Pembuatan:
 Setiap makhluk hidup pasti membutuhkan gas ini, rata - rata setiap kali kita bernafas membutuhkan sekitar 2 liter oksigen. Di bidang Industri oksigen digunakan pada pengolahan besi menjadi baja di tanur terbuka  (tanur oksigen); saat dicampur dengan bahan bakar, digunakan untuk pengelasan, pemotongan, pemanasan dan penyepuhan; untuk membuat methanol, etilin oksida, titanium dioksida dan untuk memperkaya udara tungku untuk pencairan tembaga, seng, dan sebagainya; di pabrik kertas oksigen digunakan untuk memutihkan pulp, oksidasi dari cairan limbah pekat dan pemurnian limbah.
+
+kegunaan:
+Setiap makhluk hidup pasti membutuhkan gas ini, rata - rata setiap kali kita bernafas membutuhkan sekitar 2 liter oksigen. Di bidang Industri oksigen digunakan pada pengolahan besi menjadi baja di tanur terbuka  (tanur oksigen); saat dicampur dengan bahan bakar, digunakan untuk pengelasan, pemotongan, pemanasan dan penyepuhan; untuk membuat methanol, etilin oksida, titanium dioksida dan untuk memperkaya udara tungku untuk pencairan tembaga, seng, dan sebagainya; di pabrik kertas oksigen digunakan untuk memutihkan pulp, oksidasi dari cairan limbah pekat dan pemurnian limbah.
 """)
   elif opsi2:
        st.markdown("<h2 style='text-align: center; color: black;'>Sulfur atau belerang (S)</h2>", unsafe_allow_html=True)
@@ -747,11 +750,14 @@ Sebagian besar belerang didunia digunakan untuk membuat asam sulfat. Belerang te
 
 pembuatan:
 
-1.     Proses Frasch, cadangan bawah tanah belerang biasanya terdapat pada kedalaman antara 150-750 m dan tebalnya kira-kira 30 m. Pipa berdiameter 20 cm dimasukkan hingga ke dasar endapan belerang. Pipa lain yang lebih kecil, berdiameter 10 cm dan lebih pendek dimasukkan dalam pipa pertama. Pipa terakhir, bediameter 2,5 cm dimasukkan ke dalam pipa kedua. Pipa terakhir mempunyai panjang setengah dari pipa pertama (lihat gambar di bawah ini).Mula-mula air bersuhu 165oC dialirkan ke bawah melalui pipa pertama. Air panas ini akan melelehkan belerang di sekitarnya dan mendorong cairan belerang naik melalui pipa. Air bertekanan tinggi dipompa melalui pipa yang paling kecil, menghasilkan buih bermassa jenis kecil yang akan naik ke permukaan tanah melewati pipa berukuran sedang. Buih ini mengandung belerang, udara, dan air. Di permukaan tanah, campuran ini didinginkan dan menghasilkan kristal belerang berwarna kuning dari cairannya yang berwarna ungu. Kristal belerang dihancurkan dengan dinamit menjadi pecahan yang berukuran lebih kecil sehingga mudah diangkut ke tempat lain.
+1.    Proses Frasch, cadangan bawah tanah belerang biasanya terdapat pada kedalaman antara 150-750 m dan tebalnya kira-kira 30 m. Pipa berdiameter 20 cm dimasukkan hingga ke dasar endapan belerang. Pipa lain yang lebih kecil, berdiameter 10 cm dan lebih pendek dimasukkan dalam pipa pertama. Pipa terakhir, bediameter 2,5 cm dimasukkan ke dalam pipa kedua. Pipa terakhir mempunyai panjang setengah dari pipa pertama (lihat gambar di bawah ini).Mula-mula air bersuhu 165oC dialirkan ke bawah melalui pipa pertama. Air panas ini akan melelehkan belerang di sekitarnya dan mendorong cairan belerang naik melalui pipa. Air bertekanan tinggi dipompa melalui pipa yang paling kecil, menghasilkan buih bermassa jenis kecil yang akan naik ke permukaan tanah melewati pipa berukuran sedang. Buih ini mengandung belerang, udara, dan air. Di permukaan tanah, campuran ini didinginkan dan menghasilkan kristal belerang berwarna kuning dari cairannya yang berwarna ungu. Kristal belerang dihancurkan dengan dinamit menjadi pecahan yang berukuran lebih kecil sehingga mudah diangkut ke tempat lain.
 
 2.    Proses Claus, pada proses Claus, mula-mula gas alam dialirkan dalam etanol amin, HOCH2CH2NH2 dan terjadi reaksi: HOCH2CH2NH2(l) + H2S(g) ⇆ HOCH2CH2NH3+ + HS- Setelah dipisahkan, campuran kemudian dipanaskan sehingga H2S dilepaskan sebagai gas. Gas ini kemudian dicampur dengan gas oksigen untuk membakar sepertiga H2S menjadi gas SO2 dan air. Gas SO2 bereaksi dengan H2S sisa membentuk belerang dan air.
 
 3.    Pemanasan Pirit, pirit dipanaskan tanpa udara akan menyebabkan dekomposisi S22- menjadi belerang dan FeS.
+
+kegunaan:
+Belerang adalah komponen serbuk mesiu dan digunakan dalam proses vulkanisasi karet alam dan juga berperan sebagai fungisida. Belerang digunakan besar-besaran dalam pembuatan pupuk fosfat.   Asam Sulfat (H2SO4) digunakan untuk berbagai keperluan, seperti pembersih logam, bahan baku industri dan sebagai cairan pengisi akumulator. Berton-ton belerang digunakan untuk menghasilkan asam sulfat, bahan kimia yang sangat penting. Belerang juga digunakan untuk pembuatan kertas sulfit dan kertas lainnya, untuk mensterilkan alat pengasap, dan untuk memutihkan buah kering.
 """)
   elif opsi3:
        st.markdown("<h2 style='text-align: center; color: black;'>Selenium (Se)</h2>", unsafe_allow_html=True)
@@ -774,6 +780,9 @@ Selenium ini paling sering dihasilkan dari bijih sulfida selenide di banyak, sep
 pembuatan:
 
 Selenium diperoleh dari memanggang endapan hasil elektrolisis dengan soda atau asam sulfat. Atau dengan meleburkan endapan tersebut dengan soda dan niter (mineral yang mengandung kalium nitrat). Namun, dari sumber lainnya dikatakan bahwa selenium terjadi secara alami di lingkungan. Sebagai salah satu elemen, selenium tidak dapat diciptakan ataupun dihancurkan, meskipun selenium dapat berubah bentuk dalam lingkungan. 
+
+kegunaan:
+Selenium digunakan dalam xerografi untuk memperbanyak salinan dokumen, surat dan lain-lain. Juga digunakan oleh industri kaca untuk mengawawarnakan kaca dan untuk membuat kaca dan lapisan email gigi yang berwarna rubi. Juga digunakan sebagai tinta fotografi dan sebagai bahan tambahan baja tahan karat.
 """)
   elif opsi4:
        st.markdown("<h2 style='text-align: center; color: black;'>Telurium (Te)</h2>", unsafe_allow_html=True)
