@@ -34,7 +34,10 @@ elif opsi3:
         
         Sini kak, Fayans arahin biar nggak kesasar
         """)
-    
+    image2 = Image.open('Resource/image/Main/Tutor1_1.png')
+    st.image(image2)
+    image2 = Image.open('Resource/image/Main/Tutor1_2.png')
+    st.image(image2)
 elif opsi4:
     st.write(
         """
