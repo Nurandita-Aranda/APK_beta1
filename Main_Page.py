@@ -1,4 +1,5 @@
 import streamlit as st
+from PIL import Image
 height=720
 
 st.set_page_config(
