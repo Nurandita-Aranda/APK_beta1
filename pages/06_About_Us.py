@@ -57,7 +57,7 @@ with col2:
   st.image(image4)
 with col3:
   st.write(" ")
-st.write("Mahasiswa yang pulang setiap jumat")
+st.write("Mahasiswi yang pulang setiap jumat")
 st.write("email: uswahasanah0903@gmail.com")
 st.write("instagram: [@bmsn_unf](https://www.instagram.com/bmsn_unf/)")
 
