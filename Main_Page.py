@@ -8,7 +8,7 @@ st.set_page_config(
 st.markdown("<h1 style='text-align: center; color: raisin black;'>Easy Chemistry</h1>", unsafe_allow_html=True)
 st.subheader("Tanya apa saja ke Fayans")
 
-opsi1 - st.button("Asal mula nama Fayans dari mana?")
+opsi1 = st.button("Asal mula nama Fayans dari mana?")
 opsi2 = st.button("Curhat boleh?")
 opsi3 = st.button("Kayaknya ada yang nge-bug deh, Fayans")
 opsi4 = st.button("Disini ada fitur apa aja, Fayans?")
