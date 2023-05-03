@@ -9,7 +9,7 @@ st.markdown("<h1 style='text-align: center; color: raisin black;'>Easy Chemistry
 st.subheader("Tanya apa saja ke Fayans")
 
 
-col1, col2 = columns(2)
+col1, col2 = st.columns(2)
 
 with col1:
   image1 = Image.open('Resource/image/Main/Fayans.png')
