@@ -21,7 +21,7 @@ with col2:
     opsi3 = st.button("Kayaknya ada yang nge-bug deh, Fayans")
     opsi4 = st.button("Disini ada fitur apa aja, Fayans?")
 if opsi1:
-    st.write("Nama Fayans diambil dari argentometri metode Fayans karena tali perak yang Fayans gunakan, selain itu juga hidung dan kaki Fayans yang berwarna merah muda")
+    st.write("Nama Fayans diambil dari argentometri metode Fayans karena tali perak yang Fayans gunakan, selain itu juga karena hidung dan kaki Fayans yang berwarna merah muda")
 elif opsi2:
     st.write(
         """
