@@ -45,5 +45,12 @@ elif opsi4:
         """
         Kakak punya mata, kan? Usaha dikit napa, cari! Bocah-bocah kelompok 4nya udah capek nih //nggak2 canda, nanti ini gw ketik besok
         """)
+else:
+    st.write(
+        """
+        Halo namaku fayans!
+        
+        Aku yang akan membantu kakak menggunakan aplikasi ini, jadi...apa ada yang perlu Fayans bantu?
+        """)
 
 st.sidebar.success("Select a page above")
