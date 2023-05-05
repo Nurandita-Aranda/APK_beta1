@@ -43,7 +43,11 @@ elif opsi3:
 elif opsi4:
     st.write(
         """
-        Kakak punya mata, kan? Usaha dikit napa, cari! Bocah-bocah kelompok 4nya udah capek nih //nggak2 canda, nanti ini gw ketik besok
+        Oke oke, sini kak Fayans guide
+        1.	Materi
+        Disini isinya materi-materi mata kuliah kimia dasar, analisis jenis, titrimetri, kimia
+        image1 = Image.open('Resource/image/Main/Fayans.png')
+        st.image(image1)
         """)
 else:
     st.write(
