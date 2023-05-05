@@ -2160,15 +2160,13 @@ tertentu.
 Besaran‐besaran yang terkait dengan kinematika :
 - Perpindahan
 
-Perpindahan didefinisikan sebagai perubahan posisi benda terhadap titik acua
-n. Perpindahan merupakan besaran vector, berbeda dengan jarak yang merupakan
-besaran skalar.
+Perpindahan didefinisikan sebagai perubahan posisi benda terhadap titik acuan. Perpindahan merupakan besaran vector, berbeda dengan jarak yang merupakanbesaran skalar.
 - Waktu
 
 Waktu dalam kinematika adalah salah satu variabel yang digunakan untuk mengukur pergerakan benda. Dalam kinematika, waktu dianggap sebagai variabel
-independen yang mengukur durasi dari suatu peristiwa atau gerakan. Waktu dalam kinematika diukur dalam satuan detik (s), dan sering
-digunakan bersamaan dengan variabel lain seperti posisi, kecepatan, dan percepatan untuk menggambarkan gerakan benda. Dalam persamaan kinematika, waktu
+independen yang mengukur durasi dari suatu peristiwa atau gerakan. Waktu dalam kinematika diukur dalam satuan detik (s), dan sering digunakan bersamaan dengan variabel lain seperti posisi, kecepatan, dan percepatan untuk menggambarkan gerakan benda. Dalam persamaan kinematika, waktu
 biasanya dinyatakan sebagai t.
+
 Beberapa konsep penting yang berkaitan dengan waktu dalam kinematika antara lain:
 1. Waktu awal (t₀): Waktu ketika gerakan dimulai.
 2. Waktu akhir (t): Waktu ketika gerakan berakhir.
@@ -2193,10 +2191,7 @@ v = s/t
 
 di mana s adalah jarak yang ditempuh oleh benda dalam waktu t.
 Selain kecepatan rata-rata, ada juga kecepatan instan atau kecepatan pada suatu
-saat tertentu. Kecepatan instan didefinisikan sebagai limit dari perubahan jarak
-terhadap waktu ketika interval waktu mendekati nol. Kecepatan instan adalah
-kecepatan benda pada suatu titik dalam gerakan, dan dapat dihitung dengan
-mengambil turunan dari persamaan perpindahan benda terhadap waktu.
+saat tertentu. Kecepatan instan didefinisikan sebagai limit dari perubahan jarak terhadap waktu ketika interval waktu mendekati nol. Kecepatan instan adalah kecepatan benda pada suatu titik dalam gerakan, dan dapat dihitung dengan mengambil turunan dari persamaan perpindahan benda terhadap waktu.
 Rumus untuk kecepatan instan dapat dinyatakan sebagai berikut:
 
 v = ds/dt
@@ -2205,8 +2200,7 @@ di mana ds adalah perpindahan yang sangat kecil dan dt adalah waktu yang
 sangat kecil yang dibutuhkan oleh benda untuk melakukan perpindahan tersebut.
 - Percepatan
 
-Percepatan dalam kinematika adalah ukuran seberapa cepat kecepatan suatu benda berubah seiring waktu. Secara matematis, percepatan didefinisikan sebagai
-perubahan kecepatan suatu benda selama interval waktu tertentu. Percepatan dapat berupa percepatan rata-rata atau percepatan instan.
+Percepatan dalam kinematika adalah ukuran seberapa cepat kecepatan suatu benda berubah seiring waktu. Secara matematis, percepatan didefinisikan sebagai perubahan kecepatan suatu benda selama interval waktu tertentu. Percepatan dapat berupa percepatan rata-rata atau percepatan instan.
 Percepatan rata-rata (a) diukur dalam satuan meter per detik kuadrat (m/s²) dan didefinisikan sebagai perubahan kecepatan (Δv) dibagi dengan interval waktu (Δt):
 
 a = Δv/Δt
@@ -2221,45 +2215,32 @@ Rumus kinematika yang melibatkan percepatan adalah:
 v = v₀ + at
 
 di mana v adalah kecepatan akhir benda, v₀ adalah kecepatan awal benda, a adalah percepatan benda, dan t adalah waktu yang diperlukan untuk mencapai
-kecepatan akhir. Rumus ini digunakan untuk menghitung kecepatan benda pada
-titik tertentu dalam gerakan jika diketahui percepatan, kecepatan awal, dan waktu
-yang dibutuhkan untuk mencapai kecepatan tersebut.
-Dalam kinematika, percepatan sering dihubungkan dengan gaya melalui hukum
-Newton kedua, yaitu F = ma, di mana F adalah gaya yang bekerja pada benda, m
-adalah massa benda, dan a adalah percepatan benda yang dihasilkan oleh gaya
-tersebut.
+kecepatan akhir. Rumus ini digunakan untuk menghitung kecepatan benda pada titik tertentu dalam gerakan jika diketahui percepatan, kecepatan awal, dan waktu yang dibutuhkan untuk mencapai kecepatan tersebut. Dalam kinematika, percepatan sering dihubungkan dengan gaya melalui hukum
+Newton kedua, yaitu F = ma, di mana F adalah gaya yang bekerja pada benda, m adalah massa benda, dan a adalah percepatan benda yang dihasilkan oleh gaya tersebut.
 
-Gerak lurus beraturan (GLB) adalah gerakan suatu benda dalam lintasan lurus dengan
-kecepatan konstan. Dalam GLB, kecepatan benda selalu sama pada setiap titik dalam lintasan.
-Gerak lurus beraturan dapat terjadi dalam keadaan di mana gaya-gaya yang bekerja pada benda
-seimbang, sehingga tidak ada percepatan pada benda tersebut.
-Contoh GLB yang umum adalah gerakan roda mobil di jalan raya dengan kecepatan
-konstan. Pada saat roda mobil bergerak, kecepatan roda tetap sama pada setiap titik pada
-lintasan jalan raya, karena gaya-gaya yang bekerja pada roda mobil, seperti gaya gesekan dan
-gaya gravitasi, seimbang.
+Gerak lurus beraturan (GLB) adalah gerakan suatu benda dalam lintasan lurus dengan kecepatan konstan. Dalam GLB, kecepatan benda selalu sama pada setiap titik dalam lintasan. Gerak lurus beraturan dapat terjadi dalam keadaan di mana gaya-gaya yang bekerja pada benda seimbang, sehingga tidak ada percepatan pada benda tersebut.
+Contoh GLB yang umum adalah gerakan roda mobil di jalan raya dengan kecepatan konstan. Pada saat roda mobil bergerak, kecepatan roda tetap sama pada setiap titik pada lintasan jalan raya, karena gaya-gaya yang bekerja pada roda mobil, seperti gaya gesekan dan gaya gravitasi, seimbang.
+
 Rumus: v = s/t
 
-Gerak lurus berubah beraturan (GLBB) adalah gerakan suatu benda dalam lintasan
-lurus dengan percepatan konstan. Dalam GLBB, kecepatan benda bertambah atau berkurang
-dengan laju yang sama pada setiap titik dalam lintasan.
-Dalam GLBB, percepatan benda diukur dalam satuan meter per detik kuadrat (m/s²)
-dan dinyatakan sebagai perubahan kecepatan (Δv) dibagi dengan interval waktu (Δt):
+Gerak lurus berubah beraturan (GLBB) adalah gerakan suatu benda dalam lintasan lurus dengan percepatan konstan. Dalam GLBB, kecepatan benda bertambah atau berkurang dengan laju yang sama pada setiap titik dalam lintasan. Dalam GLBB, percepatan benda diukur dalam satuan meter per detik kuadrat (m/s²) dan dinyatakan sebagai perubahan kecepatan (Δv) dibagi dengan interval waktu (Δt):
+
 a = Δv/Δt
 
-Kecepatan benda pada titik tertentu dalam GLBB dapat dihitung menggunakan rumus
-kinematika:
+Kecepatan benda pada titik tertentu dalam GLBB dapat dihitung menggunakan rumus kinematika:
+
 v = v₀ + at
 
 di mana v adalah kecepatan benda pada titik tertentu, v₀ adalah kecepatan awal benda,
 a adalah percepatan benda, dan t adalah waktu yang diperlukan untuk mencapai kecepatan
 tersebut.
+
 Selain itu, persamaan gerak yang digunakan dalam GLBB adalah:
+
 s = v₀t + (1/2)at²
 
-di mana s adalah jarak yang ditempuh oleh benda, v₀ adalah kecepatan awal benda, a
-adalah percepatan benda, dan t adalah waktu yang diperlukan untuk menempuh jarak tersebut.
-Contoh GLBB yang umum adalah gerakan benda yang dilempar ke atas dan kemudian
-jatuh kembali ke bumi. Pada awal gerakan, kecepatan benda adalah nol. Namun, setelah dilempar, benda mengalami percepatan gravitasi yang konstan sehingga kecepatannya
+di mana s adalah jarak yang ditempuh oleh benda, v₀ adalah kecepatan awal benda, a adalah percepatan benda, dan t adalah waktu yang diperlukan untuk menempuh jarak tersebut.
+Contoh GLBB yang umum adalah gerakan benda yang dilempar ke atas dan kemudian jatuh kembali ke bumi. Pada awal gerakan, kecepatan benda adalah nol. Namun, setelah dilempar, benda mengalami percepatan gravitasi yang konstan sehingga kecepatannya
 bertambah secara bertahap. Pada titik tertinggi, kecepatan benda kembali menjadi nol, kemudian benda jatuh kembali ke bumi dengan percepatan gravitasi yang sama.
             """)
         st.write(" ")
