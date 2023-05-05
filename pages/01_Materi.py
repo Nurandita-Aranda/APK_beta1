@@ -2103,7 +2103,7 @@ Penamaan Fenol
             Pembuatan
 1.	Reaksi Hidrolisis Klorobenzena
             """)
-        imageKO3 = Image.open('Resource/image/Kimor/Fenol2.jpg')
+        imageKO3 = Image.open('Resource/image/Kimor/Fenol2.jpeg')
         st.image(imageKO3)
         st.write("2.	Reaksi Asam Benzena Sulfonat dengan NaOH")
         imageKO4 = Image.open('Resource/image/Kimor/Fenol3.png')
