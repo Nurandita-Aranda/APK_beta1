@@ -798,7 +798,7 @@ Mol = 10/180  = 0,05
   
         BE asam = (BM asam)/(jumlah H+)          
         
-      BE Basa = (BM asam)/(jumlah OH-)
+        BE Basa = (BM asam)/(jumlah OH-)
         
   **Berat Ekuivalen (BE) Reaksi redoks**
   
@@ -808,8 +808,7 @@ Mol = 10/180  = 0,05
   
         BE garam = (BM garam)/(Muatan anion × jumlah anion )
   
-      BE garam = (BM garam)/(Muatan kation × jumlah kation )
-        
+        BE garam = (BM garam)/(Muatan kation × jumlah kation )
         """)
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Molaritas (M)</h2>", unsafe_allow_html=True)
         st.write(
@@ -928,21 +927,31 @@ Wardaya, Anton. 2014. Modul, Rumus, & Soal Hukum Proust (Hukum Perbandingan Teta
 
      Jadi boleh dikatakan bahwa klasifikasi kation yang paling umum didasarkan atas perbedaan kelarutan dari klorida, sulfida, dan karbonat dari kation tersebut. Kelima golongan Kation dan ciri khas golongan-golongan ini adalah sebagai berikut:
             """)
-        imageAnjen2 = Image.open('Resource/image/Anjen/bagan.jpg')
-        st.image(imageAnjen2, caption = "Gambar 1. Bagan Pemisahan Kation (Sumber: Penuntun Praktik Analisis Jenis)")
+        imageAnjen1 = Image.open('Resource/image/Anjen/bagan.jpg')
+        st.image(imageAnjen1, caption = "Gambar 1. Bagan Pemisahan Kation (Sumber: Penuntun Praktik Analisis Jenis)")
         st.write(
             """
 1.	Golongan I : Kation grup ini membentuk endapan dengan asam klorida encer. Kation Golongan I yaitu: Ag+, Hg2 2+, Pb2+
 2.	Golongan II : Kation grup ini adalah kation-kation yang tidak bereaksi dengan asam klorida, namun membentuk endapan dengan asam sulfida dalam suasana asam mineral encer.
+    
     Gol II A : Cu2+, Cd2+, Bi3+,
+    
     Gol II B : As3+, As5+, Sb3+, Sb5+, Sn2+, Sn4+
+    
     Sulfida dari kation dalam golongan IIA tak dapat larut dalam amonium polisufida, sulfida dari kation dalam golongan IIB justru dapat larut.
+    
 3.	Golongan III : Kation grup ini tidak bereaksi dengan asam klorida encer maupun dengan asam sulfida dalam suasana asam mineral encer. Namun, kation ini membentuk endapan dengan amonium sulfida dalam suasana netral atau amoniakal.
+    
     Gol III A : Fe2+, Fe3+, Al3+, Cr (III), Cr (VI)
+    
     Gol III B : Zn2+, Co2+, Ni2+, Mn (II), Mn (IV)
+    
 4.	Golongan IV : Kation yang termasuk dalam grup ini adalah kation yang tidak bereaksi dengan pereaksi-pereaksi Golongan I, II dan III. Kation-kation ini membentuk endapan dengan amonium karbonat dengan adanya amonium klorida, dalam suasana netral atau sedikit asam.
+    
     Gol IV : Ba2+, Ca2+, Sr2+
+    
     Beberapa sistem klasifikasi golongan meniadakan pemakaian amonium klorida disamping amonium karbonat sebagai reagensia golongan; dalam hal ini, magnesium harus juga dimasukkan ke dalam golongan ini. Tetapi, karena dalam pengerjaan analisis yang sistematis, amonium klorida akan terdapat banyak sekali ketika kation-kation golongan keempat hendak diendapkan, adalah lebih logis untuk tidak memasukkan magnesium ke dalam Golongan IV.
+
 5.	Golongan V : Kation-kation yang umum, yang tidak bereaksi dengan pereaksi pereaksi golongan I, II, III dan IV merupakan golongan kation yang terakhir, yang meliputi ion-ion magnesium, natrium, kalium, amoium, lilitium dan hidrogen.
    """)
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Pemisahan kation golongan I</h2>", unsafe_allow_html=True)
@@ -954,7 +963,6 @@ Wardaya, Anton. 2014. Modul, Rumus, & Soal Hukum Proust (Hukum Perbandingan Teta
 • Pb2+ (aq) + 2 Cl(aq) → PbCl2(s) (endapan putih)
     
 • Hg2 2+ (aq) + 2Cl(aq) → Hg2Cl2(s) (endapan putih)
-    
     """)
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Pemisahan kation golongan II</h2>", unsafe_allow_html=True)
         st.write ("Setelah ditambahkan hidrogen sulfida, kemudian saring menghasilkan filtrat dan residu (Golongan III). Filtrat ini mungkin terdiri dari sulfida-sulfida logam logam IIA (HgS, PbS, Bi2S3, CuS) dan sulfida-sulfda logam golongan IIB (As2S3, Sb2S3, Sb2S5, SnS2). Pemisahan golongan IIA dan IIB dilakukan dengan mencuci dengan sulfida yang diendapkan dengan sedikit larutan NH4Cl yang telah dijenuhi H2S.")
@@ -962,12 +970,11 @@ Wardaya, Anton. 2014. Modul, Rumus, & Soal Hukum Proust (Hukum Perbandingan Teta
         st.write("Pemisahan kation-kation golongan III dan golongan-golongan lain yaitu dengan menambahkan H2O dan Panaskan, kemudian saring menghasilkan residu dan filtrat (Golongan IV). Endapan yang dihasilkan tersebut ditambahkan sedikit air, NH4Cl serta larutan NH3 dan panaskan hingga mendidih, kemudian saring menghasilkan residu dan filtrat. Residu mungkin mengandung golongan III.A yaitu MnO- , Fe(OH)3, Cr(OH)3, dan Al(OH)3, dan filtrat mungkin mengandung CoS, NiS, MnS, dan ZnS.")
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Pemisahan kation golongan IV</h2>", unsafe_allow_html=True)
         st. write("Hasil filtrat yang diperoleh dari pemisahan kation golongan III, mungkin mengandung golongan IV dan V. Cara pemisahannya dilakukan dengan penambahan reagen natrium heksanitritokobaltat(III) sebanyak 5 mL, kemudian saring menghasilkan residu dan filtrat (mungkin golongan V). Pemisahan Kation Golongan IV dengan Metode Sulfat yaitu residu yang dihasilkan mungkin mengandung BaCO3, SrCO3 dan CaCO3")
-        st.write(
+        st.markdown(
             """
             Daftar Pustaka:
             
-            Svehla,G.1990.Buku Teks Analisis Anorganik Kualitatif Makro dan Semimikro.Jakarta: PT. Kalman Media Pustaka 
-        
+            Svehla,G.1990._Buku Teks Analisis Anorganik Kualitatif Makro dan Semimikro_.Jakarta: PT. Kalman Media Pustaka 
         """)
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/1IdfRtJEGT5yQwW5ezAqdxIRJvzFvoRx7/view?usp=sharing)")
@@ -996,36 +1003,30 @@ beberapa senyawa berwarna yang secara umum dijumpai
 
 **2.	Reaksi Nyala**
 """)
-        st.image("https://lh3.googleusercontent.com/pw/AJFCJaWTmFIrwBdG4ppNH5VxR_7wwOwsA-dXrey65mtG2E_EuBxx8-luM3cBDFdzAvH_ff2UEnlBVAepSOX2UZzVL9OR8pWBW-M_1nDcYI_uswWc9qgl8UqFnBHEQkJ6Jq5YdSW51NIZIv1UuaJAkqzRloOn=w407-h192-s-no?authuser=0")
+        imageAnjen1 = Image.open('Resource/image/Anjen/Uji_nyala.jpg')
+        st.image(imageAnjen1, caption = "Gambar 1. Uji nyala (Sumber: yuninainggolan.wordpress)")
         st.write(
-            """
-            Gambar 1. Uji nyala (Sumber: yuninainggolan.wordpress)
-            
+            """    
 Uji nyala api adalah suatu prosedur analisis yang digunakan dalam ilmukimia untuk mendeteksi keberadaan unsur tertentu, terutama ion logam, berdasarkan karakteristik spektrum emisi masing-masing unsur, ide pengujian ini adalah bahwa atom-atom sampel menguap dan karena panas, mereka mengemisikan sinar ketika berada dalam nyala api.
 
 Prosedur Kerja:
-1. Disiapkan kristal NaCl dalam kaca arloji.
-2. Diisi 2 tabung reaksi masing-masing dengan 1 mL HCl pekat.
-3. Dicelupkan   ujung   kawat   nikrom   dalam   tabung   reaksi   1   dan
-dimasukkan   dalam   nyala   api   bunsen.   Dilakukan   hal   ini   sampai
-kawat tidak memberikan warna lain.
-4. Dicelupkan ujung   kawat  nikrom   tersebut   dalam  tabung  reaksi  2
-kemudian dalam kristal NaCl.
-5. Diamati   warna  nyala   yang  terjadi  dan   dicatat   hasil   pengamatan
-kalian.
-6. Diulangi kegiatan yang sama untuk kristal yang lain.
-Disiapkan kristal NaCl dalam kaca arloji.
+1.	Disiapkan kristal NaCl dalam kaca arloji.
+2.	Diisi 2 tabung reaksi masing-masing dengan 1 mL HCl pekat.
+3.	Dicelupkan ujung kawat nikrom dalam tabung reaksi 1 dan dimasukkan dalam nyala api bunsen. Dilakukan hal ini sampai kawat tidak memberikan warna lain.
+4.	Dicelupkan ujung   kawat  nikrom   tersebut   dalam  tabung  reaksi  2 kemudian dalam kristal NaCl.
+5.	Diamati   warna  nyala   yang  terjadi  dan   dicatat   hasil   pengamatan kalian.
+5.	Diulangi kegiatan yang sama untuk kristal yang lain. Disiapkan kristal NaCl dalam kaca arloji.
 """)
-        st.image("https://lh3.googleusercontent.com/pw/AJFCJaUbNmKYlJvm1kSb2f69YsPI9CxAJHD0XLazF_pygMRyM_xRiuahvJuKvIiiiR67azAo6BXscGOdZtKMH0T13URaBZXww-jtl53cOC4RtODj7cWD_3hTni7GUYs1vzfTiz8eYKjihb6JR_beeuIOAPbq=w609-h657-s-no?authuser=0")
-       
-    
+        imageAnjen2 = Image.open('Resource/image/Anjen/Warna.jpg')
+        st.image(imageAnjen2)
         st.write(
             """
 **3. Uji Pipa Tiup**
 
 Uji pipa tiup bertujuan untuk membebaskan logam tertentu dari sampel tertentu yang memiliki warna yang khas
 """)
-        st.image("https://lh3.googleusercontent.com/pw/AJFCJaXOQ7FZ8lhtV7DFZThINJZUnufyOLw986lIOV8hPE0ohxQN9GyXJAE8VMlhAj-iqKoHCLrVTo7aXiI_-Qklt4huhdhm9X8lrxyzZFGgJ-3iViAdzTtXdSdiBrqC_WEuAIr4X3-K_IvvswurD_mQwBTl=w739-h415-s-no?authuser=0")
+        imageAnjen3 = Image.open('Resource/image/Anjen/Pipa_tiup.jpeg')
+        st.image(imageAnjen3) 
         st.write(
             """
 Prosedur kerja
@@ -1035,19 +1036,14 @@ Prosedur kerja
 4.  Arang yang telah diisi sampel simpan diatas kassa asbes dan nyalakan api.
 5.  Tiupkan dengan pipa tiup, arahkan pada zat sampai semuanya bereaksi. Ambil sampel yg ada dalam arang dan masukan ke dalam tabung reaksi lalu tambahkan pereaksi tertentu.
 """)
-        st.image("https://lh3.googleusercontent.com/pw/AJFCJaWBEClod3ldjqvtOp4kOw5K8m0qsqIMraHFiyXtXl9JH20sI73vcN4gZhxKedtSePTunuw-s33WCnc2Li0OazHffc9EZ0fkrBO7uGs8GcU4sBm0JTznYQrBmGuq2ym7ByTM2g_qouw6YkejUoyiGgOO=w527-h233-s-no?authuser=0")
-        st.write(" ")
-        
+        imageAnjen4 = Image.open('Resource/image/Anjen/Nyala_api.jpg')
+        st.image(imageAnjen4)
+        st.write("**4. Uji Mutiara Boraks**")
+        imageAnjen5 = Image.open('Resource/image/Anjen/boraks.jpeg')
+        st.image(imageAnjen5, caption = "Gambar 3. Uji Mutiara Boraks (Sumber: davin tiska abriani)")
         st.write(
             """
-**4. Uji Mutiara Boraks**
-""")
-        st.image("https://lh3.googleusercontent.com/pw/AJFCJaXuaz4j1r4kN5PpsK6ZqDwr8ISh0A8bEMZ_zExvZArLzvjiDA-pviCjX6UPjHCrQXS-S7fVH67qpGrDaCcTlzzl0vCPJsbKgTlklOhf-wn6YfWKiySiX6XFaA6IY8X88Etdz8yqDsqS5CyDOmgrhv9T=w739-h415-s-no?authuser=0")
-        st.write(
-            """
-            Gambar 3. Uji Mutiara Boraks (Sumber: davin tiska abriani)
-            
-pengamatan warna nyala sampel pada manik boraks yang dipanasi diatas nyala api oksidasi dan reduksibaik dalam dingin ataupun panas dapat diperoleh warna yang menunjukkan apakah zat itu mengandungkation atau anion. Jika sampel mengandung anion logam maka saat dipanaskan pada nyala api akanmengeluarkan warna nyala mutiara boraks yang spesifik.
+pengamatan warna nyala sampel pada manik boraks yang dipanasi diatas nyala api oksidasi dan reduksi baik dalam dingin ataupun panas dapat diperoleh warna yang menunjukkan apakah zat itu mengandungkation atau anion. Jika sampel mengandung anion logam maka saat dipanaskan pada nyala api akanmengeluarkan warna nyala mutiara boraks yang spesifik.
      
 Prosedur Kerja
 1.  Kawat platina dipijarkan (sampai merah)
@@ -1056,7 +1052,8 @@ Prosedur Kerja
 4.  Mutiara panas disentuhkan ke zat uji
 5.  Dipanaskan dalam api pengoksidasi dan api pereduksi
 """)
-        st.image("https://lh3.googleusercontent.com/pw/AJFCJaXiOVJX1JoTaC5enyf11ngrq7mb9RpnzeVkC8KxcYKjhHRykwzLYE6CcJo-QAMHD9wGujSP99hvN1ouvdA9Qu1ffM37Ms7LaWZdt9cSxi3puLyVFs0pReHjSWfEFr-8z6rQ6Y5ArVRLYUfa8rG-U0bN=w384-h293-s-no?authuser=0")
+        imageAnjen6 = Image.open('Resource/image/Anjen/Warna_boraks.png')
+        st.image(imageAnjen6)
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/1ScSsWu9PxEWEXU6g3RbpDOOg7V_5-fhF/view?usp=sharing)")
         
@@ -1129,15 +1126,11 @@ Reaksi Tiosianat:
          SCN- + Ag+ → AgSCN(s) 
          """)
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Anion Golongan IV</h2>", unsafe_allow_html=True)
-        st.write(
-            """
-            Anion-anion yang tidak bereaksi dengan pereaksi-pereaksi di atas dikelompokkan pada golongan ini, yaitu ion nitrit, nitrat, dan klorat
-            """)
+        st.write("Anion-anion yang tidak bereaksi dengan pereaksi-pereaksi di atas dikelompokkan pada golongan ini, yaitu ion nitrit, nitrat, dan klorat")
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Identifikasi Produk yang mudah menguap</h2>", unsafe_allow_html=True)
         st.write(
             """
-            Gas yang dilepaskan dengan HCl atau H2SO4 encer : (karbonat, bikarbonat, sulfit, tiosulfat, sulfida, nitrit, hipoklorit, sianida, dan sianat) Gas atau uap asam yang dilepaskan dengan H2SO4 pekat : (fluorida, heksafluorosilikat, klorida, bromida, iodida, klorat, perklorat, permanganat, bromat, borat, heksasianoferat (II), heksasianoferat (III), tiosianat, format, asetat, oksalat, tartrat
-dan sitrat)
+            Gas yang dilepaskan dengan HCl atau H2SO4 encer : (karbonat, bikarbonat, sulfit, tiosulfat, sulfida, nitrit, hipoklorit, sianida, dan sianat) Gas atau uap asam yang dilepaskan dengan H2SO4 pekat : (fluorida, heksafluorosilikat, klorida, bromida, iodida, klorat, perklorat, permanganat, bromat, borat, heksasianoferat (II), heksasianoferat (III), tiosianat, format, asetat, oksalat, tartrat dan sitrat)
 
 Contoh Reaksi anion karbonat (CO32-) dari larutan garam natrium karbonat penta hidrat (Na2CO3.10H2O) dengan HCl encer:
 
@@ -1169,10 +1162,7 @@ Svehla,G.1990.Buku Teks Analisis Anorganik Kualitatif Makro dan Semimikro.Jakart
         
     if optionanjen == "Pembuatan Larutan":
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Pembuatan Larutan</h2>", unsafe_allow_html=True)
-        st.write(
-            """
-            Cara membuat larutan perlu diperhatikan,yaitu cara membuat larutan  dari bahan  cair atau padat dengan menggunakan  konsentrasi tertentu. Larutan adalah campuran homogen dari dua atau lebih zat  yang berbeda komposisinya. Suatu larutan dalam volume kecil disebut zat  terlarut. Pelarut didefinisikan sebagai zat yang jumlahnya melebihi zat lain.
-            """)
+        st.write("Cara membuat larutan perlu diperhatikan,yaitu cara membuat larutan  dari bahan  cair atau padat dengan menggunakan  konsentrasi tertentu. Larutan adalah campuran homogen dari dua atau lebih zat  yang berbeda komposisinya. Suatu larutan dalam volume kecil disebut zat  terlarut. Pelarut didefinisikan sebagai zat yang jumlahnya melebihi zat lain.")
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Cara Pembuatan Larutan</h2>", unsafe_allow_html=True)
         st.write(
             """
@@ -1275,7 +1265,6 @@ a dan t = jumlah molekul / koefisien reaksi
 •	Prinsip reaksi titrasi volumetri :
 
 mgrek titran = mgrek titrat
-
 
 
 Syarat-syarat reaksi dapat digunakan sebagai reaksi titrasi:
