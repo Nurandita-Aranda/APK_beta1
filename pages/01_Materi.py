@@ -2340,15 +2340,12 @@ listrik adalah volt (V) dan dapat diukur menggunakan alat yang disebut voltmeter
 
 3. Hambatan Listrik
 
-    Hambatan listrik adalah besarnya penghalang yang dihadapi oleh arus listrik dalam
-mengalir melalui penghantar. Hambatan listrik diukur dalam satuan ohm (Ω) dan dapat
-dihitung menggunakan hukum Ohm.
+    Hambatan listrik adalah besarnya penghalang yang dihadapi oleh arus listrik dalam mengalir melalui penghantar. Hambatan listrik diukur dalam satuan ohm (Ω) dan dapat dihitung menggunakan hukum Ohm.
 
 4. Hukum Ohm
 
-    Hukum Ohm menyatakan bahwa beda potensial listrik pada suatu penghantar sebanding
-dengan arus listrik yang mengalir melaluinya dan invers sebanding dengan hambatan
-penghantar. Persamaannya adalah:
+    Hukum Ohm menyatakan bahwa beda potensial listrik pada suatu penghantar sebanding dengan arus listrik yang mengalir melaluinya dan invers sebanding dengan hambatan penghantar. Persamaannya adalah:
+
 V = I * R
 
 dengan:
@@ -2362,9 +2359,10 @@ R = hambatan listrik (dalam satuan ohm)
 5. Hukum Kirchoff
 
 Hukum Kirchoff terdiri dari dua hukum, yaitu:
-- Hukum Kirchoff Pertama (KPL) menyatakan bahwa jumlah arus listrik yang masuk ke sebuah
-simpul sama dengan jumlah arus listrik yang keluar dari simpul tersebut. Persamaannya adalah:
+- Hukum Kirchoff Pertama (KPL) menyatakan bahwa jumlah arus listrik yang masuk ke sebuah simpul sama dengan jumlah arus listrik yang keluar dari simpul tersebut. Persamaannya adalah:
+
 ΣI_masuk = ΣI_keluar
+r
 - Hukum Kirchoff Kedua (KPL) menyatakan bahwa jumlah beda potensial listrik dalam suatu
 loop tertutup sama dengan nol. Persamaannya adalah:
 ΣV_loop = 0
