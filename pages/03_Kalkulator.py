@@ -158,4 +158,4 @@ with tab_7:
             nilai_bufferbasa2 = kb*molsisa2/molsisagaram2
             st.success(f"nilai OH- adalah {nilai_bufferbasa2}")
      if option == "Garam terhidrolisis (basa kuat-asam kuat)":
-        st.write ("nilai pH dari garam terhidroisis asam kuat dan basa kuat adalah 7")
+        st.write ("nilai pH dari garam terhidroisis asam kuat dan basa kuat adalah selalu pH netral/7")
