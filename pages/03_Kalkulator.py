@@ -3,7 +3,7 @@ import streamlit as st
 st.markdown("<h1 style='text-align: center; color: raisin black;'>Chemiskulator</h1>", unsafe_allow_html=True)
 st.markdown("<h2 style='text-align: center; color: raisin black;'>Kalkulator buat kamu yang suka kimia</h2>", unsafe_allow_html=True)
 st.caption("Apa yang mau kamu hitung hari ini?")
-tab_1, tab_2, tab_3, tab_4, tab_5, tab_6 = st.tabs(["Molalitas","Molaritas", "% Kadar", "Normalitas", "PPM", "PPB"])
+tab_1, tab_2, tab_3, tab_4, tab_5, tab_6, tab_7 = st.tabs(["Molalitas","Molaritas", "% Kadar", "Normalitas", "PPM", "PPB", "pH"])
 with tab_1:
      option = st.selectbox(
         "Pilih salah satu",
@@ -136,3 +136,8 @@ with tab_6:
         if tombol_2:
             nilai_ppb2 = Massa2/Berat
             st.success(f"nilai PPB adalah {nilai_ppb2}")
+          
+with tab_7:
+     option = st.selectbox(
+        "Pilih salah satu",
+        ("Buffer asam","Buffer basa", "Garam terhidrolisis (basa kuat-asam kuat)", "Garam terhidrolisis (basa kuat-asam lemah)", "Garam terhidrolisis (basa lemah-asam kuat)"))
