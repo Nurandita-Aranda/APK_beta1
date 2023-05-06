@@ -154,6 +154,8 @@ with tab_7:
         molsisa2= st.number_input("Masukkan nilai mol sisa larutan basa (mol) ")
         molsisagaram2= st.number_input("Masukkan nilai mol sisa larutan garam (mol) ")
         tombol_1 = st.button("Buffer basa")
-        if tombol_1:
+        if tombol_2:
             nilai_bufferbasa2 = kb*molsisa2/molsisagaram2
             st.success(f"nilai OH- adalah {nilai_bufferbasa2}")
+     if option == "Garam terhidrolisis (basa kuat-asam kuat)":
+        st.write ("nilai pH dari garam terhidroisis asam kuat dan basa kuat adalah 7")
