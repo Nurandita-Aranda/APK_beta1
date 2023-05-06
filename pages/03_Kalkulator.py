@@ -141,7 +141,7 @@ with tab_7:
      option = st.selectbox(
         "Pilih salah satu",
         ("Buffer asam","Buffer basa", "Garam terhidrolisis (basa kuat-asam kuat)", "Garam terhidrolisis (basa kuat-asam lemah)", "Garam terhidrolisis (basa lemah-asam kuat)"))
-    if option == "Buffer asam":
+     if option == "Buffer asam":
         ka= st.number_input("Masukkan nilai ka terlarut")
         molsisa1= st.number_input("Masukkan nilai mol sisa larutan asam (mol) ")
         molsisagaram1= st.number_input("Masukkan nilai mol sisa larutan garam (mol) ")
