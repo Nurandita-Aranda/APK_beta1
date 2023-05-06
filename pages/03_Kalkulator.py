@@ -155,5 +155,5 @@ with tab_7:
         molsisagaram2= st.number_input("Masukkan nilai mol sisa larutan garam (mol) ")
         tombol_1 = st.button("Buffer basa")
         if tombol_1:
-            nilai_bufferbasa2 = ka*molsisa1/molsisagaram1
+            nilai_bufferbasa2 = kb*molsisa2/molsisagaram2
             st.success(f"nilai H+ adalah {nilai_bufferbasa2}")
