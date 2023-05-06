@@ -622,7 +622,9 @@ with tab_2:
 asal, yang disebut sebagai reaktan, gambaran zat-zat yang terlibat dalam suatu proses reaksi kimia dapat dinyatakan sebagai persamaan reaksi kimia
 
  A + B   →  C + D
+ 
 Reaktan     Produk
+
 Persamaan ini mengandung rumus dari zat-zat yang bereaksi pada sisi sebelah kiri (reaktan), dan rumus dari hasil reaksinya pada sisi sebelah kanan (produk). Penulisan reaksi Kimia memiliki  tiga  tahapan  prosedur  yang  sistematis  yang  perlu  diperhatikan  untuk memudahkan penulisan  persamaan  reaksi  kimia, ketiga tahap tersebut adalah sebagai berikut:
 1.	Tuliskan nama dari reaktan dan produk
 
@@ -757,11 +759,13 @@ g = massa (gram)
 
 BM = berat molekul (g/mol atau mg/mmol)
 
-      Contoh:
+Contoh:
+
 Hitung berapakah mol molekul yang terdapat dalam 10 gram glukosa (C6H12O6), diketahui Ar C = 12, O = 16, serta H = 1.
 
-      Jawaban:
+Jawaban:
 Mr glukosa = (6 x 12) + (12 x 1) + (6 x 16) = 180
+
 Mol = 10/180  = 0,05
 """)
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Hukum proust</h2>", unsafe_allow_html=True)
@@ -924,11 +928,10 @@ Wardaya, Anton. 2014. Modul, Rumus, & Soal Hukum Proust (Hukum Perbandingan Teta
 
      Jadi boleh dikatakan bahwa klasifikasi kation yang paling umum didasarkan atas perbedaan kelarutan dari klorida, sulfida, dan karbonat dari kation tersebut. Kelima golongan Kation dan ciri khas golongan-golongan ini adalah sebagai berikut:
             """)
-        st.image("https://lh3.googleusercontent.com/pw/AJFCJaVt6CKvucA33DVeqEVl-6QePAnWHkG8UHERCUiXfZQ27yazt45GiSzKmipLUdX_g3jVsk0mQ16XBbpCe1gg63017HstAwuW1n7FSKsiXkrceQVi-WlpUUgq7BegNChpODNYYyxCxyHP7nRxZoXhX__O=w1124-h657-s-no?authuser=0")  
+        imageAnjen2 = Image.open('Resource/image/Anjen/bagan.jpg')
+        st.image(imageAnjen2, caption = "Gambar 1. Bagan Pemisahan Kation (Sumber: Penuntun Praktik Analisis Jenis)")
         st.write(
             """
-Gambar 1. Bagan Pemisahan Kation (Sumber: Penuntun Praktik Analisis Jenis)
-        
 1.	Golongan I : Kation grup ini membentuk endapan dengan asam klorida encer. Kation Golongan I yaitu: Ag+, Hg2 2+, Pb2+
 2.	Golongan II : Kation grup ini adalah kation-kation yang tidak bereaksi dengan asam klorida, namun membentuk endapan dengan asam sulfida dalam suasana asam mineral encer.
     Gol II A : Cu2+, Cd2+, Bi3+,
