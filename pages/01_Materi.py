@@ -2151,11 +2151,9 @@ Dengan demikian, ilmu fisika sangat penting dalam kimia analitik karena memberik
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Kinematika</h2>", unsafe_allow_html=True)
         st.write(
             """
-    Kinematika merupakan cabang Ilmu fisika yang membahas mengenai bagaimana benda bergerak. Kinematika membahas gerak benda tanpa mempelajari penyebab gerak tersebut.
-Kinematika merupakan dasar bagi banyak cabang fisika lainnya, seperti fluida, kalor, gelombang, cahaya, dsb.
+    Kinematika merupakan cabang Ilmu fisika yang membahas mengenai bagaimana benda bergerak. Kinematika membahas gerak benda tanpa mempelajari penyebab gerak tersebut. Kinematika merupakan dasar bagi banyak cabang fisika lainnya, seperti fluida, kalor, gelombang, cahaya, dsb.
 Dalam Analisis Kimia, Kinematika dapat diaplikasikan secara tidak langsung melalui cabang Fisika lainnya. Misalnya, gerak gelombang cahaya merupakan dasar dari spektrofotometri.
-Gerak adalah perubahan kedudukan atau tempat suatu benda terhadap titik acuan
-tertentu.
+Gerak adalah perubahan kedudukan atau tempat suatu benda terhadap titik acuan tertentu.
 
 Besaran‐besaran yang terkait dengan kinematika :
 - Perpindahan
@@ -2163,9 +2161,7 @@ Besaran‐besaran yang terkait dengan kinematika :
 Perpindahan didefinisikan sebagai perubahan posisi benda terhadap titik acuan. Perpindahan merupakan besaran vector, berbeda dengan jarak yang merupakanbesaran skalar.
 - Waktu
 
-Waktu dalam kinematika adalah salah satu variabel yang digunakan untuk mengukur pergerakan benda. Dalam kinematika, waktu dianggap sebagai variabel
-independen yang mengukur durasi dari suatu peristiwa atau gerakan. Waktu dalam kinematika diukur dalam satuan detik (s), dan sering digunakan bersamaan dengan variabel lain seperti posisi, kecepatan, dan percepatan untuk menggambarkan gerakan benda. Dalam persamaan kinematika, waktu
-biasanya dinyatakan sebagai t.
+Waktu dalam kinematika adalah salah satu variabel yang digunakan untuk mengukur pergerakan benda. Dalam kinematika, waktu dianggap sebagai variabel independen yang mengukur durasi dari suatu peristiwa atau gerakan. Waktu dalam kinematika diukur dalam satuan detik (s), dan sering digunakan bersamaan dengan variabel lain seperti posisi, kecepatan, dan percepatan untuk menggambarkan gerakan benda. Dalam persamaan kinematika, waktu biasanya dinyatakan sebagai t.
 
 Beberapa konsep penting yang berkaitan dengan waktu dalam kinematika antara lain:
 1. Waktu awal (t₀): Waktu ketika gerakan dimulai.
@@ -2173,8 +2169,8 @@ Beberapa konsep penting yang berkaitan dengan waktu dalam kinematika antara lain
 3. Waktu tempuh (Δt): Selisih waktu antara waktu akhir dan waktu awal. Waktu tempuh dapat digunakan untuk menghitung kecepatan rata-rata suatu benda.
 4. Waktu paruh (t₁/₂): Waktu yang diperlukan untuk setengah dari suatu populasi radioaktif terurai.
 
-Dalam analisis kinematika, waktu digunakan untuk mengukur perubahan posisi, kecepatan, dan percepatan suatu benda seiring berjalannya waktu. Sebagai contoh, jika diketahui posisi awal dan posisi akhir suatu benda, serta waktu yang
-diperlukan untuk benda tersebut bergerak dari posisi awal ke posisi akhir, maka kecepatan rata-rata dan percepatan rata-rata benda tersebut dapat dihitung menggunakan waktu sebagai salah satu variabelnya.
+Dalam analisis kinematika, waktu digunakan untuk mengukur perubahan posisi, kecepatan, dan percepatan suatu benda seiring berjalannya waktu. Sebagai contoh, jika diketahui posisi awal dan posisi akhir suatu benda, serta waktu yang diperlukan untuk benda tersebut bergerak dari posisi awal ke posisi akhir, maka kecepatan rata-rata dan percepatan rata-rata benda tersebut dapat dihitung menggunakan waktu sebagai salah satu variabelnya.
+
 - Kecepatan
 
 Kecepatan dalam kinematika adalah ukuran seberapa cepat suatu benda bergerak dan arah gerakannya. Kecepatan didefinisikan sebagai perubahan jarak yang ditempuh oleh suatu benda dalam satu satuan waktu, atau dapat juga
@@ -2183,21 +2179,18 @@ Rumus umum untuk kecepatan (v) adalah:
 
 v = Δs/Δt
 
-di mana Δs adalah perpindahan atau jarak yang ditempuh oleh benda selama
-interval waktu tertentu Δt. Dalam kasus pergerakan benda dengan kecepatan yang
-konstan, rumus ini dapat disederhanakan menjadi:
+di mana Δs adalah perpindahan atau jarak yang ditempuh oleh benda selama interval waktu tertentu Δt. Dalam kasus pergerakan benda dengan kecepatan yang konstan, rumus ini dapat disederhanakan menjadi:
 
 v = s/t
 
 di mana s adalah jarak yang ditempuh oleh benda dalam waktu t.
-Selain kecepatan rata-rata, ada juga kecepatan instan atau kecepatan pada suatu
-saat tertentu. Kecepatan instan didefinisikan sebagai limit dari perubahan jarak terhadap waktu ketika interval waktu mendekati nol. Kecepatan instan adalah kecepatan benda pada suatu titik dalam gerakan, dan dapat dihitung dengan mengambil turunan dari persamaan perpindahan benda terhadap waktu.
+
+Selain kecepatan rata-rata, ada juga kecepatan instan atau kecepatan pada suatu saat tertentu. Kecepatan instan didefinisikan sebagai limit dari perubahan jarak terhadap waktu ketika interval waktu mendekati nol. Kecepatan instan adalah kecepatan benda pada suatu titik dalam gerakan, dan dapat dihitung dengan mengambil turunan dari persamaan perpindahan benda terhadap waktu.
 Rumus untuk kecepatan instan dapat dinyatakan sebagai berikut:
 
 v = ds/dt
 
-di mana ds adalah perpindahan yang sangat kecil dan dt adalah waktu yang
-sangat kecil yang dibutuhkan oleh benda untuk melakukan perpindahan tersebut.
+di mana ds adalah perpindahan yang sangat kecil dan dt adalah waktu yang sangat kecil yang dibutuhkan oleh benda untuk melakukan perpindahan tersebut.
 - Percepatan
 
 Percepatan dalam kinematika adalah ukuran seberapa cepat kecepatan suatu benda berubah seiring waktu. Secara matematis, percepatan didefinisikan sebagai perubahan kecepatan suatu benda selama interval waktu tertentu. Percepatan dapat berupa percepatan rata-rata atau percepatan instan.
@@ -2205,8 +2198,7 @@ Percepatan rata-rata (a) diukur dalam satuan meter per detik kuadrat (m/s²) dan
 
 a = Δv/Δt
 
-Percepatan instan adalah percepatan pada suatu titik dalam gerakan dan didefinisikan sebagai limit dari perubahan kecepatan terhadap waktu ketika interval
-waktu mendekati nol. Dalam notasi turunan, percepatan instan dinyatakan sebagai turunan dari kecepatan terhadap waktu:
+Percepatan instan adalah percepatan pada suatu titik dalam gerakan dan didefinisikan sebagai limit dari perubahan kecepatan terhadap waktu ketika interval waktu mendekati nol. Dalam notasi turunan, percepatan instan dinyatakan sebagai turunan dari kecepatan terhadap waktu:
 
 a = dv/dt
 
@@ -2214,8 +2206,7 @@ Rumus kinematika yang melibatkan percepatan adalah:
 
 v = v₀ + at
 
-di mana v adalah kecepatan akhir benda, v₀ adalah kecepatan awal benda, a adalah percepatan benda, dan t adalah waktu yang diperlukan untuk mencapai
-kecepatan akhir. Rumus ini digunakan untuk menghitung kecepatan benda pada titik tertentu dalam gerakan jika diketahui percepatan, kecepatan awal, dan waktu yang dibutuhkan untuk mencapai kecepatan tersebut. Dalam kinematika, percepatan sering dihubungkan dengan gaya melalui hukum
+di mana v adalah kecepatan akhir benda, v₀ adalah kecepatan awal benda, a adalah percepatan benda, dan t adalah waktu yang diperlukan untuk mencapai kecepatan akhir. Rumus ini digunakan untuk menghitung kecepatan benda pada titik tertentu dalam gerakan jika diketahui percepatan, kecepatan awal, dan waktu yang dibutuhkan untuk mencapai kecepatan tersebut. Dalam kinematika, percepatan sering dihubungkan dengan gaya melalui hukum
 Newton kedua, yaitu F = ma, di mana F adalah gaya yang bekerja pada benda, m adalah massa benda, dan a adalah percepatan benda yang dihasilkan oleh gaya tersebut.
 
 Gerak lurus beraturan (GLB) adalah gerakan suatu benda dalam lintasan lurus dengan kecepatan konstan. Dalam GLB, kecepatan benda selalu sama pada setiap titik dalam lintasan. Gerak lurus beraturan dapat terjadi dalam keadaan di mana gaya-gaya yang bekerja pada benda seimbang, sehingga tidak ada percepatan pada benda tersebut.
@@ -2231,9 +2222,7 @@ Kecepatan benda pada titik tertentu dalam GLBB dapat dihitung menggunakan rumus 
 
 v = v₀ + at
 
-di mana v adalah kecepatan benda pada titik tertentu, v₀ adalah kecepatan awal benda,
-a adalah percepatan benda, dan t adalah waktu yang diperlukan untuk mencapai kecepatan
-tersebut.
+di mana v adalah kecepatan benda pada titik tertentu, v₀ adalah kecepatan awal benda, a adalah percepatan benda, dan t adalah waktu yang diperlukan untuk mencapai kecepatan tersebut.
 
 Selain itu, persamaan gerak yang digunakan dalam GLBB adalah:
 
