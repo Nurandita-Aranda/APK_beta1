@@ -156,4 +156,4 @@ with tab_7:
         tombol_1 = st.button("Buffer basa")
         if tombol_1:
             nilai_bufferbasa2 = kb*molsisa2/molsisagaram2
-            st.success(f"nilai H+ adalah {nilai_bufferbasa2}")
+            st.success(f"nilai OH- adalah {nilai_bufferbasa2}")
