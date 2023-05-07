@@ -1,9 +1,10 @@
 import streamlit as st
+from math import sqrt
 
 st.markdown("<h1 style='text-align: center; color: raisin black;'>Chemiskulator</h1>", unsafe_allow_html=True)
 st.markdown("<h2 style='text-align: center; color: raisin black;'>Kalkulator buat kamu yang suka kimia</h2>", unsafe_allow_html=True)
 st.caption("Apa yang mau kamu hitung hari ini?")
-tab_1, tab_2, tab_3, tab_4, tab_5, tab_6, tab_7 = st.tabs(["Molalitas","Molaritas", "% Kadar", "Normalitas", "PPM", "PPB", "pH"])
+tab_1, tab_2, tab_3, tab_4, tab_5, tab_6 = st.tabs(["Molalitas","Molaritas", "% Kadar", "Normalitas", "PPM", "PPB"])
 with tab_1:
      option = st.selectbox(
         "Pilih salah satu",
@@ -135,27 +136,4 @@ with tab_6:
         tombol_2 = st.button("Hitung PPB")
         if tombol_2:
             nilai_ppb2 = Massa2/Berat
-            st.success(f"nilai PPB adalah {nilai_ppb2}")
-          
-with tab_7:
-     option = st.selectbox(
-        "Pilih salah satu",
-        ("Buffer asam","Buffer basa", "Garam terhidrolisis (basa kuat-asam kuat)", "Garam terhidrolisis (basa kuat-asam lemah)", "Garam terhidrolisis (basa lemah-asam kuat)"))
-     if option == "Buffer asam":
-        ka= st.number_input("Masukkan nilai ka terlarut")
-        molsisa1= st.number_input("Masukkan nilai mol sisa larutan asam (mol) ")
-        molsisagaram1= st.number_input("Masukkan nilai mol sisa larutan garam (mol) ")
-        tombol_1 = st.button("Buffer asam")
-        if tombol_1:
-            nilai_bufferasam1 = ka*molsisa1/molsisagaram1
-            st.success(f"nilai H+ adalah {nilai_bufferasam1}")
-     if option == "Buffer basa":
-        kb= st.number_input("Masukkan nilai kb terlarut")
-        molsisa2= st.number_input("Masukkan nilai mol sisa larutan basa (mol) ")
-        molsisagaram2= st.number_input("Masukkan nilai mol sisa larutan garam (mol) ")
-        tombol_1 = st.button("Buffer basa")
-        if tombol_2:
-            nilai_bufferbasa2 = kb*molsisa2/molsisagaram2
-            st.success(f"nilai OH- adalah {nilai_bufferbasa2}")
-     if option == "Garam terhidrolisis (basa kuat-asam kuat)":
-        st.write ("nilai pH dari garam terhidroisis asam kuat dan basa kuat adalah selalu pH netral/7")
+            st.success(f"nilai PPB adalah {nilai_ppb2}")  
