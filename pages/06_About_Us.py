@@ -29,7 +29,7 @@ with col2:
   st.image(image2)
 with col3:
   st.write(" ")
-st.write("Sujud syukur proyek ini kelar juga")
+st.write("Sujud syukur akhirnya proyek ini kelar juga")
 st.write("email: puspita.e.s030304@gmail.com")
 st.write("Instagram: [@k.p.era](https://www.instagram.com/k.p.era/)")
 
