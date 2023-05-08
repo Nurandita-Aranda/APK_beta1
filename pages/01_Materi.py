@@ -994,11 +994,13 @@ Pengamatan dalam uji kering meliputi
 
 **1.	Sifat fisik** 
 
-Dalam sifat fisik yang perlu diperhatikan:
--	Pengamatan bentuk
-bentuk harus diperhatikan secara seksama,apakah berupa padatan atau cairan
--	Pengamatan warna
-beberapa senyawa berwarna yang secara umum dijumpai 
+    Dalam sifat fisik yang perlu diperhatikan:
+    
+    -	Pengamatan bentuk
+        bentuk harus diperhatikan secara seksama,apakah berupa padatan atau cairan
+        
+    -	Pengamatan warna
+        beberapa senyawa berwarna yang secara umum dijumpai 
 
 **2.	Reaksi Nyala**
 """)
@@ -1014,7 +1016,7 @@ Prosedur Kerja:
 3.	Dicelupkan ujung kawat nikrom dalam tabung reaksi 1 dan dimasukkan dalam nyala api bunsen. Dilakukan hal ini sampai kawat tidak memberikan warna lain.
 4.	Dicelupkan ujung   kawat  nikrom   tersebut   dalam  tabung  reaksi  2 kemudian dalam kristal NaCl.
 5.	Diamati   warna  nyala   yang  terjadi  dan   dicatat   hasil   pengamatan kalian.
-5.	Diulangi kegiatan yang sama untuk kristal yang lain. Disiapkan kristal NaCl dalam kaca arloji.
+6.	Diulangi kegiatan yang sama untuk kristal yang lain. Disiapkan kristal NaCl dalam kaca arloji.
 """)
         imageAnjen2 = Image.open('Resource/image/Anjen/Warna.jpg')
         st.image(imageAnjen2)
@@ -1706,7 +1708,7 @@ Larutan standar primer adalah larutan yang konsentrasinya harus diketahui dengan
 
 **Larutan standar sekunder**
 
-larutan yang dapat digunakan untuk standarisasi atau menentukan kadar zat lain dan konsentrasinya sudah distandarisasi dengan suatu standar primer
+larutan yang dapat digunakan untuk standarisasi atau menentukan kadar zat lain dan konsentrasinya sudah distandarisasi dengan suatu standar primer.
 
 Standardisasi ialah suatu usaha menentukan konsentrasi yang tepat dari larutan baku yang akan digunakan untuk titrasi.
 
@@ -1949,15 +1951,15 @@ a. Isomer Struktural
 Isomer struktur adalah senyawa karbon yang mempunyai rumus molekul sama, tetapi susunan ikatannya berbeda.
 1.	Isomer Kerangka (Isomer Rantai)
 
-Isomer kerangka (isomer rantai) terjadi pada senyawa yang memiliki rumus molekul dan gugus fungsi sama, tetapi struktur kerangka atom karbonnya berbeda.
+    Isomer kerangka (isomer rantai) terjadi pada senyawa yang memiliki rumus molekul dan gugus fungsi sama, tetapi struktur kerangka atom karbonnya berbeda.
 
 2.	Isomer Posisi
 
-Isomer posisi terjadi pada senyawa yang memiliki rumus molekul sama, gugus fungsi sama, tetapi posisi gugus fungsi atau ikatan rangkapnya berbeda.
+    Isomer posisi terjadi pada senyawa yang memiliki rumus molekul sama, gugus fungsi sama, tetapi posisi gugus fungsi atau ikatan rangkapnya berbeda.
 
 3.	Isomer Fungsional (Isomer Gugus Fungsi)
 
-Isomer fungsional atau dikenal juga sebagai isomer gugus fungsi terjadi pada senyawa yang mempunyai rumus molekul yang sama, tetapi gugus fungsinya berbeda.
+    Isomer fungsional atau dikenal juga sebagai isomer gugus fungsi terjadi pada senyawa yang mempunyai rumus molekul yang sama, tetapi gugus fungsinya berbeda.
 
 b. Stereoisomer
 1.	Isomer geometrik atau isomer cis-trans : stereoisomer yang berbeda karena gugus-gugus berada pada satu sisi atau pada sisi-sisi yang berlawanan terhadap letak ketegaran molekul
@@ -2147,9 +2149,11 @@ Dalam Analisis Kimia, Kinematika dapat diaplikasikan secara tidak langsung melal
 Gerak adalah perubahan kedudukan atau tempat suatu benda terhadap titik acuan tertentu.
 
 Besaran‐besaran yang terkait dengan kinematika :
+
 - Perpindahan
 
 Perpindahan didefinisikan sebagai perubahan posisi benda terhadap titik acuan. Perpindahan merupakan besaran vector, berbeda dengan jarak yang merupakanbesaran skalar.
+
 - Waktu
 
 Waktu dalam kinematika adalah salah satu variabel yang digunakan untuk mengukur pergerakan benda. Dalam kinematika, waktu dianggap sebagai variabel independen yang mengukur durasi dari suatu peristiwa atau gerakan. Waktu dalam kinematika diukur dalam satuan detik (s), dan sering digunakan bersamaan dengan variabel lain seperti posisi, kecepatan, dan percepatan untuk menggambarkan gerakan benda. Dalam persamaan kinematika, waktu biasanya dinyatakan sebagai t.
@@ -2237,34 +2241,51 @@ bertambah secara bertahap. Pada titik tertinggi, kecepatan benda kembali menjadi
 
 Usaha didefinisikan sebagai jumlah energi yang diperlukan untuk memindahkan benda dari satu titik ke titik lain dengan gaya konstan. Secara matematis, usaha dapat dihitung dengan
 rumus:
+
 W = F × d × cos(θ)
+
 di mana:
+
 W = usaha (dalam satuan Joule)
+
 F = gaya yang bekerja pada benda (dalam satuan Newton)
+
 d = jarak perpindahan benda (dalam satuan meter)
+
 θ = sudut antara arah gaya dan arah perpindahan benda (dalam satuan derajat)
-Energi Potensial
+
+**Energi Potensial**
+
 Energi potensial adalah energi yang dimiliki oleh benda sebagai akibat dari posisi atau ketinggiannya dalam suatu medan gravitasi atau medan gaya lainnya. Energi potensial dapat
 dihitung dengan rumus:
+
 Ep = m × g × h
 
 di mana:
-Ep = energi potensial (dalam satuan Joule)
-m = massa benda (dalam satuan kilogram)
-g = percepatan gravitasi bumi (sekitar 9,8 m/s^2)
-h = ketinggian benda dalam medan gravitasi (dalam satuan meter)
-Energi Kinetik
 
-Energi kinetik adalah energi yang dimiliki oleh benda sebagai akibat dari gerakannya. Energi
-kinetik dapat dihitung dengan rumus:
+Ep = energi potensial (dalam satuan Joule)
+
+m = massa benda (dalam satuan kilogram)
+
+g = percepatan gravitasi bumi (sekitar 9,8 m/s^2)
+
+h = ketinggian benda dalam medan gravitasi (dalam satuan meter)
+
+**Energi Kinetik**
+
+Energi kinetik adalah energi yang dimiliki oleh benda sebagai akibat dari gerakannya. Energi kinetik dapat dihitung dengan rumus:
+
 Ek = 1/2 × m × v^2
 
 di mana:
+
 Ek = energi kinetik (dalam satuan Joule)
+
 m = massa benda (dalam satuan kilogram)
+
 v = kecepatan benda (dalam satuan meter per detik)
 
-Prinsip Konservasi Energi Mekanik
+**Prinsip Konservasi Energi Mekanik**
 
 Prinsip konservasi energi mekanik menyatakan bahwa total energi mekanik dalam suatu sistem terjaga atau konstan, walaupun terdapat perubahan bentuk energi dari potensial ke kinetik dan
 sebaliknya. Dengan menggunakan prinsip ini, dapat dihitung energi mekanik awal (Em1) dan akhir (Em2) suatu benda dalam suatu sistem yang mengalami perubahan energi. Persamaan
