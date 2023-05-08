@@ -434,8 +434,8 @@ Hukum laju : Laju = k[A]X[Y]Y
 Untuk reaksi umum : aA + bB → cC + dD
 
 C. Hubungan Antara Konsentrasi Reaktan dan Waktu
-1. Reaksi Orde Pertama : Reaksi yang lajunya bergantung pada konsentrasi reaktan dipangkatkan dengan satu.
-2. Reaksi Orde Kedua : Reaksi yang lajunya bergantung pada konsentrasi reaktan dipangkatkan dengan dua.
+1.	Reaksi Orde Pertama : Reaksi yang lajunya bergantung pada konsentrasi reaktan dipangkatkan dengan satu.
+2.	Reaksi Orde Kedua : Reaksi yang lajunya bergantung pada konsentrasi reaktan dipangkatkan dengan dua.
 
 D. Energi Aktivasi dan Ketergantungan Konstanta Laju Terhadap suhu
 1. Teori Tumbukan pada Kinetika Kimia
@@ -460,8 +460,8 @@ Tahap 2 : N2O2(g) + O2(g) →  2NO2(g)
 Reaksi Keseluruhan : 2NO(g) + N2O2(g) + O2(g) → N2O2(g) + 2NO2(g)
 
 Tahap Elementer harus memenuhi dua syarat :
-1. Jumlah elementer harus menghasilkan persamaan setara keseluruhan untuk reaksi tersebut.
-2. Tahap penentu laju, yaitu tahap paling lambat dari seluruh rangkaian tahap menuju pembentukan produk. Harus memprediksi hukum laju yang sama.
+1.	Jumlah elementer harus menghasilkan persamaan setara keseluruhan untuk reaksi tersebut.
+2.	Tahap penentu laju, yaitu tahap paling lambat dari seluruh rangkaian tahap menuju pembentukan produk. Harus memprediksi hukum laju yang sama.
 
 F. Katalisis
 
@@ -494,26 +494,27 @@ Dimana a,b,c, dan d adalah koefisien stoikiometri untuk spesi spesi yang bereaks
      k = [C]c[D]d/[A]a[B]b
 
 C. Beberapa Cara Untuk Menyatakan Konstanta Kesetimbangan
-1. Kesetimbangan Homogen : berlaku untuk reaksi yang semua spesi bereaksinya berada pada fasa yang sama.
-2. Kesetimbangan Heterogen : untuk reaksi yang melibatkan fasa yang berbeda.
+1.	Kesetimbangan Homogen : berlaku untuk reaksi yang semua spesi bereaksinya berada pada fasa yang sama.
+2.	Kesetimbangan Heterogen : untuk reaksi yang melibatkan fasa yang berbeda.
 
 D. Aturan-Aturan Penulisan Persamaan Konstanta Kesetimbangan
-1. konsentrasi dari spesi spesi yang konsentrasi-reaksi di dalam fasa terkondensasi. Dinyatakan dalam mol per liter.
-2. Konsentrasi dari padatan murni, cairan murni dan pelarut tidak dituliskan dalam persamaan konstanta kesetimbangan.
-3. konstanta kesetimbangan tidak berdimensi.
+1.	Konsentrasi dari spesi spesi yang konsentrasi-reaksi di dalam fasa terkondensasi. Dinyatakan dalam mol per liter.
+2.	Konsentrasi dari padatan murni, cairan murni dan pelarut tidak dituliskan dalam persamaan konstanta kesetimbangan.
+3.	konstanta kesetimbangan tidak berdimensi.
 
 E. Apa yang Dapat Diketahui Dari Konstanta Kesetimbangan
-1. Memprediksi arah reaksi.
-2. Menghitung konsentrasi kesetimbangan.
+1.	Memprediksi arah reaksi.
+2.	Menghitung konsentrasi kesetimbangan.
 
 F. Faktor yang mempengaruhi Kesetimbangan Kimia.
-1. Asas Le Chatelier
-Ada satu aturan umum yang membantu kita memprediksi kearah mana reaksi kesetimbangan akan bergeser bila terjadi perubahan konsentrasi, tekanan. Volume, atau suhu. Asas le chatalier menyatakan bahwa “ jika suatu tekanan eksternal diberikan kepada suatu sistem kesetimbangan, sistem ini akan menyesuaikan diri sedemikian rupa untuk mengimbangi sebagian tekanan ini pada saat sistem mencoba setimbang Kembali.”
+1.	Asas Le Chatelier
 
-2. Perubahan Konsentrasi
-3. Perubahan Tekanan dan Volume
-4. Perubahan suhu 
-5. Pengaruh katalis
+    Ada satu aturan umum yang membantu kita memprediksi kearah mana reaksi kesetimbangan akan bergeser bila terjadi perubahan konsentrasi, tekanan. Volume, atau suhu. Asas le chatalier menyatakan bahwa “ jika suatu tekanan eksternal diberikan kepada suatu sistem kesetimbangan, sistem ini akan menyesuaikan diri sedemikian rupa untuk mengimbangi sebagian tekanan ini pada saat sistem mencoba setimbang Kembali.”
+
+2.	Perubahan Konsentrasi
+3.	Perubahan Tekanan dan Volume
+4.	Perubahan suhu 
+5.	Pengaruh katalis
         """)
     if optionkimdas == "Asam Basa":
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Asam Basa</h2>", unsafe_allow_html=True)
@@ -559,9 +560,9 @@ D. Kekuatan Asam dan Basa
 Asam kuat ialah elektrolit kuat, yang kebanyakan digunakan untuk kebutuhan praktis karena dianggap terionisasi sempurna dalam air. Kebanyakan asam kuat adalah asam anorganik. Kebanyakan asam terionisasi hanya sedikit dalam air,asam seperti ini disebut asam lemah. Kekuatan asam lemah sangat beragam karena beragamnya derajat ionisasi. Terbatasnya ionisasi asam lemah berkaitan dengan konstanta kesetimbangan ionisasi.
 Basa kuat ialah semua elektrolit kuat yang terionisasi sempurna dalam air. Sedangkan basa lemah adalah elekrolit lemah. Hal yang perlu diingat yaitu
 
-1. jika asamnya kuat, basa konjugat sangat lemah.
-2. H3O+ ialah asam terkuat yang dapat berada dalam laturan berair.
-3. Ion OH- ialah basa terkuat yang dapat berada dalam larutan berair. 
+1.	jika asamnya kuat, basa konjugat sangat lemah.
+2.	H3O+ ialah asam terkuat yang dapat berada dalam laturan berair.
+3.	Ion OH- ialah basa terkuat yang dapat berada dalam larutan berair. 
 
 E. Asam Lemah dan Konstanta Ionisasi Asam
 
@@ -595,11 +596,11 @@ G. Hubungan Antara Konstanta-Konstanta Ionisasi Asam-Basa Konjugat
 Ketika dua reaksi ditambahkan untuk menghasilkan reaksi ketiga, konstanta kesetimbangan untuk reaksi ketiga adalah hasilkali antara konstanta-konstanta kesetimbangan dari kedua reaksi yang ditambahkan. Jadi, untuk pasangan asam konjugat-basa konjugat akan selalu berlaku.
 
 H. Sifat Asam Basa dari Garam
-1. Garam yang menghasilkan larutan netral.
-2. Garam yang menghasilkan larutan basa.
-3. Garam yang menghasilkan larutan asam.
-4. Hidrolis ion logam
-5. Garam yang kation dan anion nya terhidrolisis.
+1.	Garam yang menghasilkan larutan netral.
+2.	Garam yang menghasilkan larutan basa.
+3.	Garam yang menghasilkan larutan asam.
+4.	Hidrolis ion logam
+5.	Garam yang kation dan anion nya terhidrolisis.
         """)
 
 
@@ -794,7 +795,7 @@ Jawab :
             """
 **Rumus ekuivalen dan berat ekuivalen**
         
-`   grek = g/BE
+`       grek = g/BE
          
     BE = BM/a
     
