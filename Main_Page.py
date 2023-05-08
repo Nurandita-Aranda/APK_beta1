@@ -50,7 +50,7 @@ elif opsi4:
         
         Di halaman materi yang diberi nama "Gaia Library" ini isinya materi-materi mata kuliah kimia dasar, analisis jenis, titrimetri, kimia organik, dan kimia dasar
         """)
-    imageF1 = Image.open('Resource/image/Main/Materi.png')
+    imageF1 = Image.open('Resource/image/Main/Materi1.png')
     st.image(imageF1)
     st.write(
         """
