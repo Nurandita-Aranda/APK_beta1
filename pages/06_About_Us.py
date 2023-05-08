@@ -67,7 +67,7 @@ col1, col2, col3 = st.columns(3)
 with col1:
   st.write(" ")
 with col2:
-  image5 = Image.open('Resource/image/Profile/Demas.jpeg')
+  image5 = Image.open('Resource/image/Profile/Demas.jpg')
   st.image(image5)
 with col3:
   st.write(" ")
