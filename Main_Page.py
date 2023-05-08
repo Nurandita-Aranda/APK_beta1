@@ -58,12 +58,16 @@ elif opsi4:
         
         Di halaman bernama "Chemio Test" ini Kakak bisa mencoba mengerjakan soal-soal untuk mengasah kemampuan dan pemahaman kakak terhadap materi-materi yang sudah dipelajari
         """)
+    imageF2 = Image.open('Resource/image/Main/Quiz.png')
+    st.image(imageF2)
     st.write(
         """
         **3.	Kalkulator**
         
         Nah, di halaman "Calchemio" ini kakak bisa dengan mudah menghitung molalitas, molaritas, % kadar, normalitas, PPM, dan PPB sesuai dengan data yang dimiliki
         """)
+    imageF3 = Image.open('Resource/image/Main/Kalkulator.png')
+    st.image(imageF3)
     st.write(
         """
         **4.	Intermezzo**
