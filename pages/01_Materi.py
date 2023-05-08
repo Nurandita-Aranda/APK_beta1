@@ -109,7 +109,7 @@ Diki. 2022. 5 Teori Atom Menurut Para Ahli. https://dosenpintar.com/5-teori-atom
 
 L,Admin. 2015. Kelebihan dan Kelemahan Model Atom. https://www.markijar.com/2015/05/kelebihan-dan-kelemahan-model-atom.html.
             """)
-        st.write(" ")
+        st.divider()
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/1Slheotw7HAcpZ-uEzV7PkO1ingI3lATo/view?usp=sharing)")
 
@@ -164,7 +164,7 @@ M = n/V
             
             SEO Management. 2022. Stoikiometri Adalah : Pengertian, Rumus, Hukum dam Contoh soal. https://www.sampoernaacademy.sch.id/id/stoikiometri-adalah/
             """)
-        st.write(" ")
+        st.divider()
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/17M05OfuolzThRbny0_0BwD1OPp8EfEto/view?usp=sharing)")
         
@@ -287,49 +287,49 @@ Larutan yang mengandung jumlah zat maksimum yang terkandung pada pelarut pada su
 B. Proses Pelarutan Dari Sudut Pandang Molekul.
 
 Gaya tarik menarik memainkan peran penting dalam pembentukan larutan. Bila zat terlarut larut dalam zat pelarut, partikel zat tersebut akan menyebar ke seluruh pelarut. Partikel zat terlarut ini menempati posisi yang biasanya ditempati oleh molekul pelarut. Tiga jenis interaksi :
-1. Interaksi pelarut-pelarut.
-2. Interaksi zat pelarut-zat terlarut.
-3. Interaksi pelarut-zat terlarut.
+1.	Interaksi pelarut-pelarut.
+2.	Interaksi zat pelarut-zat terlarut.
+3.	Interaksi pelarut-zat terlarut.
 
-Proses pelarutan dibagi menjadi tiga tahap :
+Proses pelarutan dibagi menjadi tiga tahap:
             """)
         imageKimdas1 = Image.open('Resource/image/Kimdas/fisis1.jpg')
         st.image(imageKimdas1)
         st.write(
             """
-            Proses pelarutan dipengaruhi oleh dua faktor. Faktor pertama adalah energi, yang menentukan apakah proses berlangsung eksotermik atau endotermik. Faktor kedua adalah kecenderungan hakiki menuju ketidakteraturan dalam semua kejadian dialam. 
+Proses pelarutan dipengaruhi oleh dua faktor. Faktor pertama adalah energi, yang menentukan apakah proses berlangsung eksotermik atau endotermik. Faktor kedua adalah kecenderungan hakiki menuju ketidakteraturan dalam semua kejadian dialam. 
 
 C. Satuan Konsentrasi
-1. Jenis Satuan konsentrasi.
+1.	Jenis Satuan konsentrasi.
 
-Persen berdasar massa
+    **Persen berdasar massa**
 
-%zat terlarut = (Massa zat terlarut/massa larutan)x100%	
+    %zat terlarut = (Massa zat terlarut/massa larutan)x100%	
 
-Molaritas 
+    **Molaritas**
 
-M= mol zat terlarut/liter larutan
+    M= mol zat terlarut/liter larutan
 
-Dengan satuan (mol/L)
+    Dengan satuan (mol/L)
 
-Molalitas
+    **Molalitas**
 
-m = mol zat terlarut/massa pelarut(kg)
+    m = mol zat terlarut/massa pelarut(kg)
 
-2. Perbandingan Satuan Satuan Konsentrasi
+2.	Perbandingan Satuan Satuan Konsentrasi
 
-V1 X M1=V2 X M2
+    V1 X M1=V2 X M2
 
-Keterangan : V adalah volume pelarut dan M dapat diganti dengan satuan lain sesuai dengan yang diketahui.
+    Keterangan : V adalah volume pelarut dan M dapat diganti dengan satuan lain sesuai dengan yang diketahui.
 
 D. Pengaruh Suhu terhadap kelarutan
-1. Kelarutan Padatan dan Suhu
+1.	Kelarutan Padatan dan Suhu
 
-Kelarutan zat padatan meningkat dengan meningkatnya suhu.
+    Kelarutan zat padatan meningkat dengan meningkatnya suhu.
 
-2. Kelarutan Gas dan Suhu
+2.	Kelarutan Gas dan Suhu
 
-Kelarutan gas dalam air biasanya menurun dengan meningkatnya suhu. Dengan meningkatnya suhu, molekul udara yang terlarut mulai’mendidih’dan keluar dari larutan jauh sebelum air itu mendidih
+    Kelarutan gas dalam air biasanya menurun dengan meningkatnya suhu. Dengan meningkatnya suhu, molekul udara yang terlarut mulai’mendidih’dan keluar dari larutan jauh sebelum air itu mendidih
 
 E. Pengaruh Tekanan Terhadap Kelarutan Gas
 
@@ -401,7 +401,7 @@ dengan tekanan atmosfer luar. Kenaikan titik didih didefinisikan sebagai berikut
 
     i : jumlah partikel sebenarnya dalam larutan setelah penguraian/jumlah satuan rumus yang semua terlarut dalam larutan
               """)
-        st.write(" ")
+        st.divider()
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/18k2U9tA8Ll8BiGVaDnlz2r8tUvDf7yOA/view?usp=sharing)")
         
@@ -419,7 +419,9 @@ Dari persamaan ini dapat diketahui bahwa,selama berlangsungnya suatu reaksi, mol
 meningkatnya konsentrasi produk.
 
 A → B
-Laju = - Δ[A]/Δt           
+
+Laju = - Δ[A]/Δt
+
 Laju = - Δ[B]/Δt 
 
 B. Hukum laju
@@ -438,12 +440,14 @@ C. Hubungan Antara Konsentrasi Reaktan dan Waktu
 
 D. Energi Aktivasi dan Ketergantungan Konstanta Laju Terhadap suhu
 1. Teori Tumbukan pada Kinetika Kimia
-Dari segi teori tumbukan pada kinetika kimia, maka dapat diperkirakan laju reaksi akan berbanding lurus dengan banyaknya tumbukan molekul per detik atau berbanding lurus dengan frekuensi tumbukan molekul.
 
-   Laju = banyaknya tumbukan/waktu(sekon)
+    Dari segi teori tumbukan pada kinetika kimia, maka dapat diperkirakan laju reaksi akan berbanding lurus dengan banyaknya tumbukan molekul per detik atau berbanding lurus dengan frekuensi tumbukan molekul.
+
+    Laju = banyaknya tumbukan/waktu(sekon)
     
 2. Persamaan Arrhenius
-Ketergantungan konstanta laju reaksi terhadap suhu dapat dinyatakan dengan persamaan yang dikenal dengan persamaan Arrhenius :
+
+    Ketergantungan konstanta laju reaksi terhadap suhu dapat dinyatakan dengan persamaan yang dikenal dengan persamaan Arrhenius :
 
     k = Ae-EaIRT
 
@@ -452,13 +456,18 @@ E. Mekanisme Reaksi dan Hukum Laju
 Dalam banyak kasus, persamaan ini sekedar menyatakan jumlah dari sederet reaksi sederhana yang sering dinamakan sebagai tahap elementer karena reaksi reaksi sederhana tersebut merepresentasikan jalannya reaksi keseluruhan pada tingkat molekul. Urutan-urutan elementer yang mengarah pada pembentukan produk dinamakan mekanisme reaksi. Sebagai contoh ;
 
 2NO(g) → N2O2(g)
+
 N2O2(g) + O2(g) → 2NO2(g)
-Maka : 
+
+Maka :
+
 Tahap 1 : NO(g)   + NO(g) →  N2O2(g)
+
 Tahap 2 : N2O2(g) + O2(g) →  2NO2(g)
+
 Reaksi Keseluruhan : 2NO(g) + N2O2(g) + O2(g) → N2O2(g) + 2NO2(g)
 
-Tahap Elementer harus memenuhi dua syarat :
+Tahap Elementer harus memenuhi dua syarat:
 1.	Jumlah elementer harus menghasilkan persamaan setara keseluruhan untuk reaksi tersebut.
 2.	Tahap penentu laju, yaitu tahap paling lambat dari seluruh rangkaian tahap menuju pembentukan produk. Harus memprediksi hukum laju yang sama.
 
@@ -466,12 +475,15 @@ F. Katalisis
 
 Katalis adalah zat yang meningkatkan laju reaksi kimia tanpa ikut terpakai. Katalis dapat bereaksi membentuk produk antara, tetapi akan diperoleh kembali dalam tahap berikutnya. Mari kita anggap bahwa reaksi berikut memiliki konstanta laju k tertentu dan energi aktivasi Ea.
 
-   A + B → C + D
+A + B → C + D
 
 Namun demikian, dengan kehadiran katalis, konstanta laju disebut konstanta laju katalitik. Maka berdasarkan definisi katalitik :
 
-   Lajuberkatalis>lajutakberkatalis
+Laju berkatalis > laju tak berkatalis
            """)
+        st.divider()
+        st.caption("Download Materi")
+        st.write("Google Drive: [link](https://drive.google.com/file/d/1yCUxo1nupeJQ4O6G9a00jCIXYmD-O_OP/view?usp=sharing)")
         
     if optionkimdas == "Kesetimbangan Kimia":
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Kesetimbangan Kimia</h2>", unsafe_allow_html=True)
@@ -515,14 +527,18 @@ F. Faktor yang mempengaruhi Kesetimbangan Kimia.
 4.	Perubahan suhu 
 5.	Pengaruh katalis
         """)
+        st.divider()
+        st.caption("Download Materi")
+        st.write("Google Drive: [link](https://drive.google.com/file/d/1fmK3R44BinpR9AvTBAwP2Gn8rBYCZ41o/view?usp=sharing)")
+        
     if optionkimdas == "Asam Basa":
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Asam Basa</h2>", unsafe_allow_html=True)
         st.write(
             """
-            A. Asam dan Basa Brønsted 
-1. Pasangan Asam Basa Konjugat
+A. Asam dan Basa Brønsted 
+1.	Pasangan Asam Basa Konjugat
 
-Basa konjugat dari suatu asam Brønsted ialah spesi yang tersisa ketika satu proton pindah asam tersebut. Sebaliknya, suatu asam konjugat dihasilkan dari penambahan sebuah proton pada basa Brønsted. Setiap asam Brønsted memiliki satu basa konjugat dan setiap basa Brønsted memiliki satu asam konjugat.
+    Basa konjugat dari suatu asam Brønsted ialah spesi yang tersisa ketika satu proton pindah asam tersebut. Sebaliknya, suatu asam konjugat dihasilkan dari penambahan sebuah proton pada basa Brønsted. Setiap asam Brønsted memiliki satu basa konjugat dan setiap basa Brønsted memiliki satu asam konjugat.
 
 B. Sifat Asam Basa dari Air
 
@@ -601,6 +617,9 @@ H. Sifat Asam Basa dari Garam
 4.	Hidrolis ion logam
 5.	Garam yang kation dan anion nya terhidrolisis.
         """)
+        st.divider()
+        st.caption("Download Materi")
+        st.write("Google Drive: [link](https://drive.google.com/file/d/1xzEM_sGSkXiZ7E8GhEnm-FFQxeXp3lmL/view?usp=sharing)")
 
 
             
@@ -608,12 +627,7 @@ H. Sifat Asam Basa dari Garam
             
             
   
-            
 
-
-       
-            
-                
                 
 #Materi Analisis Jenis            
 with tab_2:
@@ -749,7 +763,7 @@ nona(9), deka(10), dst....
 
     FeCl3 = Ferri klorida atau besi (III) klorida
             """)
-        st.write(" ")
+        st.divider()
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/1nNtSU-ZxXD4xd_w0tBYA09KwL6vMIht3/view?usp=sharing)")
         
@@ -794,7 +808,7 @@ Jawab :
             """
 **Rumus ekuivalen dan berat ekuivalen**
         
-`       grek = g/BE
+`           grek = g/BE
          
     BE = BM/a
     
@@ -924,6 +938,7 @@ Da lopez, Yos F. 2017. Konsentrasi Larutan dalam Satuan Kimia. Nusa Tenggara Tim
 
 Wardaya, Anton. 2014. Modul, Rumus, & Soal Hukum Proust (Hukum Perbandingan Tetap). Jakarta Barat: wardayacollege
 """)
+        st.divider()
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/1YEEzMSlhS6j2v2EYRyXd5JQHVOsrZ_zD/view?usp=sharing)")
 
@@ -986,6 +1001,7 @@ Wardaya, Anton. 2014. Modul, Rumus, & Soal Hukum Proust (Hukum Perbandingan Teta
             
             Svehla,G.1990._Buku Teks Analisis Anorganik Kualitatif Makro dan Semimikro_.Jakarta: PT. Kalman Media Pustaka 
         """)
+        st.divider()
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/1IdfRtJEGT5yQwW5ezAqdxIRJvzFvoRx7/view?usp=sharing)")
         
