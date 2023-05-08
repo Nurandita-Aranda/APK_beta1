@@ -489,20 +489,20 @@ Laju berkatalis > laju tak berkatalis
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Kesetimbangan Kimia</h2>", unsafe_allow_html=True)
         st.write(
             """
-            A. Konsep Kesetimbangan
+A. Konsep Kesetimbangan
 
 Bila laju reaksi maju dan reaksi balik sama besar dan konsentrasi reaktan dan produk tidak lagi berubah seiring berjalannya waktu, maka tercapailah kesetimbangan kimia. Kesetimbangan kimia merupakan proses dinamik. Kesetimbangan antara dua fasa dari zat yang sama dinamakan kesetimbangan fisis karena perubahan yang terjadi hanyalah proses fisis. Dalam kasus ini,molekul H2O meninggalkan dan yang Kembali ke fasa cair sama banyaknya.
 
-    H20(l) ⇆ H20(g)
+H20(l) ⇆ H20(g)
 
 B. Konstanta Kesetimbangan
 
-Kita dapat mengggeneralisasi pembahasan ini dengan memperhatikan reaksi reversibel berikut.
-    aA + bB ⇆ cC + dD
+Kita dapat menggeneralisasi pembahasan ini dengan memperhatikan reaksi reversibel berikut.
+aA + bB ⇆ cC + dD
 
 Dimana a,b,c, dan d adalah koefisien stoikiometri untuk spesi spesi yang bereaksi dengan A,B,C,dan D. konstanta kesetimbangan untuk reaksi pada suhu tertentu ialah.
 
-     k = [C]c[D]d/[A]a[B]b
+k = [C]c[D]d/[A]a[B]b
 
 C. Beberapa Cara Untuk Menyatakan Konstanta Kesetimbangan
 1.	Kesetimbangan Homogen : berlaku untuk reaksi yang semua spesi bereaksinya berada pada fasa yang sama.
@@ -808,7 +808,7 @@ Jawab :
             """
 **Rumus ekuivalen dan berat ekuivalen**
         
-`           grek = g/BE
+    grek = g/BE
          
     BE = BM/a
     
@@ -1186,6 +1186,7 @@ Daftar Pustaka:
             
 Svehla,G.1990.Buku Teks Analisis Anorganik Kualitatif Makro dan Semimikro.Jakarta: PT. Kalman Media Pustaka      
 """)
+        st.divider()
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/1HJm0txtr--xvcj2rKRQ9bOhwIgSabtu0/view?usp=sharing)")
         
@@ -1240,6 +1241,7 @@ Svehla,G.1990.Buku Teks Analisis Anorganik Kualitatif Makro dan Semimikro.Jakart
 
 •	Bulp
 """)
+        st.divider()
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/12ZVIMB3NRyBopmbTfveV_GPcmlg4wltK/view?usp=sharing)")
         
@@ -1284,7 +1286,6 @@ Analisis volumetri /analisis titrimetri adalah teknis analisis yang berdasarkan 
 
 
 **Prinsip /reaksi titrimetri**
-
 
 •	aA + tT → produk 
 
@@ -1331,7 +1332,7 @@ analit direaksikan dengan suatu pereaksi ,kemudian hasil reaksi di titrasi (anal
 3.	Titrasi balik /titrasi kembali ( _back titration_ ), 
 analit direaksikan dengan pereaksi berlebih. Dan kelebihan pereaksi di titrasi
             """)
-        st.write(" ")
+        st.divider()
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/1vNo_GQjerR3Bm_57VGHPAJMYzWoPf7Ud/view?usp=sharing)")          
         
@@ -1398,6 +1399,9 @@ Dalam titrasi iodometri, BE suatu zat dihitung dari banyaknya jumlah atom I, buk
 
               BE= BM/n atom I
 """)
+        st.divider()
+        st.caption("Download Materi")
+        st.write("Google Drive: [link](https://drive.google.com/file/d/1Na45lGPHtPrXJv_eBD_YdtgKTLBOG9SG/view?usp=sharing)")
 
         
     if optiontitri == "Permanganometri":
@@ -1576,7 +1580,7 @@ Ti (III), Fe(II), Na2S2O3
 
 3. Na2S2O3 iodometri (titrasi tidak langsung)
 """)
-       st.write(" ")
+       st.divider()
        st.caption("Download Materi")
        st.write("Google Drive: [link](https://drive.google.com/file/d/1dXmGHm_zCBy7CtaNNObd2rK2vm4wOjYx/view?usp=sharing)")
       
@@ -1584,8 +1588,7 @@ Ti (III), Fe(II), Na2S2O3
     if optiontitri == "Asidimetri-Alkalimetri":
        st.markdown("<h2 style='text-align: center; color: raisin black;'>Asidimetri-Alkalimetri</h2>", unsafe_allow_html=True)
        st.write(
-           """
-           
+           """     
        **Asidimetri-alkalimetri**
        
 Asidimetri adalah Bila ditentukan berapa mL larutan asam yang konsentrasinya diketahui untuk menetralkan suatu larutan basa yang kadarnya dicari.
@@ -1594,8 +1597,7 @@ Alkalimetri adalah bila penitar dengan memakai basa yang konsentrasinya diketahu
 """)
        st.image("https://lh3.googleusercontent.com/LQF0Zzfd_mbTkw83ai_wuwXc9Bg0hGjEfZcSsrNMDwmBMoXk7Z30DjxbVjYK_knkdYKpBCOaAW7fIDT9bLubz5YsVF3DFGXFRlT-QNVlbwGP59wcJ_26oXJ59bqiNVIVHvSZk64zKtGqx6mhXWrsuho0wIQw0YsTnpNVQcuGYBzLhnOCGQBLBsV41Wy0qZa7HVSrpn7tEP57kFt8lMmIc7QducowGNc0_4zYupu0J-yfR_lcgWI-0ftrMQ3vHhQctyFp1qjB9armFjrAb8_XHqsyBKlR0bC2Q18nwHO-C-LoSTGD1fflHZFwVxszAazJ9qXVZit3wVxeUTaPQ0jTfeP9GunjnqJZ5xUHDM_CRvGb5Jh_yIoJT_u4o84ENp953CPoDm35NtKfFxxrCZinE74nBvb_haBXUS_Ldik3Q2yE2p_FO31te2E6okf7SM2Sol9wVcXCcAn-GrFzugUVpHwoXkGPt2iDZpsz2NG5HEJlfQ8jG_che0Cp7D2BHIVqRuLP6c6Q-cNIt-5xGwh-43xM-mSq10PWC1Uf80gkZTYYmMzoT_q_O1zSfCQ3UWr41Oqwb79oEsqmw_WFssb6I2qpRHWGNwBWdv5AbmMOPFcAfYnv9__nz8ISPFN1dZI3S2qN6dOtpbCA0N9VKA0c99tdw_ZSrNg2HUAwBgnBe1rQOq1LQHbSBCM8ToaVhVQ5nsJGmH4BpzYVe6Xv1vJqtgOg-SS8kuKgh2SiPeXKgnkdNwViG4qtn5bbec9a7h_Bloj1mF_GhVlMN7CFmnqbku7-WeowrGLMZBFlrEjKqDh6DsSfUFLRcizV-0YL6bp5IBAXdfmEuSFPU_CFHnXb8stq8URAqM1PVu2TUZhqBe3o8-FBpZG1IhZQwn3GeBglJSttUwIHHak_uh4rAllU7i5lEpMmABN9zvH0CDnU0GL9=w1037-h522-s-no?authuser=0")
        st.write(
-           """
-           
+           """   
        **Pemilihan Indikator**
            
 • Indikator asam – basa adalah zat yang dapat berubah warna apabila pH lingkungannya berubah
@@ -1648,9 +1650,11 @@ pOH = -log [OH-]
 
 pH + pOH = 14
 """)
-
        st.image("https://lh3.googleusercontent.com/roXwdCOX43e3O7XyWrvI6ahfEK0cQKvStTLquj3ynKX7zKHj8DWDRe9RddxQLpn4oajpatEUDT25pNiaBuyKKB_DVseLyYYoNA3K8RHyqVnVUXN3GKiPoA8unRfFjm-6bTLYkEEzBvzz5ZWpyKPLdQW2I3sUSrPdALbHxKvfqMjHJy1_XfyT7eFL3_GG5684yZvksKCG9MZ5d86BKGvrTsPpCJb3xJq7Re29ZvGScLl2Og-GWI2igtzxwfH-ySms4JrgmXHFcLyIIiSMVBRVDuUzzIMShuMi7XZRB92JXg2Flxx9czBryORUzv3naNusu0PGrPjcYKZJACykiq0_SOMMP-YHXAeLcvoRjZ_4oFzM0zhlvsLAKdMvX1PUhR4I5lvLD3auBQBdPHw-wyaASjfhOXs2vjUvOZC6YVtgBDeovZ88OTWOrGQpqY92FDhqCj5OpkOpEOGS7caZ93v_5x47HkZI3KeRIVdwAi9jRNSf4u33Qa7rZqopaJrxU_eR78BG4w6_q1L2ABeZjRXNgEpPgEtvjDGCzVTo6Oa46sb70b2V5Lee0D5dBGne8xohk1QTTD28eOPhG-pXONoJ9ADr6SxYUYwG70ck9iNG4zB8nlYevGaDZ-wYytYXbtZMvSjXP63zzN2ofhdXeKCIrQXiw1ruLQRGLfmNsG3L-J6CgFGiawldfQhWquyzlnBgTh5_npodkWh60kEKEbywOMIRC6bnCHDa2YNuPXOaYTHxU_tcE33TnoY0mRdAwc0DnRpY3EH7f0DiRfjlv5e56Ci7nlqOK6ABg16yXwT9yz7xp_03oqbf5aZNaOoNqyRc_jP_A3LTCrZIn-votl8mHGzWGQLUymM2vKPX8PnYi9flxWybbtW1SXwkaxueFWLU-82tF0_c75OQypayDPL3WpOSqxtZVy8ep2KLNDhEl4Wr=w984-h610-s-no?authuser=0")
-                
+       st.divider()   
+       st.caption("Download Materi")
+       st.write("Google Drive: [link](https://drive.google.com/file/d/1oWHdhSU_rpCO_-XOCrIEZ84tSreacxH-/view?usp=sharing)")
+    
     if optiontitri == "Asidimetri":
        st.markdown("<h2 style='text-align: center; color: raisin black;'>Asidimetri</h2>", unsafe_allow_html=True)
        st.write(
