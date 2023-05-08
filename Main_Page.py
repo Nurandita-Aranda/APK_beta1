@@ -19,8 +19,10 @@ with col1:
 with col2:
     opsi1 = st.button("Asal mula nama Fayans dari mana?")
     opsi2 = st.button("Curhat boleh?")
-    opsi3 = st.button("Kayaknya ada yang nge-bug deh, Fayans")
-    opsi4 = st.button("Disini ada fitur apa aja, Fayans?")
+    opsi3 = st.button("Disini ada fitur apa aja, Fayans?")
+    opsi4 = st.button("Kayaknya ada yang nge-bug deh, Fayans")
+    opsi5 = st.button("Mau kenalan sama yang buat ini dong")
+
 if opsi1:
     st.write("Nama Fayans diambil dari argentometri metode Fayans karena tali perak yang Fayans gunakan, selain itu juga karena hidung dan kaki Fayans yang berwarna merah muda")
 elif opsi2:
@@ -31,17 +33,6 @@ elif opsi2:
         kakak bisa langsung chat aja akun Fayans [disini](https://wa.me/message/TULJ2JKFOI4HN1). Fayans selalu siap dengerin keluh kesah kakak.
         """)
 elif opsi3:
-    st.write(
-        """
-        Wah, kakak bisa langsung kirim saja keluhan kakak di halaman "Report" yang ada di sidebar.
-        
-        Sini kak, Fayans arahin biar nggak kesasar
-        """)
-    image1 = Image.open('Resource/image/Main/Tutor1_1.png')
-    st.image(image1)
-    image2 = Image.open('Resource/image/Main/Tutor1_2.png')
-    st.image(image2)
-elif opsi4:
     st.write(
         """
         Oke oke, Fayans kasih tau di sini ada apa aja
@@ -76,6 +67,22 @@ elif opsi4:
         """)
     imageF4 = Image.open('Resource/image/Main/Intermezzo.png')
     st.image(imageF4)
+elif opsi4:
+    st.write(
+        """
+        Wah, kakak bisa langsung kirim saja keluhan kakak di halaman "Report" yang ada di sidebar.
+        
+        Sini kak, Fayans arahin biar nggak kesasar
+        """)
+    image1 = Image.open('Resource/image/Main/Tutor1_1.png')
+    st.image(image1)
+    image2 = Image.open('Resource/image/Main/Tutor1_2.png')
+    st.image(image2)
+elif opsi5:
+    st.write("Wah, boleh banget kak")
+    image1 = Image.open('Resource/image/Main/About_Us.png')
+    st.image(image1)
+    st.write("Nah, dari sini kakak bisa ngehubungin langsung email dan instagramnya. Aku titip salam buat mereka ya kak!!")
 else:
     st.write(
         """
@@ -83,5 +90,5 @@ else:
         
         Aku yang akan membantu kakak menggunakan aplikasi ini, jadi...apa ada yang perlu Fayans bantu?
         """)
-
+    
 st.sidebar.success("Select a page above")
