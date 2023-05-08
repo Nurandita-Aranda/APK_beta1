@@ -14,10 +14,7 @@ with tab_1:
             ("--- Pilih Materi ---", "Atom, Molekul, dan Ion", "Stoikiometri","Ikatan Kimia","Sifat Fisis Larutan","Kinetika Kimia","Kesetimbangan Kimia","Asam Basa",))
     if optionkimdas == "Atom, Molekul, dan Ion":
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Struktur Atom</h2>", unsafe_allow_html=True)
-        st.write(
-            """
-            Konsep atom pertama kali ditemukan oleh Demo Cristus. Atom berasal dari kata atmos yang dalam bahasa Yunani “at” berarti “tidak” dan “tomos” berarti “dibagi”. Maka, jika digabungkan atom adalah partikel yang sudah tidak dapat dibagi lagi. Menurut Dalton konsep atom Demo Christus ini tidak bertentangan dengan hukum kekekalan massa dan hukum kekekalan energi. Sehingga Dalton membuat teori tentang atom.
-            """)
+        st.write("Konsep atom pertama kali ditemukan oleh Demo Cristus. Atom berasal dari kata atmos yang dalam bahasa Yunani “at” berarti “tidak” dan “tomos” berarti “dibagi”. Maka, jika digabungkan atom adalah partikel yang sudah tidak dapat dibagi lagi. Menurut Dalton konsep atom Demo Christus ini tidak bertentangan dengan hukum kekekalan massa dan hukum kekekalan energi. Sehingga Dalton membuat teori tentang atom.")
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Teori Atom</h2>", unsafe_allow_html=True)
         st.write(
             """
@@ -210,49 +207,50 @@ Contoh :
         st.write(
             """
 Sifat senyawa ion yaitu :
-1. Memiliki titik didih dan titik leleh yang tinggi.
-2. Keras tetapi rapuh.
-3. Berupa padatan pada suhu ruang.
-4. Larut dalam pelarut air, tetapi umumnya tidak larut dalam pelarut organik.
-5. Tidak meghantarkan listrik pada fasa padatan. Tetapi, menghantarkan listrik pada fasa cairan.
+1.	Memiliki titik didih dan titik leleh yang tinggi.
+2.	Keras tetapi rapuh.
+3.	Berupa padatan pada suhu ruang.
+4.	Larut dalam pelarut air, tetapi umumnya tidak larut dalam pelarut organik.
+5.	Tidak meghantarkan listrik pada fasa padatan. Tetapi, menghantarkan listrik pada fasa cairan.
             """)
         st.write(
             """
             Ikatan Kovalen
-1. Proses Pembentukan Ikatan Kovalen Tunggal
+1.	Proses Pembentukan Ikatan Kovalen Tunggal
 
-Ikatan terjadi karena pemakaian Bersama elektron oleh atom atom yang berikatan. Pasangan elektron yang dipakai Bersama disebut pasangan elektron ikatan dan pasangan elektron valensi yang tidak terlibat dalam pembentukan ikatan kovalen disebut pasangan elektron bebas. Ikatan kovalen umumnya terjadi antara atom atom unsur nonlogam. Senyawa yang hanya mengandung ikatan kovalen disebut senyawa kovalen. Struktur Lewis adalah penggambaran ikatan kovalen yang menggunakan lambang titik lewis dimana Pasangan elektron ikatan dinyatakan dengan garis atau sepasang titik yang diletakkan di antara kedua atom dan Pasangan elektron bebas dinyatakan titik titik pada masing masing atom.
+    Ikatan terjadi karena pemakaian Bersama elektron oleh atom atom yang berikatan. Pasangan elektron yang dipakai Bersama disebut pasangan elektron ikatan dan pasangan elektron valensi yang tidak terlibat dalam pembentukan ikatan kovalen disebut pasangan elektron bebas. Ikatan kovalen umumnya terjadi antara atom atom unsur nonlogam. Senyawa yang hanya mengandung ikatan kovalen disebut senyawa kovalen. Struktur Lewis adalah penggambaran ikatan kovalen yang menggunakan lambang titik lewis dimana Pasangan elektron ikatan dinyatakan dengan garis atau sepasang titik yang diletakkan di antara kedua atom dan Pasangan elektron bebas dinyatakan titik titik pada masing masing atom.
             """)
         imageKimdas2 = Image.open('Resource/image/Kimdas/Picture3.jpg')
         st.image(imageKimdas2)
         st.write(
             """
-2. Proses Pembentukan Ikatan Kovalen Rangkap 2
+2.	Proses Pembentukan Ikatan Kovalen Rangkap 2
 
-Ikatan kovalen rangkap 2 adalah ikatan kovalen yang melibatkan dua pasang elektron bersama. Ikatan kovalen rangkap 2 dinyatakan dengan dua garis. Contohnya :
+    Ikatan kovalen rangkap 2 adalah ikatan kovalen yang melibatkan dua pasang elektron bersama. Ikatan kovalen rangkap 2 dinyatakan dengan dua garis. Contohnya :
             """)
         imageKimdas3 = Image.open('Resource/image/Kimdas/Picture6.jpg')
         st.image(imageKimdas3)
         st.write(
             """
-3. Proses Pembentukan Ikatan Kovalen Rangkap 3
+3.	Proses Pembentukan Ikatan Kovalen Rangkap 3
 
-Ikatan kovalen rangkap 3 adalah ikatan kovalen yang melibatkan dua pasang elektron bersama. Ikatan kovalen rangkap 3 dinyatakan dengan tiga garis. Contohnya :
+    Ikatan kovalen rangkap 3 adalah ikatan kovalen yang melibatkan dua pasang elektron bersama. Ikatan kovalen rangkap 3 dinyatakan dengan tiga garis. Contohnya :
             """)
         imageKimdas4 = Image.open('Resource/image/Kimdas/Picture5.jpg')
         st.image(imageKimdas4)
         st.write(
             """
-            Sifat senyawa kovalen :
-1. Berupa cairan, padatan lunak,dan gas pada suhu ruang.
-2. Bersifat lunak dan tidak rapuh
-3. Mempunyai titik leleh dan titik didih yang rendah.
-4. Umumnya tidak larut dalam air, namun larut pada pelarut organik.
-5. Tidak menghantarkan listrik.
+Sifat senyawa kovalen :
+1.	Berupa cairan, padatan lunak,dan gas pada suhu ruang.
+2.	Bersifat lunak dan tidak rapuh
+3.	Mempunyai titik leleh dan titik didih yang rendah.
+4.	Umumnya tidak larut dalam air, namun larut pada pelarut organik.
+5.	Tidak menghantarkan listrik.
             """)
         st.write(
             """
-            Ikatan Kovalen Koordinasi
+**Ikatan Kovalen Koordinasi**
+            
 Ikatan Kovalen koordinasi adalah ikatan yang terbentuk dari pemakaian pasangan elektron bersama yang berasal dari salah satu atom yang memiliki pasangan elektron bebas. Ciri ikatan kovalen koordinasi adalah pasangan elektron bebas dari salah satu atom yang dipakai secara bersama-sama. Contoh : 
             """)
         imageKimdas5 = Image.open('Resource/image/Kimdas/Picture4.jpg')
@@ -263,17 +261,18 @@ Ikatan Kovalen koordinasi adalah ikatan yang terbentuk dari pemakaian pasangan e
             """)
         st.write(
             """
-            Ikatan logam
+**Ikatan logam**
+            
 Ikatan logam merupakan ikatan kimia antara atom-atom logam,bukan ikatan ion maupun kovalen. Dalam suatu logam terdapat atom atom sesamanya yang berikatan satu sama lain sehingga suatu logam akan bersifat kuat, keras, dan dapat ditempa. Elektron elektron valensi dari atom atom logam bergerak dengan cepat (membentuk lautan elektron) mengelilingi inti atom. Ikatan yang terbentuk sangat kuat sehingga ikatan antaratom logam sukar dilepaskan. 
 Sifat Senyawa Logam :
-1. Berupa padatan pada suhu ruang
-2. Bersifat keras, tetapi lentur/tidak mudah patah jika ditempa.
-3. Mempunya titik didih dan titik leleh yang tinggi.
-4. Penghantar listrik yang baik.
-5. Mempunyai permukaan yang mengkilap.
-6. Memberi efek foto listrik dan Efek Termionik.
+1.	Berupa padatan pada suhu ruang
+2.	Bersifat keras, tetapi lentur/tidak mudah patah jika ditempa.
+3.	Mempunya titik didih dan titik leleh yang tinggi.
+4.	Penghantar listrik yang baik.
+5.	Mempunyai permukaan yang mengkilap.
+6.	Memberi efek foto listrik dan Efek Termionik.
             """)
-        st.write(" ")
+        st.divider()
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/1sYRNmfqYGGh6gZio8N5-I-Wo_14qt55w/view?usp=sharing)")        
         
