@@ -2120,19 +2120,17 @@ with tab_5:
 seperti energi dan gaya. Sebagai salah satu ilmu sains paling dasar, tujuan utama fisika adalah memahami bagaimana alam semesta berkerja. Ilmu fisika memiliki peran yang sangat penting dalam kimia analitik karena banyak
 teknik dan metode analitik didasarkan pada prinsip-prinsip fisika. Beberapa contoh peran ilmu fisika dalam kimia analitik adalah:
 
-1. Spektroskopi: Teknik spektroskopi memanfaatkan prinsip-prinsip fisika seperti spektroskopi atom, spektroskopi molekul, dan spektroskopi sinar-X. Teknik ini
-digunakan untuk mengidentifikasi dan memisahkan zat kimia berdasarkan karakteristik spektrum yang dihasilkan oleh zat tersebut.
+1.	Spektroskopi: Teknik spektroskopi memanfaatkan prinsip-prinsip fisika seperti spektroskopi atom, spektroskopi molekul, dan spektroskopi sinar-X. Teknik ini digunakan untuk mengidentifikasi dan memisahkan zat kimia berdasarkan karakteristik spektrum yang dihasilkan oleh zat tersebut.
 
-2. Kromatografi: Teknik kromatografi memanfaatkan prinsip fisika seperti diferensial affinitas, partisi, dan adsorpsi untuk memisahkan campuran zat kimia menjadi
+2.	Kromatografi: Teknik kromatografi memanfaatkan prinsip fisika seperti diferensial affinitas, partisi, dan adsorpsi untuk memisahkan campuran zat kimia menjadi
 komponen-komponen yang lebih murni. Teknik ini termasuk kromatografi gas, kromatografi cair, dan kromatografi kolom.
 
-3. Elektrokimia: Elektrokimia memanfaatkan prinsip fisika elektrokimia untuk menganalisis dan memisahkan zat kimia dalam larutan. Teknik ini melibatkan elektrolisis, elektrogravimetri, potensiometri, dan voltametri.
+3.	Elektrokimia: Elektrokimia memanfaatkan prinsip fisika elektrokimia untuk menganalisis dan memisahkan zat kimia dalam larutan. Teknik ini melibatkan elektrolisis, elektrogravimetri, potensiometri, dan voltametri.
 
-4. Termal: Teknik termal memanfaatkan prinsip fisika termal untuk menganalisis dan memisahkan zat kimia berdasarkan karakteristik termal mereka. Contohnya, teknik
+4.	Termal: Teknik termal memanfaatkan prinsip fisika termal untuk menganalisis dan memisahkan zat kimia berdasarkan karakteristik termal mereka. Contohnya, teknik
 difraksi sinar-X dapat digunakan untuk menganalisis struktur kristal dari zat kimia, dan teknik analisis termal dapat digunakan untuk menentukan perubahan termal yang terjadi dalam suatu sampel.
 
-5. Mikroskopi: Teknik mikroskopi memanfaatkan prinsip-prinsip fisika seperti pembiasan cahaya, interferensi, difraksi, dan polarisasi untuk mengamati dan
-menganalisis struktur zat kimia pada skala mikroskopik. Contohnya, mikroskop elektron dapat digunakan untuk mempelajari struktur atom dan molekul, sementara
+5.	Mikroskopi: Teknik mikroskopi memanfaatkan prinsip-prinsip fisika seperti pembiasan cahaya, interferensi, difraksi, dan polarisasi untuk mengamati dan menganalisis struktur zat kimia pada skala mikroskopik. Contohnya, mikroskop elektron dapat digunakan untuk mempelajari struktur atom dan molekul, sementara
 mikroskop fluoresensi dapat digunakan untuk melihat reaksi kimia dalam sel hidup
 Dengan demikian, ilmu fisika sangat penting dalam kimia analitik karena memberikan dasar teoritis dan teknis bagi banyak teknik dan metode analitik.
             """)
@@ -2157,10 +2155,10 @@ Perpindahan didefinisikan sebagai perubahan posisi benda terhadap titik acuan. P
 Waktu dalam kinematika adalah salah satu variabel yang digunakan untuk mengukur pergerakan benda. Dalam kinematika, waktu dianggap sebagai variabel independen yang mengukur durasi dari suatu peristiwa atau gerakan. Waktu dalam kinematika diukur dalam satuan detik (s), dan sering digunakan bersamaan dengan variabel lain seperti posisi, kecepatan, dan percepatan untuk menggambarkan gerakan benda. Dalam persamaan kinematika, waktu biasanya dinyatakan sebagai t.
 
 Beberapa konsep penting yang berkaitan dengan waktu dalam kinematika antara lain:
-1. Waktu awal (t₀): Waktu ketika gerakan dimulai.
-2. Waktu akhir (t): Waktu ketika gerakan berakhir.
-3. Waktu tempuh (Δt): Selisih waktu antara waktu akhir dan waktu awal. Waktu tempuh dapat digunakan untuk menghitung kecepatan rata-rata suatu benda.
-4. Waktu paruh (t₁/₂): Waktu yang diperlukan untuk setengah dari suatu populasi radioaktif terurai.
+1.	Waktu awal (t₀): Waktu ketika gerakan dimulai.
+2.	Waktu akhir (t): Waktu ketika gerakan berakhir.
+3.	Waktu tempuh (Δt): Selisih waktu antara waktu akhir dan waktu awal. Waktu tempuh dapat digunakan untuk menghitung kecepatan rata-rata suatu benda.
+4.	Waktu paruh (t₁/₂): Waktu yang diperlukan untuk setengah dari suatu populasi radioaktif terurai.
 
 Dalam analisis kinematika, waktu digunakan untuk mengukur perubahan posisi, kecepatan, dan percepatan suatu benda seiring berjalannya waktu. Sebagai contoh, jika diketahui posisi awal dan posisi akhir suatu benda, serta waktu yang diperlukan untuk benda tersebut bergerak dari posisi awal ke posisi akhir, maka kecepatan rata-rata dan percepatan rata-rata benda tersebut dapat dihitung menggunakan waktu sebagai salah satu variabelnya.
 
@@ -2233,13 +2231,11 @@ bertambah secara bertahap. Pada titik tertinggi, kecepatan benda kembali menjadi
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Usaha dan Energi</h2>", unsafe_allow_html=True)
         st.write(
            """
-           Usaha dan energi adalah konsep penting dalam fisika yang berkaitan dengan perubahan
-keadaan benda dan perpindahan energi dalam sistem fisika.
+           Usaha dan energi adalah konsep penting dalam fisika yang berkaitan dengan perubahan keadaan benda dan perpindahan energi dalam sistem fisika.
 
-Usaha
+**Usaha**
 
-Usaha didefinisikan sebagai jumlah energi yang diperlukan untuk memindahkan benda dari
-satu titik ke titik lain dengan gaya konstan. Secara matematis, usaha dapat dihitung dengan
+Usaha didefinisikan sebagai jumlah energi yang diperlukan untuk memindahkan benda dari satu titik ke titik lain dengan gaya konstan. Secara matematis, usaha dapat dihitung dengan
 rumus:
 W = F × d × cos(θ)
 di mana:
@@ -2248,8 +2244,7 @@ F = gaya yang bekerja pada benda (dalam satuan Newton)
 d = jarak perpindahan benda (dalam satuan meter)
 θ = sudut antara arah gaya dan arah perpindahan benda (dalam satuan derajat)
 Energi Potensial
-Energi potensial adalah energi yang dimiliki oleh benda sebagai akibat dari posisi atau
-ketinggiannya dalam suatu medan gravitasi atau medan gaya lainnya. Energi potensial dapat
+Energi potensial adalah energi yang dimiliki oleh benda sebagai akibat dari posisi atau ketinggiannya dalam suatu medan gravitasi atau medan gaya lainnya. Energi potensial dapat
 dihitung dengan rumus:
 Ep = m × g × h
 
@@ -2324,39 +2319,38 @@ listrik adalah volt (V) dan dapat diukur menggunakan alat yang disebut voltmeter
 
     Hukum Ohm menyatakan bahwa beda potensial listrik pada suatu penghantar sebanding dengan arus listrik yang mengalir melaluinya dan invers sebanding dengan hambatan penghantar. Persamaannya adalah:
 
-V = I * R
+    V = I * R
 
-dengan:
+    dengan:
 
-V = beda potensial listrik (dalam satuan volt)
+    V = beda potensial listrik (dalam satuan volt)
 
-I = arus listrik (dalam satuan ampere)
+    I = arus listrik (dalam satuan ampere)
 
-R = hambatan listrik (dalam satuan ohm)
+    R = hambatan listrik (dalam satuan ohm)
 
 5.	Hukum Kirchoff
 
-Hukum Kirchoff terdiri dari dua hukum, yaitu:
-- Hukum Kirchoff Pertama (KPL) menyatakan bahwa jumlah arus listrik yang masuk ke sebuah simpul sama dengan jumlah arus listrik yang keluar dari simpul tersebut. Persamaannya adalah:
-ΣI_masuk = ΣI_keluar
+    Hukum Kirchoff terdiri dari dua hukum, yaitu:
+    
+    - Hukum Kirchoff Pertama (KPL) menyatakan bahwa jumlah arus listrik yang masuk ke sebuah simpul sama dengan jumlah arus listrik yang keluar dari simpul tersebut. Persamaannya adalah: ΣI_masuk = ΣI_keluar
 
-- Hukum Kirchoff Kedua (KPL) menyatakan bahwa jumlah beda potensial listrik dalam suatu loop tertutup sama dengan nol. Persamaannya adalah:
-ΣV_loop = 0
+    - Hukum Kirchoff Kedua (KPL) menyatakan bahwa jumlah beda potensial listrik dalam suatu loop tertutup sama dengan nol. Persamaannya adalah: ΣV_loop = 0
 
 6.	Daya Listrik
 
-Daya listrik adalah besarnya energi yang dikonsumsi atau dihasilkan oleh suatu rangkaian listrik dalam satu satuan waktu. Daya listrik diukur dalam satuan watt (W) dan dapat dihitung
+    Daya listrik adalah besarnya energi yang dikonsumsi atau dihasilkan oleh suatu rangkaian listrik dalam satu satuan waktu. Daya listrik diukur dalam satuan watt (W) dan dapat dihitung
 menggunakan persamaan:
 
-P = V * I
+    P = V * I
 
-dengan:
+    dengan:
 
-P = daya listrik (dalam satuan watt)
+    P = daya listrik (dalam satuan watt)
 
-V = beda potensial listrik (dalam satuan volt)
+    V = beda potensial listrik (dalam satuan volt)
 
-I = arus listrik (dalam satuan ampere)
+    I = arus listrik (dalam satuan ampere)
        """)
         st.write(" ")
         st.caption("Download Materi")
