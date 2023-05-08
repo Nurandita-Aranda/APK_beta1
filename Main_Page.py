@@ -74,6 +74,8 @@ elif opsi4:
         
         Di sini kakak bisa membaca info-info menarik tentang unsur-unsur kimia untuk mengisi waktu luang kakak
         """)
+    imageF4 = Image.open('Resource/image/Main/Intermezzo.png')
+    st.image(imageF4)
 else:
     st.write(
         """
