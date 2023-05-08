@@ -759,7 +759,7 @@ nona(9), deka(10), dst....
         st.image(imageAnjen1, caption = "Gambar 1. Konsep Mol (Sumber : temukanpengertian.com )")
         st.write(
             """ 
-            Mol = g/BM = g/Mr = g/Ar    
+Mol = g/BM = g/Mr = g/Ar    
             
 g = massa (gram)
 
@@ -780,42 +780,46 @@ Mol = 10/180  = 0,05
         st.image(imageAnjen2)
         st.write(
             """
-      Contoh :
+Contoh :
    
-   Berapa % kadar Fe dalam Fe2O3  
+Berapa % kadar Fe dalam Fe2O3  
    
-   Jawab :
+Jawab :
    
-   % = ((2 × 56 g/mol) )/(160 g/mol × 100) = 70 %
-   """)
+% = ((2 × 56 g/mol) )/(160 g/mol × 100) = 70 %
+            """)
+
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Konsep ekuivalen & Berat Ekuivalen (BE)</h2>", unsafe_allow_html=True)
-        st.write("""
-        Rumus ekuivalen dan berat ekuivalen
+        st.write(
+            """
+**Rumus ekuivalen dan berat ekuivalen**
         
-        grek = g/BE
+`   grek = g/BE
          
-      BE = BM/a
+    BE = BM/a
+    
+dengan:
          
-  BE = berat ekuivalen (g/grek atau mg/mgrek)
+BE = berat ekuivalen (g/grek atau mg/mgrek)
   
-  a = valensi yang nilainya tergantung reaksi
+a = valensi yang nilainya tergantung reaksi
   
-  **Berat Ekuivalen (BE) Reaksi asam basa**
-  
-        BE asam = (BM asam)/(jumlah H+)          
+**Berat Ekuivalen (BE) Reaksi asam basa**
+
+    BE asam = (BM asam)/(jumlah H+)          
+
+    BE Basa = (BM asam)/(jumlah OH-)
         
-        BE Basa = (BM asam)/(jumlah OH-)
+**Berat Ekuivalen (BE) Reaksi redoks**
+  
+    BE zat = (BM zat)/(Jumlah elektron yang terlibat)
         
-  **Berat Ekuivalen (BE) Reaksi redoks**
+**Berat Ekuivalen (BE) Reaksi penggaraman**
   
-        BE zat = (BM zat)/(Jumlah elektron yang terlibat)
-        
-  **Berat Ekuivalen (BE) Reaksi penggaraman**
+    BE garam = (BM garam)/(Muatan anion × jumlah anion )
   
-        BE garam = (BM garam)/(Muatan anion × jumlah anion )
-  
-        BE garam = (BM garam)/(Muatan kation × jumlah kation )
-        """)
+    BE garam = (BM garam)/(Muatan kation × jumlah kation )
+            """)
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Molaritas (M)</h2>", unsafe_allow_html=True)
         st.write(
             """
@@ -831,7 +835,7 @@ Berapa Normalitas H2SO4 dengan Molaritas = 0,25 M?
 Jawaban :
 
 N = 0,25 × 2 = 0,5 N
-""")
+            """)
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Normalitas (N)</h2>", unsafe_allow_html=True)
         st.write(
             """
@@ -846,7 +850,7 @@ Berapa Normalitas H2SO4 dengan Molaritas = 0,25 M?
 Jawaban :
 
 N = 0,25 × 2 = 0,5 N
-""")
+            """)
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Kadar Larutan Dalam Persen(%)</h2>", unsafe_allow_html=True)
         st.write(
             """
@@ -1048,7 +1052,7 @@ Pengamatan dalam uji kering meliputi
 """)
         imageAnjen4 = Image.open('Resource/image/Anjen/Nyala_api.jpg')
         st.image(imageAnjen4)
-        st.write("**4. Uji Mutiara Boraks**")
+        st.write("4.	Uji Mutiara Boraks")
         imageAnjen5 = Image.open('Resource/image/Anjen/boraks.jpeg')
         st.image(imageAnjen5, caption = "Gambar 3. Uji Mutiara Boraks (Sumber: davin tiska abriani)")
         st.write(
