@@ -45,10 +45,27 @@ elif opsi4:
     st.write(
         """
         Oke oke, sini kak Fayans guide
-        1.	Materi
-        Disini isinya materi-materi mata kuliah kimia dasar, analisis jenis, titrimetri, kimia
-        image1 = Image.open('Resource/image/Main/Fayans.png')
-        st.image(image1)
+        **1.	Materi**
+        
+        Di halaman materi yang diberi nama "Gaia Library" ini isinya materi-materi mata kuliah kimia dasar, analisis jenis, titrimetri, kimia organik, dan kimia dasar
+        """
+    st.write(
+        """
+        **2.	Quiz**
+        
+        Di halaman bernama "Chemio Tesrt" ini Kakak bisa mencoba mengerjakan soal-soal untuk mengasah kemampuan dan pemahaman kakak terhadap materi-materi yang sudah dipelajari
+        """)
+    st.write(
+        """
+        **3.	Kalkulator**
+        
+        Nah, di halaman "Calchemio" ini kakak bisa dengan mudah menghitung molalitas, molaritas, % kadar, normalitas, PPM, dan PPB sesuai dengan data yang dimiliki
+        """)
+    st.write(
+        """
+        **4.	Intermezzo**
+        
+        Di sini kakak bisa membaca info-info menarik tentang unsur-unsur kimia untuk mengisi waktu luang kakak
         """)
 else:
     st.write(
