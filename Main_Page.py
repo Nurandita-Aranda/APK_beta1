@@ -48,7 +48,7 @@ elif opsi4:
         **1.	Materi**
         
         Di halaman materi yang diberi nama "Gaia Library" ini isinya materi-materi mata kuliah kimia dasar, analisis jenis, titrimetri, kimia organik, dan kimia dasar
-        """
+        """)
     st.write(
         """
         **2.	Quiz**
