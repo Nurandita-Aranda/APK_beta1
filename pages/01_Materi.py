@@ -131,7 +131,6 @@ Rumus Molekul pada dasarnya memiliki jumlah atom kelipatan dari rumus empiris. M
 Rumus molekul:
 Mr rumus empiris x n = Mr rumus molekul
 
-
 C.	Menentukan Rumus Empiris. 
 1.	Menggunakan rumus molekul, 
 caranya dengan menyederhanakan jumlah dari atom penyusun rumus molekul agar menghasilkan bilangan bulat yang paling kecil.
@@ -1252,7 +1251,9 @@ Analisis volumetri /analisis titrimetri adalah teknis analisis yang berdasarkan 
 
 •	Larutan standar (larutan baku) adalah larutan yang konsentrasinya diketahui secara pasti
 
+
 **Prinsip /reaksi titrimetri**
+
 
 •	aA + tT → produk 
 
@@ -2300,20 +2301,16 @@ Ek2 = energi kinetik akhir (dalam satuan Joule)
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Arus Listrik</h2>", unsafe_allow_html=True)
         st.write(
            """
-1. Arus Listrik
+1.	Arus Listrik
 
-    Arus listrik adalah gerakan muatan listrik melalui suatu penghantar. Arus listrik dapat
-dihasilkan oleh baterai, generator listrik, atau sumber energi listrik lainnya. Arus listrik diukur
-dalam satuan ampere (A).
-Ada dua jenis arus listrik, yaitu arus searah (DC) dan arus bolak-balik (AC).
-Arus searah (DC) adalah arus listrik yang mengalir dalam satu arah atau polaritas
-tertentu. Arus searah biasanya dihasilkan oleh baterai dan digunakan dalam aplikasi seperti
+    Arus listrik adalah gerakan muatan listrik melalui suatu penghantar. Arus listrik dapat dihasilkan oleh baterai, generator listrik, atau sumber energi listrik lainnya. Arus listrik diukur
+dalam satuan ampere (A). Ada dua jenis arus listrik, yaitu arus searah (DC) dan arus bolak-balik (AC).
+Arus searah (DC) adalah arus listrik yang mengalir dalam satu arah atau polaritas tertentu. Arus searah biasanya dihasilkan oleh baterai dan digunakan dalam aplikasi seperti
 lampu kilat, sirkuit elektronik, dan kendaraan listrik.
-Arus bolak-balik (AC) adalah arus listrik yang mengalir bolak-balik antara dua arah
-atau polaritas. Arus bolak-balik dihasilkan oleh generator listrik dan digunakan dalam sistem
+Arus bolak-balik (AC) adalah arus listrik yang mengalir bolak-balik antara dua arah atau polaritas. Arus bolak-balik dihasilkan oleh generator listrik dan digunakan dalam sistem
 listrik rumah tangga dan industri.
 
-2. Tegangan Listrik
+2.	Tegangan Listrik
 
     Tegangan listrik (atau beda potensial listrik) adalah perbedaan potensial listrik antara dua
 titik dalam rangkaian listrik yang dapat mendorong arus listrik mengalir. Satuan tegangan
@@ -2323,7 +2320,7 @@ listrik adalah volt (V) dan dapat diukur menggunakan alat yang disebut voltmeter
 
     Hambatan listrik adalah besarnya penghalang yang dihadapi oleh arus listrik dalam mengalir melalui penghantar. Hambatan listrik diukur dalam satuan ohm (Ω) dan dapat dihitung menggunakan hukum Ohm.
 
-4. Hukum Ohm
+4.	Hukum Ohm
 
     Hukum Ohm menyatakan bahwa beda potensial listrik pada suatu penghantar sebanding dengan arus listrik yang mengalir melaluinya dan invers sebanding dengan hambatan penghantar. Persamaannya adalah:
 
@@ -2337,22 +2334,20 @@ I = arus listrik (dalam satuan ampere)
 
 R = hambatan listrik (dalam satuan ohm)
 
-5. Hukum Kirchoff
+5.	Hukum Kirchoff
 
 Hukum Kirchoff terdiri dari dua hukum, yaitu:
 - Hukum Kirchoff Pertama (KPL) menyatakan bahwa jumlah arus listrik yang masuk ke sebuah simpul sama dengan jumlah arus listrik yang keluar dari simpul tersebut. Persamaannya adalah:
-
 ΣI_masuk = ΣI_keluar
-r
-- Hukum Kirchoff Kedua (KPL) menyatakan bahwa jumlah beda potensial listrik dalam suatu
-loop tertutup sama dengan nol. Persamaannya adalah:
+
+- Hukum Kirchoff Kedua (KPL) menyatakan bahwa jumlah beda potensial listrik dalam suatu loop tertutup sama dengan nol. Persamaannya adalah:
 ΣV_loop = 0
 
-6. Daya Listrik
+6.	Daya Listrik
 
-Daya listrik adalah besarnya energi yang dikonsumsi atau dihasilkan oleh suatu rangkaian
-listrik dalam satu satuan waktu. Daya listrik diukur dalam satuan watt (W) dan dapat dihitung
+Daya listrik adalah besarnya energi yang dikonsumsi atau dihasilkan oleh suatu rangkaian listrik dalam satu satuan waktu. Daya listrik diukur dalam satuan watt (W) dan dapat dihitung
 menggunakan persamaan:
+
 P = V * I
 
 dengan:
@@ -2371,19 +2366,13 @@ if optionfisdas == "Kalor dan Termodinamika":
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Kalor dan Termodinamika</h2>", unsafe_allow_html=True)
         st.write(
            """
-           Kalor dan termodinamika adalah konsep-konsep fisika yang berkaitan dengan transfer
-energi dalam bentuk panas dan hubungan antara energi, suhu, dan kerja.
-Kalor adalah energi yang berpindah dari suatu sistem ke sistem lain akibat adanya
-perbedaan suhu. Sistem yang menerima kalor akan mengalami kenaikan suhu dan sebaliknya,
-sistem yang melepaskan kalor akan mengalami penurunan suhu.
-Termodinamika adalah studi tentang energi dan perubahan energi dalam suatu sistem.
+           Kalor dan termodinamika adalah konsep-konsep fisika yang berkaitan dengan transfer energi dalam bentuk panas dan hubungan antara energi, suhu, dan kerja.
+Kalor adalah energi yang berpindah dari suatu sistem ke sistem lain akibat adanya perbedaan suhu. Sistem yang menerima kalor akan mengalami kenaikan suhu dan sebaliknya,
+sistem yang melepaskan kalor akan mengalami penurunan suhu. Termodinamika adalah studi tentang energi dan perubahan energi dalam suatu sistem.
+
 Termodinamika mencakup dua hukum termodinamika yang mendasar, yaitu:
-
-1. Hukum Pertama Termodinamika: energi tidak dapat diciptakan atau dihancurkan, tetapi
-dapat berubah bentuk dari satu bentuk ke bentuk yang lain.
-
-2. Hukum Kedua Termodinamika: entropi alam semakin meningkat, yaitu keadaan alam
-semakin acak dan tidak teratur.
+1.	Hukum Pertama Termodinamika: energi tidak dapat diciptakan atau dihancurkan, tetapi dapat berubah bentuk dari satu bentuk ke bentuk yang lain.
+2.	Hukum Kedua Termodinamika: entropi alam semakin meningkat, yaitu keadaan alam semakin acak dan tidak teratur.
 
 
    Dalam termodinamika, suatu sistem dapat berupa sistem terbuka, sistem tertutup, atau sistem terisolasi. Sistem terbuka dapat bertukar energi dan materi dengan lingkungannya,
@@ -2393,6 +2382,7 @@ untuk meningkatkan suhu satu kilogram bahan satu derajat Celsius. Kapasitas kalo
 dibutuhkan untuk melakukan perpindahan, misalnya perpindahan benda atau gas. Entropi adalah ukuran dari ketidakteraturan dan keteraturan dari suatu sistem, sedangkan efisiensi
 termodinamika adalah rasio antara energi yang dihasilkan dengan energi yang digunakan. Pada umumnya jika suatu zat diberi kalor, maka zat tersebut akan mengalami pemuaian.
 Pemuaian yang terjadi pada zat padat dapat berupa pemuaian panjang, luas, dan volume.
+
 Berikut ini adalah rumus untuk tiga jenis pemuaian yang umum terjadi:
 
 1. Pemuaian linier:
