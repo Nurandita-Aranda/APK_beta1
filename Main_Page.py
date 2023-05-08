@@ -44,7 +44,8 @@ elif opsi3:
 elif opsi4:
     st.write(
         """
-        Oke oke, sini kak Fayans guide
+        Oke oke, Fayans kasih tau di sini ada apa aja
+        
         **1.	Materi**
         
         Di halaman materi yang diberi nama "Gaia Library" ini isinya materi-materi mata kuliah kimia dasar, analisis jenis, titrimetri, kimia organik, dan kimia dasar
@@ -53,7 +54,7 @@ elif opsi4:
         """
         **2.	Quiz**
         
-        Di halaman bernama "Chemio Tesrt" ini Kakak bisa mencoba mengerjakan soal-soal untuk mengasah kemampuan dan pemahaman kakak terhadap materi-materi yang sudah dipelajari
+        Di halaman bernama "Chemio Test" ini Kakak bisa mencoba mengerjakan soal-soal untuk mengasah kemampuan dan pemahaman kakak terhadap materi-materi yang sudah dipelajari
         """)
     st.write(
         """
