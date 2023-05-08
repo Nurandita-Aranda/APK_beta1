@@ -78,6 +78,7 @@ elif opsi4:
     st.image(image1)
     image2 = Image.open('Resource/image/Main/Tutor1_2.png')
     st.image(image2)
+    st.write("Kakak langsung isi aja nama, email, dan keluhan kakak di kotak yang udah disediain. Good luck kak!")
 elif opsi5:
     st.write("Wah, boleh banget kak")
     image1 = Image.open('Resource/image/Main/About_Us.png')
