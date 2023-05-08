@@ -347,53 +347,60 @@ k : konstanta
 F. Sifat Koligatif
 
 Sifat koligatif adalah beberapa sifat penting larutan bergantung pada banyaknya partikel zat terlarut dalam larutan dan tidak bergantung pada jenis partikel zat terlarut.
-1. Penurunan Tekanan Uap
-Hubungan tekanan uap larutan dengan tekanan uap pelarut bergantung pada konsentrasi zat terlarut dalam larutan. Hukum Raoult yang menyatakan bahwa tekanan parsial pelarut dari larutan, Pi adalah tekanan uap pelarut murni, Pio dikalikan dengan fraksi mol pelarut dalam larutan Xi.
+
+1.	Penurunan Tekanan Uap
+
+    Hubungan tekanan uap larutan dengan tekanan uap pelarut bergantung pada konsentrasi zat terlarut dalam larutan. Hukum Raoult yang menyatakan bahwa tekanan parsial pelarut dari larutan, Pi adalah tekanan uap pelarut murni, Pio dikalikan dengan fraksi mol pelarut dalam larutan Xi.
 Pi = Xi. Pio
 
-2. Tekanan Titik Didih
+2.	Tekanan Titik Didih
 
-Keberadaan zat terlarut yang tidak mudah menguap menurunkan tekanan uap larutan,maka berpengarug pada titik didih. Titik didi adalah suhu pada saat tekanan uap larutan sama 
+    Keberadaan zat terlarut yang tidak mudah menguap menurunkan tekanan uap larutan,maka berpengarug pada titik didih. Titik didi adalah suhu pada saat tekanan uap larutan sama 
 dengan tekanan atmosfer luar. Kenaikan titik didih didefinisikan sebagai berikut:
- ΔTd = Td - Tdo
-Dimana Td adalah titik didih larutan, dan Tdo adalah titik didih pelarut murni.
 
-3. Penurunan titik beku 
+    ΔTd = Td - Tdo
+    
+    Dimana Td adalah titik didih larutan, dan Tdo adalah titik didih pelarut murni.
 
-Penurunan titik beku didefinisikan sebagai berikut:
-ΔTb = Tbo – Tb
-Pembekuan melibatkan transisi dari keadaan tidak teratur ke keadaan terarur. Agar proses itu terjadi, energi harus diambil dari system karena larutan lebih tidak teratur dibandingkan pelarut, maka lebih banyak energi yang diambil untuk menciptakan keteraturan. Jadi, larutan memiliki titik beku lebih rendah dibandingkan pelarut.
+3.	Penurunan titik beku 
 
-4. Tekanan Osmotik
+    Penurunan titik beku didefinisikan sebagai berikut:
+    
+    ΔTb = Tbo – Tb
+    
+    Pembekuan melibatkan transisi dari keadaan tidak teratur ke keadaan terarur. Agar proses itu terjadi, energi harus diambil dari system karena larutan lebih tidak teratur dibandingkan pelarut, maka lebih banyak energi yang diambil untuk menciptakan keteraturan. Jadi, larutan memiliki titik beku lebih rendah dibandingkan pelarut.
 
-osmosis adalah Gerakan bersih molekul pelarut melewati membrane semipermeabel dari pelarut murni atau dari larutan encer ke larutan pekat. Telakan osmotik adalah tekanan yang digunakan untuk menghentikan osmosis. 
-Π = MRT
+4.	Tekanan Osmotik
 
-Keterangan :
+    Osmosis adalah Gerakan bersih molekul pelarut melewati membrane semipermeabel dari pelarut murni atau dari larutan encer ke larutan pekat. Telakan osmotik adalah tekanan yang digunakan untuk menghentikan osmosis. 
 
-M : Molaritas
+    Π = MRT
 
-R : Konstanta gas (0,0821 L. atm/K. mol)
+    Keterangan :
 
-T : Suhu mutlak.
+    M : Molaritas
 
-5. Sifat Koligatif Elektrolit
+    R : Konstanta gas (0,0821 L. atm/K. mol)
 
-Sifat koligatif elektrolit memerlukan pendekatan yang sedikit berbeda daripada yang digunakan untuk sifat koligatif nonelektrolit. Karena elektrolit terurai menjadi ion-ion dalam larutan dan dengan demikian satu satuan senyawa elektrolit terpisah menjadi dua atau lebih partikel bila dilarutkan. Persamaan Sifat Koligatif :
+    T : Suhu mutlak.
 
-Π = iMRT
+5.	Sifat Koligatif Elektrolit
 
-keterangan :
+    Sifat koligatif elektrolit memerlukan pendekatan yang sedikit berbeda daripada yang digunakan untuk sifat koligatif nonelektrolit. Karena elektrolit terurai menjadi ion-ion dalam larutan dan dengan demikian satu satuan senyawa elektrolit terpisah menjadi dua atau lebih partikel bila dilarutkan. Persamaan Sifat Koligatif :
 
-M : Molaritas
+    Π = iMRT
 
-R : Konstanta gas (0,0821 L. atm/K. mol)
+    keterangan :
 
-T : Suhu mutlak.
+    M : Molaritas
 
-i : faktor van’t hoff 
+    R : Konstanta gas (0,0821 L. atm/K. mol)
 
-i : jumlah partikel sebenarnya dalam larutan setelah penguraian/jumlah satuan rumus yang semua terlarut dalam larutan
+    T : Suhu mutlak.
+
+    i : faktor van’t hoff 
+
+    i : jumlah partikel sebenarnya dalam larutan setelah penguraian/jumlah satuan rumus yang semua terlarut dalam larutan
               """)
         st.write(" ")
         st.caption("Download Materi")
@@ -642,56 +649,56 @@ Syarat-syarat berlangsungnya suatu reaksi kimia yaitu terjadi perubahan bentuk w
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Reaksi Kimia</h2>", unsafe_allow_html=True)
         st.write(
             """
-            1.	Reaksi penetralan / reaksi penggaraman
+1.	Reaksi penetralan / reaksi penggaraman
 
-Reaksi penetralan disebut juga reaksi asam basa. reaksi penetralan adalah reaksi yang membentuk unsur bersifat netral yaitu air (H2O) yang berasal dari zat asam yang melepaskan ion (H +) dengan zat basa yang melepaskan ion (OH-)
+    Reaksi penetralan disebut juga reaksi asam basa. reaksi penetralan adalah reaksi yang membentuk unsur bersifat netral yaitu air (H2O) yang berasal dari zat asam yang melepaskan ion (H +) dengan zat basa yang melepaskan ion (OH-)
 
-a.	     Oksida asam + oksida basa → garam
+    a.	     Oksida asam + oksida basa → garam
            
     CO2 + 2NaOH → Na2CO3 + H2O
            
-b.	     Oksida basa + asam → garam + air
+    b.	     Oksida basa + asam → garam + air
            
     K2O + HCl → KCl + H2O
            
-c.	     Oksida logam (oksida basa)
+    c.	     Oksida logam (oksida basa)
      
     Na2O + H2O → 2NaOH
      
-d.	     Oksida non logam (oksida asam)
+    d.	     Oksida non logam (oksida asam)
      
     CO2 + H2O → H2CO3
 
 2.	Reaksi metatesis
 
-Reaksi Metatesis adalah reaksi pertukaran pasangan ion dari dua elektrolit. Pada reaksi ini, setidaknya satu produk reaksi akan membentuk endapan, gas atau elektrolit lemah.
+    Reaksi Metatesis adalah reaksi pertukaran pasangan ion dari dua elektrolit. Pada reaksi ini, setidaknya satu produk reaksi akan membentuk endapan, gas atau elektrolit lemah.
 Garam 1 + garam 2 → garam 3 + garam 4
 
-Contoh: 
+    Contoh: 
     
     AgNO3 (aq) + NaCl (aq) → AgCl(s) + NaNO3 (aq)
 
-3.	 Reaksi redoks
+3.	Reaksi redoks
 
-Reaksi reduksi-oksidasi (ada perubahan biloks/ bilangan oksidasi). Dalam reaksi redoks atom yang menyumbangkan electron dioksidasi dan atom yang menerima electron direduksi.
+    Reaksi reduksi-oksidasi (ada perubahan biloks/ bilangan oksidasi). Dalam reaksi redoks atom yang menyumbangkan electron dioksidasi dan atom yang menerima electron direduksi.
 
     H2 + F2 → 2HF
     
-Untuk membentuk senyawa hidrogen fluorida, molekul H2 melepaskan 2 elektron menjadi 2H+ : H2 → 2H+ + 2e-, sedangkan molekul F2 menangkap/mengikat 2 elektron, menjadi 2F- : F2 + 2e- → 2F-.
+    Untuk membentuk senyawa hidrogen fluorida, molekul H2 melepaskan 2 elektron menjadi 2H+ : H2 → 2H+ + 2e-, sedangkan molekul F2 menangkap/mengikat 2 elektron, menjadi 2F- : F2 + 2e- → 2F-.
 
 4.	Reaksi pengendapan
 
-Endapan adalah zat yang memisahkan diri sebagai suatu fase padat keluar dari larutan, endapan terbentuk jika larutan menjadi terlalu jenuh dengan zat yang bersangkutan, kelarutan (s) suatu endapan, menurut definisi adalah sama dengan konsentrasi si molar dari larutan jenuhnya. Kelarutan bergantung pada berbagai kondisi, seperti suhu, tekanan, konsentrasi bahan-bahan lain dalam larutan itu, dan pada komposisi pelarutnya.
+    Endapan adalah zat yang memisahkan diri sebagai suatu fase padat keluar dari larutan, endapan terbentuk jika larutan menjadi terlalu jenuh dengan zat yang bersangkutan, kelarutan (s) suatu endapan, menurut definisi adalah sama dengan konsentrasi si molar dari larutan jenuhnya. Kelarutan bergantung pada berbagai kondisi, seperti suhu, tekanan, konsentrasi bahan-bahan lain dalam larutan itu, dan pada komposisi pelarutnya.
 
-Contoh: 
+    Contoh: 
     
     Pb(NO3)2 (aq) + 2 NaI(aq) → PbI2(s) + 2NaNO3(aq)
 
 5.	Reaksi kompleks
 
-Suatu ion (atau molekul) Kompleks terdiri dari satu Atom (ion) pusat dan sejumlah ligan dan terikat erat dengan atom (ion) pusat itu.
+    Suatu ion (atau molekul) Kompleks terdiri dari satu Atom (ion) pusat dan sejumlah ligan dan terikat erat dengan atom (ion) pusat itu.
 
-Contoh: 
+    Contoh: 
     
     [Co(NH3)6]3+ + 6H3O+ → [Co(H2O)6]3+ + 6NH4+
             """)
@@ -710,7 +717,8 @@ Garam kalium (K+), natrium (Na+), ammonium (NH4+), Nitrat (NO3-), asetat(CH3COO-
 
 Garam sulfida (S2-) umumnya tidak larut kecuali : Na2S, K2S , (NH4)2S, MgS, CaS, BaS larut. 
 
-Garam- garam (CO32-, CrO42-, PO43-) umumnya tidak larut kecuali garam K+, Na+ dan NH4+. 
+Garam- garam (CO32-, CrO42-, PO43-) umumnya tidak larut kecuali garam K+, Na+ dan NH4+.
+
 Asam yang berupa gas : H2S, asam yang terurai menjadi gas:H2CO3 H2O + CO2 (g) H2SO3 H2O + SO2 (g) 
 Basa yang terurai menjadi gas : NH4OH H2O + NH3 (g).
             """)
@@ -720,27 +728,26 @@ Basa yang terurai menjadi gas : NH4OH H2O + NH3 (g).
 Syarat_syarat dalam penamaan senyawa kimia adalaha sebagai berikut:
 1.	Senyawa yang terdiri dari unsur logam dan non logam: nama kation diikuti nama anion dengan akhiran-ida
 
-NaCl = Natrium klorida
+    NaCl = Natrium klorida
 
-MgCl2 = Magnesium klorida
+    MgCl2 = Magnesium klorida
 
-2.	Senyawa yang terdiri dari unsur non logam dan non logam : nama unsur diikuti
-dengan awalan mono(1), di(2), tri(3), tetra(4), penta (5), heksa (6), penta (7), okta (8),
+2.	Senyawa yang terdiri dari unsur non logam dan non logam : nama unsur diikuti dengan awalan mono(1), di(2), tri(3), tetra(4), penta (5), heksa (6), penta (7), okta (8),
 nona(9), deka(10), dst....
 
-Contoh:
+    Contoh:
 
-SO2 = sulfur dioksida
+    SO2 = sulfur dioksida
 
-N2O5 = dinitrogen pentaoksida
+    N2O5 = dinitrogen pentaoksida
 
 3.	Senyawa yang mengandung logam atau kation yang memiliki 2 bilangan oksidasi maka : nama kation dengan akhiran – i, untuk biloks yang tinggi dan akhiran –o, untuk biloks rendah, atau nama kation, dengan nama umum (dalam bahasa indonesia) diikuti muatan kation dengan angka romawi.
 
-Contoh:
+    Contoh:
 
-FeCl2 = Ferro klorida atau besi (II) klorida
+    FeCl2 = Ferro klorida atau besi (II) klorida
 
-FeCl3 = Ferri klorida atau besi (III) klorida
+    FeCl3 = Ferri klorida atau besi (III) klorida
             """)
         st.write(" ")
         st.caption("Download Materi")
@@ -992,50 +999,52 @@ Pengamatan dalam uji kering meliputi
 
 **Teknik uji dalam uji reaksi kering yaitu:**
 
-**1.	Sifat fisik** 
+1.	Sifat fisik
 
     Dalam sifat fisik yang perlu diperhatikan:
     
     -	Pengamatan bentuk
+    
         bentuk harus diperhatikan secara seksama,apakah berupa padatan atau cairan
         
     -	Pengamatan warna
+    
         beberapa senyawa berwarna yang secara umum dijumpai 
 
-**2.	Reaksi Nyala**
+2.	Reaksi Nyala
 """)
         imageAnjen1 = Image.open('Resource/image/Anjen/Uji_nyala.jpg')
         st.image(imageAnjen1, caption = "Gambar 1. Uji nyala (Sumber: yuninainggolan.wordpress)")
         st.write(
             """    
-Uji nyala api adalah suatu prosedur analisis yang digunakan dalam ilmukimia untuk mendeteksi keberadaan unsur tertentu, terutama ion logam, berdasarkan karakteristik spektrum emisi masing-masing unsur, ide pengujian ini adalah bahwa atom-atom sampel menguap dan karena panas, mereka mengemisikan sinar ketika berada dalam nyala api.
+    Uji nyala api adalah suatu prosedur analisis yang digunakan dalam ilmukimia untuk mendeteksi keberadaan unsur tertentu, terutama ion logam, berdasarkan karakteristik spektrum emisi masing-masing unsur, ide pengujian ini adalah bahwa atom-atom sampel menguap dan karena panas, mereka mengemisikan sinar ketika berada dalam nyala api.
 
-Prosedur Kerja:
-1.	Disiapkan kristal NaCl dalam kaca arloji.
-2.	Diisi 2 tabung reaksi masing-masing dengan 1 mL HCl pekat.
-3.	Dicelupkan ujung kawat nikrom dalam tabung reaksi 1 dan dimasukkan dalam nyala api bunsen. Dilakukan hal ini sampai kawat tidak memberikan warna lain.
-4.	Dicelupkan ujung   kawat  nikrom   tersebut   dalam  tabung  reaksi  2 kemudian dalam kristal NaCl.
-5.	Diamati   warna  nyala   yang  terjadi  dan   dicatat   hasil   pengamatan kalian.
-6.	Diulangi kegiatan yang sama untuk kristal yang lain. Disiapkan kristal NaCl dalam kaca arloji.
+    Prosedur Kerja:
+    1.	Disiapkan kristal NaCl dalam kaca arloji.
+    2.	Diisi 2 tabung reaksi masing-masing dengan 1 mL HCl pekat.
+    3.	Dicelupkan ujung kawat nikrom dalam tabung reaksi 1 dan dimasukkan dalam nyala api bunsen. Dilakukan hal ini sampai kawat tidak memberikan warna lain.
+    4.	Dicelupkan ujung   kawat  nikrom   tersebut   dalam  tabung  reaksi  2 kemudian dalam kristal NaCl.
+    5.	Diamati   warna  nyala   yang  terjadi  dan   dicatat   hasil   pengamatan kalian.
+    6.	Diulangi kegiatan yang sama untuk kristal yang lain. Disiapkan kristal NaCl dalam kaca arloji.
 """)
         imageAnjen2 = Image.open('Resource/image/Anjen/Warna.jpg')
         st.image(imageAnjen2)
         st.write(
             """
-**3. Uji Pipa Tiup**
+3.	Uji Pipa Tiup
 
-Uji pipa tiup bertujuan untuk membebaskan logam tertentu dari sampel tertentu yang memiliki warna yang khas
+    Uji pipa tiup bertujuan untuk membebaskan logam tertentu dari sampel tertentu yang memiliki warna yang khas
 """)
         imageAnjen3 = Image.open('Resource/image/Anjen/Pipa_tiup.jpeg')
         st.image(imageAnjen3) 
         st.write(
             """
-Prosedur kerja
-1.  Campurkan di dalam mortar garam yang akan di periksa dengan Na2CO3(perbandingan 1:2) gerus sampai halus.Buat gerukan pada permukaan arang kayu.
-2.  Nyalakan bunsen perlahan sampai di dapat nyala api TB. Kemudian panaskan campuran yang ada
-3.  Siapkan sebongkah arang, lubangi arang kurang lebih 1,5cm. Sampel yang sebelumnya dilarutkan  dengan pereaksi dalam plat tetes dimasukan kedalam arang.
-4.  Arang yang telah diisi sampel simpan diatas kassa asbes dan nyalakan api.
-5.  Tiupkan dengan pipa tiup, arahkan pada zat sampai semuanya bereaksi. Ambil sampel yg ada dalam arang dan masukan ke dalam tabung reaksi lalu tambahkan pereaksi tertentu.
+    Prosedur kerja
+    1.  Campurkan di dalam mortar garam yang akan di periksa dengan Na2CO3(perbandingan 1:2) gerus sampai halus.Buat gerukan pada permukaan arang kayu.
+    2.  Nyalakan bunsen perlahan sampai di dapat nyala api TB. Kemudian panaskan campuran yang ada
+    3.  Siapkan sebongkah arang, lubangi arang kurang lebih 1,5cm. Sampel yang sebelumnya dilarutkan  dengan pereaksi dalam plat tetes dimasukan kedalam arang.
+    4.  Arang yang telah diisi sampel simpan diatas kassa asbes dan nyalakan api.
+    5.  Tiupkan dengan pipa tiup, arahkan pada zat sampai semuanya bereaksi. Ambil sampel yg ada dalam arang dan masukan ke dalam tabung reaksi lalu tambahkan pereaksi tertentu.
 """)
         imageAnjen4 = Image.open('Resource/image/Anjen/Nyala_api.jpg')
         st.image(imageAnjen4)
