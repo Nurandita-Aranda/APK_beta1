@@ -2,7 +2,7 @@ import streamlit as st
 import random
 from PIL import Image
 
-st.markdown("<h1 style='text-align: center; color: raisin black;'>Chimeía Grandprix</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: raisin black;'>Chemio Test</h1>", unsafe_allow_html=True)
 st.subheader("Siap mengetes kemampuanmu dan menjadi yang terbaik?")
 
 
