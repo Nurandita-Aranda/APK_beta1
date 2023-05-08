@@ -37,8 +37,8 @@ elif opsi3:
         
         Sini kak, Fayans arahin biar nggak kesasar
         """)
-    image2 = Image.open('Resource/image/Main/Tutor1_1.png')
-    st.image(image2)
+    image1 = Image.open('Resource/image/Main/Tutor1_1.png')
+    st.image(image1)
     image2 = Image.open('Resource/image/Main/Tutor1_2.png')
     st.image(image2)
 elif opsi4:
@@ -50,6 +50,8 @@ elif opsi4:
         
         Di halaman materi yang diberi nama "Gaia Library" ini isinya materi-materi mata kuliah kimia dasar, analisis jenis, titrimetri, kimia organik, dan kimia dasar
         """)
+    imageF1 = Image.open('Resource/image/Main/Materi.png')
+    st.image(imageF1)
     st.write(
         """
         **2.	Quiz**
