@@ -1588,16 +1588,16 @@ Ti (III), Fe(II), Na2S2O3
     if optiontitri == "Asidimetri-Alkalimetri":
        st.markdown("<h2 style='text-align: center; color: raisin black;'>Asidimetri-Alkalimetri</h2>", unsafe_allow_html=True)
        st.write(
-           """     
-       **Asidimetri-alkalimetri**
+           """
+**Asidimetri-alkalimetri**
        
 Asidimetri adalah Bila ditentukan berapa mL larutan asam yang konsentrasinya diketahui untuk menetralkan suatu larutan basa yang kadarnya dicari.
 
 Alkalimetri adalah bila penitar dengan memakai basa yang konsentrasinya diketahui untuk menetapkan suatu asam
-""")
-        imageT1 = Image.open('Resource/image/Titri/p1.png')
-        st.image(imageT1)
-        st.write(
+           """)
+       imageT1 = Image.open('Resource/image/Titri/p1.png')
+       st.image(imageT1)
+       st.write(
            """   
        **Pemilihan Indikator**
            
@@ -1608,9 +1608,9 @@ Alkalimetri adalah bila penitar dengan memakai basa yang konsentrasinya diketahu
 • Warna yang ditunjukkan dalam keadaan basa dinamakan warna basa
 """)
        st.write("**Jenis indikator asam-basa**")
-        imageT2 = Image.open('Resource/image/Titri/p2.png')
-        st.image(imageT2)
-        st.write(
+       imageT2 = Image.open('Resource/image/Titri/p2.png')
+       st.image(imageT2)
+       st.write(
           """
        **Indikator asam-basa berubah warna bila pH lingkungannya berubah**
             
