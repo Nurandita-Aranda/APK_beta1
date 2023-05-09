@@ -7,7 +7,7 @@ st.set_page_config(
 
 st.markdown("<h1 style='text-align: center; color: raisin black;'>Chemio</h1>", unsafe_allow_html=True)
 st.markdown("<h2 style='text-align: center; color: raisin black;'>Student's Chemical Reference</h2>", unsafe_allow_html=True)
-st.divider()
+st.write("---")
 st.subheader("Tanya apa saja ke Fayans")
 
 
