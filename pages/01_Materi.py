@@ -1000,7 +1000,7 @@ Wardaya, Anton. 2014. Modul, Rumus, & Soal Hukum Proust (Hukum Perbandingan Teta
             Daftar Pustaka:
             
             Svehla,G.1990._Buku Teks Analisis Anorganik Kualitatif Makro dan Semimikro_.Jakarta: PT. Kalman Media Pustaka 
-        """)
+            """)
         st.divider()
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/1IdfRtJEGT5yQwW5ezAqdxIRJvzFvoRx7/view?usp=sharing)")
