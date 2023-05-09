@@ -1595,8 +1595,9 @@ Asidimetri adalah Bila ditentukan berapa mL larutan asam yang konsentrasinya dik
 
 Alkalimetri adalah bila penitar dengan memakai basa yang konsentrasinya diketahui untuk menetapkan suatu asam
 """)
-       st.image("https://lh3.googleusercontent.com/LQF0Zzfd_mbTkw83ai_wuwXc9Bg0hGjEfZcSsrNMDwmBMoXk7Z30DjxbVjYK_knkdYKpBCOaAW7fIDT9bLubz5YsVF3DFGXFRlT-QNVlbwGP59wcJ_26oXJ59bqiNVIVHvSZk64zKtGqx6mhXWrsuho0wIQw0YsTnpNVQcuGYBzLhnOCGQBLBsV41Wy0qZa7HVSrpn7tEP57kFt8lMmIc7QducowGNc0_4zYupu0J-yfR_lcgWI-0ftrMQ3vHhQctyFp1qjB9armFjrAb8_XHqsyBKlR0bC2Q18nwHO-C-LoSTGD1fflHZFwVxszAazJ9qXVZit3wVxeUTaPQ0jTfeP9GunjnqJZ5xUHDM_CRvGb5Jh_yIoJT_u4o84ENp953CPoDm35NtKfFxxrCZinE74nBvb_haBXUS_Ldik3Q2yE2p_FO31te2E6okf7SM2Sol9wVcXCcAn-GrFzugUVpHwoXkGPt2iDZpsz2NG5HEJlfQ8jG_che0Cp7D2BHIVqRuLP6c6Q-cNIt-5xGwh-43xM-mSq10PWC1Uf80gkZTYYmMzoT_q_O1zSfCQ3UWr41Oqwb79oEsqmw_WFssb6I2qpRHWGNwBWdv5AbmMOPFcAfYnv9__nz8ISPFN1dZI3S2qN6dOtpbCA0N9VKA0c99tdw_ZSrNg2HUAwBgnBe1rQOq1LQHbSBCM8ToaVhVQ5nsJGmH4BpzYVe6Xv1vJqtgOg-SS8kuKgh2SiPeXKgnkdNwViG4qtn5bbec9a7h_Bloj1mF_GhVlMN7CFmnqbku7-WeowrGLMZBFlrEjKqDh6DsSfUFLRcizV-0YL6bp5IBAXdfmEuSFPU_CFHnXb8stq8URAqM1PVu2TUZhqBe3o8-FBpZG1IhZQwn3GeBglJSttUwIHHak_uh4rAllU7i5lEpMmABN9zvH0CDnU0GL9=w1037-h522-s-no?authuser=0")
-       st.write(
+        imageT1 = Image.open('Resource/image/Titri/p1.png')
+        st.image(imageT1)
+        st.write(
            """   
        **Pemilihan Indikator**
            
@@ -1607,8 +1608,9 @@ Alkalimetri adalah bila penitar dengan memakai basa yang konsentrasinya diketahu
 • Warna yang ditunjukkan dalam keadaan basa dinamakan warna basa
 """)
        st.write("**Jenis indikator asam-basa**")
-       st.image("https://lh3.googleusercontent.com/3KYn70iT0UprJOs6uoqUjmnTdyi-svgpMpAB6bONduJgIEd51vAhX12p0E_mw0PlldqH01LFKLvpofmpWHiu2E64-BdjcH9E_sNcahN-s-gw_zQ8-PpsKKNU9TpNP--oAnzfOyv2TjZfWfsdEiwcDAB0DCCg__BYv9UB3zt6HwU5BdsVaXsyQT67NgTFlDfWPb53yPNYZOogKP9p3VvN5lJTkYczOYHeBqRto1HTqcZbYjrD2TA7LOJmuyIG9lbWRJA9LoFAxrP_6or_wIEhvAJDSh9yRGiEGt6nCEuBu0GVeVT2PU2elIUeRREbYCx51AmZABnFjffUWIeHl8HRDXK8a6qhYKo44FxEiyF-FYDGdBeIN0gm-456KXfMscbgYOyGv6RJQaDH8l6WCzlZj3tUFkMAPgvI_HQTDaCidm5SUx2_QKkGtEbl7Q1Whpl0js0H_iThIsYwncA_7fCCjlYMVFgbSyAomsQo0Af92cKqrGJ6mLjqsG1KZOPEkrlmCXW3-YS5h-PMk5xc8p1rfE6aQAnQVudUnEN_0YtP2pVJiZzSaCONxV9p-IoT76WcmWSoS97ygAn2p1OOUv_irhDLZq4TOqNkqzt91ySxXxbsiwjgPExFWoNsNfjiD5VXd6AFTM7XBjIztTDreSpPAnYJzQ8E3V4kYq-YMvl5piXrmrUsw6yFc6Sa75nfmQLq9Dgm3HN5OLPVCKt4L62UMBalT8Th47b-WswHm4jB6G9RqTawQl2NafqlyzvlxlGc62GA1zACuww4lzyQ-6xu03Wg7dGnEXrCKpOhFASurib2PzrotjnGa98t-afQvKzPy4WmJ-roPIBKT7QrMnBhtfWY1umbcQnXVJuwbW-ftJp4n73qt4wv4PkjAl4fsMpIMHG_c-ZXhNACzZ1nHeaYjk0TRnUA1ZULeGV9oHb3oesO=w877-h432-s-no?authuser=0")
-       st.write(
+        imageT2 = Image.open('Resource/image/Titri/p2.png')
+        st.image(imageT2)
+        st.write(
           """
        **Indikator asam-basa berubah warna bila pH lingkungannya berubah**
             
@@ -1650,7 +1652,8 @@ pOH = -log [OH-]
 
 pH + pOH = 14
 """)
-       st.image("https://lh3.googleusercontent.com/roXwdCOX43e3O7XyWrvI6ahfEK0cQKvStTLquj3ynKX7zKHj8DWDRe9RddxQLpn4oajpatEUDT25pNiaBuyKKB_DVseLyYYoNA3K8RHyqVnVUXN3GKiPoA8unRfFjm-6bTLYkEEzBvzz5ZWpyKPLdQW2I3sUSrPdALbHxKvfqMjHJy1_XfyT7eFL3_GG5684yZvksKCG9MZ5d86BKGvrTsPpCJb3xJq7Re29ZvGScLl2Og-GWI2igtzxwfH-ySms4JrgmXHFcLyIIiSMVBRVDuUzzIMShuMi7XZRB92JXg2Flxx9czBryORUzv3naNusu0PGrPjcYKZJACykiq0_SOMMP-YHXAeLcvoRjZ_4oFzM0zhlvsLAKdMvX1PUhR4I5lvLD3auBQBdPHw-wyaASjfhOXs2vjUvOZC6YVtgBDeovZ88OTWOrGQpqY92FDhqCj5OpkOpEOGS7caZ93v_5x47HkZI3KeRIVdwAi9jRNSf4u33Qa7rZqopaJrxU_eR78BG4w6_q1L2ABeZjRXNgEpPgEtvjDGCzVTo6Oa46sb70b2V5Lee0D5dBGne8xohk1QTTD28eOPhG-pXONoJ9ADr6SxYUYwG70ck9iNG4zB8nlYevGaDZ-wYytYXbtZMvSjXP63zzN2ofhdXeKCIrQXiw1ruLQRGLfmNsG3L-J6CgFGiawldfQhWquyzlnBgTh5_npodkWh60kEKEbywOMIRC6bnCHDa2YNuPXOaYTHxU_tcE33TnoY0mRdAwc0DnRpY3EH7f0DiRfjlv5e56Ci7nlqOK6ABg16yXwT9yz7xp_03oqbf5aZNaOoNqyRc_jP_A3LTCrZIn-votl8mHGzWGQLUymM2vKPX8PnYi9flxWybbtW1SXwkaxueFWLU-82tF0_c75OQypayDPL3WpOSqxtZVy8ep2KLNDhEl4Wr=w984-h610-s-no?authuser=0")
+       imageT3 = Image.open('Resource/image/Titri/p3.jpg')
+       st.image(imageT3)
        st.divider()   
        st.caption("Download Materi")
        st.write("Google Drive: [link](https://drive.google.com/file/d/1oWHdhSU_rpCO_-XOCrIEZ84tSreacxH-/view?usp=sharing)")
@@ -1714,7 +1717,7 @@ Reaksi
        st.image(imageT3)
        imageT4 = Image.open('Resource/image/Titri/As4.png')
        st.image(imageT4)
-       st.write(" ")
+       st.divider()
        st.caption("Download Materi")
        st.write("Google Drive: [link](https://drive.google.com/file/d/1pyJ7HgQ854Ar92zpA7U02gs10UypZyFh/view?usp=sharing)")    
     
@@ -1772,7 +1775,7 @@ Menghitung kadar analit:
        st.image(imageT3)
        imageT4 = Image.open('Resource/image/Titri/analit1.png')
        st.image(imageT4)
-       st.write(" ")
+       st.divider()
        st.caption("Download Materi")
        st.write("Google Drive: [link](https://drive.google.com/file/d/14SEvQRrbUxfo1-gzSeEAESPDNSpAVAOd/view?usp=sharing)")
 
@@ -1807,7 +1810,7 @@ Selain itu, Alexander Oparin pada tahun 1924 juga menyatakan bahwa kehidupan di 
             
             SOLOMONS, T. W. G., C. B. FRYHLE, & S. A. SNYDER. 2008. _Organic Chemistry_. Edisi ke-12. John Wiley & Sons, Inc. Hoboken.
             """)
-        st.write(" ")
+        st.divider()
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/1HkxDojpo7XzYukO5ALVDAE9_5FtR4nGB/view?usp=sharing)")
         
@@ -1885,7 +1888,7 @@ Aturan-aturan pemberian nama sikloalkana bercabang menurut sistem IUPAC:
             
             SOLOMONS, T. W. G., C. B. FRYHLE, & S. A. SNYDER. 2008. _Organic Chemistry_. Edisi ke-12. John Wiley & Sons, Inc. Hoboken.
             """)
-        st.write(" ")
+        st.divider()
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/1eyxBoTTdDbhp84Ae_aRKHMt57B-5iyc1/view?usp=sharing)")
         
@@ -1893,8 +1896,7 @@ Aturan-aturan pemberian nama sikloalkana bercabang menurut sistem IUPAC:
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Alkena</h2>", unsafe_allow_html=True)
         st.write(
             """
-            Alkena adalah hidrokarbon tak jenuh dengan sebuah ikatan rangkap dua selang atom karbon. 
-Rumus umum: CnH2n
+Alkena adalah hidrokarbon tak jenuh dengan sebuah ikatan rangkap dua selang atom karbon. Rumus umum: CnH2n
 
 Penamaan Alkena:
 
@@ -1923,7 +1925,7 @@ Pembuatan:
         st.image(imageKO2)
         st.write(
             """
-            Notasi Cis-Trans:
+Notasi Cis-Trans:
             
 Jika 2 atom karbon alkena mempunyai 2 gugus yang sejenis, maka notasi cis-trans mampu dipakai. Jika gugus sejenis terletak pada tempat yang sama dari ikatan rangkap, maka dinamakan sebagai (cis-). Jika gugus sejenis terletak berseberangan, maka dinamakan sebagai (trans-).
             """)
@@ -1937,11 +1939,11 @@ Jika 2 atom karbon alkena mempunyai 2 gugus yang sejenis, maka notasi cis-trans 
 -Penamaan Alkuna:
 1.	Tatanama IUPAC
 
-Nama sistematis alkuna menurut sistem IUPAC diperoleh dengan mengganti akhiran –ana pada alkana dengan akhiran –una.
+    Nama sistematis alkuna menurut sistem IUPAC diperoleh dengan mengganti akhiran –ana pada alkana dengan akhiran –una.
 
 2.	Tatanama umum (trivial)
 
-Dalam tatanama umum, alkuna diberi nama sebagai asetilena tersubtitusi.
+    Dalam tatanama umum, alkuna diberi nama sebagai asetilena tersubtitusi.
             """)
         imageKO4 = Image.open('Resource/image/Kimor/Penamaan_alkuna.png')
         st.image(imageKO4)
@@ -1965,7 +1967,7 @@ Reaksi penting:
         st.write("Pembuatan: Dehidrohalogenasi Alkil Dihalida")
         imageKO7 = Image.open('Resource/image/Kimor/Pembuatan_alkuna.png')
         st.image(imageKO7)
-        st.write(" ")
+        st.divider()
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/1eAMRVME-3UA3idZkBo7D82KzdFy1mBwz/view?usp=sharing)")
 
@@ -2020,7 +2022,7 @@ Sepasang enantiomer mempunyai konfigurasi yang berlawanan. R = rectus = kanan, S
             """)
         imageKO3 = Image.open('Resource/image/Kimor/Kiral2.jpg')
         st.image(imageKO3,caption = "Sumber: http://sheirafirdarumanda.blogspot.com/")
-        st.write(" ")
+        st.divider()
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/1DHyKfG6cJtlf0dWUCjw7rdpX8TVVWEXr/view?usp=sharing)")
         
@@ -2136,7 +2138,7 @@ Penamaan Fenol
         st.write("2.	Reaksi Asam Benzena Sulfonat dengan NaOH")
         imageKO4 = Image.open('Resource/image/Kimor/Fenol3.png')
         st.image(imageKO4)
-        st.write(" ")
+        st.divider()
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/1mK9VBN1iuqjvNX6haqzDzf1z1wcbC5kg/view?usp=sharing)")
         
@@ -2169,7 +2171,7 @@ difraksi sinar-X dapat digunakan untuk menganalisis struktur kristal dari zat ki
 mikroskop fluoresensi dapat digunakan untuk melihat reaksi kimia dalam sel hidup
 Dengan demikian, ilmu fisika sangat penting dalam kimia analitik karena memberikan dasar teoritis dan teknis bagi banyak teknik dan metode analitik.
             """)
-        st.write(" ")
+        st.divider()
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/17XoRu0y5Y6ZHuz2M8eB7ZVdY-pgw0dCu/view?usp=sharing)")
     
@@ -2260,7 +2262,7 @@ di mana s adalah jarak yang ditempuh oleh benda, v₀ adalah kecepatan awal bend
 Contoh GLBB yang umum adalah gerakan benda yang dilempar ke atas dan kemudian jatuh kembali ke bumi. Pada awal gerakan, kecepatan benda adalah nol. Namun, setelah dilempar, benda mengalami percepatan gravitasi yang konstan sehingga kecepatannya
 bertambah secara bertahap. Pada titik tertinggi, kecepatan benda kembali menjadi nol, kemudian benda jatuh kembali ke bumi dengan percepatan gravitasi yang sama.
             """)
-        st.write(" ")
+        st.divider()
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/11tbMk4wxWioI_p1aF2ij5TtV32Mph1tp/view?usp=sharing)")  
         
@@ -2342,7 +2344,7 @@ Ek1 = energi kinetik awal (dalam satuan Joule)
 
 Ek2 = energi kinetik akhir (dalam satuan Joule)
            """)
-        st.write(" ")
+        st.divider()
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/19TwtmnRsHhn8bifjGkxOjqw5Zh7z784z/view?usp=sharing)") 
         
@@ -2406,7 +2408,7 @@ menggunakan persamaan:
 
     I = arus listrik (dalam satuan ampere)
        """)
-        st.write(" ")
+        st.divider()
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/1r3e1OAf1KwQy-4gt__HA8BmamnZ4DUZQ/view?usp=sharing)")
                
@@ -2493,6 +2495,6 @@ benda yang memiliki suhu di atas nol mutlak akan memancarkan energi dalam bentuk
 
    Ketiga mode transfer panas ini sering kali terjadi bersamaan dalam suatu sistem dan saling mempengaruhi. Penting untuk memahami prinsip-prinsip dasar ketiga mode transfer panas ini untuk dapat menerapkan teknik-teknik pengaturan suhu yang efektif pada berbagai aplikasi teknik dan industri.
            """)
-        st.write(" ")
+        st.divider()
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/1Rkn5h8GRh9y2uD93MNEURd3rTxDxl3EU/view?usp=sharing)")
