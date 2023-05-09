@@ -39,7 +39,7 @@ elif opsi3:
         
         **1.	Materi**
         
-        Di halaman materi yang diberi nama "Gaia Library" ini isinya materi-materi mata kuliah kimia dasar, analisis jenis, titrimetri, kimia organik, dan kimia dasar
+        Di halaman materi yang diberi nama "Gaia Library" ini isinya materi-materi mata kuliah kimia dasar, analisis jenis, titrimetri, kimia organik, dan kimia dasar.
         """)
     imageF1 = Image.open('Resource/image/Main/Materi1.png')
     st.image(imageF1)
@@ -47,7 +47,7 @@ elif opsi3:
         """
         **2.	Quiz**
         
-        Di halaman bernama "Chemio Test" ini Kakak bisa mencoba mengerjakan soal-soal untuk mengasah kemampuan dan pemahaman kakak terhadap materi-materi yang sudah dipelajari
+        Di halaman bernama "Chemio Test" ini Kakak bisa mencoba mengerjakan soal-soal untuk mengasah kemampuan dan pemahaman kakak terhadap materi-materi yang sudah dipelajari.
         """)
     imageF2 = Image.open('Resource/image/Main/Quiz.png')
     st.image(imageF2)
@@ -55,7 +55,7 @@ elif opsi3:
         """
         **3.	Kalkulator**
         
-        Nah, di halaman "Calchemio" ini kakak bisa dengan mudah menghitung molalitas, molaritas, % kadar, normalitas, PPM, dan PPB sesuai dengan data yang dimiliki
+        Nah, di halaman "Calchemio" ini kakak bisa dengan mudah menghitung molalitas, molaritas, % kadar, normalitas, PPM, dan PPB sesuai dengan data yang dimiliki.
         """)
     imageF3 = Image.open('Resource/image/Main/Kalkulator.png')
     st.image(imageF3)
@@ -63,7 +63,7 @@ elif opsi3:
         """
         **4.	Intermezzo**
         
-        Di sini kakak bisa membaca info-info menarik tentang unsur-unsur kimia untuk mengisi waktu luang kakak
+        Di sini kakak bisa membaca info-info menarik tentang unsur-unsur kimia untuk mengisi waktu luang kakak.
         """)
     imageF4 = Image.open('Resource/image/Main/Intermezzo.png')
     st.image(imageF4)
@@ -80,7 +80,7 @@ elif opsi4:
     st.image(image2)
     st.write("Kakak langsung isi aja nama, email, dan keluhan kakak di kotak yang udah disediain. Good luck kak!")
 elif opsi5:
-    st.write("Wah, boleh banget kak")
+    st.write("Wah, ayo ayo sini kak!")
     image1 = Image.open('Resource/image/Main/About_Us.png')
     st.image(image1)
     st.write("Nah, dari sini kakak bisa ngehubungin langsung email dan instagramnya. Aku titip salam buat mereka ya kak!!")
