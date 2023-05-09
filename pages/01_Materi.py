@@ -1160,7 +1160,7 @@ Reaksi Tiosianat:
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Identifikasi Produk yang mudah menguap</h2>", unsafe_allow_html=True)
         st.write(
             """
-            Gas yang dilepaskan dengan HCl atau H2SO4 encer : (karbonat, bikarbonat, sulfit, tiosulfat, sulfida, nitrit, hipoklorit, sianida, dan sianat) Gas atau uap asam yang dilepaskan dengan H2SO4 pekat : (fluorida, heksafluorosilikat, klorida, bromida, iodida, klorat, perklorat, permanganat, bromat, borat, heksasianoferat (II), heksasianoferat (III), tiosianat, format, asetat, oksalat, tartrat dan sitrat)
+Gas yang dilepaskan dengan HCl atau H2SO4 encer : (karbonat, bikarbonat, sulfit, tiosulfat, sulfida, nitrit, hipoklorit, sianida, dan sianat) Gas atau uap asam yang dilepaskan dengan H2SO4 pekat : (fluorida, heksafluorosilikat, klorida, bromida, iodida, klorat, perklorat, permanganat, bromat, borat, heksasianoferat (II), heksasianoferat (III), tiosianat, format, asetat, oksalat, tartrat dan sitrat)
 
 Contoh Reaksi anion karbonat (CO32-) dari larutan garam natrium karbonat penta hidrat (Na2CO3.10H2O) dengan HCl encer:
 
@@ -1181,11 +1181,13 @@ Contoh Reaksi anion sulfit (SO32-) dari larutan garam natrium sulfit hepta hidra
 Identifikasi dilihat dari :
 - Bau belerang terbakar yang menyesakkan nafas
 - Warna hijau (terbentuk dari ion Cr3+ yang dihasilkan jika sehelai kertas saring yang telah dibasahi larutan K2Cr2O7 yang telah diasamkan,dipegang diatas mulut tabung reaksi.
-
+            """)
+        st.markdown(
+            """
 Daftar Pustaka:
             
-Svehla,G.1990.Buku Teks Analisis Anorganik Kualitatif Makro dan Semimikro.Jakarta: PT. Kalman Media Pustaka      
-""")
+Svehla,G.1990._Buku Teks Analisis Anorganik Kualitatif Makro dan Semimikro_. Jakarta: PT. Kalman Media Pustaka
+            """)
         st.divider()
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/1HJm0txtr--xvcj2rKRQ9bOhwIgSabtu0/view?usp=sharing)")
@@ -1240,7 +1242,7 @@ Svehla,G.1990.Buku Teks Analisis Anorganik Kualitatif Makro dan Semimikro.Jakart
 •	Corong
 
 •	Bulp
-""")
+            """)
         st.divider()
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/12ZVIMB3NRyBopmbTfveV_GPcmlg4wltK/view?usp=sharing)")
@@ -1340,9 +1342,9 @@ analit direaksikan dengan pereaksi berlebih. Dan kelebihan pereaksi di titrasi
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Iodometri</h2>", unsafe_allow_html=True)
         st.write(
           """
-       **Iodometri (titrasi tidak langsung)**
+**Iodometri (titrasi tidak langsung)**
        
-       Analit → Oksidator (KIO3, K2Cr2O7)
+Analit → Oksidator (KIO3, K2Cr2O7)
        
        Oks(analit) + KI ⇋ I2 + Red(analit)
        
@@ -1364,15 +1366,15 @@ Reaksi unik karena oksidator lain tidak mengubah S2O3^2- menjadi S4O6^2- melaink
        
 • Lenyapnya warna I2 (coklat tua - kuning - biru tua - bening)
        
-  Amilum + I2 membentuk kompleks berwarna biru tua, sangat jelas walaupun I2 sedikit sekali
+Amilum + I2 membentuk kompleks berwarna biru tua, sangat jelas walaupun I2 sedikit sekali
        
-  Titik akhir : iod yang terikat dengan amilum itu pun hilang bereaksi dengan titran (S2O3^2-) sehingga warna biru hilang
+Titik akhir : iod yang terikat dengan amilum itu pun hilang bereaksi dengan titran (S2O3^2-) sehingga warna biru hilang
        
-  Titran Na2S2O3 yang digunakan dari garam pentahidrat (Na2S2O3.5H2O)
+Titran Na2S2O3 yang digunakan dari garam pentahidrat (Na2S2O3.5H2O)
        
-  Larutan stabil pada pH 9 dan 10 untuk meminimalkan bakteri yang dapat menguraikan S2O3^2- menjadi SO3^2- , SO4^2-, dan S↓
+Larutan stabil pada pH 9 dan 10 untuk meminimalkan bakteri yang dapat menguraikan S2O3^2- menjadi SO3^2- , SO4^2-, dan S↓
         
-  Titik akhir : iod yang terikat dengan amilum itu pun hilang bereaksi dengan titran (S2O3^2-) sehingga warna biru hilang
+Titik akhir : iod yang terikat dengan amilum itu pun hilang bereaksi dengan titran (S2O3^2-) sehingga warna biru hilang
 
 **Kesalahan titrasi**
 1.	Kesalahan Oksigen
@@ -1398,7 +1400,7 @@ Reaksi unik karena oksidator lain tidak mengubah S2O3^2- menjadi S4O6^2- melaink
 Dalam titrasi iodometri, BE suatu zat dihitung dari banyaknya jumlah atom I, bukan jumlah ion I-
 
               BE= BM/n atom I
-""")
+          """)
         st.divider()
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/1Na45lGPHtPrXJv_eBD_YdtgKTLBOG9SG/view?usp=sharing)")
@@ -1504,7 +1506,7 @@ Titrasi yang melibatkan reaksi reduksi dan oksidasi antara titran dan titrat hin
        imageT1 = Image.open('Resource/image/Titri/KMnO4.png')
        st.image(imageT1)       
        st.write(
-       """  
+           """
     **Kesalahan titrasi**
 1.	Kesalahan Positif
 
@@ -1579,7 +1581,7 @@ Ti (III), Fe(II), Na2S2O3
 2. Fe (II) mudah teroksidasi oleh udara dalam larutan netral, sehingga larutan harus dalam suasana asam 
 
 3. Na2S2O3 iodometri (titrasi tidak langsung)
-""")
+           """)
        st.divider()
        st.caption("Download Materi")
        st.write("Google Drive: [link](https://drive.google.com/file/d/1dXmGHm_zCBy7CtaNNObd2rK2vm4wOjYx/view?usp=sharing)")
