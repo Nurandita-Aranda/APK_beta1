@@ -1054,7 +1054,7 @@ Pengamatan dalam uji kering meliputi
 3.	Uji Pipa Tiup
 
     Uji pipa tiup bertujuan untuk membebaskan logam tertentu dari sampel tertentu yang memiliki warna yang khas
-""")
+            """)
         imageAnjen3 = Image.open('Resource/image/Anjen/Pipa_tiup.jpeg')
         st.image(imageAnjen3) 
         st.write(
