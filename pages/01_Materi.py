@@ -1188,7 +1188,6 @@ Daftar Pustaka:
             
 Svehla,G.1990._Buku Teks Analisis Anorganik Kualitatif Makro dan Semimikro_. Jakarta: PT. Kalman Media Pustaka
             """)
-        st.divider()
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/1HJm0txtr--xvcj2rKRQ9bOhwIgSabtu0/view?usp=sharing)")
         
