@@ -109,7 +109,7 @@ Diki. 2022. 5 Teori Atom Menurut Para Ahli. https://dosenpintar.com/5-teori-atom
 
 L,Admin. 2015. Kelebihan dan Kelemahan Model Atom. https://www.markijar.com/2015/05/kelebihan-dan-kelemahan-model-atom.html.
             """)
-        st.divider()
+        st.write("---")
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/1Slheotw7HAcpZ-uEzV7PkO1ingI3lATo/view?usp=sharing)")
 
@@ -164,7 +164,7 @@ M = n/V
             
             SEO Management. 2022. Stoikiometri Adalah : Pengertian, Rumus, Hukum dam Contoh soal. https://www.sampoernaacademy.sch.id/id/stoikiometri-adalah/
             """)
-        st.divider()
+        st.write("---")
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/17M05OfuolzThRbny0_0BwD1OPp8EfEto/view?usp=sharing)")
         
@@ -272,7 +272,7 @@ Sifat Senyawa Logam :
 5.	Mempunyai permukaan yang mengkilap.
 6.	Memberi efek foto listrik dan Efek Termionik.
             """)
-        st.divider()
+        st.write("---")
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/1sYRNmfqYGGh6gZio8N5-I-Wo_14qt55w/view?usp=sharing)")        
         
@@ -401,7 +401,7 @@ dengan tekanan atmosfer luar. Kenaikan titik didih didefinisikan sebagai berikut
 
     i : jumlah partikel sebenarnya dalam larutan setelah penguraian/jumlah satuan rumus yang semua terlarut dalam larutan
               """)
-        st.divider()
+        st.write("---")
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/18k2U9tA8Ll8BiGVaDnlz2r8tUvDf7yOA/view?usp=sharing)")
         
@@ -481,7 +481,7 @@ Namun demikian, dengan kehadiran katalis, konstanta laju disebut konstanta laju 
 
 Laju berkatalis > laju tak berkatalis
            """)
-        st.divider()
+        st.write("---")
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/1yCUxo1nupeJQ4O6G9a00jCIXYmD-O_OP/view?usp=sharing)")
         
@@ -527,7 +527,7 @@ F. Faktor yang mempengaruhi Kesetimbangan Kimia.
 4.	Perubahan suhu 
 5.	Pengaruh katalis
         """)
-        st.divider()
+        st.write("---")
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/1fmK3R44BinpR9AvTBAwP2Gn8rBYCZ41o/view?usp=sharing)")
         
@@ -617,12 +617,10 @@ H. Sifat Asam Basa dari Garam
 4.	Hidrolis ion logam
 5.	Garam yang kation dan anion nya terhidrolisis.
         """)
-        st.divider()
+        st.write("---")
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/1xzEM_sGSkXiZ7E8GhEnm-FFQxeXp3lmL/view?usp=sharing)")
-
-
-            
+         
 
             
             
@@ -763,7 +761,7 @@ nona(9), deka(10), dst....
 
     FeCl3 = Ferri klorida atau besi (III) klorida
             """)
-        st.divider()
+        st.write("---")
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/1nNtSU-ZxXD4xd_w0tBYA09KwL6vMIht3/view?usp=sharing)")
         
@@ -938,7 +936,7 @@ Da lopez, Yos F. 2017. Konsentrasi Larutan dalam Satuan Kimia. Nusa Tenggara Tim
 
 Wardaya, Anton. 2014. Modul, Rumus, & Soal Hukum Proust (Hukum Perbandingan Tetap). Jakarta Barat: wardayacollege
 """)
-        st.divider()
+        st.write("---")
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/1YEEzMSlhS6j2v2EYRyXd5JQHVOsrZ_zD/view?usp=sharing)")
 
@@ -1084,14 +1082,14 @@ Prosedur Kerja
 """)
         imageAnjen6 = Image.open('Resource/image/Anjen/Warna_boraks.png')
         st.image(imageAnjen6)
+        st.write("---")
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/1ScSsWu9PxEWEXU6g3RbpDOOg7V_5-fhF/view?usp=sharing)")
         
     if optionanjen == "Pemisahan Anion Golongan I-V":
         st.markdown("<h2 style='text-align: center; color: raisin black;'>Pemisahan Anion Golongan I-V</h2>", unsafe_allow_html=True)
         st.write("Klasifikasi anion ini adalah salah satu contoh pengelompokan anion yang dibagi berdasarkan reaksinya dengan asam klorida encer (HCl(aq) ) dan perbedaan kelarutannya sebagai garam barium dan perak. Empat golongan anion dan karakteristiknya adalah sebagai berikut:")
-        st.markdown("<h2 style='text-align: center; color: raisin black;'>Anion Golongan I</h2>", unsafe_allow_html=True)
-        
+        st.markdown("<h2 style='text-align: center; color: raisin black;'>Anion Golongan I</h2>", unsafe_allow_html=True)  
         st.write(
             """
             Anion golongan ini bereaksi dengan HCl(aq) menghasilkan gas atau endapan, yaitu karbonat, silikat, sulfida, sulfit, dan tiosulfat
@@ -1188,6 +1186,7 @@ Daftar Pustaka:
             
 Svehla,G.1990._Buku Teks Analisis Anorganik Kualitatif Makro dan Semimikro_. Jakarta: PT. Kalman Media Pustaka
             """)
+        st.write("---")
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/1HJm0txtr--xvcj2rKRQ9bOhwIgSabtu0/view?usp=sharing)")
         
@@ -1242,7 +1241,7 @@ Svehla,G.1990._Buku Teks Analisis Anorganik Kualitatif Makro dan Semimikro_. Jak
 
 •	Bulp
             """)
-        st.divider()
+        st.write("---")
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/12ZVIMB3NRyBopmbTfveV_GPcmlg4wltK/view?usp=sharing)")
         
@@ -1333,7 +1332,7 @@ analit direaksikan dengan suatu pereaksi ,kemudian hasil reaksi di titrasi (anal
 3.	Titrasi balik /titrasi kembali ( _back titration_ ), 
 analit direaksikan dengan pereaksi berlebih. Dan kelebihan pereaksi di titrasi
             """)
-        st.divider()
+        st.write("---")
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/1vNo_GQjerR3Bm_57VGHPAJMYzWoPf7Ud/view?usp=sharing)")          
         
@@ -1400,7 +1399,7 @@ Dalam titrasi iodometri, BE suatu zat dihitung dari banyaknya jumlah atom I, buk
 
               BE= BM/n atom I
           """)
-        st.divider()
+        st.write("---")
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/1Na45lGPHtPrXJv_eBD_YdtgKTLBOG9SG/view?usp=sharing)")
 
@@ -1581,7 +1580,7 @@ Ti (III), Fe(II), Na2S2O3
 
 3. Na2S2O3 iodometri (titrasi tidak langsung)
            """)
-       st.divider()
+       st.write("---")
        st.caption("Download Materi")
        st.write("Google Drive: [link](https://drive.google.com/file/d/1dXmGHm_zCBy7CtaNNObd2rK2vm4wOjYx/view?usp=sharing)")
       
@@ -1655,7 +1654,7 @@ pH + pOH = 14
 """)
        imageT3 = Image.open('Resource/image/Titri/p3.jpg')
        st.image(imageT3)
-       st.divider()   
+       st.write("---")   
        st.caption("Download Materi")
        st.write("Google Drive: [link](https://drive.google.com/file/d/1oWHdhSU_rpCO_-XOCrIEZ84tSreacxH-/view?usp=sharing)")
     
@@ -1718,7 +1717,7 @@ Reaksi
        st.image(imageT3)
        imageT4 = Image.open('Resource/image/Titri/As4.png')
        st.image(imageT4)
-       st.divider()
+       st.write("---")
        st.caption("Download Materi")
        st.write("Google Drive: [link](https://drive.google.com/file/d/1pyJ7HgQ854Ar92zpA7U02gs10UypZyFh/view?usp=sharing)")    
     
@@ -1776,7 +1775,7 @@ Menghitung kadar analit:
        st.image(imageT3)
        imageT4 = Image.open('Resource/image/Titri/analit1.png')
        st.image(imageT4)
-       st.divider()
+       st.write("---")
        st.caption("Download Materi")
        st.write("Google Drive: [link](https://drive.google.com/file/d/14SEvQRrbUxfo1-gzSeEAESPDNSpAVAOd/view?usp=sharing)")
 
@@ -1811,7 +1810,7 @@ Selain itu, Alexander Oparin pada tahun 1924 juga menyatakan bahwa kehidupan di 
             
             SOLOMONS, T. W. G., C. B. FRYHLE, & S. A. SNYDER. 2008. _Organic Chemistry_. Edisi ke-12. John Wiley & Sons, Inc. Hoboken.
             """)
-        st.divider()
+        st.write("---")
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/1HkxDojpo7XzYukO5ALVDAE9_5FtR4nGB/view?usp=sharing)")
         
@@ -1889,7 +1888,7 @@ Aturan-aturan pemberian nama sikloalkana bercabang menurut sistem IUPAC:
             
             SOLOMONS, T. W. G., C. B. FRYHLE, & S. A. SNYDER. 2008. _Organic Chemistry_. Edisi ke-12. John Wiley & Sons, Inc. Hoboken.
             """)
-        st.divider()
+        st.write("---")
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/1eyxBoTTdDbhp84Ae_aRKHMt57B-5iyc1/view?usp=sharing)")
         
@@ -1968,7 +1967,7 @@ Reaksi penting:
         st.write("Pembuatan: Dehidrohalogenasi Alkil Dihalida")
         imageKO7 = Image.open('Resource/image/Kimor/Pembuatan_alkuna.png')
         st.image(imageKO7)
-        st.divider()
+        st.write("---")
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/1eAMRVME-3UA3idZkBo7D82KzdFy1mBwz/view?usp=sharing)")
 
@@ -2023,7 +2022,7 @@ Sepasang enantiomer mempunyai konfigurasi yang berlawanan. R = rectus = kanan, S
             """)
         imageKO3 = Image.open('Resource/image/Kimor/Kiral2.jpg')
         st.image(imageKO3,caption = "Sumber: http://sheirafirdarumanda.blogspot.com/")
-        st.divider()
+        st.write("---")
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/1DHyKfG6cJtlf0dWUCjw7rdpX8TVVWEXr/view?usp=sharing)")
         
@@ -2081,7 +2080,7 @@ Jika ada 2 gugus substituen, penamaan diberikan dengan nomor atau awalan orto (o
             
 Distilasi tar batu bara (_coal-tar_): distilasi fraksi _light oil_ yang mengandung benzena dan toluena 
             """)
-        st.write(" ")
+        st.write("---")
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/1ZdXOtY3lRtCsXLTEcNpiVvuiyGmea_Ct/view?usp=sharing)")
         
@@ -2139,7 +2138,7 @@ Penamaan Fenol
         st.write("2.	Reaksi Asam Benzena Sulfonat dengan NaOH")
         imageKO4 = Image.open('Resource/image/Kimor/Fenol3.png')
         st.image(imageKO4)
-        st.divider()
+        st.write("---")
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/1mK9VBN1iuqjvNX6haqzDzf1z1wcbC5kg/view?usp=sharing)")
         
@@ -2172,7 +2171,7 @@ difraksi sinar-X dapat digunakan untuk menganalisis struktur kristal dari zat ki
 mikroskop fluoresensi dapat digunakan untuk melihat reaksi kimia dalam sel hidup
 Dengan demikian, ilmu fisika sangat penting dalam kimia analitik karena memberikan dasar teoritis dan teknis bagi banyak teknik dan metode analitik.
             """)
-        st.divider()
+        st.write("---")
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/17XoRu0y5Y6ZHuz2M8eB7ZVdY-pgw0dCu/view?usp=sharing)")
     
@@ -2263,7 +2262,7 @@ di mana s adalah jarak yang ditempuh oleh benda, v₀ adalah kecepatan awal bend
 Contoh GLBB yang umum adalah gerakan benda yang dilempar ke atas dan kemudian jatuh kembali ke bumi. Pada awal gerakan, kecepatan benda adalah nol. Namun, setelah dilempar, benda mengalami percepatan gravitasi yang konstan sehingga kecepatannya
 bertambah secara bertahap. Pada titik tertinggi, kecepatan benda kembali menjadi nol, kemudian benda jatuh kembali ke bumi dengan percepatan gravitasi yang sama.
             """)
-        st.divider()
+        st.write("---")
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/11tbMk4wxWioI_p1aF2ij5TtV32Mph1tp/view?usp=sharing)")  
         
@@ -2345,7 +2344,7 @@ Ek1 = energi kinetik awal (dalam satuan Joule)
 
 Ek2 = energi kinetik akhir (dalam satuan Joule)
            """)
-        st.divider()
+        st.write("---")
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/19TwtmnRsHhn8bifjGkxOjqw5Zh7z784z/view?usp=sharing)") 
         
@@ -2409,7 +2408,7 @@ menggunakan persamaan:
 
     I = arus listrik (dalam satuan ampere)
        """)
-        st.divider()
+        st.write("---")
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/1r3e1OAf1KwQy-4gt__HA8BmamnZ4DUZQ/view?usp=sharing)")
                
@@ -2496,6 +2495,6 @@ benda yang memiliki suhu di atas nol mutlak akan memancarkan energi dalam bentuk
 
    Ketiga mode transfer panas ini sering kali terjadi bersamaan dalam suatu sistem dan saling mempengaruhi. Penting untuk memahami prinsip-prinsip dasar ketiga mode transfer panas ini untuk dapat menerapkan teknik-teknik pengaturan suhu yang efektif pada berbagai aplikasi teknik dan industri.
            """)
-        st.divider()
+        st.write("---")
         st.caption("Download Materi")
         st.write("Google Drive: [link](https://drive.google.com/file/d/1Rkn5h8GRh9y2uD93MNEURd3rTxDxl3EU/view?usp=sharing)")
